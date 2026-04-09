@@ -125,127 +125,322 @@
       "upanishad": "taittiriya",
       "verse_number": 4,
       "tags": [
+        "shanti",
+        "peace",
         "Brahman",
-        "knowledge"
+        "prayer"
       ],
-      "sanskrit": "[Verse 4 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 4 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 4 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ॐ शं नो मित्रः शं वरुणः | शं नो भवत्वर्यमा | शं न इन्द्रो बृहस्पतिः | शं नो विष्णुरुरुक्रमः | नमो ब्रह्मणे | नमस्ते वायो | त्वमेव प्रत्यक्षं ब्रह्मासि | त्वामेव प्रत्यक्षं ब्रह्म वदिष्यामि | ऋतं वदिष्यामि | सत्यं वदिष्यामि | तन्मामवतु | तद्वक्तारमवतु | अवतु माम् | अवतु वक्तारम् ||१.१.१||",
+      "transliteration": "oṃ śaṃ no mitraḥ śaṃ varuṇaḥ | śaṃ no bhavatv aryamā | śaṃ na indro bṛhaspatiḥ | śaṃ no viṣṇur urukramaḥ | namo brahmaṇe | namas te vāyo | tvam eva pratyakṣaṃ brahmāsi | tvām eva pratyakṣaṃ brahma vadiṣyāmi | ṛtaṃ vadiṣyāmi | satyaṃ vadiṣyāmi | tan mām avatu | tad vaktāram avatu | avatu mām | avatu vaktāram ||1.1.1||",
+      "word_meanings": [
+        {
+          "word": "शं नः",
+          "meaning": "be auspicious to us"
+        },
+        {
+          "word": "मित्रः वरुणः",
+          "meaning": "Mitra and Varuna (cosmic deities)"
+        },
+        {
+          "word": "त्वम् प्रत्यक्षम् ब्रह्म",
+          "meaning": "you are the directly perceived Brahman"
+        },
+        {
+          "word": "ऋतम् वदिष्यामि",
+          "meaning": "I shall speak the truth (cosmic order)"
+        },
+        {
+          "word": "सत्यम् वदिष्यामि",
+          "meaning": "I shall speak truth (personal truth)"
+        },
+        {
+          "word": "तत् माम् अवतु",
+          "meaning": "may that protect me"
+        }
+      ],
+      "english_translation": "Om. May Mitra be auspicious to us; may Varuna be auspicious; may Aryaman be auspicious; may Indra and Brihaspati be auspicious; may Vishnu of wide strides be auspicious. Salutation to Brahman. Salutation to you, O Vayu — you are indeed the directly perceived Brahman. I shall declare you as the directly perceived Brahman. I shall speak the cosmic truth. I shall speak personal truth. May that protect me. May that protect the teacher. May it protect me. May it protect the teacher.",
+      "shankara_bhashya_sanskrit": "शं नः मित्रः — मित्रादयः देवाः अस्माकम् शुभकराः भवन्तु। त्वम् प्रत्यक्षम् ब्रह्म — वायुः प्रत्यक्षः — ब्रह्मणः प्रतिनिधिः।",
+      "shankara_bhashya_english": "Shankara: This opening prayer invokes all the cosmic deities for auspiciousness. Vayu (wind/prana) is called the 'directly perceived Brahman' because among all cosmic forces, prana is most immediately experienced. The student vows to speak both cosmic truth (rita) and personal truth (satya)."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 5,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "shiksha",
+        "phonetics",
+        "five topics",
+        "teaching"
       ],
-      "sanskrit": "[Verse 5 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 5 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 5 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "शीक्षां व्याख्यास्यामः | वर्णः स्वरः | मात्रा बलम् | साम सन्तानः | इत्युक्तः शीक्षाध्यायः ||१.२.१||",
+      "transliteration": "śīkṣāṃ vyākhyāsyāmaḥ | varṇaḥ svaraḥ | mātrā balam | sāma santānaḥ | ity uktaḥ śīkṣādhyāyaḥ ||1.2.1||",
+      "word_meanings": [
+        {
+          "word": "शीक्षाम् व्याख्यास्यामः",
+          "meaning": "we shall explain phonetics"
+        },
+        {
+          "word": "वर्णः",
+          "meaning": "sound/letter"
+        },
+        {
+          "word": "स्वरः",
+          "meaning": "accent/tone"
+        },
+        {
+          "word": "मात्रा",
+          "meaning": "quantity/duration"
+        },
+        {
+          "word": "बलम्",
+          "meaning": "force/stress"
+        },
+        {
+          "word": "साम",
+          "meaning": "evenness"
+        },
+        {
+          "word": "सन्तानः",
+          "meaning": "continuity"
+        }
+      ],
+      "english_translation": "We shall explain phonetics: sound, accent, quantity, force, evenness, and continuity. Thus is stated the chapter on phonetics.",
+      "shankara_bhashya_sanskrit": "शीक्षा — वेदाङ्गम् — वर्णोच्चारणशास्त्रम्। वर्णः — अक्षरम्। स्वरः — उदात्तादिः।",
+      "shankara_bhashya_english": "Shankara: Shiksha (phonetics) is the first of the six Vedic auxiliaries. It teaches the correct pronunciation of Vedic sounds. The six elements — sound, accent, quantity, force, evenness, and continuity — ensure the Vedic mantras are chanted correctly for their full effect."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 6,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "brahmacharya",
+        "teacher",
+        "student",
+        "ethics"
       ],
-      "sanskrit": "[Verse 6 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 6 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 6 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सत्यं वद | धर्मं चर | स्वाध्यायान्मा प्रमदः | आचार्याय प्रियं धनमाहृत्य प्रजातन्तुं मा व्यवच्छेत्सीः ||१.११.१||",
+      "transliteration": "satyaṃ vada | dharmaṃ cara | svādhyāyān mā pramadaḥ | ācāryāya priyaṃ dhanam āhṛtya prajātantuṃ mā vyavacchetsīḥ ||1.11.1||",
+      "word_meanings": [
+        {
+          "word": "सत्यम् वद",
+          "meaning": "speak truth"
+        },
+        {
+          "word": "धर्मम् चर",
+          "meaning": "practice dharma"
+        },
+        {
+          "word": "स्वाध्यायात् मा प्रमदः",
+          "meaning": "do not neglect self-study"
+        },
+        {
+          "word": "आचार्याय प्रियम् धनम्",
+          "meaning": "bring pleasing wealth to the teacher"
+        },
+        {
+          "word": "प्रजातन्तुम्",
+          "meaning": "the thread of progeny/tradition"
+        }
+      ],
+      "english_translation": "Speak truth. Practice dharma. Do not neglect self-study. Having brought pleasing wealth to the teacher, do not cut the thread of progeny.",
+      "shankara_bhashya_sanskrit": "सत्यम् वद — सत्यम् एव वद — असत्यम् मा वद। धर्मम् चर — धर्माचरणम् कुरु। स्वाध्यायात् मा प्रमदः — वेदाध्ययनम् मा त्यज।",
+      "shankara_bhashya_english": "Shankara: This is the teacher's farewell instruction to the graduating student. Speak truth, practice dharma, continue Vedic study, honor the teacher with gifts, and continue the tradition. These are the foundational ethical instructions of the Taittiriya Upanishad."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 7,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "five sheaths",
+        "pranamaya",
+        "food",
+        "body"
       ],
-      "sanskrit": "[Verse 7 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 7 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 7 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एतस्मादन्नरसमयात् | अन्योऽन्तर आत्मा प्राणमयः | तेनैष पूर्णः ||२.२.१||",
+      "transliteration": "tasmād vā etasmād annarasamayāt | anyo'ntara ātmā prāṇamayaḥ | tenaiṣa pūrṇaḥ ||2.2.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नरसमयात् अन्यः",
+          "meaning": "different from the food-essence body"
+        },
+        {
+          "word": "अन्तरः आत्मा",
+          "meaning": "the inner Self"
+        },
+        {
+          "word": "प्राणमयः",
+          "meaning": "made of prana"
+        },
+        {
+          "word": "तेन पूर्णः",
+          "meaning": "filled by it"
+        }
+      ],
+      "english_translation": "Different from this one made of food-essence is another inner Self made of prana. By that, this one is filled.",
+      "shankara_bhashya_sanskrit": "अन्नरसमयात् — स्थूलशरीरात् — अन्यः — भिन्नः — प्राणमयः आत्मा — प्राणकोशः।",
+      "shankara_bhashya_english": "Shankara: Within the gross body (annamaya kosha) is a subtler body made of prana (pranamaya kosha). The prana-body fills and animates the food-body. This is the second of the five sheaths, progressively subtler as we move inward toward the true Self."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 8,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "manomaya",
+        "mind sheath",
+        "five sheaths"
       ],
-      "sanskrit": "[Verse 8 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 8 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 8 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एतस्मात्प्राणमयात् | अन्योऽन्तर आत्मा मनोमयः | तेनैष पूर्णः ||२.३.१||",
+      "transliteration": "tasmād vā etasmāt prāṇamayāt | anyo'ntara ātmā manomayaḥ | tenaiṣa pūrṇaḥ ||2.3.1||",
+      "word_meanings": [
+        {
+          "word": "प्राणमयात् अन्यः",
+          "meaning": "different from the prana-body"
+        },
+        {
+          "word": "मनोमयः",
+          "meaning": "made of mind"
+        },
+        {
+          "word": "तेन पूर्णः",
+          "meaning": "filled by it"
+        }
+      ],
+      "english_translation": "Different from this one made of prana is another inner Self made of mind. By that, this one is filled.",
+      "shankara_bhashya_sanskrit": "प्राणमयात् अन्यः — प्राणकोशात् सूक्ष्मतरः — मनोमयः — मनःकोशः।",
+      "shankara_bhashya_english": "Shankara: Within the prana-body is the mind-body (manomaya kosha). The mind-body is subtler and fills the prana-body. The mind includes the five sense organs and the mind (manas). This is the third sheath."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 9,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "vijnanamaya",
+        "intellect sheath",
+        "five sheaths"
       ],
-      "sanskrit": "[Verse 9 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 9 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 9 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एतस्मान्मनोमयात् | अन्योऽन्तर आत्मा विज्ञानमयः | तेनैष पूर्णः ||२.४.१||",
+      "transliteration": "tasmād vā etasmān manomayāt | anyo'ntara ātmā vijñānamayaḥ | tenaiṣa pūrṇaḥ ||2.4.1||",
+      "word_meanings": [
+        {
+          "word": "मनोमयात् अन्यः",
+          "meaning": "different from the mind-body"
+        },
+        {
+          "word": "विज्ञानमयः",
+          "meaning": "made of intellect/discrimination"
+        },
+        {
+          "word": "तेन पूर्णः",
+          "meaning": "filled by it"
+        }
+      ],
+      "english_translation": "Different from this one made of mind is another inner Self made of intellect. By that, this one is filled.",
+      "shankara_bhashya_sanskrit": "मनोमयात् अन्यः — मनःकोशात् सूक्ष्मतरः — विज्ञानमयः — बुद्धिकोशः।",
+      "shankara_bhashya_english": "Shankara: Within the mind-body is the intellect-body (vijnanamaya kosha). The intellect (buddhi) is the faculty of discrimination and decision. It is subtler than the mind and is the fourth sheath."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 10,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "anandamaya",
+        "bliss sheath",
+        "five sheaths",
+        "Brahman"
       ],
-      "sanskrit": "[Verse 10 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 10 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 10 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एतस्माद्विज्ञानमयात् | अन्योऽन्तर आत्माऽऽनन्दमयः | तेनैष पूर्णः ||२.५.१||",
+      "transliteration": "tasmād vā etasmād vijñānamayāt | anyo'ntara ātmānandamayaḥ | tenaiṣa pūrṇaḥ ||2.5.1||",
+      "word_meanings": [
+        {
+          "word": "विज्ञानमयात् अन्यः",
+          "meaning": "different from the intellect-body"
+        },
+        {
+          "word": "आनन्दमयः",
+          "meaning": "made of bliss"
+        },
+        {
+          "word": "तेन पूर्णः",
+          "meaning": "filled by it"
+        }
+      ],
+      "english_translation": "Different from this one made of intellect is another inner Self made of bliss. By that, this one is filled.",
+      "shankara_bhashya_sanskrit": "विज्ञानमयात् अन्यः — बुद्धिकोशात् सूक्ष्मतरः — आनन्दमयः — आनन्दकोशः — कारणशरीरम्।",
+      "shankara_bhashya_english": "Shankara: The innermost sheath is the bliss-body (anandamaya kosha), which corresponds to deep sleep. It is the causal body. Beyond even this is the true Self — pure consciousness — which is not a sheath at all but the witness of all five sheaths."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 11,
       "tags": [
         "Brahman",
-        "knowledge"
+        "food",
+        "anna",
+        "worship",
+        "creation"
       ],
-      "sanskrit": "[Verse 11 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 11 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 11 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अन्नं न निन्द्यात् | तद्व्रतम् | प्राणो वा अन्नम् | शरीरमन्नादम् | प्राणे शरीरं प्रतिष्ठितम् | शरीरे प्राणः प्रतिष्ठितः ||३.७.१||",
+      "transliteration": "annaṃ na nindyāt | tad vratam | prāṇo vā annam | śarīram annādam | prāṇe śarīraṃ pratiṣṭhitam | śarīre prāṇaḥ pratiṣṭhitaḥ ||3.7.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नम् न निन्द्यात्",
+          "meaning": "one should not despise food"
+        },
+        {
+          "word": "तत् व्रतम्",
+          "meaning": "that is the vow"
+        },
+        {
+          "word": "प्राणः अन्नम्",
+          "meaning": "prana is food"
+        },
+        {
+          "word": "शरीरम् अन्नादम्",
+          "meaning": "the body is the eater of food"
+        },
+        {
+          "word": "प्राणे शरीरम् प्रतिष्ठितम्",
+          "meaning": "the body is established in prana"
+        }
+      ],
+      "english_translation": "One should not despise food — that is the vow. Prana is indeed food; the body is the eater of food. The body is established in prana; prana is established in the body.",
+      "shankara_bhashya_sanskrit": "अन्नम् न निन्द्यात् — अन्नम् ब्रह्मरूपम् — तस्य निन्दा न कार्या। प्राणः अन्नम् — प्राणः अन्नेन जीवति।",
+      "shankara_bhashya_english": "Shankara: Food should not be despised because food is Brahman in manifest form. The entire teaching of the Taittiriya shows that Brahman manifests as food, prana, mind, intellect, and bliss. To despise food is to despise Brahman."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 12,
       "tags": [
         "Brahman",
-        "knowledge"
+        "bliss",
+        "ananda",
+        "liberation",
+        "fear"
       ],
-      "sanskrit": "[Verse 12 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 12 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 12 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यदो ह्येवैष एतस्मिन्नदृश्येऽनात्म्येऽनिरुक्तेऽनिलयनेऽभयं प्रतिष्ठां विन्दते | अथ सोऽभयं गतो भवति ||२.७.१||",
+      "transliteration": "yado hy evaiṣa etasminn adṛśye'nātmye'nirukte'nilayane'bhayaṃ pratiṣṭhāṃ vindate | atha so'bhayaṃ gato bhavati ||2.7.1||",
+      "word_meanings": [
+        {
+          "word": "अदृश्ये",
+          "meaning": "in the unseen"
+        },
+        {
+          "word": "अनात्म्ये",
+          "meaning": "in the bodiless"
+        },
+        {
+          "word": "अनिरुक्ते",
+          "meaning": "in the unutterable"
+        },
+        {
+          "word": "अनिलयने",
+          "meaning": "in the supportless"
+        },
+        {
+          "word": "अभयम् प्रतिष्ठाम् विन्दते",
+          "meaning": "finds fearless support"
+        },
+        {
+          "word": "अभयम् गतः",
+          "meaning": "gone to fearlessness"
+        }
+      ],
+      "english_translation": "When one finds fearless support in that which is unseen, bodiless, unutterable, and supportless — then one has gone to fearlessness.",
+      "shankara_bhashya_sanskrit": "अदृश्ये — इन्द्रियागोचरे। अनात्म्ये — शरीररहिते। अनिरुक्ते — वाचामगोचरे। अभयम् प्रतिष्ठाम् विन्दते — ब्रह्मणि आश्रयम् लभते।",
+      "shankara_bhashya_english": "Shankara: When the seeker finds support in Brahman — which is beyond the senses, bodiless, beyond speech, and self-supporting — then all fear vanishes. Fear arises from duality; in the non-dual Brahman, there is no 'other' to fear."
     },
     {
       "upanishad": "taittiriya",

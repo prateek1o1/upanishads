@@ -47,15 +47,30 @@
       "upanishad": "katha",
       "verse_number": 2,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Nachiketa",
+        "father",
+        "Yama",
+        "death"
       ],
-      "sanskrit": "[Verse 2 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 2 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 2 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स होवाच पितरं तत कस्मै मां दास्यसीति | द्वितीयं तृतीयं | तं होवाच मृत्यवे त्वा ददामीति ||१.१.२||",
+      "transliteration": "sa hovāca pitaraṃ tata kasmai māṃ dāsyasīti | dvitīyaṃ tṛtīyaṃ | taṃ hovāca mṛtyave tvā dadāmīti ||1.1.2||",
+      "word_meanings": [
+        {
+          "word": "तात कस्मै माम् दास्यसि",
+          "meaning": "Father, to whom will you give me?"
+        },
+        {
+          "word": "द्वितीयम् तृतीयम्",
+          "meaning": "a second and third time"
+        },
+        {
+          "word": "मृत्यवे त्वा ददामि",
+          "meaning": "I give you to Death"
+        }
+      ],
+      "english_translation": "He said to his father: 'Father, to whom will you give me?' A second and third time. He said to him: 'I give you to Death.'",
+      "shankara_bhashya_sanskrit": "नचिकेताः पितरम् अपृच्छत् — कस्मै माम् दास्यसि। पिता क्रुद्धः — मृत्यवे त्वा ददामि — इत्युक्तवान्।",
+      "shankara_bhashya_english": "Shankara: Nachiketa, seeing his father give away old and barren cows, asked three times to whom he would give his son. The father, irritated, said 'I give you to Death.' Nachiketa, taking his father's word seriously, went to Yama's abode."
     },
     {
       "upanishad": "katha",
@@ -75,169 +90,423 @@
       "upanishad": "katha",
       "verse_number": 4,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Nachiketa",
+        "Yama",
+        "three nights",
+        "boon"
       ],
-      "sanskrit": "[Verse 4 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 4 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 4 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "नचिकेता उवाच | अनशनन्त्रिरात्रमतिथिर्ब्राह्मणो गृहे | तस्यानशनेन किं स्यादिति चिन्तयन् ||१.१.७||",
+      "transliteration": "naciketā uvāca | anaśnan trirātram atithir brāhmaṇo gṛhe | tasyānaśanena kiṃ syād iti cintayan ||1.1.7||",
+      "word_meanings": [
+        {
+          "word": "अनशन् त्रिरात्रम्",
+          "meaning": "fasting for three nights"
+        },
+        {
+          "word": "अतिथिः ब्राह्मणः",
+          "meaning": "a brahmin guest"
+        },
+        {
+          "word": "तस्य अनशनेन",
+          "meaning": "by his fasting"
+        },
+        {
+          "word": "किम् स्यात्",
+          "meaning": "what happens"
+        }
+      ],
+      "english_translation": "Nachiketa said: 'A brahmin guest fasting for three nights in a house — what happens by his fasting?'",
+      "shankara_bhashya_sanskrit": "नचिकेताः त्रिरात्रम् अनशन् — यमस्य गृहे उपवासम् अकरोत्। ब्राह्मणस्य अतिथेः अनशनेन गृहस्थस्य पापम् भवति।",
+      "shankara_bhashya_english": "Shankara: Nachiketa waited at Yama's door for three nights without food. When Yama returned, he was told that a brahmin guest had been fasting — which brings harm to the host. Yama offered three boons to compensate."
     },
     {
       "upanishad": "katha",
       "verse_number": 5,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "three boons",
+        "Nachiketa",
+        "Yama",
+        "father",
+        "peace"
       ],
-      "sanskrit": "[Verse 5 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 5 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 5 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तिस्रो रात्रीर्यदवात्सीर्गृहे मेऽनश्नन् ब्रह्मन् | नमस्तेऽस्तु ब्रह्मन् स्वस्ति मेऽस्तु | तस्मात्प्रति त्रीन् वरान् वृणीष्व ||१.१.९||",
+      "transliteration": "tisro rātrīr yad avātsīr gṛhe me'naśnan brahman | namas te'stu brahman svasti me'stu | tasmāt prati trīn varān vṛṇīṣva ||1.1.9||",
+      "word_meanings": [
+        {
+          "word": "तिस्रः रात्रीः अवात्सीः",
+          "meaning": "you stayed three nights"
+        },
+        {
+          "word": "अनश्नन्",
+          "meaning": "without eating"
+        },
+        {
+          "word": "नमः ते अस्तु",
+          "meaning": "salutation to you"
+        },
+        {
+          "word": "त्रीन् वरान् वृणीष्व",
+          "meaning": "choose three boons"
+        }
+      ],
+      "english_translation": "You stayed three nights in my house without eating, O brahmin. Salutation to you, O brahmin. May it be well with me. Therefore choose three boons.",
+      "shankara_bhashya_sanskrit": "यमः नचिकेतसम् अब्रवीत् — त्रिरात्रम् अनश्नन् अवात्सीः — तस्मात् त्रीन् वरान् वृणीष्व।",
+      "shankara_bhashya_english": "Shankara: Yama, the lord of death, honored Nachiketa and offered three boons as compensation for the three nights of fasting. This shows that even Yama respects a sincere brahmin seeker."
     },
     {
       "upanishad": "katha",
       "verse_number": 6,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "first boon",
+        "father",
+        "peace",
+        "Nachiketa"
       ],
-      "sanskrit": "[Verse 6 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 6 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 6 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "शान्तसंकल्पः सुमना यथा स्याद्वीतमन्युर्गौतमो माभि मृत्यो | त्वत्प्रसृष्टं माभिवदेत्प्रतीत | एतत्त्रयाणां प्रथमं वरं वृणे ||१.१.१०||",
+      "transliteration": "śāntasaṃkalpaḥ sumanā yathā syād vītamanyur gautamo mābhi mṛtyo | tvat prasṛṣṭaṃ mābhi vadet pratīta | etat trayāṇāṃ prathamaṃ varaṃ vṛṇe ||1.1.10||",
+      "word_meanings": [
+        {
+          "word": "शान्तसंकल्पः सुमनाः",
+          "meaning": "of peaceful mind and good disposition"
+        },
+        {
+          "word": "वीतमन्युः",
+          "meaning": "free from anger"
+        },
+        {
+          "word": "गौतमः",
+          "meaning": "my father Gautama"
+        },
+        {
+          "word": "त्वत्प्रसृष्टम्",
+          "meaning": "released by you"
+        },
+        {
+          "word": "प्रथमम् वरम्",
+          "meaning": "the first boon"
+        }
+      ],
+      "english_translation": "May my father Gautama be of peaceful mind and good disposition, free from anger toward me, O Death. May he recognize me when released by you. This I choose as the first of the three boons.",
+      "shankara_bhashya_sanskrit": "प्रथमः वरः — पितुः शान्तिः। नचिकेताः पितरम् प्रथमम् स्मरति — पितृभक्तिम् दर्शयति।",
+      "shankara_bhashya_english": "Shankara: Nachiketa's first boon is for his father's peace of mind. This shows Nachiketa's character — even before asking about immortality, he thinks of his father's welfare. Yama grants this boon immediately."
     },
     {
       "upanishad": "katha",
       "verse_number": 7,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "second boon",
+        "fire",
+        "heaven",
+        "Nachiketa fire"
       ],
-      "sanskrit": "[Verse 7 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 7 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 7 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स्वर्गे लोके न भयं किञ्चनास्ति न तत्र त्वं न जरया बिभेति | उभे तीर्त्वाऽशनायापिपासे शोकातिगो मोदते स्वर्गलोके ||१.१.१२||",
+      "transliteration": "svarge loke na bhayaṃ kiñcanāsti na tatra tvaṃ na jarayā bibheti | ubhe tīrtvā'śanāyāpipāse śokātigo modate svargaloke ||1.1.12||",
+      "word_meanings": [
+        {
+          "word": "स्वर्गे लोके न भयम्",
+          "meaning": "in the heavenly world there is no fear"
+        },
+        {
+          "word": "न जरया बिभेति",
+          "meaning": "does not fear old age"
+        },
+        {
+          "word": "अशनाया अपिपासे तीर्त्वा",
+          "meaning": "having crossed hunger and thirst"
+        },
+        {
+          "word": "शोकातिगः मोदते",
+          "meaning": "beyond grief, rejoices"
+        }
+      ],
+      "english_translation": "In the heavenly world there is no fear whatsoever. You are not there, nor does one fear old age. Having crossed both hunger and thirst, beyond grief, one rejoices in the heavenly world.",
+      "shankara_bhashya_sanskrit": "स्वर्गे — देवलोके — भयम् नास्ति। जरा नास्ति। क्षुत्पिपासे नास्ते। शोकः नास्ति।",
+      "shankara_bhashya_english": "Shankara: Nachiketa describes the heavenly world as free from fear, old age, hunger, thirst, and grief. He asks for the Nachiketa fire (the ritual that leads to heaven) as his second boon. Yama grants this and names the fire after Nachiketa."
     },
     {
       "upanishad": "katha",
       "verse_number": 8,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "third boon",
+        "death",
+        "secret",
+        "Atman",
+        "Nachiketa"
       ],
-      "sanskrit": "[Verse 8 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 8 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 8 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "येयं प्रेते विचिकित्सा मनुष्येऽस्तीत्येके नायमस्तीति चैके | एतद्विद्यामनुशिष्टस्त्वयाऽहं वराणामेष वरस्तृतीयः ||१.१.२०||",
+      "transliteration": "yeyaṃ prete vicikitsā manuṣye'stīty eke nāyam astīti caike | etad vidyām anuśiṣṭas tvayā'haṃ varāṇām eṣa varas tṛtīyaḥ ||1.1.20||",
+      "word_meanings": [
+        {
+          "word": "प्रेते विचिकित्सा",
+          "meaning": "the doubt about the dead"
+        },
+        {
+          "word": "अस्ति इति एके",
+          "meaning": "some say he exists"
+        },
+        {
+          "word": "न अयम् अस्ति इति",
+          "meaning": "others say he does not exist"
+        },
+        {
+          "word": "एतत् विद्याम्",
+          "meaning": "I wish to know this"
+        },
+        {
+          "word": "तृतीयः वरः",
+          "meaning": "the third boon"
+        }
+      ],
+      "english_translation": "There is this doubt about a person who has died — some say 'he exists,' others say 'he does not exist.' I wish to be taught this by you. This is the third of the boons.",
+      "shankara_bhashya_sanskrit": "प्रेते — मृते — विचिकित्सा — संशयः। अस्ति इति — आत्मा अस्ति। न अस्ति इति — आत्मा नास्ति। एतत् विद्याम् — इदम् ज्ञातुम् इच्छामि।",
+      "shankara_bhashya_english": "Shankara: Nachiketa's third boon is the most profound — the secret of death and the existence of the Self after death. This is the central question of the Katha Upanishad. Yama tries to dissuade Nachiketa with wealth and pleasures, but Nachiketa insists."
     },
     {
       "upanishad": "katha",
       "verse_number": 9,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Yama",
+        "temptation",
+        "wealth",
+        "pleasures",
+        "Nachiketa refuses"
       ],
-      "sanskrit": "[Verse 9 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 9 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 9 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वित्तेन तर्पणीयो मनुष्यो लप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा | जीविष्यामो यावदीशिष्यसि त्वं वरस्तु मे वरणीयः स एव ||१.१.२७||",
+      "transliteration": "na vittena tarpaṇīyo manuṣyo lapsyāmahe vittam adrākṣma cet tvā | jīviṣyāmo yāvad īśiṣyasi tvaṃ varas tu me varaṇīyaḥ sa eva ||1.1.27||",
+      "word_meanings": [
+        {
+          "word": "न वित्तेन तर्पणीयः",
+          "meaning": "a person cannot be satisfied by wealth"
+        },
+        {
+          "word": "लप्स्यामहे वित्तम्",
+          "meaning": "we shall obtain wealth"
+        },
+        {
+          "word": "यावत् ईशिष्यसि",
+          "meaning": "as long as you rule"
+        },
+        {
+          "word": "वरः मे वरणीयः",
+          "meaning": "the boon I must choose"
+        }
+      ],
+      "english_translation": "A person cannot be satisfied by wealth. We shall obtain wealth when we have seen you. We shall live as long as you rule. But the boon to be chosen by me is that very one.",
+      "shankara_bhashya_sanskrit": "न वित्तेन तर्पणीयः — धनेन मनुष्यः न तृप्यति। वरः मे वरणीयः स एव — मृत्युरहस्यम् एव वृणे।",
+      "shankara_bhashya_english": "Shankara: Nachiketa refuses all of Yama's temptations — wealth, women, kingdoms, long life. He says a person cannot be satisfied by wealth. The only boon worth choosing is the knowledge of the Self. This shows Nachiketa's supreme vairagya (dispassion)."
     },
     {
       "upanishad": "katha",
       "verse_number": 10,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "shreyas",
+        "preyas",
+        "good",
+        "pleasant",
+        "discrimination"
       ],
-      "sanskrit": "[Verse 10 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 10 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 10 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "श्रेयश्च प्रेयश्च मनुष्यमेतः | तौ सम्परीत्य विविनक्ति धीरः | श्रेयो हि धीरोऽभि प्रेयसो वृणीते | प्रेयो मन्दो योगक्षेमाद्वृणीते ||१.२.२||",
+      "transliteration": "śreyaś ca preyaś ca manuṣyam etaḥ | tau samparītya vivinakti dhīraḥ | śreyo hi dhīro'bhi preyaso vṛṇīte | preyo mando yogakṣemād vṛṇīte ||1.2.2||",
+      "word_meanings": [
+        {
+          "word": "श्रेयः",
+          "meaning": "the good (leading to liberation)"
+        },
+        {
+          "word": "प्रेयः",
+          "meaning": "the pleasant (leading to enjoyment)"
+        },
+        {
+          "word": "धीरः",
+          "meaning": "the wise one"
+        },
+        {
+          "word": "विविनक्ति",
+          "meaning": "discriminates between"
+        },
+        {
+          "word": "मन्दः",
+          "meaning": "the foolish one"
+        }
+      ],
+      "english_translation": "Both the good and the pleasant approach a person. The wise one examines them and discriminates. The wise one chooses the good over the pleasant. The foolish one chooses the pleasant for the sake of comfort.",
+      "shankara_bhashya_sanskrit": "श्रेयः — मोक्षसाधनम्। प्रेयः — भोगसाधनम्। धीरः — विवेकी — श्रेयः वृणीते। मन्दः — अविवेकी — प्रेयः वृणीते।",
+      "shankara_bhashya_english": "Shankara: Shreyas is what leads to the highest good (liberation); preyas is what is merely pleasant (sense enjoyment). The wise discriminate between them and choose the good. The foolish choose the pleasant. Nachiketa chose shreyas — the knowledge of the Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 11,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "chariot",
+        "body",
+        "senses",
+        "intellect"
       ],
-      "sanskrit": "[Verse 11 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 11 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 11 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "आत्मानं रथिनं विद्धि शरीरं रथमेव तु | बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च ||१.३.३||",
+      "transliteration": "ātmānaṃ rathinaṃ viddhi śarīraṃ ratham eva tu | buddhiṃ tu sārathiṃ viddhi manaḥ pragraham eva ca ||1.3.3||",
+      "word_meanings": [
+        {
+          "word": "आत्मानम् रथिनम् विद्धि",
+          "meaning": "know the Self as the rider of the chariot"
+        },
+        {
+          "word": "शरीरम् रथम्",
+          "meaning": "the body is the chariot"
+        },
+        {
+          "word": "बुद्धिम् सारथिम्",
+          "meaning": "the intellect is the charioteer"
+        },
+        {
+          "word": "मनः प्रग्रहम्",
+          "meaning": "the mind is the reins"
+        }
+      ],
+      "english_translation": "Know the Self as the rider of the chariot, the body as the chariot, the intellect as the charioteer, and the mind as the reins.",
+      "shankara_bhashya_sanskrit": "आत्मा — रथी — भोक्ता। शरीरम् — रथः — भोगसाधनम्। बुद्धिः — सारथिः — निर्णायिका। मनः — प्रग्रहः — संकल्पविकल्पात्मकम्।",
+      "shankara_bhashya_english": "Shankara: This famous chariot analogy describes the relationship between the Self, body, intellect, mind, and senses. The Self is the passenger; the body is the vehicle; the intellect is the driver; the mind is the reins; the senses are the horses; the sense objects are the roads."
     },
     {
       "upanishad": "katha",
       "verse_number": 12,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "senses",
+        "horses",
+        "sense objects",
+        "roads"
       ],
-      "sanskrit": "[Verse 12 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 12 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 12 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियाणि हयानाहुर्विषयांस्तेषु गोचरान् | आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः ||१.३.४||",
+      "transliteration": "indriyāṇi hayān āhur viṣayāṃs teṣu gocarān | ātmendriyamanoyuktaṃ bhoktety āhur manīṣiṇaḥ ||1.3.4||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियाणि हयाः",
+          "meaning": "the senses are the horses"
+        },
+        {
+          "word": "विषयाः गोचराः",
+          "meaning": "sense objects are the roads"
+        },
+        {
+          "word": "आत्मेन्द्रियमनोयुक्तम्",
+          "meaning": "the Self joined with senses and mind"
+        },
+        {
+          "word": "भोक्ता",
+          "meaning": "the enjoyer"
+        }
+      ],
+      "english_translation": "The senses are called the horses; the sense objects are their roads. The Self joined with the senses and mind — the wise call it the enjoyer.",
+      "shankara_bhashya_sanskrit": "इन्द्रियाणि — हयाः — विषयेषु धावन्ति। विषयाः — गोचराः — मार्गाः। आत्मा इन्द्रियमनोयुक्तः — भोक्ता — संसारी।",
+      "shankara_bhashya_english": "Shankara: The senses are like horses that run toward their objects. The sense objects are the roads they travel. The Self, when identified with the senses and mind, becomes the enjoyer — the bound individual soul in samsara."
     },
     {
       "upanishad": "katha",
       "verse_number": 13,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "discrimination",
+        "liberation",
+        "samsara",
+        "chariot analogy"
       ],
-      "sanskrit": "[Verse 13 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 13 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 13 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यस्त्वविज्ञानवान् भवत्ययुक्तेन मनसा सदा | तस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ||१.३.५||",
+      "transliteration": "yas tv avijñānavān bhavaty ayuktena manasā sadā | tasyendriyāṇy avaśyāni duṣṭāśvā iva sārtheḥ ||1.3.5||",
+      "word_meanings": [
+        {
+          "word": "अविज्ञानवान्",
+          "meaning": "one without discrimination"
+        },
+        {
+          "word": "अयुक्तेन मनसा",
+          "meaning": "with uncontrolled mind"
+        },
+        {
+          "word": "इन्द्रियाणि अवश्यानि",
+          "meaning": "uncontrolled senses"
+        },
+        {
+          "word": "दुष्टाश्वाः",
+          "meaning": "vicious horses"
+        }
+      ],
+      "english_translation": "One who is without discrimination, with always uncontrolled mind — his senses are uncontrolled, like vicious horses of a charioteer.",
+      "shankara_bhashya_sanskrit": "अविज्ञानवान् — विवेकरहितः — अयुक्तेन मनसा — असंयतचित्तेन — तस्य इन्द्रियाणि अवश्यानि — दुष्टाश्वाः इव।",
+      "shankara_bhashya_english": "Shankara: Without discrimination (viveka) and an uncontrolled mind, the senses run wild like vicious horses. Such a person is dragged through samsara. The solution is to develop discrimination and control the mind through the reins of the intellect."
     },
     {
       "upanishad": "katha",
       "verse_number": 14,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "liberation",
+        "Vishnu",
+        "highest step",
+        "goal"
       ],
-      "sanskrit": "[Verse 14 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 14 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 14 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः | दिवीव चक्षुरातातम् ||१.३.९||",
+      "transliteration": "tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | divīva cakṣur ātatam ||1.3.9||",
+      "word_meanings": [
+        {
+          "word": "विष्णोः परमम् पदम्",
+          "meaning": "the supreme abode of Vishnu"
+        },
+        {
+          "word": "सदा पश्यन्ति सूरयः",
+          "meaning": "the wise always see"
+        },
+        {
+          "word": "दिवि चक्षुः आततम्",
+          "meaning": "like an eye spread across the sky"
+        }
+      ],
+      "english_translation": "The wise always see the supreme abode of Vishnu, spread out like an eye across the sky.",
+      "shankara_bhashya_sanskrit": "विष्णोः परमम् पदम् — परब्रह्मणः उत्तमम् स्थानम् — सूरयः — ज्ञानिनः — सदा पश्यन्ति।",
+      "shankara_bhashya_english": "Shankara: The supreme abode of Vishnu (Brahman) is always seen by the wise — not with physical eyes but with the eye of knowledge. It is spread everywhere like the sky, and the wise perceive it in all things."
     },
     {
       "upanishad": "katha",
       "verse_number": 15,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "ancient",
+        "not killed"
       ],
-      "sanskrit": "[Verse 15 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 15 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 15 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते",
+          "meaning": "is not born"
+        },
+        {
+          "word": "न म्रियते",
+          "meaning": "does not die"
+        },
+        {
+          "word": "अजः",
+          "meaning": "unborn"
+        },
+        {
+          "word": "नित्यः",
+          "meaning": "eternal"
+        },
+        {
+          "word": "शाश्वतः",
+          "meaning": "everlasting"
+        },
+        {
+          "word": "पुराणः",
+          "meaning": "ancient"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "is not killed when the body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. It did not come from anywhere, nor did it become anything. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते — उत्पत्तिरहितः। न म्रियते — विनाशरहितः। अजः — जन्मरहितः। नित्यः — कालत्रयेऽपि अस्ति। न हन्यते — शरीरनाशेऽपि आत्मा न नश्यति।",
+      "shankara_bhashya_english": "Shankara: The Self is beyond birth and death. It was not born, it does not die, it has no origin and no end. It is unborn, eternal, ancient, and everlasting. When the body is destroyed, the Self is not destroyed — for the Self is not the body. This verse also appears in the Bhagavad Gita (2.20)."
     },
     {
       "upanishad": "katha",

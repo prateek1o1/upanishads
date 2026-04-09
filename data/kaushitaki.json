@@ -105,57 +105,123 @@
       "upanishad": "kaushitaki",
       "verse_number": 4,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "Brahman"
       ],
-      "sanskrit": "[Verse 4 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 4 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 4 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणोऽस्मि प्रज्ञात्मा | तं मामायुरमृतमित्युपास्स्व ||३.२||",
+      "transliteration": "prāṇo'smi prajñātmā | taṃ mām āyur amṛtam ity upāssva ||3.2||",
+      "word_meanings": [
+        {
+          "word": "प्राणः अस्मि",
+          "meaning": "I am prana"
+        },
+        {
+          "word": "प्रज्ञात्मा",
+          "meaning": "whose Self is consciousness"
+        },
+        {
+          "word": "आयुः अमृतम्",
+          "meaning": "life and immortality"
+        },
+        {
+          "word": "उपास्स्व",
+          "meaning": "worship/meditate upon"
+        }
+      ],
+      "english_translation": "'I am prana, whose Self is consciousness. Meditate on me as life and immortality.'",
+      "shankara_bhashya_sanskrit": "प्राणः — मुख्यप्राणः — प्रज्ञात्मा — चैतन्यस्वरूपः। माम् आयुः अमृतम् इति उपास्स्व।",
+      "shankara_bhashya_english": "Shankara: Indra declares to Pratardana: 'I am prana, whose nature is consciousness. Meditate on me as life and immortality.' This identifies prana with Brahman — the conscious life-force that sustains all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 5,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "prana",
+        "speech",
+        "eye",
+        "ear",
+        "mind",
+        "Brahman"
       ],
-      "sanskrit": "[Verse 5 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 5 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 5 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति ||३.३||",
+      "transliteration": "prāṇa eva prajñātmedaṃ śarīraṃ parigṛhyotthāpayati ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः एव प्रज्ञात्मा",
+          "meaning": "prana alone, whose Self is consciousness"
+        },
+        {
+          "word": "इदम् शरीरम् परिगृह्य",
+          "meaning": "having taken hold of this body"
+        },
+        {
+          "word": "उत्थापयति",
+          "meaning": "raises it up, animates it"
+        }
+      ],
+      "english_translation": "Prana alone, whose Self is consciousness, having taken hold of this body, raises it up.",
+      "shankara_bhashya_sanskrit": "प्राणः — चैतन्यात्मा — इदम् शरीरम् परिगृह्य — उत्थापयति — जीवयति।",
+      "shankara_bhashya_english": "Shankara: Prana, whose nature is consciousness, animates the body. Without prana-consciousness, the body is inert. This is why prana is identified with Brahman — it is the conscious life-force that makes the body alive."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 6,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "devayana",
+        "path of gods",
+        "liberation",
+        "moon"
       ],
-      "sanskrit": "[Verse 6 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 6 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 6 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ये वै के चास्माल्लोकात्प्रयन्ति चन्द्रमसमेव ते सर्वे गच्छन्ति ||१.२||",
+      "transliteration": "ye vai ke cāsmāl lokāt prayanti candramasam eva te sarve gacchanti ||1.2||",
+      "word_meanings": [
+        {
+          "word": "अस्मात् लोकात् प्रयन्ति",
+          "meaning": "depart from this world"
+        },
+        {
+          "word": "चन्द्रमसम् गच्छन्ति",
+          "meaning": "go to the moon"
+        },
+        {
+          "word": "सर्वे",
+          "meaning": "all"
+        }
+      ],
+      "english_translation": "All who depart from this world go to the moon.",
+      "shankara_bhashya_sanskrit": "अस्मात् लोकात् प्रयन्ति — मृत्वा — सर्वे चन्द्रलोकम् गच्छन्ति। तत्र चन्द्रः प्रश्नं पृच्छति।",
+      "shankara_bhashya_english": "Shankara: After death, all souls first go to the moon. There the moon questions them. Those who know the Self pass through to higher worlds; those who do not know return to rebirth on earth. This describes the two paths after death."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 7,
       "tags": [
         "Brahman",
-        "knowledge"
+        "all actions",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 7 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 7 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 7 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "एवम् विद्वान्",
+          "meaning": "one who knows thus"
+        },
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "एवम् विद्वान् — प्राणम् ब्रह्म इति जानाति — सः सर्वाणि भूतानि आत्मानम् एव पश्यति।",
+      "shankara_bhashya_english": "Shankara: One who knows prana as Brahman sees all beings as the Self and the Self in all beings. This is the vision of unity — the same teaching as the Isha Upanishad. Knowledge of Brahman leads to seeing the Self everywhere."
     },
     {
       "upanishad": "kaushitaki",

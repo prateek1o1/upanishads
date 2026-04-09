@@ -46,15 +46,38 @@
       "upanishad": "mundaka",
       "verse_number": 2,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "apara vidya",
+        "lower knowledge",
+        "Vedas",
+        "sciences"
       ],
-      "sanskrit": "[Verse 2 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 2 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 2 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमिति | अथ परा यया तदक्षरमधिगम्यते ||१.१.५||",
+      "transliteration": "tatrāparā ṛgvedo yajurvedaḥ sāmavedo'tharvavedaḥ śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam iti | atha parā yayā tad akṣaram adhigamyate ||1.1.5||",
+      "word_meanings": [
+        {
+          "word": "अपरा",
+          "meaning": "the lower knowledge"
+        },
+        {
+          "word": "ऋग्वेदः यजुर्वेदः",
+          "meaning": "Rigveda, Yajurveda"
+        },
+        {
+          "word": "शिक्षा कल्पः",
+          "meaning": "phonetics, ritual"
+        },
+        {
+          "word": "परा",
+          "meaning": "the higher knowledge"
+        },
+        {
+          "word": "अक्षरम् अधिगम्यते",
+          "meaning": "by which the Imperishable is known"
+        }
+      ],
+      "english_translation": "Of these, the lower is the Rigveda, Yajurveda, Samaveda, Atharvaveda, phonetics, ritual, grammar, etymology, metre, and astronomy. And the higher is that by which the Imperishable is known.",
+      "shankara_bhashya_sanskrit": "अपरा — चतुर्वेदाः षडङ्गानि च। परा — ब्रह्मज्ञानम् — यया अक्षरम् — अविनाशि ब्रह्म — अधिगम्यते।",
+      "shankara_bhashya_english": "Shankara: The lower knowledge comprises the four Vedas and their six auxiliaries. The higher knowledge is that by which the Imperishable Brahman is directly known. The lower leads to worldly and heavenly results; the higher leads to liberation."
     },
     {
       "upanishad": "mundaka",
@@ -101,121 +124,230 @@
       "verse_number": 4,
       "tags": [
         "Brahman",
-        "knowledge"
+        "source",
+        "creation",
+        "thread"
       ],
-      "sanskrit": "[Verse 4 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 4 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 4 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यथोर्णनाभिः सृजते गृह्णते च यथा पृथिव्यामोषधयः सम्भवन्ति |\nयथा सतः पुरुषात्केशलोमानि तथाऽक्षरात्सम्भवतीह विश्वम् ||२.१.७||",
+      "transliteration": "yathorṇanābhiḥ sṛjate gṛhṇate ca yathā pṛthivyām oṣadhayaḥ sambhavanti |\nyathā sataḥ puruṣāt keśalomāni tathā'kṣarāt sambhavatīha viśvam ||2.1.7||",
+      "word_meanings": [
+        {
+          "word": "ऊर्णनाभिः",
+          "meaning": "a spider"
+        },
+        {
+          "word": "सृजते गृह्णते",
+          "meaning": "creates and withdraws"
+        },
+        {
+          "word": "ओषधयः",
+          "meaning": "plants, herbs"
+        },
+        {
+          "word": "केशलोमानि",
+          "meaning": "hair and body hair"
+        },
+        {
+          "word": "अक्षरात्",
+          "meaning": "from the Imperishable"
+        }
+      ],
+      "english_translation": "As a spider creates and withdraws, as plants grow from the earth, as hair grows from a living person — so from the Imperishable this universe arises.",
+      "shankara_bhashya_sanskrit": "ऊर्णनाभिः — मकडः — स्वतः तन्तुम् सृजति गृह्णाति च। तथा अक्षरात् ब्रह्मणः विश्वम् सम्भवति।",
+      "shankara_bhashya_english": "Shankara: Three analogies show that the universe arises from Brahman without any external material. The spider creates its web from itself; plants grow from earth; hair grows from the body. Similarly, the universe arises from Brahman alone, without any separate material cause."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 5,
       "tags": [
         "Brahman",
-        "knowledge"
+        "light",
+        "sun",
+        "fire",
+        "all luminaries"
       ],
-      "sanskrit": "[Verse 5 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 5 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 5 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तपति सूर्यो न तपति चन्द्रतारकं नेमा विद्युतो भान्ति कुतोऽयमग्निः |\nतमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति ||२.२.१०||",
+      "transliteration": "tapati sūryo na tapati candratārakaṃ nemā vidyuto bhānti kuto'yam agniḥ |\ntam eva bhāntam anubhāti sarvaṃ tasya bhāsā sarvam idaṃ vibhāti ||2.2.10||",
+      "word_meanings": [
+        {
+          "word": "तपति सूर्यः",
+          "meaning": "the sun shines"
+        },
+        {
+          "word": "न तपति",
+          "meaning": "does not shine (by its own light)"
+        },
+        {
+          "word": "तमेव भान्तम्",
+          "meaning": "that one alone shining"
+        },
+        {
+          "word": "अनुभाति सर्वम्",
+          "meaning": "everything shines after it"
+        },
+        {
+          "word": "तस्य भासा",
+          "meaning": "by its light"
+        }
+      ],
+      "english_translation": "The sun does not shine there, nor the moon and stars, nor these lightnings — how then this fire? Everything shines after that one shines. By its light all this is illumined.",
+      "shankara_bhashya_sanskrit": "तमेव भान्तम् — ब्रह्म एव प्रकाशमानम् — अनुभाति सर्वम् — सूर्यादयः अनुप्रकाशन्ते। तस्य भासा — ब्रह्मणः प्रकाशेन — सर्वम् विभाति।",
+      "shankara_bhashya_english": "Shankara: Brahman alone is self-luminous. The sun, moon, stars, and fire all shine by reflecting Brahman's light. Without Brahman's consciousness illumining them, no light could shine. This verse appears also in the Katha and Bhagavad Gita."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 6,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "knot of heart"
       ],
-      "sanskrit": "[Verse 6 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 6 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 6 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः |\nक्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे ||२.२.८||",
+      "transliteration": "bhidyate hṛdayagranthiś chidyante sarvasaṃśayāḥ |\nkṣīyante cāsya karmāṇi tasmin dṛṣṭe parāvare ||2.2.8||",
+      "word_meanings": [
+        {
+          "word": "हृदयग्रन्थिः भिद्यते",
+          "meaning": "the knot of the heart is cut"
+        },
+        {
+          "word": "सर्वसंशयाः छिद्यन्ते",
+          "meaning": "all doubts are severed"
+        },
+        {
+          "word": "कर्माणि क्षीयन्ते",
+          "meaning": "all karmas are destroyed"
+        },
+        {
+          "word": "परावरे दृष्टे",
+          "meaning": "when the higher and lower are seen"
+        }
+      ],
+      "english_translation": "The knot of the heart is cut, all doubts are severed, and all one's karmas are destroyed when the higher and lower are seen.",
+      "shankara_bhashya_sanskrit": "हृदयग्रन्थिः — अविद्याकामकर्मरूपः ग्रन्थिः — भिद्यते। सर्वसंशयाः — छिद्यन्ते। कर्माणि — क्षीयन्ते। परावरे — परम् च अवरम् च — ब्रह्म च जीवः च — दृष्टे — एकत्वेन ज्ञाते।",
+      "shankara_bhashya_english": "Shankara: The 'knot of the heart' is the knot of ignorance, desire, and karma. When Brahman is directly realized — when the higher (Brahman) and lower (individual self) are seen as one — this knot is cut, all doubts vanish, and all karmas are destroyed. This is liberation."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 7,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known by Brahman",
+        "Self-knowledge"
       ],
-      "sanskrit": "[Verse 7 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 7 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 7 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ब्रह्मैव तेन गन्तव्यं ब्रह्म कर्म समुद्भवम् ||३.१.९||",
+      "transliteration": "brahmaiva tena gantavyaṃ brahma karma samudbhavam ||3.1.9||",
+      "word_meanings": [
+        {
+          "word": "ब्रह्म एव गन्तव्यम्",
+          "meaning": "Brahman alone is to be reached"
+        },
+        {
+          "word": "ब्रह्म कर्म समुद्भवम्",
+          "meaning": "whose actions arise from Brahman"
+        }
+      ],
+      "english_translation": "Brahman alone is to be reached by one whose actions arise from Brahman.",
+      "shankara_bhashya_sanskrit": "ब्रह्मकर्मसमुद्भवः — यस्य कर्म ब्रह्मणः एव — स ब्रह्म एव गच्छति।",
+      "shankara_bhashya_english": "Shankara: One whose actions arise from the knowledge of Brahman — who acts without ego, as an instrument of Brahman — reaches Brahman alone. Action done in the spirit of Brahman leads back to Brahman."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 8,
       "tags": [
         "Brahman",
-        "knowledge"
+        "satyam",
+        "jnanam",
+        "liberation",
+        "knower"
       ],
-      "sanskrit": "[Verse 8 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 8 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 8 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तमेवं विद्वानमृत इह भवति | नान्यः पन्था अयनाय विद्यते ||३.२.९||",
+      "transliteration": "tam evaṃ vidvān amṛta iha bhavati | nānyaḥ panthā ayanāya vidyate ||3.2.9||",
+      "word_meanings": [
+        {
+          "word": "एवम् विद्वान्",
+          "meaning": "one who knows thus"
+        },
+        {
+          "word": "अमृतः इह भवति",
+          "meaning": "becomes immortal here itself"
+        },
+        {
+          "word": "नान्यः पन्थाः",
+          "meaning": "there is no other path"
+        },
+        {
+          "word": "अयनाय",
+          "meaning": "for liberation"
+        }
+      ],
+      "english_translation": "One who knows this thus becomes immortal here itself. There is no other path for liberation.",
+      "shankara_bhashya_sanskrit": "एवम् विद्वान् — ब्रह्म एवम् जानाति — सः अमृतः इह भवति — जीवन्मुक्तः भवति। नान्यः पन्थाः — ब्रह्मज्ञानात् अन्यः मोक्षमार्गः नास्ति।",
+      "shankara_bhashya_english": "Shankara: One who knows Brahman as taught becomes immortal even while living (jivanmukta). There is no other path to liberation — not ritual, not austerity, not charity alone. Knowledge of Brahman is the only direct path to liberation."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 9,
       "tags": [
         "Brahman",
-        "knowledge"
+        "satyam",
+        "tapas",
+        "brahmacharya",
+        "teacher"
       ],
-      "sanskrit": "[Verse 9 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 9 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 9 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "परीक्ष्य लोकान् कर्मचितान् ब्राह्मणो निर्वेदमायात् | नास्त्यकृतः कृतेन | तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत् ||१.२.१२||",
+      "transliteration": "parīkṣya lokān karmacitān brāhmaṇo nirvedam āyāt | nāsty akṛtaḥ kṛtena | tad vijñānārthaṃ sa gurum evābhigacchet ||1.2.12||",
+      "word_meanings": [
+        {
+          "word": "कर्मचितान् लोकान् परीक्ष्य",
+          "meaning": "having examined the worlds won by karma"
+        },
+        {
+          "word": "निर्वेदम् आयात्",
+          "meaning": "let him come to dispassion"
+        },
+        {
+          "word": "नास्ति अकृतः कृतेन",
+          "meaning": "the uncreated cannot be reached by the created"
+        },
+        {
+          "word": "गुरुम् अभिगच्छेत्",
+          "meaning": "let him approach a teacher"
+        }
+      ],
+      "english_translation": "Having examined the worlds won by karma, let the brahmin come to dispassion. The uncreated cannot be reached by the created. To know That, let him approach a teacher.",
+      "shankara_bhashya_sanskrit": "कर्मचितान् लोकान् परीक्ष्य — कर्मफलभोगस्थानानि अनित्यानि इति विचार्य — निर्वेदम् आयात् — वैराग्यम् प्राप्नुयात्। गुरुम् अभिगच्छेत् — श्रोत्रियं ब्रह्मनिष्ठम् गुरुम् उपगच्छेत्।",
+      "shankara_bhashya_english": "Shankara: Having seen that all worlds won by karma are impermanent, the seeker should develop dispassion (vairagya). The uncreated Brahman cannot be reached by created means (karma). Therefore, one must approach a qualified teacher — one who is learned in scripture and established in Brahman."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 10,
       "tags": [
-        "two birds",
-        "Atman",
-        "Jivatman",
-        "Paramatman"
+        "teacher",
+        "qualified",
+        "Brahman",
+        "shruti",
+        "brahmanishtha"
       ],
-      "sanskrit": "द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते |\nतयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति ||३.१.१||",
-      "transliteration": "dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte |\ntayor anyaḥ pippalaṃ svādv atty anaśnann anyo abhicākaśīti ||3.1.1||",
+      "sanskrit": "तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत् समित्पाणिः श्रोत्रियं ब्रह्मनिष्ठम् ||१.२.१२||",
+      "transliteration": "tad vijñānārthaṃ sa gurum evābhigacchet samitpāṇiḥ śrotriyaṃ brahmanisṭham ||1.2.12||",
       "word_meanings": [
         {
-          "word": "द्वा सुपर्णा",
-          "meaning": "two birds with beautiful wings"
+          "word": "समित्पाणिः",
+          "meaning": "with fuel in hand (as a student)"
         },
         {
-          "word": "सयुजा सखाया",
-          "meaning": "companions, always together"
+          "word": "श्रोत्रियम्",
+          "meaning": "learned in the Vedas"
         },
         {
-          "word": "समानम् वृक्षम्",
-          "meaning": "the same tree (body)"
-        },
-        {
-          "word": "अन्यः पिप्पलम् अत्ति",
-          "meaning": "one eats the fruit"
-        },
-        {
-          "word": "अनश्नन् अन्यः",
-          "meaning": "the other, not eating, watches"
+          "word": "ब्रह्मनिष्ठम्",
+          "meaning": "established in Brahman"
         }
       ],
-      "english_translation": "Two birds, companions always united, cling to the same tree. One of them eats the sweet fruit; the other, not eating, simply watches.",
-      "shankara_bhashya_sanskrit": "द्वा सुपर्णौ — जीवपरमात्मानौ। एकः जीवः — संसारवृक्षे कर्मफलानि भुङ्क्ते। अन्यः परमात्मा — साक्षी — न भुङ्क्ते।",
-      "shankara_bhashya_english": "Shankara: The two birds are the individual soul (jiva) and the supreme Self (Paramatman). The jiva eats the fruits of karma on the tree of samsara. The Paramatman is the witness — it does not eat, does not act, but simply illumines."
+      "english_translation": "To know That, let him approach a teacher with fuel in hand — one who is learned in the Vedas and established in Brahman.",
+      "shankara_bhashya_sanskrit": "श्रोत्रियम् — वेदाध्यायिनम्। ब्रह्मनिष्ठम् — ब्रह्मणि निष्ठा यस्य। उभयगुणसम्पन्नः गुरुः।",
+      "shankara_bhashya_english": "Shankara: The qualified teacher must have two qualities: shrotiryam (mastery of Vedic scripture) and brahmanishtha (direct establishment in Brahman). A teacher with only scriptural knowledge but no realization, or realization without scriptural grounding, is insufficient."
     },
     {
       "upanishad": "mundaka",

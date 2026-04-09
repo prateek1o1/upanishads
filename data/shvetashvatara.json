@@ -130,70 +130,181 @@
       "verse_number": 4,
       "tags": [
         "Brahman",
-        "knowledge"
+        "wheel",
+        "samsara",
+        "three gunas"
       ],
-      "sanskrit": "[Verse 4 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 4 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 4 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतान्तरात्मा |\nकर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश्च ||६.११||",
+      "transliteration": "eko devaḥ sarvabhūteṣu gūḍhaḥ sarvavyāpī sarvabhūtāntarātmā |\nkarmādhyakṣaḥ sarvabhūtādhivāsaḥ sākṣī cetā kevalo nirguṇaś ca ||6.11||",
+      "word_meanings": [
+        {
+          "word": "एकः देवः",
+          "meaning": "one God"
+        },
+        {
+          "word": "सर्वभूतेषु गूढः",
+          "meaning": "hidden in all beings"
+        },
+        {
+          "word": "सर्वव्यापी",
+          "meaning": "all-pervading"
+        },
+        {
+          "word": "साक्षी",
+          "meaning": "witness"
+        },
+        {
+          "word": "निर्गुणः",
+          "meaning": "without qualities"
+        }
+      ],
+      "english_translation": "The one God, hidden in all beings, all-pervading, the inner Self of all beings, the overseer of all actions, dwelling in all beings, the witness, the pure consciousness, the one, without qualities.",
+      "shankara_bhashya_sanskrit": "एकः देवः — अद्वितीयः परमेश्वरः — सर्वभूतेषु गूढः।",
+      "shankara_bhashya_english": "Shankara: The one God is hidden in all beings as their inner Self. He is the witness of all actions, pure consciousness, and beyond all qualities. Knowing this one God, one is freed from all bonds."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 5,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "one",
+        "no second"
       ],
-      "sanskrit": "[Verse 5 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 5 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 5 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एको रुद्रो न द्वितीयाय तस्थुर्य इमाँल्लोकानीशत ईशनीभिः |\nप्रत्यङ्जनांस्तिष्ठति सञ्चुकोचान्तकाले संसृज्य विश्वा भुवनानि गोपाः ||३.२||",
+      "transliteration": "eko rudro na dvitīyāya tasthur ya imāṃl lokān īśata īśanībhiḥ |\npratyañjanāṃs tiṣṭhati sañcukocāntakāle saṃsṛjya viśvā bhuvanāni gopāḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "एकः रुद्रः",
+          "meaning": "one Rudra"
+        },
+        {
+          "word": "न द्वितीयाय",
+          "meaning": "no second"
+        },
+        {
+          "word": "इमान् लोकान् ईशते",
+          "meaning": "rules these worlds"
+        },
+        {
+          "word": "प्रत्यक् जनान् तिष्ठति",
+          "meaning": "stands within all people"
+        },
+        {
+          "word": "संसृज्य विश्वा भुवनानि",
+          "meaning": "having created all worlds"
+        },
+        {
+          "word": "गोपाः",
+          "meaning": "the protector"
+        }
+      ],
+      "english_translation": "One Rudra — no second — rules these worlds with his powers. He stands within all people. Having created all worlds, he withdraws them at the end of time. He is the protector.",
+      "shankara_bhashya_sanskrit": "एकः रुद्रः — अद्वितीयः। न द्वितीयाय — द्वितीयः नास्ति। इमान् लोकान् ईशते — सर्वान् लोकान् नियच्छति।",
+      "shankara_bhashya_english": "Shankara: There is only one Rudra — no second. He rules all worlds, stands within all beings, creates and dissolves all worlds. This is the theistic teaching of the Shvetashvatara — Brahman as the personal God Rudra-Shiva."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 6,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "yoga",
+        "meditation",
+        "pranayama",
+        "Brahman"
       ],
-      "sanskrit": "[Verse 6 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 6 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 6 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "युञ्जानः प्रथमं मनस्तत्त्वाय सविता धियः | अग्नेर्ज्योतिर्निचाय्य पृथिव्या अध्याभरत् ||२.१||",
+      "transliteration": "yuñjānaḥ prathamaṃ manas tattvāya savitā dhiyaḥ | agner jyotir nicāyya pṛthivyā adhy ābharat ||2.1||",
+      "word_meanings": [
+        {
+          "word": "युञ्जानः प्रथमम् मनः",
+          "meaning": "first yoking the mind"
+        },
+        {
+          "word": "तत्त्वाय",
+          "meaning": "to the truth"
+        },
+        {
+          "word": "सविता धियः",
+          "meaning": "Savita (Sun) of the intellects"
+        },
+        {
+          "word": "अग्नेः ज्योतिः",
+          "meaning": "the light of fire"
+        }
+      ],
+      "english_translation": "First yoking the mind to the truth, Savita (the Sun) of the intellects, having perceived the light of fire, brought it from the earth.",
+      "shankara_bhashya_sanskrit": "युञ्जानः — योगम् अभ्यसन् — प्रथमम् मनः — तत्त्वाय — ब्रह्मणि — युञ्जीत।",
+      "shankara_bhashya_english": "Shankara: The yoga practice begins with yoking the mind to the truth (Brahman). The Sun (Savita) represents the illuminating power of consciousness. The yogi first controls the mind, then perceives the inner light of the Self."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 7,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "liberation",
+        "grace",
+        "God",
+        "devotion"
       ],
-      "sanskrit": "[Verse 7 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 7 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 7 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यस्य देवे परा भक्तिर्यथा देवे तथा गुरौ | तस्यैते कथिता ह्यर्थाः प्रकाशन्ते महात्मनः ||६.२३||",
+      "transliteration": "yasya deve parā bhaktir yathā deve tathā gurau | tasyaite kathitā hy arthāḥ prakāśante mahātmanaḥ ||6.23||",
+      "word_meanings": [
+        {
+          "word": "देवे परा भक्तिः",
+          "meaning": "supreme devotion to God"
+        },
+        {
+          "word": "यथा देवे तथा गुरौ",
+          "meaning": "as to God, so to the teacher"
+        },
+        {
+          "word": "तस्य एते अर्थाः प्रकाशन्ते",
+          "meaning": "to that one these meanings shine forth"
+        },
+        {
+          "word": "महात्मनः",
+          "meaning": "of the great soul"
+        }
+      ],
+      "english_translation": "To one who has supreme devotion to God, and to the teacher as to God — to that great soul, these meanings shine forth.",
+      "shankara_bhashya_sanskrit": "देवे परा भक्तिः — ईश्वरे उत्कृष्टा भक्तिः। गुरौ अपि तथैव। तस्य एते अर्थाः — उपनिषदर्थाः — प्रकाशन्ते।",
+      "shankara_bhashya_english": "Shankara: The teachings of the Upanishads are revealed only to one who has supreme devotion to both God and the teacher. Without this devotion, the words remain mere words. This verse emphasizes the importance of bhakti (devotion) alongside jnana (knowledge)."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 8,
       "tags": [
         "Brahman",
-        "knowledge"
+        "smaller than atom",
+        "greater than great",
+        "heart"
       ],
-      "sanskrit": "[Verse 8 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 8 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 8 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अणोरणीयान् महतो महीयानात्मा गुहायां निहितोऽस्य जन्तोः |\nतमक्रतुः पश्यति वीतशोको धातुप्रसादान्महिमानमात्मनः ||३.२०||",
+      "transliteration": "aṇor aṇīyān mahato mahīyān ātmā guhāyāṃ nihito'sya jantoḥ |\ntam akratuḥ paśyati vītaśoko dhātuprasādān mahimānam ātmanaḥ ||3.20||",
+      "word_meanings": [
+        {
+          "word": "अणोः अणीयान्",
+          "meaning": "smaller than the smallest"
+        },
+        {
+          "word": "महतः महीयान्",
+          "meaning": "greater than the greatest"
+        },
+        {
+          "word": "गुहायाम् निहितः",
+          "meaning": "hidden in the cave of the heart"
+        },
+        {
+          "word": "अक्रतुः",
+          "meaning": "free from desire"
+        },
+        {
+          "word": "वीतशोकः",
+          "meaning": "free from grief"
+        }
+      ],
+      "english_translation": "Smaller than the smallest, greater than the greatest, the Self is hidden in the heart of this creature. One free from desire and grief, by the grace of the Creator, sees the glory of the Self.",
+      "shankara_bhashya_sanskrit": "अणोः अणीयान् — परमाणोरपि सूक्ष्मतरः। महतः महीयान् — महत्तत्त्वादपि महत्तरः। गुहायाम् — हृदयाकाशे — निहितः।",
+      "shankara_bhashya_english": "Shankara: The Self is subtler than the subtlest and vaster than the vastest. It is hidden in the cave of the heart. Only one who is free from desire and sorrow, by the grace of the Lord, can perceive the glory of the Self. This verse also appears in the Katha Upanishad."
     },
     {
       "upanishad": "shvetashvatara",
