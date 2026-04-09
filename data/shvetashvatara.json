@@ -610,84 +610,214 @@
       "verse_number": 17,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "net",
+        "maya",
+        "world"
       ],
-      "sanskrit": "[Verse 17 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 17 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 17 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रो मायाभिः पुरुरूप ईयते | युक्ता ह्यस्य हरयः शता दश | अयं च हस्त्यायुधश्च | स एष एकः ||४.१४||",
+      "transliteration": "indro māyābhiḥ pururūpa īyate | yuktā hy asya harayaḥ śatā daśa | ayaṃ ca hasty āyudhaś ca | sa eṣa ekaḥ ||4.14||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रः मायाभिः",
+          "meaning": "Indra by his powers of maya"
+        },
+        {
+          "word": "पुरुरूपः ईयते",
+          "meaning": "appears in many forms"
+        },
+        {
+          "word": "हरयः शता दश",
+          "meaning": "a thousand horses"
+        },
+        {
+          "word": "स एषः एकः",
+          "meaning": "he is indeed one"
+        }
+      ],
+      "english_translation": "Indra appears in many forms through his powers of maya. His horses are a thousand. He is indeed one.",
+      "shankara_bhashya_sanskrit": "इन्द्रः — परमेश्वरः — मायाभिः — शक्तिभिः — पुरुरूपः — बहुरूपः — ईयते। स एकः — अद्वितीयः।",
+      "shankara_bhashya_english": "Shankara: The Lord appears in many forms through his maya (creative power). Though appearing as many, he is indeed one. This is the teaching of unity in diversity — the one Brahman appears as the many through maya."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 18,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "net",
+        "maya",
+        "world",
+        "liberation"
       ],
-      "sanskrit": "[Verse 18 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 18 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 18 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न तस्य कार्यं करणं च विद्यते न तत्समश्चाभ्यधिकश्च दृश्यते | परास्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च ||६.८||",
+      "transliteration": "na tasya kāryaṃ karaṇaṃ ca vidyate na tat samaś cābhyadhikaś ca dṛśyate | parāsya śaktir vividhaiva śrūyate svābhāvikī jñānabalakriyā ca ||6.8||",
+      "word_meanings": [
+        {
+          "word": "न कार्यम् करणम् च",
+          "meaning": "no effect and no instrument"
+        },
+        {
+          "word": "न तत्समः न अभ्यधिकः",
+          "meaning": "none equal to him, none superior"
+        },
+        {
+          "word": "परा शक्तिः विविधा",
+          "meaning": "his supreme power is manifold"
+        },
+        {
+          "word": "स्वाभाविकी ज्ञानबलक्रिया",
+          "meaning": "natural knowledge, strength, and action"
+        }
+      ],
+      "english_translation": "He has no effect and no instrument. None is seen equal to him or superior. His supreme power is heard to be manifold — natural knowledge, strength, and action.",
+      "shankara_bhashya_sanskrit": "न कार्यम् — न करणम् — ईश्वरस्य। न तत्समः — न अभ्यधिकः — कश्चित्। परा शक्तिः — स्वाभाविकी — ज्ञानबलक्रिया।",
+      "shankara_bhashya_english": "Shankara: The Lord has no external instrument or effect — he creates through his own inherent power. None is equal to him or superior. His power is natural — not acquired — and manifests as knowledge, strength, and action. This describes the absolute supremacy of Brahman."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 19,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "liberation",
+        "grace",
+        "devotion"
       ],
-      "sanskrit": "[Verse 19 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 19 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 19 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वाजीवे सर्वसंस्थे बृहन्ते तस्मिन्हंसो भ्राम्यते ब्रह्मचक्रे ||१.६||",
+      "transliteration": "sarvājīve sarvasaṃsthe bṛhante tasmin haṃso bhrāmyate brahmacakre ||1.6||",
+      "word_meanings": [
+        {
+          "word": "सर्वाजीवे सर्वसंस्थे",
+          "meaning": "in which all life, all existence"
+        },
+        {
+          "word": "बृहन्ते",
+          "meaning": "the vast"
+        },
+        {
+          "word": "ब्रह्मचक्रे",
+          "meaning": "in the wheel of Brahman"
+        },
+        {
+          "word": "हंसः भ्राम्यते",
+          "meaning": "the swan (individual soul) wanders"
+        }
+      ],
+      "english_translation": "In this vast wheel of Brahman, in which all life and all existence rests, the swan (individual soul) wanders.",
+      "shankara_bhashya_sanskrit": "ब्रह्मचक्रे — संसारचक्रे — हंसः — जीवः — भ्राम्यते — जन्ममरणचक्रे।",
+      "shankara_bhashya_english": "Shankara: The individual soul (hamsa/swan) wanders in the vast wheel of Brahman — the cycle of samsara. It wanders because it does not recognize its identity with the Lord. When it does recognize this, it is freed from the wheel."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 20,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "liberation",
+        "grace",
+        "devotion"
       ],
-      "sanskrit": "[Verse 20 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 20 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 20 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "पृथगात्मानं प्रेरितारं च मत्वा जुष्टस्ततस्तेनामृतत्वमेति ||१.६||",
+      "transliteration": "pṛthag ātmānaṃ preritāraṃ ca matvā juṣṭas tatas tenāmṛtatvam eti ||1.6||",
+      "word_meanings": [
+        {
+          "word": "पृथक् आत्मानम्",
+          "meaning": "the Self as separate"
+        },
+        {
+          "word": "प्रेरितारम्",
+          "meaning": "the impeller/Lord"
+        },
+        {
+          "word": "मत्वा",
+          "meaning": "having known"
+        },
+        {
+          "word": "जुष्टः",
+          "meaning": "graced by him"
+        },
+        {
+          "word": "अमृतत्वम् एति",
+          "meaning": "attains immortality"
+        }
+      ],
+      "english_translation": "Having known the Self as separate from the impeller, and being graced by it, one attains immortality.",
+      "shankara_bhashya_sanskrit": "पृथक् आत्मानम् — जीवम् — प्रेरितारम् — ईश्वरम् — मत्वा — जुष्टः — अमृतत्वम् एति।",
+      "shankara_bhashya_english": "Shankara: When the individual soul recognizes the Lord as the impeller and is graced by him, it attains immortality. This is the theistic path of the Shvetashvatara — grace of the Lord leads to liberation."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 21,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "yoga",
+        "meditation",
+        "liberation"
       ],
-      "sanskrit": "[Verse 21 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 21 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 21 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ज्ञाज्ञौ द्वावजावीशनीशौ छायातपौ ब्रह्मपरौ च तौ | एकः सर्वभूतेषु गूढः ||१.९||",
+      "transliteration": "jñājñau dvāv ajāv īśanīśau chāyātapau brahmaparau ca tau | ekaḥ sarvabhūteṣu gūḍhaḥ ||1.9||",
+      "word_meanings": [
+        {
+          "word": "ज्ञः अज्ञः द्वौ",
+          "meaning": "the knower and the non-knower, two"
+        },
+        {
+          "word": "अजौ",
+          "meaning": "unborn"
+        },
+        {
+          "word": "ईशः अनीशः",
+          "meaning": "the lord and the non-lord"
+        },
+        {
+          "word": "छाया आतपौ",
+          "meaning": "shadow and sunshine"
+        },
+        {
+          "word": "एकः सर्वभूतेषु गूढः",
+          "meaning": "one hidden in all beings"
+        }
+      ],
+      "english_translation": "Two unborn ones — the knower and the non-knower, the lord and the non-lord, shadow and sunshine — and one hidden in all beings.",
+      "shankara_bhashya_sanskrit": "ज्ञः — ईश्वरः — अज्ञः — जीवः — द्वौ अजौ। एकः — परमात्मा — सर्वभूतेषु गूढः।",
+      "shankara_bhashya_english": "Shankara: Two unborn ones — the Lord (the knower, the controller) and the individual soul (the non-knower, the controlled). And one — the supreme Self — hidden in all beings. This describes the three realities of the Shvetashvatara: God, soul, and world, with the supreme Self as the ground of all."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 22,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "liberation",
+        "grace",
+        "devotion",
+        "final"
       ],
-      "sanskrit": "[Verse 22 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 22 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 22 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यस्य देवे परा भक्तिर्यथा देवे तथा गुरौ | तस्यैते कथिता ह्यर्थाः प्रकाशन्ते महात्मनः ||६.२३||",
+      "transliteration": "yasya deve parā bhaktir yathā deve tathā gurau | tasyaite kathitā hy arthāḥ prakāśante mahātmanaḥ ||6.23||",
+      "word_meanings": [
+        {
+          "word": "देवे परा भक्तिः",
+          "meaning": "supreme devotion to God"
+        },
+        {
+          "word": "यथा देवे तथा गुरौ",
+          "meaning": "as to God, so to the teacher"
+        },
+        {
+          "word": "तस्य एते अर्थाः प्रकाशन्ते",
+          "meaning": "to that one these meanings shine forth"
+        },
+        {
+          "word": "महात्मनः",
+          "meaning": "of the great soul"
+        }
+      ],
+      "english_translation": "To one who has supreme devotion to God, and to the teacher as to God — to that great soul, these meanings shine forth.",
+      "shankara_bhashya_sanskrit": "देवे परा भक्तिः — ईश्वरे उत्कृष्टा भक्तिः। गुरौ अपि तथैव। तस्य एते अर्थाः — उपनिषदर्थाः — प्रकाशन्ते।",
+      "shankara_bhashya_english": "Shankara: The teachings of the Upanishads are revealed only to one who has supreme devotion to both God and the teacher. Without this devotion, the words remain mere words. This concluding verse of the Shvetashvatara emphasizes that bhakti (devotion) is essential for the knowledge of Brahman to shine forth."
     },
     {
       "upanishad": "shvetashvatara",

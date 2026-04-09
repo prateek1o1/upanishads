@@ -904,84 +904,190 @@
       "verse_number": 27,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "scale",
+        "gods"
       ],
-      "sanskrit": "[Verse 27 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 27 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 27 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स एको मानुषानन्दः | ते ये शतं मनुष्यगन्धर्वाणामानन्दाः | स एको मनुष्यगन्धर्वाणामानन्दः ||२.८.१||",
+      "transliteration": "sa eko mānuṣānandaḥ | te ye śataṃ manuṣyagandharvāṇām ānandāḥ | sa eko manuṣyagandharvāṇām ānandaḥ ||2.8.1||",
+      "word_meanings": [
+        {
+          "word": "एकः मानुषानन्दः",
+          "meaning": "one unit of human bliss"
+        },
+        {
+          "word": "शतम् मनुष्यगन्धर्वाणाम् आनन्दाः",
+          "meaning": "a hundred units of human gandharva bliss"
+        },
+        {
+          "word": "एकः मनुष्यगन्धर्वाणाम् आनन्दः",
+          "meaning": "one unit of human gandharva bliss"
+        }
+      ],
+      "english_translation": "That is one unit of human bliss. A hundred units of human bliss equal one unit of human gandharva bliss.",
+      "shankara_bhashya_sanskrit": "एकः मानुषानन्दः — मनुष्यस्य परमानन्दः — एकः मनुष्यगन्धर्वानन्दः।",
+      "shankara_bhashya_english": "Shankara: The scale of bliss continues upward. One unit of human bliss equals one unit of human gandharva bliss. This scale continues through divine gandharvas, ancestors, gods, Indra, Brihaspati, Prajapati, and finally Brahman — whose bliss is infinite."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 28,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "Indra",
+        "Prajapati"
       ],
-      "sanskrit": "[Verse 28 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 28 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 28 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ते ये शतं देवानामानन्दाः | स एको देवानामानन्दः | स एको बृहस्पतेरानन्दः ||२.८.१||",
+      "transliteration": "te ye śataṃ devānām ānandāḥ | sa eko devānām ānandaḥ | sa eko bṛhaspater ānandaḥ ||2.8.1||",
+      "word_meanings": [
+        {
+          "word": "शतम् देवानाम् आनन्दाः",
+          "meaning": "a hundred units of divine bliss"
+        },
+        {
+          "word": "एकः देवानाम् आनन्दः",
+          "meaning": "one unit of divine bliss"
+        },
+        {
+          "word": "एकः बृहस्पतेः आनन्दः",
+          "meaning": "one unit of Brihaspati's bliss"
+        }
+      ],
+      "english_translation": "A hundred units of divine bliss equal one unit of divine bliss. That equals one unit of Brihaspati's bliss.",
+      "shankara_bhashya_sanskrit": "देवानाम् आनन्दः — बृहस्पतेः आनन्दः — प्रजापतेः आनन्दः — ब्रह्मानन्दः — क्रमेण वर्धते।",
+      "shankara_bhashya_english": "Shankara: The scale of bliss continues upward through the gods to Brihaspati, Prajapati, and finally Brahman. Each level is a hundred times greater than the previous. This shows that all bliss is a fraction of Brahman's infinite bliss."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 29,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "Brahman",
+        "infinite"
       ],
-      "sanskrit": "[Verse 29 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 29 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 29 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ते ये शतं प्रजापतेरानन्दाः | स एको ब्रह्मण आनन्दः | स य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते ||२.८.१||",
+      "transliteration": "te ye śataṃ prajāpater ānandāḥ | sa eko brahmaṇa ānandaḥ | sa ya eṣo'ntarāditye hiraṇmayaḥ puruṣo dṛśyate ||2.8.1||",
+      "word_meanings": [
+        {
+          "word": "शतम् प्रजापतेः आनन्दाः",
+          "meaning": "a hundred units of Prajapati's bliss"
+        },
+        {
+          "word": "एकः ब्रह्मणः आनन्दः",
+          "meaning": "one unit of Brahman's bliss"
+        },
+        {
+          "word": "अन्तरादित्ये हिरण्मयः पुरुषः",
+          "meaning": "the golden Person within the sun"
+        }
+      ],
+      "english_translation": "A hundred units of Prajapati's bliss equal one unit of Brahman's bliss. That is the golden Person seen within the sun.",
+      "shankara_bhashya_sanskrit": "ब्रह्मणः आनन्दः — अनन्तः। सर्वे आनन्दाः — ब्रह्मानन्दस्य अंशाः।",
+      "shankara_bhashya_english": "Shankara: Brahman's bliss is infinite — all other bliss is a fraction of it. The golden Person within the sun is Brahman in its cosmic form. All beings seek happiness because they are seeking Brahman — the source of all bliss."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 30,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "liberation",
+        "final"
       ],
-      "sanskrit": "[Verse 30 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 30 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 30 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सोऽश्नुते सर्वान् कामान् सह | ब्रह्मणा विपश्चितेति ||२.१.१||",
+      "transliteration": "so'śnute sarvān kāmān saha | brahmaṇā vipaściteti ||2.1.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वान् कामान् अश्नुते",
+          "meaning": "attains all desires"
+        },
+        {
+          "word": "सह ब्रह्मणा",
+          "meaning": "together with Brahman"
+        },
+        {
+          "word": "विपश्चित",
+          "meaning": "the all-knowing one"
+        }
+      ],
+      "english_translation": "He attains all desires together with the all-knowing Brahman.",
+      "shankara_bhashya_sanskrit": "सर्वान् कामान् अश्नुते — सह ब्रह्मणा — ब्रह्मैव भूत्वा — सर्वान् कामान् प्राप्नोति।",
+      "shankara_bhashya_english": "Shankara: The knower of Brahman attains all desires — not by fulfilling individual desires one by one, but by becoming Brahman itself, which is the fulfillment of all desires. When one becomes the all-knowing Brahman, there is nothing left to desire."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 31,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "liberation",
+        "final"
       ],
-      "sanskrit": "[Verse 31 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 31 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 31 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "आनन्दो ब्रह्मेति व्यजानात् | आनन्दाद्ध्येव खल्विमानि भूतानि जायन्ते | आनन्देन जातानि जीवन्ति | आनन्दं प्रयन्त्यभिसंविशन्तीति ||३.६.१||",
+      "transliteration": "ānando brahmeti vyajānāt | ānandād dhy eva khalv imāni bhūtāni jāyante | ānandena jātāni jīvanti | ānandaṃ prayanty abhisaṃviśantīti ||3.6.1||",
+      "word_meanings": [
+        {
+          "word": "आनन्दः ब्रह्म",
+          "meaning": "bliss is Brahman"
+        },
+        {
+          "word": "आनन्दात् जायन्ते",
+          "meaning": "are born from bliss"
+        },
+        {
+          "word": "आनन्देन जीवन्ति",
+          "meaning": "live by bliss"
+        },
+        {
+          "word": "आनन्दम् प्रयन्ति",
+          "meaning": "return into bliss"
+        }
+      ],
+      "english_translation": "He knew: Bliss is Brahman. For from bliss alone are all these beings born; by bliss they live once born; into bliss they return at death.",
+      "shankara_bhashya_sanskrit": "आनन्दः — परमानन्दः — ब्रह्मैव। सर्वाणि भूतानि आनन्दात् जायन्ते — ब्रह्मण एव उत्पद्यन्ते।",
+      "shankara_bhashya_english": "Shankara: Bliss is Brahman itself. All beings are born from Brahman-bliss, sustained by it, and return to it. This is Bhrigu's final realization — the ultimate ground is pure bliss (ananda). This is the culminating teaching of the Taittiriya Upanishad."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 32,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "liberation",
+        "final"
       ],
-      "sanskrit": "[Verse 32 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 32 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 32 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अहमन्नमहमन्नमहमन्नम् | अहमन्नादोऽहमन्नादोऽहमन्नादः | अहं श्लोककृदहं श्लोककृदहं श्लोककृत् ||३.१०.६||",
+      "transliteration": "aham annam aham annam aham annam | aham annādo'ham annādo'ham annādaḥ | ahaṃ ślokakṛd ahaṃ ślokakṛd ahaṃ ślokakṛt ||3.10.6||",
+      "word_meanings": [
+        {
+          "word": "अहम् अन्नम्",
+          "meaning": "I am food"
+        },
+        {
+          "word": "अहम् अन्नादः",
+          "meaning": "I am the eater of food"
+        },
+        {
+          "word": "अहम् श्लोककृत्",
+          "meaning": "I am the maker of verses/glory"
+        }
+      ],
+      "english_translation": "I am food! I am food! I am food! I am the eater of food! I am the eater of food! I am the eater of food! I am the maker of glory!",
+      "shankara_bhashya_sanskrit": "अहम् अन्नम् — अहम् ब्रह्म — अन्नरूपम्। अहम् अन्नादः — अहम् ब्रह्म — अन्नादरूपम्। उभयम् अहम् एव।",
+      "shankara_bhashya_english": "Shankara: This ecstatic declaration of the liberated sage expresses the realization of non-duality. 'I am food' — I am the object. 'I am the eater' — I am the subject. Both subject and object are Brahman. The liberated one sees no distinction between the eater and the eaten — all is Brahman."
     },
     {
       "upanishad": "taittiriya",

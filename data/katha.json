@@ -1208,57 +1208,141 @@
       "upanishad": "katha",
       "verse_number": 36,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 36 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 36 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 36 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यदेवेह तदमुत्र यदमुत्र तदन्विह | मृत्योः स मृत्युमाप्नोति य इह नानेव पश्यति ||२.१.१०||",
+      "transliteration": "yad eveha tad amutra yad amutra tad anv iha | mṛtyoḥ sa mṛtyum āpnoti ya iha nāneva paśyati ||2.1.10||",
+      "word_meanings": [
+        {
+          "word": "यत् इह तत् अमुत्र",
+          "meaning": "what is here is there"
+        },
+        {
+          "word": "यत् अमुत्र तत् इह",
+          "meaning": "what is there is here"
+        },
+        {
+          "word": "मृत्योः मृत्युम् आप्नोति",
+          "meaning": "goes from death to death"
+        },
+        {
+          "word": "नाना इव पश्यति",
+          "meaning": "sees as if many"
+        }
+      ],
+      "english_translation": "What is here is there; what is there is here. One who sees as if there is multiplicity goes from death to death.",
+      "shankara_bhashya_sanskrit": "यत् इह — यत् अस्मिन् लोके — तत् अमुत्र — परलोकेऽपि। नाना इव पश्यति — भेदम् पश्यति — मृत्योः मृत्युम् आप्नोति।",
+      "shankara_bhashya_english": "Shankara: The same Brahman is here and there — in this world and the next. One who sees multiplicity — who perceives the world as many separate things — goes from death to death, continuing in samsara. Only the vision of unity leads to liberation."
     },
     {
       "upanishad": "katha",
       "verse_number": 37,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "mind",
+        "senses",
+        "control",
+        "liberation"
       ],
-      "sanskrit": "[Verse 37 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 37 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 37 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "मनसैवेदमाप्तव्यं नेह नानास्ति किञ्चन | मृत्योः स मृत्युं गच्छति य इह नानेव पश्यति ||२.१.११||",
+      "transliteration": "manasaivedam āptavyaṃ neha nānāsti kiñcana | mṛtyoḥ sa mṛtyuṃ gacchati ya iha nāneva paśyati ||2.1.11||",
+      "word_meanings": [
+        {
+          "word": "मनसा एव इदम् आप्तव्यम्",
+          "meaning": "this is to be attained by the mind alone"
+        },
+        {
+          "word": "न इह नाना अस्ति किञ्चन",
+          "meaning": "there is no multiplicity here whatsoever"
+        },
+        {
+          "word": "मृत्योः मृत्युम् गच्छति",
+          "meaning": "goes from death to death"
+        }
+      ],
+      "english_translation": "This is to be attained by the mind alone. There is no multiplicity here whatsoever. One who sees multiplicity here goes from death to death.",
+      "shankara_bhashya_sanskrit": "मनसा एव — शुद्धेन मनसा — इदम् — ब्रह्म — आप्तव्यम्। न इह नाना — ब्रह्मणि भेदः नास्ति।",
+      "shankara_bhashya_english": "Shankara: Brahman is to be attained by the purified mind alone — not by external means. In Brahman there is no multiplicity whatsoever. One who sees multiplicity continues in samsara. The vision of unity — seeing Brahman everywhere — is liberation."
     },
     {
       "upanishad": "katha",
       "verse_number": 38,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Purusha",
+        "thumb",
+        "heart",
+        "eternal"
       ],
-      "sanskrit": "[Verse 38 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 38 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 38 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अङ्गुष्ठमात्रः पुरुषोऽन्तरात्मा सदा जनानां हृदये सन्निविष्टः | तं स्वाच्छरीरात्प्रवृहेन्मुञ्जादिवेषीकां धैर्येण | तं विद्याच्छुक्रममृतं तं विद्याच्छुक्रममृतमिति ||२.३.१७||",
+      "transliteration": "aṅguṣṭhamātraḥ puruṣo'ntarātmā sadā janānāṃ hṛdaye sanniviṣṭaḥ | taṃ svāc charīrāt pravṛhen muñjād iveṣīkāṃ dhairyeṇa | taṃ vidyāc chukram amṛtaṃ taṃ vidyāc chukram amṛtam iti ||2.3.17||",
+      "word_meanings": [
+        {
+          "word": "अङ्गुष्ठमात्रः पुरुषः",
+          "meaning": "the Person of the size of a thumb"
+        },
+        {
+          "word": "हृदये सन्निविष्टः",
+          "meaning": "seated in the heart"
+        },
+        {
+          "word": "मुञ्जात् इषीकाम्",
+          "meaning": "the reed from the munja grass"
+        },
+        {
+          "word": "धैर्येण प्रवृहेत्",
+          "meaning": "draw out with courage"
+        },
+        {
+          "word": "शुक्रम् अमृतम्",
+          "meaning": "the pure, the immortal"
+        }
+      ],
+      "english_translation": "The Person of the size of a thumb, the inner Self, always dwells in the heart of all people. One should draw it out from one's body with courage, as one draws the reed from munja grass. Know it as the pure, the immortal.",
+      "shankara_bhashya_sanskrit": "अङ्गुष्ठमात्रः — हृदयाकाशे — सन्निविष्टः। मुञ्जात् इषीकाम् इव — शरीरात् — धैर्येण — प्रवृहेत्।",
+      "shankara_bhashya_english": "Shankara: The Self dwells in the heart like a thumb-sized flame. One should draw it out from the body — separate it from identification with the body — with courage and discrimination, just as one draws a reed from munja grass. Know it as the pure, immortal Brahman."
     },
     {
       "upanishad": "katha",
       "verse_number": 39,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 39 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 39 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 39 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "मृत्युप्रोक्तां नचिकेतोऽथ लब्ध्वा विद्यामेतां योगविधिं च कृत्स्नम् | ब्रह्मप्राप्तो विरजोऽभूद्विमृत्युरन्योऽप्येवं यो विदध्यात्ममेव ||३.१.१८||",
+      "transliteration": "mṛtyuproktāṃ naciketaḥ atha labdhvā vidyām etāṃ yogavidhiṃ ca kṛtsnam | brahmprāpto virajo'bhūd vimṛtyur anyo'py evaṃ yo vid adhyātmam eva ||3.1.18||",
+      "word_meanings": [
+        {
+          "word": "मृत्युप्रोक्ताम् विद्याम्",
+          "meaning": "the knowledge taught by Death"
+        },
+        {
+          "word": "योगविधिम् कृत्स्नम्",
+          "meaning": "the complete method of yoga"
+        },
+        {
+          "word": "ब्रह्मप्राप्तः",
+          "meaning": "having attained Brahman"
+        },
+        {
+          "word": "विरजः अभूत् विमृत्युः",
+          "meaning": "became stainless, free from death"
+        },
+        {
+          "word": "अन्यः अपि एवम्",
+          "meaning": "another also, who knows thus"
+        }
+      ],
+      "english_translation": "Nachiketa, having received this knowledge taught by Death and the complete method of yoga, attained Brahman and became stainless, free from death. So too will anyone else who knows the Self thus.",
+      "shankara_bhashya_sanskrit": "नचिकेताः — मृत्युप्रोक्ताम् विद्याम् — लब्ध्वा — ब्रह्मप्राप्तः — विरजः — विमृत्युः — अभूत्।",
+      "shankara_bhashya_english": "Shankara: This is the concluding verse of the Katha Upanishad. Nachiketa, having received the complete teaching from Yama — the knowledge of the Self and the method of yoga — attained Brahman and became free from death. The Upanishad ends with the promise that anyone who knows the Self thus will attain the same liberation."
     },
     {
       "upanishad": "katha",

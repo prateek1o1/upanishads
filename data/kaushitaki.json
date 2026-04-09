@@ -481,70 +481,171 @@
       "verse_number": 16,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 16 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 16 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 16 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न गन्धं विजिज्ञासीत घ्रातारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na gandhaṃ vijijñāsīta ghrātāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "न वाचम् विजिज्ञासीत",
+          "meaning": "one should not inquire into speech"
+        },
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "one should know the speaker"
+        },
+        {
+          "word": "न गन्धम् विजिज्ञासीत",
+          "meaning": "one should not inquire into smell"
+        },
+        {
+          "word": "घ्रातारम् विद्यात्",
+          "meaning": "one should know the smeller"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into smell — one should know the smeller.",
+      "shankara_bhashya_sanskrit": "वाचम् न विजिज्ञासीत — वाक् विषयः न। वक्तारम् विद्यात् — वक्ता — आत्मा — विद्यात्।",
+      "shankara_bhashya_english": "Shankara: Do not inquire into the object (speech, smell, etc.) — inquire into the subject (the speaker, the smeller). The objects are finite and changing; the subject — the Self — is the eternal knower. This is the method of self-inquiry: turn attention from the object to the subject."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 17,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 17 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 17 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 17 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न रूपं विजिज्ञासीत द्रष्टारं विद्यात् | न शब्दं विजिज्ञासीत श्रोतारं विद्यात् ||३.८||",
+      "transliteration": "na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt | na śabdaṃ vijijñāsīta śrotāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "न रूपम् विजिज्ञासीत",
+          "meaning": "one should not inquire into form"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "one should know the seer"
+        },
+        {
+          "word": "न शब्दम् विजिज्ञासीत",
+          "meaning": "one should not inquire into sound"
+        },
+        {
+          "word": "श्रोतारम् विद्यात्",
+          "meaning": "one should know the hearer"
+        }
+      ],
+      "english_translation": "One should not inquire into form — one should know the seer. One should not inquire into sound — one should know the hearer.",
+      "shankara_bhashya_sanskrit": "रूपम् न विजिज्ञासीत — द्रष्टारम् विद्यात् — आत्मानम् विद्यात्।",
+      "shankara_bhashya_english": "Shankara: Do not inquire into form — inquire into the seer. Do not inquire into sound — inquire into the hearer. The seer and hearer are the Self — the eternal witness behind all perception. This is the direct path to self-knowledge."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 18,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 18 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 18 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 18 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न मनो विजिज्ञासीत मन्तारं विद्यात् | न बुद्धिं विजिज्ञासीत बोद्धारं विद्यात् ||३.८||",
+      "transliteration": "na mano vijijñāsīta mantāraṃ vidyāt | na buddhiṃ vijijñāsīta boddhāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "न मनः विजिज्ञासीत",
+          "meaning": "one should not inquire into mind"
+        },
+        {
+          "word": "मन्तारम् विद्यात्",
+          "meaning": "one should know the thinker"
+        },
+        {
+          "word": "न बुद्धिम् विजिज्ञासीत",
+          "meaning": "one should not inquire into intellect"
+        },
+        {
+          "word": "बोद्धारम् विद्यात्",
+          "meaning": "one should know the knower"
+        }
+      ],
+      "english_translation": "One should not inquire into mind — one should know the thinker. One should not inquire into intellect — one should know the knower.",
+      "shankara_bhashya_sanskrit": "मनः न विजिज्ञासीत — मन्तारम् विद्यात् — आत्मानम् विद्यात्। बुद्धिम् न विजिज्ञासीत — बोद्धारम् विद्यात्।",
+      "shankara_bhashya_english": "Shankara: Do not inquire into the mind — inquire into the thinker. Do not inquire into the intellect — inquire into the knower. The thinker and knower are the Self. This method of inquiry — turning from the instrument to the user of the instrument — leads directly to the Self."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 19,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 19 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 19 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 19 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न आत्मानं विजिज्ञासीत आत्मानं विद्यात् | एष ब्रह्मलोकः सम्राट् इति होवाच इन्द्रः ||३.८||",
+      "transliteration": "na ātmānaṃ vijijñāsīta ātmānaṃ vidyāt | eṣa brahmaloko samrāṭ iti hovāca indraḥ ||3.8||",
+      "word_meanings": [
+        {
+          "word": "आत्मानम् विजिज्ञासीत",
+          "meaning": "one should inquire into the Self"
+        },
+        {
+          "word": "आत्मानम् विद्यात्",
+          "meaning": "one should know the Self"
+        },
+        {
+          "word": "एषः ब्रह्मलोकः",
+          "meaning": "this is the world of Brahman"
+        },
+        {
+          "word": "सम्राट्",
+          "meaning": "O Emperor"
+        }
+      ],
+      "english_translation": "One should inquire into the Self — one should know the Self. This is the world of Brahman, O Emperor — thus said Indra.",
+      "shankara_bhashya_sanskrit": "आत्मानम् विजिज्ञासीत — आत्मानम् विद्यात् — एषः ब्रह्मलोकः — इन्द्रः उवाच।",
+      "shankara_bhashya_english": "Shankara: The culmination of all inquiry is the Self. Know the Self — this is the world of Brahman. Indra tells Pratardana that the knowledge of the Self is the highest knowledge, and one who knows the Self lives in the world of Brahman even while in this body."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 20,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness",
+        "final"
       ],
-      "sanskrit": "[Verse 20 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 20 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 20 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् | न किञ्चन वेदनेन मन्यते | न किञ्चन कर्मणा मन्यते ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam | na kiñcana vedanena manyate | na kiñcana karmaṇā manyate ||3.1||",
+      "word_meanings": [
+        {
+          "word": "एवम् विद्वान्",
+          "meaning": "one who knows thus"
+        },
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "न किञ्चन वेदनेन मन्यते",
+          "meaning": "does not think anything through pain"
+        },
+        {
+          "word": "न किञ्चन कर्मणा मन्यते",
+          "meaning": "does not think anything through action"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings. He does not think anything through pain; he does not think anything through action.",
+      "shankara_bhashya_sanskrit": "एवम् विद्वान् — सर्वाणि भूतानि — आत्मानम् एव पश्यति। न वेदनेन — न कर्मणा — किञ्चन मन्यते।",
+      "shankara_bhashya_english": "Shankara: The knower of Brahman sees all beings as the Self and the Self in all beings. He is not affected by pain or action — for he knows that the Self is beyond all pain and action. This is the state of liberation — seeing unity everywhere, unaffected by the pairs of opposites."
     },
     {
       "upanishad": "kaushitaki",
