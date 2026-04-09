@@ -512,65 +512,257 @@
       "upanishad": "katha",
       "verse_number": 16,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "thumb-sized",
+        "heart",
+        "Purusha"
       ],
-      "sanskrit": "[Verse 16 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 16 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 16 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अङ्गुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति | ईशानो भूतभव्यस्य न ततो विजुगुप्सते ||२.१.१२||",
+      "transliteration": "aṅguṣṭhamātraḥ puruṣo madhya ātmani tiṣṭhati | īśāno bhūtabhaviṣyasya na tato vijugupsate ||2.1.12||",
+      "word_meanings": [
+        {
+          "word": "अङ्गुष्ठमात्रः पुरुषः",
+          "meaning": "the Person of the size of a thumb"
+        },
+        {
+          "word": "मध्ये आत्मनि तिष्ठति",
+          "meaning": "stands in the middle of the Self"
+        },
+        {
+          "word": "ईशानः भूतभव्यस्य",
+          "meaning": "lord of the past and future"
+        },
+        {
+          "word": "न विजुगुप्सते",
+          "meaning": "does not shrink away"
+        }
+      ],
+      "english_translation": "The Person of the size of a thumb stands in the middle of the Self, lord of the past and future. One does not shrink away from that.",
+      "shankara_bhashya_sanskrit": "अङ्गुष्ठमात्रः — हृदयाकाशे अङ्गुष्ठपरिमाणः — उपाधिना। वास्तवतः अनन्तः।",
+      "shankara_bhashya_english": "Shankara: The Self is described as thumb-sized only in relation to its location in the heart — not as its actual size. In reality, the Self is infinite. The thumb-sized description is a meditation aid to locate the Self in the heart."
     },
     {
       "upanishad": "katha",
       "verse_number": 17,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "fire",
+        "smokeless",
+        "light",
+        "heart"
       ],
-      "sanskrit": "[Verse 17 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 17 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 17 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अङ्गुष्ठमात्रः पुरुषो ज्योतिरिवाधूमकः | ईशानो भूतभव्यस्य स एवाद्य स उ श्वः ||२.१.१३||",
+      "transliteration": "aṅguṣṭhamātraḥ puruṣo jyotir ivādhūmakaḥ | īśāno bhūtabhaviṣyasya sa evādya sa u śvaḥ ||2.1.13||",
+      "word_meanings": [
+        {
+          "word": "ज्योतिः इव अधूमकः",
+          "meaning": "like a smokeless flame"
+        },
+        {
+          "word": "ईशानः भूतभव्यस्य",
+          "meaning": "lord of past and future"
+        },
+        {
+          "word": "स एव अद्य स उ श्वः",
+          "meaning": "he is the same today and tomorrow"
+        }
+      ],
+      "english_translation": "The Person of the size of a thumb is like a smokeless flame, lord of the past and future. He is the same today and tomorrow.",
+      "shankara_bhashya_sanskrit": "ज्योतिः इव अधूमकः — धूमरहितः दीपः इव — शुद्धप्रकाशः। स एव अद्य — कालत्रयेऽपि अपरिवर्तनीयः।",
+      "shankara_bhashya_english": "Shankara: The Self is like a smokeless flame — pure light without any impurity. It is the lord of past and future — it transcends time. It is the same today and tomorrow — unchanging, eternal, beyond all modification."
     },
     {
       "upanishad": "katha",
       "verse_number": 18,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "beyond senses",
+        "subtle",
+        "known by intellect"
       ],
-      "sanskrit": "[Verse 18 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 18 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 18 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "नैव वाचा न मनसा प्राप्तुं शक्यो न चक्षुषा | अस्तीति ब्रुवतोऽन्यत्र कथं तदुपलभ्यते ||२.३.१२||",
+      "transliteration": "naiva vācā na manasā prāptuṃ śakyo na cakṣuṣā | astīti bruvato'nyatra kathaṃ tad upalabhyate ||2.3.12||",
+      "word_meanings": [
+        {
+          "word": "न वाचा प्राप्तुम् शक्यः",
+          "meaning": "cannot be attained by speech"
+        },
+        {
+          "word": "न मनसा",
+          "meaning": "not by mind"
+        },
+        {
+          "word": "न चक्षुषा",
+          "meaning": "not by eye"
+        },
+        {
+          "word": "अस्ति इति ब्रुवतः",
+          "meaning": "for one who says 'it exists'"
+        },
+        {
+          "word": "कथम् उपलभ्यते",
+          "meaning": "how is it perceived"
+        }
+      ],
+      "english_translation": "It cannot be attained by speech, nor by mind, nor by the eye. How is it perceived except by one who says 'it exists'?",
+      "shankara_bhashya_sanskrit": "न वाचा — वाचा न गृह्यते। न मनसा — मनसा न ज्ञायते। अस्ति इति ब्रुवतः — श्रद्धावतः — उपलभ्यते।",
+      "shankara_bhashya_english": "Shankara: The Self cannot be grasped by speech, mind, or eye. It is perceived only by one who has faith that it exists — who approaches it with shraddha (faith) and the guidance of a teacher. The Self reveals itself to the sincere seeker."
     },
     {
       "upanishad": "katha",
       "verse_number": 19,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "exists",
+        "faith",
+        "teacher",
+        "known"
       ],
-      "sanskrit": "[Verse 19 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 19 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 19 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अस्तीत्येवोपलब्धव्यस्तत्त्वभावेन चोभयोः | अस्तीत्येवोपलब्धस्य तत्त्वभावः प्रसीदति ||२.३.१३||",
+      "transliteration": "astīty evopalabdhavyas tattvabhāvena cobhayoḥ | astīty evopalabdhasya tattvabhāvaḥ prasīdati ||2.3.13||",
+      "word_meanings": [
+        {
+          "word": "अस्ति इति एव उपलब्धव्यः",
+          "meaning": "to be perceived as 'it exists'"
+        },
+        {
+          "word": "तत्त्वभावेन",
+          "meaning": "in its true nature"
+        },
+        {
+          "word": "उभयोः",
+          "meaning": "of both (existence and nature)"
+        },
+        {
+          "word": "प्रसीदति",
+          "meaning": "becomes clear, shines forth"
+        }
+      ],
+      "english_translation": "It is to be perceived as 'it exists' and in its true nature — of both. For one who has perceived it as 'it exists,' its true nature becomes clear.",
+      "shankara_bhashya_sanskrit": "अस्ति इति — प्रथमम् आत्मा अस्ति इति श्रद्धा। ततः तत्त्वभावः — स्वरूपज्ञानम् — प्रसीदति।",
+      "shankara_bhashya_english": "Shankara: The first step is faith that the Self exists (astita). The second step is knowing its true nature (tattvabhava). For one who has the first — faith in the Self's existence — the second naturally follows. Faith opens the door to direct knowledge."
     },
     {
       "upanishad": "katha",
       "verse_number": 20,
       "tags": [
         "Atman",
-        "smaller than small",
-        "greater than great"
+        "subtler than subtle",
+        "greater than great",
+        "heart"
+      ],
+      "sanskrit": "यच्छेद्वाङ्मनसी प्राज्ञस्तद्यच्छेज्ज्ञान आत्मनि | ज्ञानमात्मनि महति नियच्छेत्तद्यच्छेच्छान्त आत्मनि ||१.३.१३||",
+      "transliteration": "yacched vāṅ manasī prājñas tad yacchej jñāna ātmani | jñānam ātmani mahati niyacchet tad yacchec chānta ātmani ||1.3.13||",
+      "word_meanings": [
+        {
+          "word": "वाक् मनसी यच्छेत्",
+          "meaning": "let him restrain speech in mind"
+        },
+        {
+          "word": "मनः ज्ञाने यच्छेत्",
+          "meaning": "let him restrain mind in the knowing Self"
+        },
+        {
+          "word": "ज्ञानम् महति आत्मनि",
+          "meaning": "knowledge in the great Self"
+        },
+        {
+          "word": "शान्ते आत्मनि",
+          "meaning": "in the peaceful Self"
+        }
+      ],
+      "english_translation": "Let the wise restrain speech in mind, mind in the knowing Self, the knowing Self in the great Self, and that in the peaceful Self.",
+      "shankara_bhashya_sanskrit": "वाक् मनसि — वाचम् मनसि लयं नयेत्। मनः ज्ञाने — मनः बुद्धौ। ज्ञानम् महति — बुद्धिम् महत्तत्त्वे। तत् शान्ते — शान्ते ब्रह्मणि।",
+      "shankara_bhashya_english": "Shankara: This describes the yogic process of withdrawal (pratyahara). Speech is dissolved into mind, mind into intellect, intellect into the great Self (mahat), and that into the peaceful Brahman. This is the path of meditation leading to samadhi."
+    },
+    {
+      "upanishad": "katha",
+      "verse_number": 21,
+      "tags": [
+        "Atman",
+        "rise",
+        "awake",
+        "Brahman",
+        "rare"
+      ],
+      "sanskrit": "उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत | क्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदन्ति ||१.३.१४||",
+      "transliteration": "uttiṣṭhata jāgrata prāpya varān nibodhata | kṣurasya dhārā niśitā duratyayā durgaṃ pathas tat kavayo vadanti ||1.3.14||",
+      "word_meanings": [
+        {
+          "word": "उत्तिष्ठत जाग्रत",
+          "meaning": "arise, awake"
+        },
+        {
+          "word": "प्राप्य वरान् निबोधत",
+          "meaning": "having reached the great, learn"
+        },
+        {
+          "word": "क्षुरस्य धारा",
+          "meaning": "the edge of a razor"
+        },
+        {
+          "word": "दुरत्यया",
+          "meaning": "hard to cross"
+        },
+        {
+          "word": "दुर्गम् पथः",
+          "meaning": "difficult path"
+        }
+      ],
+      "english_translation": "Arise, awake! Having reached the great, learn. The edge of a razor is sharp and hard to cross — the wise say the path is difficult.",
+      "shankara_bhashya_sanskrit": "उत्तिष्ठत — आलस्यम् त्यज। जाग्रत — अज्ञाननिद्राम् त्यज। क्षुरस्य धारा — तीक्ष्णा — दुरत्यया — दुःखेन अतिक्रम्यते।",
+      "shankara_bhashya_english": "Shankara: Arise from the sleep of ignorance! Awake to the knowledge of the Self! The path of self-knowledge is like the edge of a razor — sharp and difficult to walk. But having reached a great teacher, learn from him. This famous verse is a call to spiritual urgency."
+    },
+    {
+      "upanishad": "katha",
+      "verse_number": 22,
+      "tags": [
+        "Atman",
+        "unborn",
+        "eternal",
+        "ancient",
+        "not killed"
+      ],
+      "sanskrit": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhaviṣyati vā na bhūyaḥ | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते",
+          "meaning": "is not born"
+        },
+        {
+          "word": "न म्रियते",
+          "meaning": "does not die"
+        },
+        {
+          "word": "न भूत्वा भविता",
+          "meaning": "having been, will not be again"
+        },
+        {
+          "word": "अजः नित्यः",
+          "meaning": "unborn, eternal"
+        },
+        {
+          "word": "शाश्वतः पुराणः",
+          "meaning": "everlasting, ancient"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when the body is killed"
+        }
+      ],
+      "english_translation": "It is never born, nor does it ever die. Having come into being, it will not cease to be. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते — उत्पत्तिरहितः। न म्रियते — विनाशरहितः। अजः — जन्मरहितः। नित्यः — कालत्रयेऽपि अस्ति।",
+      "shankara_bhashya_english": "Shankara: The Self is beyond birth and death. It was not born, it does not die, it has no origin and no end. When the body is destroyed, the Self is not destroyed — for the Self is not the body. This verse also appears in the Bhagavad Gita (2.20) — one of the most quoted verses in all of Sanskrit literature."
+    },
+    {
+      "upanishad": "katha",
+      "verse_number": 23,
+      "tags": [
+        "Atman",
+        "smaller than atom",
+        "greater than great",
+        "grace"
       ],
       "sanskrit": "अणोरणीयान् महतो महीयानात्मास्य जन्तोर्निहितो गुहायाम् |\nतमक्रतुः पश्यति वीतशोको धातुप्रसादान्महिमानमात्मनः ||१.२.२०||",
       "transliteration": "aṇor aṇīyān mahato mahīyān ātmāsya jantor nihito guhāyām |\ntam akratuḥ paśyati vītaśoko dhātuprasādān mahimānam ātmanaḥ ||1.2.20||",
@@ -585,120 +777,88 @@
         },
         {
           "word": "गुहायाम् निहितः",
-          "meaning": "hidden in the cave (of the heart)"
+          "meaning": "hidden in the cave of the heart"
         },
         {
-          "word": "अक्रतुः",
-          "meaning": "one free from desire"
-        },
-        {
-          "word": "वीतशोकः",
-          "meaning": "free from grief"
+          "word": "अक्रतुः वीतशोकः",
+          "meaning": "free from desire and grief"
         },
         {
           "word": "धातुप्रसादात्",
           "meaning": "by the grace of the Creator"
         }
       ],
-      "english_translation": "The Self, smaller than the smallest, greater than the greatest, is hidden in the heart of this creature. One who is free from desire and grief, by the grace of the Creator, sees the glory of the Self.",
-      "shankara_bhashya_sanskrit": "अणोः अणीयान् — परमाणोरपि सूक्ष्मतरः। महतः महीयान् — महत्तत्त्वादपि महत्तरः। गुहायाम् — हृदयाकाशे — निहितः।",
-      "shankara_bhashya_english": "Shankara: The Self is subtler than the subtlest atom and vaster than the vastest. It is hidden in the cave of the heart. Only one who is free from desire and sorrow, by the grace of the Lord, can perceive the glory of the Self."
-    },
-    {
-      "upanishad": "katha",
-      "verse_number": 21,
-      "tags": [
-        "Brahman",
-        "knowledge"
-      ],
-      "sanskrit": "[Verse 21 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 21 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 21 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
-    },
-    {
-      "upanishad": "katha",
-      "verse_number": 22,
-      "tags": [
-        "Brahman",
-        "knowledge"
-      ],
-      "sanskrit": "[Verse 22 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 22 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 22 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
-    },
-    {
-      "upanishad": "katha",
-      "verse_number": 23,
-      "tags": [
-        "Atman",
-        "grace",
-        "cannot be known by intellect"
-      ],
-      "sanskrit": "नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन |\nयमेवैष वृणुते तेन लभ्यस्तस्यैष आत्मा विवृणुते तनूं स्वाम् ||१.२.२३||",
-      "transliteration": "nāyam ātmā pravacanena labhyo na medhayā na bahunā śrutena |\nyam evaisa vṛṇute tena labhyas tasyaiṣa ātmā vivṛṇute tanūṃ svām ||1.2.23||",
-      "word_meanings": [
-        {
-          "word": "न प्रवचनेन",
-          "meaning": "not by instruction/lectures"
-        },
-        {
-          "word": "न मेधया",
-          "meaning": "not by intellect"
-        },
-        {
-          "word": "न बहुना श्रुतेन",
-          "meaning": "not by much learning"
-        },
-        {
-          "word": "यम् एव एषः वृणुते",
-          "meaning": "whom this Self chooses"
-        },
-        {
-          "word": "तेन लभ्यः",
-          "meaning": "by that one it is attained"
-        },
-        {
-          "word": "विवृणुते तनूम्",
-          "meaning": "reveals its own form"
-        }
-      ],
-      "english_translation": "This Self cannot be attained by instruction, nor by intellect, nor by much learning. It is attained by the one whom it chooses — to that one the Self reveals its own form.",
-      "shankara_bhashya_sanskrit": "न प्रवचनेन — बहुशास्त्राध्ययनेन न लभ्यः। न मेधया — तर्कशक्त्या न गृह्यते। यम् एव एषः वृणुते — यस्मिन् प्रसीदति — तस्मै स्वयं प्रकाशते।",
-      "shankara_bhashya_english": "Shankara: The Self cannot be known through mere study of scriptures, nor through intellectual reasoning, nor through vast learning. It reveals itself only to the one it chooses — the one in whom it is pleased. This grace comes through sincere devotion and purity of heart."
+      "english_translation": "Smaller than the smallest, greater than the greatest, the Self is hidden in the heart of this creature. One free from desire and grief, by the grace of the Creator, sees the glory of the Self.",
+      "shankara_bhashya_sanskrit": "अणोः अणीयान् — परमाणोरपि सूक्ष्मतरः। महतः महीयान् — महत्तत्त्वादपि महत्तरः। धातुप्रसादात् — ईश्वरानुग्रहात्।",
+      "shankara_bhashya_english": "Shankara: The Self is subtler than the subtlest atom and vaster than the vastest. It is hidden in the cave of the heart. Only one who is free from desire and sorrow, by the grace of the Lord, can perceive the glory of the Self. Grace is essential — knowledge alone is not enough without divine grace."
     },
     {
       "upanishad": "katha",
       "verse_number": 24,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "beyond senses",
+        "beyond mind",
+        "pure",
+        "eternal"
       ],
-      "sanskrit": "[Verse 24 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 24 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 24 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond the senses are the objects"
+        },
+        {
+          "word": "अर्थेभ्यः परम् मनः",
+          "meaning": "beyond the objects is the mind"
+        },
+        {
+          "word": "मनसः परा बुद्धिः",
+          "meaning": "beyond the mind is the intellect"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond the intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा — इन्द्रियाणाम् विषयाः सूक्ष्मतराः। अर्थेभ्यः परम् मनः — विषयेभ्यः मनः सूक्ष्मतरम्।",
+      "shankara_bhashya_english": "Shankara: This describes the hierarchy of reality from gross to subtle. The senses are gross; their objects are subtler; the mind is subtler still; the intellect is subtler than the mind; and the great Self (mahat atman) is the subtlest of all. This is the map of consciousness used in Samkhya and Vedanta."
     },
     {
       "upanishad": "katha",
       "verse_number": 25,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "beyond mahat",
+        "avyakta",
+        "Purusha",
+        "liberation"
       ],
-      "sanskrit": "[Verse 25 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 25 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 25 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "अव्यक्तात् पुरुषः परः",
+          "meaning": "beyond the unmanifest is the Purusha"
+        },
+        {
+          "word": "पुरुषात् न परम् किञ्चित्",
+          "meaning": "beyond the Purusha there is nothing"
+        },
+        {
+          "word": "सा काष्ठा सा परा गतिः",
+          "meaning": "that is the end, that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परम् — महत्तत्त्वात् परम् — अव्यक्तम् — प्रकृतिः। अव्यक्तात् परः — पुरुषः — परब्रह्म। पुरुषात् परम् — नास्ति।",
+      "shankara_bhashya_english": "Shankara: Beyond the great Self is the unmanifest (avyakta/Prakriti); beyond that is the Purusha (Brahman). Beyond Brahman there is nothing — it is the ultimate end, the highest goal. All spiritual seeking culminates in the realization of Brahman."
     },
     {
       "upanishad": "katha",

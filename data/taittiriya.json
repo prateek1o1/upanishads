@@ -447,112 +447,266 @@
       "verse_number": 13,
       "tags": [
         "Brahman",
-        "knowledge"
+        "bliss",
+        "ananda",
+        "scale",
+        "hierarchy"
       ],
-      "sanskrit": "[Verse 13 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 13 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 13 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यो वै भूमा तत्सुखम् | नाल्पे सुखमस्ति | भूमैव सुखम् | भूमा त्वेव विजिज्ञासितव्यः ||२.८.१||",
+      "transliteration": "yo vai bhūmā tat sukham | nālpe sukham asti | bhūmaiva sukham | bhūmā tv eva vijijñāsitavyaḥ ||2.8.1||",
+      "word_meanings": [
+        {
+          "word": "भूमा",
+          "meaning": "the infinite, the fullness"
+        },
+        {
+          "word": "तत् सुखम्",
+          "meaning": "that is bliss"
+        },
+        {
+          "word": "न अल्पे सुखम्",
+          "meaning": "there is no bliss in the finite"
+        },
+        {
+          "word": "भूमा एव सुखम्",
+          "meaning": "the infinite alone is bliss"
+        },
+        {
+          "word": "विजिज्ञासितव्यः",
+          "meaning": "should be inquired into"
+        }
+      ],
+      "english_translation": "The infinite is bliss. There is no bliss in the finite. The infinite alone is bliss. The infinite alone should be inquired into.",
+      "shankara_bhashya_sanskrit": "भूमा — अनन्तम् — तत् सुखम्। अल्पे — परिच्छिन्ने — सुखम् नास्ति। भूमा — ब्रह्म — एव सुखम्।",
+      "shankara_bhashya_english": "Shankara: The infinite (Brahman) is bliss. Finite things cannot give true bliss — only temporary pleasure. The infinite Brahman alone is the source of all bliss. Therefore Brahman should be inquired into — this is the purpose of the Upanishad."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 14,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "fear",
+        "liberation",
+        "support"
       ],
-      "sanskrit": "[Verse 14 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 14 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 14 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यदा ह्येवैष एतस्मिन्नुदरमन्तरं कुरुते | अथ तस्य भयं भवति ||२.७.१||",
+      "transliteration": "yadā hy evaiṣa etasminn udaram antaraṃ kurute | atha tasya bhayaṃ bhavati ||2.7.1||",
+      "word_meanings": [
+        {
+          "word": "उदरम् अन्तरम् कुरुते",
+          "meaning": "makes even a slight separation"
+        },
+        {
+          "word": "तस्य भयम् भवति",
+          "meaning": "fear arises for him"
+        }
+      ],
+      "english_translation": "When one makes even a slight separation in this (Brahman), then fear arises for him.",
+      "shankara_bhashya_sanskrit": "एतस्मिन् — ब्रह्मणि — उदरम् अन्तरम् कुरुते — भेदम् पश्यति — तस्य भयम् भवति।",
+      "shankara_bhashya_english": "Shankara: When one sees even a slight separation or difference in Brahman — when one perceives duality — fear arises. Fear is the product of duality. In the non-dual Brahman, there is no 'other' to fear. This is why the Upanishad teaches unity."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 15,
       "tags": [
         "Brahman",
-        "knowledge"
+        "food",
+        "anna",
+        "worship",
+        "creation",
+        "first"
       ],
-      "sanskrit": "[Verse 15 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 15 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 15 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अन्नं ब्रह्मेति व्यजानात् | अन्नाद्धि खल्विमानि भूतानि जायन्ते | अन्नेन जातानि जीवन्ति | अन्नं प्रयन्त्यभिसंविशन्तीति ||३.२.१||",
+      "transliteration": "annaṃ brahmeti vyajānāt | annād dhi khalv imāni bhūtāni jāyante | annena jātāni jīvanti | annaṃ prayanty abhisaṃviśantīti ||3.2.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नम् ब्रह्म",
+          "meaning": "food is Brahman"
+        },
+        {
+          "word": "अन्नात् जायन्ते",
+          "meaning": "are born from food"
+        },
+        {
+          "word": "अन्नेन जीवन्ति",
+          "meaning": "live by food"
+        },
+        {
+          "word": "अन्नम् प्रयन्ति",
+          "meaning": "return into food"
+        }
+      ],
+      "english_translation": "He knew: food is Brahman. For from food alone are all these beings born; by food they live once born; into food they return at death.",
+      "shankara_bhashya_sanskrit": "अन्नम् ब्रह्म — अन्नम् ब्रह्मरूपम्। अन्नात् जायन्ते — अन्नरसात् शरीरम् उत्पद्यते।",
+      "shankara_bhashya_english": "Shankara: Bhrigu's first realization is that food is Brahman. All beings are born from food, live by food, and return to food. But this is only the first step — Pippalada sends him back to inquire further, leading to deeper realizations."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 16,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "Bhrigu",
+        "second realization"
       ],
-      "sanskrit": "[Verse 16 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 16 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 16 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ब्रह्मेति व्यजानात् | प्राणाद्धि खल्विमानि भूतानि जायन्ते | प्राणेन जातानि जीवन्ति | प्राणं प्रयन्त्यभिसंविशन्तीति ||३.३.१||",
+      "transliteration": "prāṇo brahmeti vyajānāt | prāṇād dhi khalv imāni bhūtāni jāyante | prāṇena jātāni jīvanti | prāṇaṃ prayanty abhisaṃviśantīti ||3.3.1||",
+      "word_meanings": [
+        {
+          "word": "प्राणः ब्रह्म",
+          "meaning": "prana is Brahman"
+        },
+        {
+          "word": "प्राणात् जायन्ते",
+          "meaning": "are born from prana"
+        },
+        {
+          "word": "प्राणेन जीवन्ति",
+          "meaning": "live by prana"
+        },
+        {
+          "word": "प्राणम् प्रयन्ति",
+          "meaning": "return into prana"
+        }
+      ],
+      "english_translation": "He knew: prana is Brahman. For from prana alone are all these beings born; by prana they live; into prana they return.",
+      "shankara_bhashya_sanskrit": "प्राणः ब्रह्म — प्राणः ब्रह्मरूपः। प्राणात् जायन्ते — प्राणशक्त्या शरीरम् उत्पद्यते।",
+      "shankara_bhashya_english": "Shankara: Bhrigu's second realization is that prana is Brahman. Prana is subtler than food — it is the life-force that animates the body. But Varuna sends him back again for deeper inquiry."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 17,
       "tags": [
+        "mind",
         "Brahman",
-        "knowledge"
+        "Bhrigu",
+        "third realization"
       ],
-      "sanskrit": "[Verse 17 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 17 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 17 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "मनो ब्रह्मेति व्यजानात् | मनसो ह्येव खल्विमानि भूतानि जायन्ते | मनसा जातानि जीवन्ति | मनः प्रयन्त्यभिसंविशन्तीति ||३.४.१||",
+      "transliteration": "mano brahmeti vyajānāt | manaso hy eva khalv imāni bhūtāni jāyante | manasā jātāni jīvanti | manaḥ prayanty abhisaṃviśantīti ||3.4.1||",
+      "word_meanings": [
+        {
+          "word": "मनः ब्रह्म",
+          "meaning": "mind is Brahman"
+        },
+        {
+          "word": "मनसः जायन्ते",
+          "meaning": "are born from mind"
+        },
+        {
+          "word": "मनसा जीवन्ति",
+          "meaning": "live by mind"
+        },
+        {
+          "word": "मनः प्रयन्ति",
+          "meaning": "return into mind"
+        }
+      ],
+      "english_translation": "He knew: mind is Brahman. For from mind alone are all these beings born; by mind they live; into mind they return.",
+      "shankara_bhashya_sanskrit": "मनः ब्रह्म — मनः ब्रह्मरूपम्। मनसः जायन्ते — मनःसंकल्पात् सृष्टिः।",
+      "shankara_bhashya_english": "Shankara: Bhrigu's third realization is that mind is Brahman. Mind is subtler than prana — it is the faculty of thought and will. But Varuna sends him back once more for the deepest realization."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 18,
       "tags": [
+        "vijnanam",
         "Brahman",
-        "knowledge"
+        "Bhrigu",
+        "fourth realization"
       ],
-      "sanskrit": "[Verse 18 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 18 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 18 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "विज्ञानं ब्रह्मेति व्यजानात् | विज्ञानाद्ध्येव खल्विमानि भूतानि जायन्ते | विज्ञानेन जातानि जीवन्ति | विज्ञानं प्रयन्त्यभिसंविशन्तीति ||३.५.१||",
+      "transliteration": "vijñānaṃ brahmeti vyajānāt | vijñānād dhy eva khalv imāni bhūtāni jāyante | vijñānena jātāni jīvanti | vijñānaṃ prayanty abhisaṃviśantīti ||3.5.1||",
+      "word_meanings": [
+        {
+          "word": "विज्ञानम् ब्रह्म",
+          "meaning": "consciousness/intellect is Brahman"
+        },
+        {
+          "word": "विज्ञानात् जायन्ते",
+          "meaning": "are born from consciousness"
+        },
+        {
+          "word": "विज्ञानेन जीवन्ति",
+          "meaning": "live by consciousness"
+        },
+        {
+          "word": "विज्ञानम् प्रयन्ति",
+          "meaning": "return into consciousness"
+        }
+      ],
+      "english_translation": "He knew: consciousness is Brahman. For from consciousness alone are all these beings born; by consciousness they live; into consciousness they return.",
+      "shankara_bhashya_sanskrit": "विज्ञानम् ब्रह्म — बुद्धिः ब्रह्मरूपा। विज्ञानात् जायन्ते — चैतन्यशक्त्या सृष्टिः।",
+      "shankara_bhashya_english": "Shankara: Bhrigu's fourth realization is that consciousness (vijnana/intellect) is Brahman. This is deeper than mind. But Varuna sends him back one final time for the ultimate realization — that bliss (ananda) is Brahman."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 19,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "ethics",
+        "teacher",
+        "student",
+        "farewell",
+        "dharma"
       ],
-      "sanskrit": "[Verse 19 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 19 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 19 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "मातृदेवो भव | पितृदेवो भव | आचार्यदेवो भव | अतिथिदेवो भव ||१.११.२||",
+      "transliteration": "mātṛdevo bhava | pitṛdevo bhava | ācāryadevo bhava | atithidevo bhava ||1.11.2||",
+      "word_meanings": [
+        {
+          "word": "मातृदेवः भव",
+          "meaning": "let your mother be your god"
+        },
+        {
+          "word": "पितृदेवः भव",
+          "meaning": "let your father be your god"
+        },
+        {
+          "word": "आचार्यदेवः भव",
+          "meaning": "let your teacher be your god"
+        },
+        {
+          "word": "अतिथिदेवः भव",
+          "meaning": "let the guest be your god"
+        }
+      ],
+      "english_translation": "Let your mother be your god. Let your father be your god. Let your teacher be your god. Let the guest be your god.",
+      "shankara_bhashya_sanskrit": "मातृदेवः — माता देवः यस्य — सः। पितृदेवः — पिता देवः यस्य। आचार्यदेवः — आचार्यः देवः यस्य।",
+      "shankara_bhashya_english": "Shankara: The teacher's farewell instruction includes these four great ethical teachings. Mother, father, teacher, and guest are to be treated as gods — with reverence and service. This is the foundation of dharmic life in the Vedic tradition."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 20,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "ethics",
+        "truth",
+        "dharma",
+        "doubt",
+        "elders"
       ],
-      "sanskrit": "[Verse 20 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 20 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 20 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यान्यनवद्यानि कर्माणि | तानि सेवितव्यानि | नो इतराणि | यान्यस्माकं सुचरितानि | तानि त्वयोपास्यानि ||१.११.३||",
+      "transliteration": "yāny anavadyāni karmāṇi | tāni sevitavyāni | no itarāṇi | yāny asmākaṃ sucaritāni | tāni tvayopāsyāni ||1.11.3||",
+      "word_meanings": [
+        {
+          "word": "अनवद्यानि कर्माणि",
+          "meaning": "blameless actions"
+        },
+        {
+          "word": "सेवितव्यानि",
+          "meaning": "should be practiced"
+        },
+        {
+          "word": "न इतराणि",
+          "meaning": "not the others"
+        },
+        {
+          "word": "सुचरितानि",
+          "meaning": "good conduct"
+        }
+      ],
+      "english_translation": "Blameless actions should be practiced, not others. Whatever good conduct of ours you have seen — that should be followed by you.",
+      "shankara_bhashya_sanskrit": "अनवद्यानि — निर्दोषाणि — कर्माणि — सेवितव्यानि। सुचरितानि — शोभनाचरणानि — उपास्यानि।",
+      "shankara_bhashya_english": "Shankara: The teacher instructs the student to practice only blameless actions and to follow the good conduct of the teacher. This is the practical ethical teaching of the Taittiriya — dharmic living is the foundation for spiritual knowledge."
     },
     {
       "upanishad": "taittiriya",
