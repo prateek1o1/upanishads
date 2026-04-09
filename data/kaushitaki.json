@@ -652,140 +652,296 @@
       "verse_number": 21,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 21 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 21 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 21 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता माता",
+          "meaning": "prana is father and mother"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणः — सर्वस्य — पिता माता — ब्राह्मणः — ब्रह्मस्वरूपः।",
+      "shankara_bhashya_english": "Shankara: Prana is identified with all relationships and ultimately with Brahman. All relationships are sustained by prana (consciousness). When prana departs, all relationships end."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 22,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 22 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 22 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 22 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यदि वाचि सर्वाणि नामान्यर्पयेत् | प्राणेन सर्वाणि नामान्याप्नोति ||३.८||",
+      "transliteration": "yadi vāci sarvāṇi nāmāny arpayeta | prāṇena sarvāṇi nāmāny āpnoti ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वाचि नामानि अर्पयेत्",
+          "meaning": "offers all names to speech"
+        },
+        {
+          "word": "प्राणेन नामानि आप्नोति",
+          "meaning": "by prana attains all names"
+        }
+      ],
+      "english_translation": "If one offers all names to speech, by prana one attains all names.",
+      "shankara_bhashya_sanskrit": "वाचि — सर्वाणि नामानि — अर्पयेत् — प्राणेन — सर्वाणि नामानि — आप्नोति।",
+      "shankara_bhashya_english": "Shankara: Speech is the vehicle of all names. By offering all names to speech and speech to prana, one attains all names through prana. Prana is the ground of speech."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 23,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 23 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 23 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 23 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यदि चक्षुषि सर्वाणि रूपाण्यर्पयेत् | प्राणेन सर्वाणि रूपाण्याप्नोति ||३.८||",
+      "transliteration": "yadi cakṣuṣi sarvāṇi rūpāṇy arpayeta | prāṇena sarvāṇi rūpāṇy āpnoti ||3.8||",
+      "word_meanings": [
+        {
+          "word": "चक्षुषि रूपाणि अर्पयेत्",
+          "meaning": "offers all forms to the eye"
+        },
+        {
+          "word": "प्राणेन रूपाणि आप्नोति",
+          "meaning": "by prana attains all forms"
+        }
+      ],
+      "english_translation": "If one offers all forms to the eye, by prana one attains all forms.",
+      "shankara_bhashya_sanskrit": "चक्षुषि — सर्वाणि रूपाणि — अर्पयेत् — प्राणेन — सर्वाणि रूपाणि — आप्नोति।",
+      "shankara_bhashya_english": "Shankara: The eye is the vehicle of all forms. By offering all forms to the eye and the eye to prana, one attains all forms through prana. Prana is the ground of all perception."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 24,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 24 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 24 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 24 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यदि श्रोत्रे सर्वाञ्छब्दानर्पयेत् | प्राणेन सर्वाञ्छब्दानाप्नोति ||३.८||",
+      "transliteration": "yadi śrotre sarvāñ chabdān arpayeta | prāṇena sarvāñ chabdān āpnoti ||3.8||",
+      "word_meanings": [
+        {
+          "word": "श्रोत्रे शब्दान् अर्पयेत्",
+          "meaning": "offers all sounds to the ear"
+        },
+        {
+          "word": "प्राणेन शब्दान् आप्नोति",
+          "meaning": "by prana attains all sounds"
+        }
+      ],
+      "english_translation": "If one offers all sounds to the ear, by prana one attains all sounds.",
+      "shankara_bhashya_sanskrit": "श्रोत्रे — सर्वान् शब्दान् — अर्पयेत् — प्राणेन — सर्वान् शब्दान् — आप्नोति।",
+      "shankara_bhashya_english": "Shankara: The ear is the vehicle of all sounds. By offering all sounds to the ear and the ear to prana, one attains all sounds through prana. Prana is the ground of all hearing."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 25,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 25 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 25 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 25 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यदि मनसि सर्वान् कामानर्पयेत् | प्राणेन सर्वान् कामानाप्नोति ||३.८||",
+      "transliteration": "yadi manasi sarvān kāmān arpayeta | prāṇena sarvān kāmān āpnoti ||3.8||",
+      "word_meanings": [
+        {
+          "word": "मनसि कामान् अर्पयेत्",
+          "meaning": "offers all desires to the mind"
+        },
+        {
+          "word": "प्राणेन कामान् आप्नोति",
+          "meaning": "by prana attains all desires"
+        }
+      ],
+      "english_translation": "If one offers all desires to the mind, by prana one attains all desires.",
+      "shankara_bhashya_sanskrit": "मनसि — सर्वान् कामान् — अर्पयेत् — प्राणेन — सर्वान् कामान् — आप्नोति।",
+      "shankara_bhashya_english": "Shankara: The mind is the vehicle of all desires. By offering all desires to the mind and the mind to prana, one attains all desires through prana. Prana is the ground of all mental activity."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 26,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 26 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 26 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 26 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स एष प्राणः प्रज्ञात्मा | आनन्दोऽजरोऽमृतः | न साधुना कर्मणा भूयान् नो एवासाधुना कनीयान् ||३.८||",
+      "transliteration": "sa eṣa prāṇaḥ prajñātmā | ānando'jaro'mṛtaḥ | na sādhunā karmaṇā bhūyān no evāsādhunā kanīyān ||3.8||",
+      "word_meanings": [
+        {
+          "word": "प्राणः प्रज्ञात्मा",
+          "meaning": "prana whose Self is consciousness"
+        },
+        {
+          "word": "आनन्दः अजरः अमृतः",
+          "meaning": "bliss, ageless, immortal"
+        },
+        {
+          "word": "न साधुना कर्मणा भूयान्",
+          "meaning": "not increased by good action"
+        },
+        {
+          "word": "न असाधुना कनीयान्",
+          "meaning": "not decreased by bad action"
+        }
+      ],
+      "english_translation": "This prana, whose Self is consciousness, is bliss, ageless, immortal. It is not increased by good action, nor decreased by bad action.",
+      "shankara_bhashya_sanskrit": "प्राणः — प्रज्ञात्मा — आनन्दः — अजरः — अमृतः। न साधुना भूयान् — न असाधुना कनीयान् — निर्विकारः।",
+      "shankara_bhashya_english": "Shankara: Prana (Brahman) is bliss, ageless, and immortal. It is not increased by good karma nor decreased by bad karma — it is beyond all action and its results. This is the nature of the Self — unchanging, eternal, beyond all modification."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 27,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 27 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 27 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 27 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एष लोकाधिपतिः | एष लोकपालः | एष लोकेशः | स म आत्मेति विद्यात् ||३.८||",
+      "transliteration": "eṣa lokādhipatiḥ | eṣa lokapālaḥ | eṣa lokeśaḥ | sa ma ātmeti vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        },
+        {
+          "word": "लोकपालः",
+          "meaning": "protector of the worlds"
+        },
+        {
+          "word": "लोकेशः",
+          "meaning": "ruler of the worlds"
+        },
+        {
+          "word": "स मे आत्मा",
+          "meaning": "that is my Self"
+        }
+      ],
+      "english_translation": "This is the lord of the worlds, the protector of the worlds, the ruler of the worlds. Know that as my Self.",
+      "shankara_bhashya_sanskrit": "एषः — प्राणः — लोकाधिपतिः — लोकपालः — लोकेशः। स मे आत्मा — इति विद्यात्।",
+      "shankara_bhashya_english": "Shankara: Prana (Brahman) is the lord, protector, and ruler of all worlds. Indra tells Pratardana: 'Know that as my Self.' The Self of Indra, the Self of Pratardana, and the Self of all beings is the same prana-Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 28,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 28 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 28 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 28 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स एव मे प्रियतमः | स एव मे श्रेष्ठः | स एव मे ज्येष्ठः | स एव मे वसिष्ठः ||३.२||",
+      "transliteration": "sa eva me priyatamaḥ | sa eva me śreṣṭhaḥ | sa eva me jyeṣṭhaḥ | sa eva me vasiṣṭhaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "प्रियतमः",
+          "meaning": "most dear"
+        },
+        {
+          "word": "श्रेष्ठः",
+          "meaning": "best"
+        },
+        {
+          "word": "ज्येष्ठः",
+          "meaning": "eldest/greatest"
+        },
+        {
+          "word": "वसिष्ठः",
+          "meaning": "most excellent"
+        }
+      ],
+      "english_translation": "He alone is my most dear, he alone is my best, he alone is my greatest, he alone is my most excellent.",
+      "shankara_bhashya_sanskrit": "सः — प्राणः — मे प्रियतमः — श्रेष्ठः — ज्येष्ठः — वसिष्ठः।",
+      "shankara_bhashya_english": "Shankara: Indra declares that prana (Brahman) is his most dear, best, greatest, and most excellent. This is the devotional expression of the Kaushitaki — the Self is the most beloved of all, for it is the source of all love and all value."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 29,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 29 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 29 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 29 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् प्राणमुपास्ते | स सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān prāṇam upāste | sa sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "प्राणम् उपास्ते",
+          "meaning": "meditates on prana"
+        },
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus and meditates on prana sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "प्राणम् उपास्ते — ब्रह्म उपास्ते — सः सर्वाणि भूतानि — आत्मानम् एव पश्यति।",
+      "shankara_bhashya_english": "Shankara: One who meditates on prana as Brahman sees all beings as the Self and the Self in all beings. This is the vision of unity — the same teaching as the Isha Upanishad. Knowledge of Brahman leads to seeing the Self everywhere."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 30,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "Pratardana",
+        "prana",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 30 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 30 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 30 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः | तस्मिञ्छेते ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ | tasmiñ chete ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "विज्ञानमयः प्राणेषु",
+          "meaning": "made of consciousness, among the pranas"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "the ether within the heart"
+        },
+        {
+          "word": "तस्मिन् शेते",
+          "meaning": "rests in that"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "महान् अजः आत्मा — विज्ञानमयः — प्राणेषु — हृदयाकाशे — शेते।",
+      "shankara_bhashya_english": "Shankara: The great unborn Self — made of pure consciousness — rests in the ether of the heart. This is the same teaching as the Chandogya and Brihadaranyaka — the Self dwells in the heart as the innermost reality, smaller than the smallest yet greater than the greatest."
     },
     {
       "upanishad": "kaushitaki",

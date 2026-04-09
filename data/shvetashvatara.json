@@ -824,112 +824,284 @@
       "verse_number": 23,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "yoga",
+        "meditation",
+        "liberation"
       ],
-      "sanskrit": "[Verse 23 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 23 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 23 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यो देवोऽग्नौ योऽप्सु यो विश्वं भुवनमाविवेश | य ओषधीषु यो वनस्पतिषु तस्मै देवाय नमो नमः ||२.१७||",
+      "transliteration": "yo devo'gnau yo'psu yo viśvaṃ bhuvanam āviveśa | ya oṣadhīṣu yo vanaspatīṣu tasmai devāya namo namaḥ ||2.17||",
+      "word_meanings": [
+        {
+          "word": "यः देवः अग्नौ",
+          "meaning": "the God who is in fire"
+        },
+        {
+          "word": "यः अप्सु",
+          "meaning": "who is in water"
+        },
+        {
+          "word": "विश्वम् भुवनम् आविवेश",
+          "meaning": "who has entered the whole world"
+        },
+        {
+          "word": "ओषधीषु वनस्पतिषु",
+          "meaning": "in plants and trees"
+        },
+        {
+          "word": "नमो नमः",
+          "meaning": "salutation again and again"
+        }
+      ],
+      "english_translation": "Salutation again and again to that God who is in fire, who is in water, who has entered the whole world, who is in plants and trees.",
+      "shankara_bhashya_sanskrit": "यः देवः — अग्नौ — अप्सु — ओषधीषु — वनस्पतिषु — विश्वम् भुवनम् आविवेश — तस्मै नमः।",
+      "shankara_bhashya_english": "Shankara: This verse of salutation recognizes Brahman (Rudra) as present in all elements — fire, water, plants, trees, and the entire world. Salutation to that all-pervading God. This is the devotional expression of the Shvetashvatara's teaching of divine immanence."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 24,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "yoga",
+        "meditation",
+        "liberation"
       ],
-      "sanskrit": "[Verse 24 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 24 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 24 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यो ब्रह्माणं विदधाति पूर्वं यो वै वेदांश्च प्रहिणोति तस्मै | तं ह देवमात्मबुद्धिप्रकाशं मुमुक्षुर्वै शरणमहं प्रपद्ये ||६.१८||",
+      "transliteration": "yo brahmāṇaṃ vidadhāti pūrvaṃ yo vai vedāṃś ca prahiṇoti tasmai | taṃ ha devam ātmabuddhiprakāśaṃ mumukṣur vai śaraṇam ahaṃ prapadye ||6.18||",
+      "word_meanings": [
+        {
+          "word": "यः ब्रह्माणम् विदधाति",
+          "meaning": "who creates Brahma"
+        },
+        {
+          "word": "वेदान् प्रहिणोति",
+          "meaning": "who sends forth the Vedas"
+        },
+        {
+          "word": "आत्मबुद्धिप्रकाशम्",
+          "meaning": "who illumines the intellect of the Self"
+        },
+        {
+          "word": "मुमुक्षुः शरणम् प्रपद्ये",
+          "meaning": "I, the seeker of liberation, take refuge"
+        }
+      ],
+      "english_translation": "Who creates Brahma in the beginning and sends forth the Vedas to him — to that God who illumines the intellect of the Self, I, the seeker of liberation, take refuge.",
+      "shankara_bhashya_sanskrit": "यः ब्रह्माणम् विदधाति — सृष्टेः आदौ ब्रह्माणम् उत्पादयति। वेदान् प्रहिणोति — ब्रह्मणे वेदान् ददाति। तम् — शरणम् प्रपद्ये।",
+      "shankara_bhashya_english": "Shankara: The Lord creates Brahma (the creator) at the beginning of each cosmic cycle and transmits the Vedas to him. He illumines the intellect of all seekers. The seeker of liberation takes refuge in this Lord — this is the devotional path of the Shvetashvatara."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 25,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "yoga",
+        "meditation",
+        "liberation"
       ],
-      "sanskrit": "[Verse 25 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 25 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 25 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतान्तरात्मा | कर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश्च ||६.११||",
+      "transliteration": "eko devaḥ sarvabhūteṣu gūḍhaḥ sarvavyāpī sarvabhūtāntarātmā | karmādhyakṣaḥ sarvabhūtādhivāsaḥ sākṣī cetā kevalo nirguṇaś ca ||6.11||",
+      "word_meanings": [
+        {
+          "word": "एकः देवः",
+          "meaning": "one God"
+        },
+        {
+          "word": "सर्वभूतेषु गूढः",
+          "meaning": "hidden in all beings"
+        },
+        {
+          "word": "सर्वव्यापी",
+          "meaning": "all-pervading"
+        },
+        {
+          "word": "साक्षी चेता केवलः",
+          "meaning": "witness, consciousness, alone"
+        },
+        {
+          "word": "निर्गुणः",
+          "meaning": "without qualities"
+        }
+      ],
+      "english_translation": "The one God, hidden in all beings, all-pervading, the inner Self of all beings, the overseer of all actions, the witness, pure consciousness, the one, without qualities.",
+      "shankara_bhashya_sanskrit": "एकः देवः — अद्वितीयः। सर्वभूतेषु गूढः — सर्वेषु प्राणिषु अन्तर्हितः। साक्षी — केवलः — निर्गुणः।",
+      "shankara_bhashya_english": "Shankara: The one God is hidden in all beings as their inner Self. He is the witness of all actions, pure consciousness, and beyond all qualities. Knowing this one God, one is freed from all bonds. This is the central teaching of the Shvetashvatara."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 26,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "yoga",
+        "meditation",
+        "liberation"
       ],
-      "sanskrit": "[Verse 26 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 26 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 26 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "नित्यो नित्यानां चेतनश्चेतनानामेको बहूनां यो विदधाति कामान् | तत्कारणं सांख्ययोगाधिगम्यं ज्ञात्वा देवं मुच्यते सर्वपाशैः ||६.१३||",
+      "transliteration": "nityo nityānāṃ cetanaś cetanānām eko bahūnāṃ yo vidadhāti kāmān | tat kāraṇaṃ sāṃkhyayogādhigamyaṃ jñātvā devaṃ mucyate sarvapāśaiḥ ||6.13||",
+      "word_meanings": [
+        {
+          "word": "नित्यः नित्यानाम्",
+          "meaning": "the eternal among eternals"
+        },
+        {
+          "word": "चेतनः चेतनानाम्",
+          "meaning": "the conscious among the conscious"
+        },
+        {
+          "word": "एकः बहूनाम्",
+          "meaning": "the one among the many"
+        },
+        {
+          "word": "कामान् विदधाति",
+          "meaning": "who fulfills desires"
+        },
+        {
+          "word": "सर्वपाशैः मुच्यते",
+          "meaning": "is freed from all bonds"
+        }
+      ],
+      "english_translation": "The eternal among eternals, the conscious among the conscious, the one among the many who fulfills desires — knowing that God, attainable through Samkhya and Yoga, one is freed from all bonds.",
+      "shankara_bhashya_sanskrit": "नित्यः नित्यानाम् — नित्यानाम् मध्ये नित्यः। चेतनः चेतनानाम् — चेतनानाम् मध्ये चेतनः। एकः बहूनाम् — बहूनाम् जीवानाम् एकः ईश्वरः।",
+      "shankara_bhashya_english": "Shankara: The Lord is the eternal among all eternals, the conscious among all conscious beings, the one who fulfills the desires of the many. Knowing this God through Samkhya (knowledge) and Yoga (meditation), one is freed from all bonds. This is the most celebrated verse of the Shvetashvatara."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 27,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "yoga",
+        "meditation",
+        "liberation"
       ],
-      "sanskrit": "[Verse 27 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 27 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 27 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न तस्य कार्यं करणं च विद्यते न तत्समश्चाभ्यधिकश्च दृश्यते | परास्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च ||६.८||",
+      "transliteration": "na tasya kāryaṃ karaṇaṃ ca vidyate na tat samaś cābhyadhikaś ca dṛśyate | parāsya śaktir vividhaiva śrūyate svābhāvikī jñānabalakriyā ca ||6.8||",
+      "word_meanings": [
+        {
+          "word": "न कार्यम् करणम्",
+          "meaning": "no effect and no instrument"
+        },
+        {
+          "word": "न तत्समः न अभ्यधिकः",
+          "meaning": "none equal, none superior"
+        },
+        {
+          "word": "परा शक्तिः विविधा",
+          "meaning": "his supreme power is manifold"
+        },
+        {
+          "word": "स्वाभाविकी ज्ञानबलक्रिया",
+          "meaning": "natural knowledge, strength, and action"
+        }
+      ],
+      "english_translation": "He has no effect and no instrument. None is seen equal to him or superior. His supreme power is manifold — natural knowledge, strength, and action.",
+      "shankara_bhashya_sanskrit": "न कार्यम् — न करणम् — ईश्वरस्य। परा शक्तिः — स्वाभाविकी — ज्ञानबलक्रिया।",
+      "shankara_bhashya_english": "Shankara: The Lord has no external instrument — he creates through his own inherent power. None is equal to him or superior. His power is natural — not acquired — and manifests as knowledge, strength, and action. This describes the absolute supremacy of Brahman."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 28,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "yoga",
+        "meditation",
+        "liberation"
       ],
-      "sanskrit": "[Verse 28 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 28 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 28 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात् | स भूमिं विश्वतो वृत्वाऽत्यतिष्ठद्दशाङ्गुलम् ||३.१४||",
+      "transliteration": "sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt | sa bhūmiṃ viśvato vṛtvā'tyatiṣṭhad daśāṅgulam ||3.14||",
+      "word_meanings": [
+        {
+          "word": "सहस्रशीर्षा पुरुषः",
+          "meaning": "the Person with a thousand heads"
+        },
+        {
+          "word": "सहस्राक्षः सहस्रपात्",
+          "meaning": "thousand eyes, thousand feet"
+        },
+        {
+          "word": "भूमिम् विश्वतः वृत्वा",
+          "meaning": "having covered the earth on all sides"
+        },
+        {
+          "word": "दशाङ्गुलम् अत्यतिष्ठत्",
+          "meaning": "transcends by ten fingers"
+        }
+      ],
+      "english_translation": "The Person has a thousand heads, a thousand eyes, a thousand feet. Having covered the earth on all sides, he transcends it by ten fingers.",
+      "shankara_bhashya_sanskrit": "सहस्रशीर्षा — अनन्तशीर्षः। सहस्राक्षः — अनन्तचक्षुः। भूमिम् वृत्वा — सर्वम् आवृत्य — दशाङ्गुलम् अत्यतिष्ठत् — अतिक्रान्तः।",
+      "shankara_bhashya_english": "Shankara: The cosmic Person (Purusha) has infinite heads, eyes, and feet — meaning he pervades all space. Having covered the entire earth, he transcends it by ten fingers — meaning he is both immanent (in the world) and transcendent (beyond it). This verse from the Purusha Sukta is quoted here."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 29,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "yoga",
+        "meditation",
+        "liberation"
       ],
-      "sanskrit": "[Verse 29 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 29 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 29 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "पुरुष एवेदं सर्वं यद्भूतं यच्च भव्यम् | उतामृतत्वस्येशानो यदन्नेनातिरोहति ||३.१५||",
+      "transliteration": "puruṣa evedaṃ sarvaṃ yad bhūtaṃ yac ca bhavyam | utāmṛtatvasyeśāno yad annenātirohati ||3.15||",
+      "word_meanings": [
+        {
+          "word": "पुरुषः एव इदम् सर्वम्",
+          "meaning": "the Person alone is all this"
+        },
+        {
+          "word": "यत् भूतम् यत् भव्यम्",
+          "meaning": "what has been and what will be"
+        },
+        {
+          "word": "अमृतत्वस्य ईशानः",
+          "meaning": "the lord of immortality"
+        },
+        {
+          "word": "अन्नेन अतिरोहति",
+          "meaning": "grows beyond food"
+        }
+      ],
+      "english_translation": "The Person alone is all this — what has been and what will be. He is the lord of immortality, who grows beyond food.",
+      "shankara_bhashya_sanskrit": "पुरुषः एव — सर्वम् — भूतम् भव्यम् च। अमृतत्वस्य ईशानः — मोक्षस्य ईश्वरः।",
+      "shankara_bhashya_english": "Shankara: The Person (Brahman) alone is all this — past, present, and future. He is the lord of immortality — the one who grants liberation. He transcends food (the material world) — he is beyond all material limitation."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 30,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "yoga",
+        "meditation",
+        "liberation"
       ],
-      "sanskrit": "[Verse 30 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 30 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 30 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतज्ज्ञेयं नित्यमेवात्मसंस्थं नातः परं वेदितव्यं हि किञ्चित् | भोक्ता भोग्यं प्रेरितारं च मत्वा सर्वं प्रोक्तं त्रिविधं ब्रह्ममेतत् ||१.१२||",
+      "transliteration": "etaj jñeyaṃ nityam evātmasaṃsthaṃ nātaḥ paraṃ veditavyaṃ hi kiñcit | bhoktā bhogyaṃ preritāraṃ ca matvā sarvaṃ proktaṃ trividhaṃ brahma etat ||1.12||",
+      "word_meanings": [
+        {
+          "word": "एतत् ज्ञेयम् नित्यम् आत्मसंस्थम्",
+          "meaning": "this is to be known, eternal, established in the Self"
+        },
+        {
+          "word": "नातः परम् वेदितव्यम्",
+          "meaning": "nothing beyond this to be known"
+        },
+        {
+          "word": "भोक्ता भोग्यम् प्रेरितारम्",
+          "meaning": "the enjoyer, the enjoyed, the impeller"
+        },
+        {
+          "word": "त्रिविधम् ब्रह्म",
+          "meaning": "the threefold Brahman"
+        }
+      ],
+      "english_translation": "This is to be known — eternal, established in the Self. There is nothing beyond this to be known. The enjoyer, the enjoyed, and the impeller — all this is declared as the threefold Brahman.",
+      "shankara_bhashya_sanskrit": "एतत् ज्ञेयम् — आत्मसंस्थम् — नित्यम्। भोक्ता — जीवः। भोग्यम् — जगत्। प्रेरितारम् — ईश्वरः। त्रिविधम् ब्रह्म।",
+      "shankara_bhashya_english": "Shankara: The three realities of the Shvetashvatara are: the enjoyer (jiva/individual soul), the enjoyed (jagat/world), and the impeller (Ishvara/God). All three are Brahman in different aspects. Knowing this threefold Brahman, there is nothing more to be known."
     },
     {
       "upanishad": "shvetashvatara",
