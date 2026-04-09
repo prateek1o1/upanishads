@@ -1564,505 +1564,889 @@
       "upanishad": "taittiriya",
       "verse_number": 46,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "peace",
+        "prayer",
+        "deities",
+        "auspicious"
       ],
-      "sanskrit": "[Verse 46 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 46 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 46 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ॐ शं नो मित्रः शं वरुणः | शं नो भवत्वर्यमा | शं न इन्द्रो बृहस्पतिः ||१.१.१||",
+      "transliteration": "oṃ śaṃ no mitraḥ śaṃ varuṇaḥ | śaṃ no bhavatv aryamā | śaṃ na indro bṛhaspatiḥ ||1.1.1||",
+      "word_meanings": [
+        {
+          "word": "शं नः",
+          "meaning": "be auspicious to us"
+        },
+        {
+          "word": "मित्रः वरुणः",
+          "meaning": "Mitra and Varuna"
+        }
+      ],
+      "english_translation": "Om. May Mitra be auspicious to us; may Varuna be auspicious; may Aryaman be auspicious; may Indra and Brihaspati be auspicious.",
+      "shankara_bhashya_sanskrit": "ॐ शं नो मित्रः शं वरुणः | शं नो भवत्वर्यमा | शं न इन्द्रो बृहस्पतिः ||१.१.१||...",
+      "shankara_bhashya_english": "Shankara: Om. May Mitra be auspicious to us; may Varuna be auspicious; may Aryaman be auspicious; may Indra and Brihaspati be auspicious."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 47,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "peace",
+        "teacher",
+        "student",
+        "prayer"
       ],
-      "sanskrit": "[Verse 47 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 47 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 47 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ॐ सह नाववतु | सह नौ भुनक्तु | सह वीर्यं करवावहै | तेजस्वि नावधीतमस्तु | मा विद्विषावहै ||",
+      "transliteration": "oṃ saha nāv avatu | saha nau bhunaktu | saha vīryaṃ karavāvahai | tejasvi nāv adhītam astu | mā vidviṣāvahai ||",
+      "word_meanings": [
+        {
+          "word": "सह नौ अवतु",
+          "meaning": "may He protect us both"
+        },
+        {
+          "word": "तेजस्वि अधीतम्",
+          "meaning": "may our study be brilliant"
+        }
+      ],
+      "english_translation": "Om. May He protect us both. May He nourish us both. May we work together with vigor. May our study be brilliant. May we not hate each other.",
+      "shankara_bhashya_sanskrit": "ॐ सह नाववतु | सह नौ भुनक्तु | सह वीर्यं करवावहै | तेजस्वि नावधीतमस्तु | मा विद्व...",
+      "shankara_bhashya_english": "Shankara: Om. May He protect us both. May He nourish us both. May we work together with vigor. May our study be brilliant. May we not hate each other."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 48,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "phonetics",
+        "Vedanga",
+        "shiksha",
+        "teaching"
       ],
-      "sanskrit": "[Verse 48 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 48 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 48 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "शीक्षां व्याख्यास्यामः | वर्णः स्वरः | मात्रा बलम् | साम सन्तानः ||१.२.१||",
+      "transliteration": "śīkṣāṃ vyākhyāsyāmaḥ | varṇaḥ svaraḥ | mātrā balam | sāma santānaḥ ||1.2.1||",
+      "word_meanings": [
+        {
+          "word": "शीक्षाम् व्याख्यास्यामः",
+          "meaning": "we shall explain phonetics"
+        },
+        {
+          "word": "वर्णः स्वरः",
+          "meaning": "sound and accent"
+        }
+      ],
+      "english_translation": "We shall explain phonetics: sound, accent, quantity, force, evenness, and continuity.",
+      "shankara_bhashya_sanskrit": "शीक्षां व्याख्यास्यामः | वर्णः स्वरः | मात्रा बलम् | साम सन्तानः ||१.२.१||...",
+      "shankara_bhashya_english": "Shankara: We shall explain phonetics: sound, accent, quantity, force, evenness, and continuity."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 49,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "ethics",
+        "truth",
+        "dharma",
+        "student"
       ],
-      "sanskrit": "[Verse 49 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 49 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 49 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सत्यं वद | धर्मं चर | स्वाध्यायान्मा प्रमदः ||१.११.१||",
+      "transliteration": "satyaṃ vada | dharmaṃ cara | svādhyāyān mā pramadaḥ ||1.11.1||",
+      "word_meanings": [
+        {
+          "word": "सत्यम् वद",
+          "meaning": "speak truth"
+        },
+        {
+          "word": "धर्मम् चर",
+          "meaning": "practice dharma"
+        },
+        {
+          "word": "स्वाध्यायात् मा प्रमदः",
+          "meaning": "do not neglect self-study"
+        }
+      ],
+      "english_translation": "Speak truth. Practice dharma. Do not neglect self-study.",
+      "shankara_bhashya_sanskrit": "सत्यं वद | धर्मं चर | स्वाध्यायान्मा प्रमदः ||१.११.१||...",
+      "shankara_bhashya_english": "Shankara: Speak truth. Practice dharma. Do not neglect self-study."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 50,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "ethics",
+        "mother",
+        "father",
+        "teacher",
+        "guest"
       ],
-      "sanskrit": "[Verse 50 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 50 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 50 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "मातृदेवो भव | पितृदेवो भव | आचार्यदेवो भव | अतिथिदेवो भव ||१.११.२||",
+      "transliteration": "mātṛdevo bhava | pitṛdevo bhava | ācāryadevo bhava | atithidevo bhava ||1.11.2||",
+      "word_meanings": [
+        {
+          "word": "मातृदेवः भव",
+          "meaning": "let your mother be your god"
+        },
+        {
+          "word": "अतिथिदेवः भव",
+          "meaning": "let the guest be your god"
+        }
+      ],
+      "english_translation": "Let your mother be your god. Let your father be your god. Let your teacher be your god. Let the guest be your god.",
+      "shankara_bhashya_sanskrit": "मातृदेवो भव | पितृदेवो भव | आचार्यदेवो भव | अतिथिदेवो भव ||१.११.२||...",
+      "shankara_bhashya_english": "Shankara: Let your mother be your god. Let your father be your god. Let your teacher be your god. Let the guest be your god."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 51,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "ethics",
+        "action",
+        "dharma",
+        "student"
       ],
-      "sanskrit": "[Verse 51 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 51 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 51 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यान्यनवद्यानि कर्माणि | तानि सेवितव्यानि | नो इतराणि ||१.११.३||",
+      "transliteration": "yāny anavadyāni karmāṇi | tāni sevitavyāni | no itarāṇi ||1.11.3||",
+      "word_meanings": [
+        {
+          "word": "अनवद्यानि कर्माणि",
+          "meaning": "blameless actions"
+        },
+        {
+          "word": "सेवितव्यानि",
+          "meaning": "should be practiced"
+        }
+      ],
+      "english_translation": "Blameless actions should be practiced, not others.",
+      "shankara_bhashya_sanskrit": "यान्यनवद्यानि कर्माणि | तानि सेवितव्यानि | नो इतराणि ||१.११.३||...",
+      "shankara_bhashya_english": "Shankara: Blameless actions should be practiced, not others."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 52,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "creation",
+        "cosmology",
+        "Self",
+        "elements"
       ],
-      "sanskrit": "[Verse 52 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 52 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 52 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एतस्मादात्मन आकाशः सम्भूतः | आकाशाद्वायुः | वायोरग्निः ||२.१.१||",
+      "transliteration": "tasmād vā etasmād ātmana ākāśaḥ sambhūtaḥ | ākāśād vāyuḥ | vāyor agniḥ ||2.1.1||",
+      "word_meanings": [
+        {
+          "word": "आत्मनः आकाशः",
+          "meaning": "from the Self, space"
+        },
+        {
+          "word": "आकाशात् वायुः",
+          "meaning": "from space, air"
+        }
+      ],
+      "english_translation": "From this Self, space arose; from space, air; from air, fire.",
+      "shankara_bhashya_sanskrit": "तस्माद्वा एतस्मादात्मन आकाशः सम्भूतः | आकाशाद्वायुः | वायोरग्निः ||२.१.१||...",
+      "shankara_bhashya_english": "Shankara: From this Self, space arose; from space, air; from air, fire."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 53,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "creation",
+        "cosmology",
+        "elements",
+        "food",
+        "person"
       ],
-      "sanskrit": "[Verse 53 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 53 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 53 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अग्नेरापः | अद्भ्यः पृथिवी | पृथिव्या ओषधयः | ओषधीभ्योऽन्नम् | अन्नात्पुरुषः ||२.१.२||",
+      "transliteration": "agner āpaḥ | adbhyaḥ pṛthivī | pṛthivyā oṣadhayaḥ | oṣadhībhyo'nnam | annāt puruṣaḥ ||2.1.2||",
+      "word_meanings": [
+        {
+          "word": "अग्नेः आपः",
+          "meaning": "from fire, water"
+        },
+        {
+          "word": "अन्नात् पुरुषः",
+          "meaning": "from food, the person"
+        }
+      ],
+      "english_translation": "From fire, water; from water, earth; from earth, plants; from plants, food; from food, the person.",
+      "shankara_bhashya_sanskrit": "अग्नेरापः | अद्भ्यः पृथिवी | पृथिव्या ओषधयः | ओषधीभ्योऽन्नम् | अन्नात्पुरुषः ||२...",
+      "shankara_bhashya_english": "Shankara: From fire, water; from water, earth; from earth, plants; from plants, food; from food, the person."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 54,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "food sheath",
+        "annamaya",
+        "kosha",
+        "body"
       ],
-      "sanskrit": "[Verse 54 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 54 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 54 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष पुरुषोऽन्नरसमयः | तस्येदमेव शिरः ||२.१.२||",
+      "transliteration": "sa vā eṣa puruṣo'nnarasamayaḥ | tasyedam eva śiraḥ ||2.1.2||",
+      "word_meanings": [
+        {
+          "word": "अन्नरसमयः पुरुषः",
+          "meaning": "person made of food-essence"
+        },
+        {
+          "word": "शिरः",
+          "meaning": "head"
+        }
+      ],
+      "english_translation": "This person is indeed made of the essence of food. This is his head.",
+      "shankara_bhashya_sanskrit": "स वा एष पुरुषोऽन्नरसमयः | तस्येदमेव शिरः ||२.१.२||...",
+      "shankara_bhashya_english": "Shankara: This person is indeed made of the essence of food. This is his head."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 55,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "prana sheath",
+        "pranamaya",
+        "kosha",
+        "five sheaths"
       ],
-      "sanskrit": "[Verse 55 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 55 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 55 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एतस्मादन्नरसमयात् | अन्योऽन्तर आत्मा प्राणमयः ||२.२.१||",
+      "transliteration": "tasmād vā etasmād annarasamayāt | anyo'ntara ātmā prāṇamayaḥ ||2.2.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नरसमयात् अन्यः",
+          "meaning": "different from the food-essence body"
+        },
+        {
+          "word": "प्राणमयः आत्मा",
+          "meaning": "Self made of prana"
+        }
+      ],
+      "english_translation": "Different from this one made of food-essence is another inner Self made of prana.",
+      "shankara_bhashya_sanskrit": "तस्माद्वा एतस्मादन्नरसमयात् | अन्योऽन्तर आत्मा प्राणमयः ||२.२.१||...",
+      "shankara_bhashya_english": "Shankara: Different from this one made of food-essence is another inner Self made of prana."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 56,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "mind sheath",
+        "manomaya",
+        "kosha",
+        "five sheaths"
       ],
-      "sanskrit": "[Verse 56 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 56 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 56 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एतस्मात्प्राणमयात् | अन्योऽन्तर आत्मा मनोमयः ||२.३.१||",
+      "transliteration": "tasmād vā etasmāt prāṇamayāt | anyo'ntara ātmā manomayaḥ ||2.3.1||",
+      "word_meanings": [
+        {
+          "word": "प्राणमयात् अन्यः",
+          "meaning": "different from the prana-body"
+        },
+        {
+          "word": "मनोमयः आत्मा",
+          "meaning": "Self made of mind"
+        }
+      ],
+      "english_translation": "Different from this one made of prana is another inner Self made of mind.",
+      "shankara_bhashya_sanskrit": "तस्माद्वा एतस्मात्प्राणमयात् | अन्योऽन्तर आत्मा मनोमयः ||२.३.१||...",
+      "shankara_bhashya_english": "Shankara: Different from this one made of prana is another inner Self made of mind."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 57,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "intellect sheath",
+        "vijnanamaya",
+        "kosha",
+        "five sheaths"
       ],
-      "sanskrit": "[Verse 57 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 57 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 57 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एतस्मान्मनोमयात् | अन्योऽन्तर आत्मा विज्ञानमयः ||२.४.१||",
+      "transliteration": "tasmād vā etasmān manomayāt | anyo'ntara ātmā vijñānamayaḥ ||2.4.1||",
+      "word_meanings": [
+        {
+          "word": "मनोमयात् अन्यः",
+          "meaning": "different from the mind-body"
+        },
+        {
+          "word": "विज्ञानमयः आत्मा",
+          "meaning": "Self made of intellect"
+        }
+      ],
+      "english_translation": "Different from this one made of mind is another inner Self made of intellect.",
+      "shankara_bhashya_sanskrit": "तस्माद्वा एतस्मान्मनोमयात् | अन्योऽन्तर आत्मा विज्ञानमयः ||२.४.१||...",
+      "shankara_bhashya_english": "Shankara: Different from this one made of mind is another inner Self made of intellect."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 58,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "bliss sheath",
+        "anandamaya",
+        "kosha",
+        "five sheaths"
       ],
-      "sanskrit": "[Verse 58 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 58 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 58 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एतस्माद्विज्ञानमयात् | अन्योऽन्तर आत्माऽऽनन्दमयः ||२.५.१||",
+      "transliteration": "tasmād vā etasmād vijñānamayāt | anyo'ntara ātmānandamayaḥ ||2.5.1||",
+      "word_meanings": [
+        {
+          "word": "विज्ञानमयात् अन्यः",
+          "meaning": "different from the intellect-body"
+        },
+        {
+          "word": "आनन्दमयः आत्मा",
+          "meaning": "Self made of bliss"
+        }
+      ],
+      "english_translation": "Different from this one made of intellect is another inner Self made of bliss.",
+      "shankara_bhashya_sanskrit": "तस्माद्वा एतस्माद्विज्ञानमयात् | अन्योऽन्तर आत्माऽऽनन्दमयः ||२.५.१||...",
+      "shankara_bhashya_english": "Shankara: Different from this one made of intellect is another inner Self made of bliss."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 59,
       "tags": [
         "Brahman",
-        "knowledge"
+        "fearlessness",
+        "liberation",
+        "support"
       ],
-      "sanskrit": "[Verse 59 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 59 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 59 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यदो ह्येवैष एतस्मिन्नदृश्येऽनात्म्येऽनिरुक्तेऽनिलयनेऽभयं प्रतिष्ठां विन्दते ||२.७.१||",
+      "transliteration": "yado hy evaiṣa etasminn adṛśye'nātmye'nirukte'nilayane'bhayaṃ pratiṣṭhāṃ vindate ||2.7.1||",
+      "word_meanings": [
+        {
+          "word": "अदृश्ये अनात्म्ये",
+          "meaning": "in the unseen, bodiless"
+        },
+        {
+          "word": "अभयम् प्रतिष्ठाम् विन्दते",
+          "meaning": "finds fearless support"
+        }
+      ],
+      "english_translation": "When one finds fearless support in that which is unseen, bodiless, unutterable, and supportless — then one has gone to fearlessness.",
+      "shankara_bhashya_sanskrit": "यदो ह्येवैष एतस्मिन्नदृश्येऽनात्म्येऽनिरुक्तेऽनिलयनेऽभयं प्रतिष्ठां विन्दते ||२....",
+      "shankara_bhashya_english": "Shankara: When one finds fearless support in that which is unseen, bodiless, unutterable, and supportless — then one has gone to fearlessness."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 60,
       "tags": [
         "Brahman",
-        "knowledge"
+        "infinite",
+        "bliss",
+        "inquiry"
       ],
-      "sanskrit": "[Verse 60 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 60 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 60 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "भूमा त्वेव विजिज्ञासितव्यः | भूमैव सुखम् | नाल्पे सुखमस्ति ||२.८.१||",
+      "transliteration": "bhūmā tv eva vijijñāsitavyaḥ | bhūmaiva sukham | nālpe sukham asti ||2.8.1||",
+      "word_meanings": [
+        {
+          "word": "भूमा विजिज्ञासितव्यः",
+          "meaning": "the infinite should be inquired into"
+        },
+        {
+          "word": "भूमा एव सुखम्",
+          "meaning": "the infinite alone is bliss"
+        }
+      ],
+      "english_translation": "The infinite alone should be inquired into. The infinite alone is bliss. There is no bliss in the finite.",
+      "shankara_bhashya_sanskrit": "भूमा त्वेव विजिज्ञासितव्यः | भूमैव सुखम् | नाल्पे सुखमस्ति ||२.८.१||...",
+      "shankara_bhashya_english": "Shankara: The infinite alone should be inquired into. The infinite alone is bliss. There is no bliss in the finite."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 61,
       "tags": [
         "Brahman",
-        "knowledge"
+        "infinite",
+        "bliss"
       ],
-      "sanskrit": "[Verse 61 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 61 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 61 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यो वै भूमा तत्सुखम् | नाल्पे सुखमस्ति | भूमैव सुखम् ||२.८.१||",
+      "transliteration": "yo vai bhūmā tat sukham | nālpe sukham asti | bhūmaiva sukham ||2.8.1||",
+      "word_meanings": [
+        {
+          "word": "भूमा सुखम्",
+          "meaning": "the infinite is bliss"
+        },
+        {
+          "word": "न अल्पे सुखम्",
+          "meaning": "no bliss in the finite"
+        }
+      ],
+      "english_translation": "The infinite is bliss. There is no bliss in the finite. The infinite alone is bliss.",
+      "shankara_bhashya_sanskrit": "यो वै भूमा तत्सुखम् | नाल्पे सुखमस्ति | भूमैव सुखम् ||२.८.१||...",
+      "shankara_bhashya_english": "Shankara: The infinite is bliss. There is no bliss in the finite. The infinite alone is bliss."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 62,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "bliss",
+        "scale",
+        "ananda",
+        "human"
       ],
-      "sanskrit": "[Verse 62 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 62 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 62 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स एको मानुषानन्दः | ते ये शतं मनुष्यगन्धर्वाणामानन्दाः ||२.८.१||",
+      "transliteration": "sa eko mānuṣānandaḥ | te ye śataṃ manuṣyagandharvāṇām ānandāḥ ||2.8.1||",
+      "word_meanings": [
+        {
+          "word": "मानुषानन्दः",
+          "meaning": "human bliss"
+        },
+        {
+          "word": "मनुष्यगन्धर्वाणाम् आनन्दः",
+          "meaning": "bliss of human gandharvas"
+        }
+      ],
+      "english_translation": "That is one unit of human bliss. A hundred units of human bliss equal one unit of human gandharva bliss.",
+      "shankara_bhashya_sanskrit": "स एको मानुषानन्दः | ते ये शतं मनुष्यगन्धर्वाणामानन्दाः ||२.८.१||...",
+      "shankara_bhashya_english": "Shankara: That is one unit of human bliss. A hundred units of human bliss equal one unit of human gandharva bliss."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 63,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "bliss",
+        "scale",
+        "ananda",
+        "gods"
       ],
-      "sanskrit": "[Verse 63 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 63 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 63 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ते ये शतं देवानामानन्दाः | स एको देवानामानन्दः ||२.८.१||",
+      "transliteration": "te ye śataṃ devānām ānandāḥ | sa eko devānām ānandaḥ ||2.8.1||",
+      "word_meanings": [
+        {
+          "word": "देवानाम् आनन्दः",
+          "meaning": "bliss of the gods"
+        }
+      ],
+      "english_translation": "A hundred units of divine bliss equal one unit of divine bliss.",
+      "shankara_bhashya_sanskrit": "ते ये शतं देवानामानन्दाः | स एको देवानामानन्दः ||२.८.१||...",
+      "shankara_bhashya_english": "Shankara: A hundred units of divine bliss equal one unit of divine bliss."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 64,
       "tags": [
+        "bliss",
+        "scale",
+        "ananda",
         "Brahman",
-        "knowledge"
+        "infinite"
       ],
-      "sanskrit": "[Verse 64 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 64 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 64 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ते ये शतं प्रजापतेरानन्दाः | स एको ब्रह्मण आनन्दः ||२.८.१||",
+      "transliteration": "te ye śataṃ prajāpater ānandāḥ | sa eko brahmaṇa ānandaḥ ||2.8.1||",
+      "word_meanings": [
+        {
+          "word": "ब्रह्मणः आनन्दः",
+          "meaning": "Brahman's bliss (infinite)"
+        }
+      ],
+      "english_translation": "A hundred units of Prajapati's bliss equal one unit of Brahman's bliss.",
+      "shankara_bhashya_sanskrit": "ते ये शतं प्रजापतेरानन्दाः | स एको ब्रह्मण आनन्दः ||२.८.१||...",
+      "shankara_bhashya_english": "Shankara: A hundred units of Prajapati's bliss equal one unit of Brahman's bliss."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 65,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "food",
+        "ethics",
+        "prana",
+        "body"
       ],
-      "sanskrit": "[Verse 65 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 65 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 65 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अन्नं न निन्द्यात् | तद्व्रतम् | प्राणो वा अन्नम् | शरीरमन्नादम् ||३.७.१||",
+      "transliteration": "annaṃ na nindyāt | tad vratam | prāṇo vā annam | śarīram annādam ||3.7.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नम् न निन्द्यात्",
+          "meaning": "do not despise food"
+        },
+        {
+          "word": "प्राणः अन्नम्",
+          "meaning": "prana is food"
+        }
+      ],
+      "english_translation": "One should not despise food — that is the vow. Prana is indeed food; the body is the eater of food.",
+      "shankara_bhashya_sanskrit": "अन्नं न निन्द्यात् | तद्व्रतम् | प्राणो वा अन्नम् | शरीरमन्नादम् ||३.७.१||...",
+      "shankara_bhashya_english": "Shankara: One should not despise food — that is the vow. Prana is indeed food; the body is the eater of food."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 66,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "food",
+        "ethics",
+        "earth",
+        "space"
       ],
-      "sanskrit": "[Verse 66 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 66 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 66 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अन्नं बहु कुर्वीत | तद्व्रतम् | पृथिवी वा अन्नम् | आकाशोऽन्नादः ||३.८.१||",
+      "transliteration": "annaṃ bahu kurvīta | tad vratam | pṛthivī vā annam | ākāśo'nnādaḥ ||3.8.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नम् बहु कुर्वीत",
+          "meaning": "produce much food"
+        },
+        {
+          "word": "पृथिवी अन्नम्",
+          "meaning": "earth is food"
+        }
+      ],
+      "english_translation": "One should produce much food — that is the vow. Earth is indeed food; space is the eater.",
+      "shankara_bhashya_sanskrit": "अन्नं बहु कुर्वीत | तद्व्रतम् | पृथिवी वा अन्नम् | आकाशोऽन्नादः ||३.८.१||...",
+      "shankara_bhashya_english": "Shankara: One should produce much food — that is the vow. Earth is indeed food; space is the eater."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 67,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "food",
+        "ethics",
+        "water",
+        "fire"
       ],
-      "sanskrit": "[Verse 67 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 67 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 67 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न अन्नं परिचक्षीत | तद्व्रतम् | आपो वा अन्नम् | ज्योतिरन्नादम् ||३.९.१||",
+      "transliteration": "na annaṃ paricakṣīta | tad vratam | āpo vā annam | jyotir annādam ||3.9.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नम् न परिचक्षीत",
+          "meaning": "do not refuse food"
+        },
+        {
+          "word": "आपः अन्नम्",
+          "meaning": "water is food"
+        }
+      ],
+      "english_translation": "One should not refuse food — that is the vow. Water is indeed food; fire is the eater.",
+      "shankara_bhashya_sanskrit": "न अन्नं परिचक्षीत | तद्व्रतम् | आपो वा अन्नम् | ज्योतिरन्नादम् ||३.९.१||...",
+      "shankara_bhashya_english": "Shankara: One should not refuse food — that is the vow. Water is indeed food; fire is the eater."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 68,
       "tags": [
+        "food",
         "Brahman",
-        "knowledge"
+        "creation",
+        "ethics"
       ],
-      "sanskrit": "[Verse 68 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 68 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 68 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न अन्नं परिचक्षीत | तद्व्रतम् | अन्नं ह्येव खल्विमानि भूतानि जायन्ते ||३.२.१||",
+      "transliteration": "na annaṃ paricakṣīta | tad vratam | annaṃ hy eva khalv imāni bhūtāni jāyante ||3.2.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नात् भूतानि जायन्ते",
+          "meaning": "from food beings are born"
+        }
+      ],
+      "english_translation": "One should not refuse food. For from food alone are all these beings born.",
+      "shankara_bhashya_sanskrit": "न अन्नं परिचक्षीत | तद्व्रतम् | अन्नं ह्येव खल्विमानि भूतानि जायन्ते ||३.२.१||...",
+      "shankara_bhashya_english": "Shankara: One should not refuse food. For from food alone are all these beings born."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 69,
       "tags": [
+        "food",
         "Brahman",
-        "knowledge"
+        "life",
+        "death"
       ],
-      "sanskrit": "[Verse 69 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 69 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 69 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अन्नेन जातानि जीवन्ति | अन्नं प्रयन्त्यभिसंविशन्तीति ||३.२.१||",
+      "transliteration": "annena jātāni jīvanti | annaṃ prayanty abhisaṃviśantīti ||3.2.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नेन जीवन्ति",
+          "meaning": "live by food"
+        },
+        {
+          "word": "अन्नम् प्रयन्ति",
+          "meaning": "return into food"
+        }
+      ],
+      "english_translation": "By food they live once born; into food they return at death.",
+      "shankara_bhashya_sanskrit": "अन्नेन जातानि जीवन्ति | अन्नं प्रयन्त्यभिसंविशन्तीति ||३.२.१||...",
+      "shankara_bhashya_english": "Shankara: By food they live once born; into food they return at death."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 70,
       "tags": [
+        "food",
         "Brahman",
-        "knowledge"
+        "Bhrigu",
+        "realization"
       ],
-      "sanskrit": "[Verse 70 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 70 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 70 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अन्नं ब्रह्मेति व्यजानात् | अन्नाद्धि खल्विमानि भूतानि जायन्ते ||३.२.१||",
+      "transliteration": "annaṃ brahmeti vyajānāt | annād dhi khalv imāni bhūtāni jāyante ||3.2.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नम् ब्रह्म",
+          "meaning": "food is Brahman"
+        },
+        {
+          "word": "अन्नात् जायन्ते",
+          "meaning": "born from food"
+        }
+      ],
+      "english_translation": "He knew: food is Brahman. For from food alone are all these beings born.",
+      "shankara_bhashya_sanskrit": "अन्नं ब्रह्मेति व्यजानात् | अन्नाद्धि खल्विमानि भूतानि जायन्ते ||३.२.१||...",
+      "shankara_bhashya_english": "Shankara: He knew: food is Brahman. For from food alone are all these beings born."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 71,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "Bhrigu",
+        "realization"
       ],
-      "sanskrit": "[Verse 71 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 71 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 71 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ब्रह्मेति व्यजानात् | प्राणाद्धि खल्विमानि भूतानि जायन्ते ||३.३.१||",
+      "transliteration": "prāṇo brahmeti vyajānāt | prāṇād dhi khalv imāni bhūtāni jāyante ||3.3.1||",
+      "word_meanings": [
+        {
+          "word": "प्राणः ब्रह्म",
+          "meaning": "prana is Brahman"
+        },
+        {
+          "word": "प्राणात् जायन्ते",
+          "meaning": "born from prana"
+        }
+      ],
+      "english_translation": "He knew: prana is Brahman. For from prana alone are all these beings born.",
+      "shankara_bhashya_sanskrit": "प्राणो ब्रह्मेति व्यजानात् | प्राणाद्धि खल्विमानि भूतानि जायन्ते ||३.३.१||...",
+      "shankara_bhashya_english": "Shankara: He knew: prana is Brahman. For from prana alone are all these beings born."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 72,
       "tags": [
+        "mind",
         "Brahman",
-        "knowledge"
+        "Bhrigu",
+        "realization"
       ],
-      "sanskrit": "[Verse 72 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 72 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 72 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "मनो ब्रह्मेति व्यजानात् | मनसो ह्येव खल्विमानि भूतानि जायन्ते ||३.४.१||",
+      "transliteration": "mano brahmeti vyajānāt | manaso hy eva khalv imāni bhūtāni jāyante ||3.4.1||",
+      "word_meanings": [
+        {
+          "word": "मनः ब्रह्म",
+          "meaning": "mind is Brahman"
+        },
+        {
+          "word": "मनसः जायन्ते",
+          "meaning": "born from mind"
+        }
+      ],
+      "english_translation": "He knew: mind is Brahman. For from mind alone are all these beings born.",
+      "shankara_bhashya_sanskrit": "मनो ब्रह्मेति व्यजानात् | मनसो ह्येव खल्विमानि भूतानि जायन्ते ||३.४.१||...",
+      "shankara_bhashya_english": "Shankara: He knew: mind is Brahman. For from mind alone are all these beings born."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 73,
       "tags": [
+        "consciousness",
         "Brahman",
-        "knowledge"
+        "Bhrigu",
+        "realization"
       ],
-      "sanskrit": "[Verse 73 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 73 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 73 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "विज्ञानं ब्रह्मेति व्यजानात् | विज्ञानाद्ध्येव खल्विमानि भूतानि जायन्ते ||३.५.१||",
+      "transliteration": "vijñānaṃ brahmeti vyajānāt | vijñānād dhy eva khalv imāni bhūtāni jāyante ||3.5.1||",
+      "word_meanings": [
+        {
+          "word": "विज्ञानम् ब्रह्म",
+          "meaning": "consciousness is Brahman"
+        },
+        {
+          "word": "विज्ञानात् जायन्ते",
+          "meaning": "born from consciousness"
+        }
+      ],
+      "english_translation": "He knew: consciousness is Brahman. For from consciousness alone are all these beings born.",
+      "shankara_bhashya_sanskrit": "विज्ञानं ब्रह्मेति व्यजानात् | विज्ञानाद्ध्येव खल्विमानि भूतानि जायन्ते ||३.५.१|...",
+      "shankara_bhashya_english": "Shankara: He knew: consciousness is Brahman. For from consciousness alone are all these beings born."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 74,
       "tags": [
+        "bliss",
         "Brahman",
-        "knowledge"
+        "Bhrigu",
+        "final realization"
       ],
-      "sanskrit": "[Verse 74 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 74 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 74 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "आनन्दो ब्रह्मेति व्यजानात् | आनन्दाद्ध्येव खल्विमानि भूतानि जायन्ते ||३.६.१||",
+      "transliteration": "ānando brahmeti vyajānāt | ānandād dhy eva khalv imāni bhūtāni jāyante ||3.6.1||",
+      "word_meanings": [
+        {
+          "word": "आनन्दः ब्रह्म",
+          "meaning": "bliss is Brahman"
+        },
+        {
+          "word": "आनन्दात् जायन्ते",
+          "meaning": "born from bliss"
+        }
+      ],
+      "english_translation": "He knew: bliss is Brahman. For from bliss alone are all these beings born.",
+      "shankara_bhashya_sanskrit": "आनन्दो ब्रह्मेति व्यजानात् | आनन्दाद्ध्येव खल्विमानि भूतानि जायन्ते ||३.६.१||...",
+      "shankara_bhashya_english": "Shankara: He knew: bliss is Brahman. For from bliss alone are all these beings born."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 75,
       "tags": [
+        "bliss",
         "Brahman",
-        "knowledge"
+        "life",
+        "death"
       ],
-      "sanskrit": "[Verse 75 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 75 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 75 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "आनन्देन जातानि जीवन्ति | आनन्दं प्रयन्त्यभिसंविशन्तीति ||३.६.१||",
+      "transliteration": "ānandena jātāni jīvanti | ānandaṃ prayanty abhisaṃviśantīti ||3.6.1||",
+      "word_meanings": [
+        {
+          "word": "आनन्देन जीवन्ति",
+          "meaning": "live by bliss"
+        },
+        {
+          "word": "आनन्दम् प्रयन्ति",
+          "meaning": "return into bliss"
+        }
+      ],
+      "english_translation": "By bliss they live once born; into bliss they return at death.",
+      "shankara_bhashya_sanskrit": "आनन्देन जातानि जीवन्ति | आनन्दं प्रयन्त्यभिसंविशन्तीति ||३.६.१||...",
+      "shankara_bhashya_english": "Shankara: By bliss they live once born; into bliss they return at death."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 76,
       "tags": [
+        "creation",
         "Brahman",
-        "knowledge"
+        "desire",
+        "austerity"
       ],
-      "sanskrit": "[Verse 76 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 76 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 76 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सोऽकामयत | बहु स्यां प्रजायेयेति | स तपोऽतप्यत ||२.६.१||",
+      "transliteration": "so'kāmayata | bahu syāṃ prajāyeyeti | sa tapo'tapyata ||2.6.1||",
+      "word_meanings": [
+        {
+          "word": "बहु स्याम् प्रजायेय",
+          "meaning": "may I become many"
+        },
+        {
+          "word": "तपः अतप्यत",
+          "meaning": "performed austerity"
+        }
+      ],
+      "english_translation": "He desired: 'May I become many, may I be born.' He performed austerity.",
+      "shankara_bhashya_sanskrit": "सोऽकामयत | बहु स्यां प्रजायेयेति | स तपोऽतप्यत ||२.६.१||...",
+      "shankara_bhashya_english": "Shankara: He desired: 'May I become many, may I be born.' He performed austerity."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 77,
       "tags": [
+        "creation",
         "Brahman",
-        "knowledge"
+        "immanence",
+        "transcendence"
       ],
-      "sanskrit": "[Verse 77 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 77 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 77 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स तपस्तप्त्वा | इदं सर्वमसृजत | यदिदं किञ्च | तत्सृष्ट्वा | तदेवानुप्राविशत् ||२.६.१||",
+      "transliteration": "sa tapas taptvā | idaṃ sarvam asṛjata | yad idaṃ kiñca | tat sṛṣṭvā | tad evānuprāviśat ||2.6.1||",
+      "word_meanings": [
+        {
+          "word": "इदम् सर्वम् असृजत",
+          "meaning": "created all this"
+        },
+        {
+          "word": "तत् एव अनुप्राविशत्",
+          "meaning": "entered into that very creation"
+        }
+      ],
+      "english_translation": "Having performed austerity, he created all this — whatever exists. Having created it, he entered into that very creation.",
+      "shankara_bhashya_sanskrit": "स तपस्तप्त्वा | इदं सर्वमसृजत | यदिदं किञ्च | तत्सृष्ट्वा | तदेवानुप्राविशत् ||२...",
+      "shankara_bhashya_english": "Shankara: Having performed austerity, he created all this — whatever exists. Having created it, he entered into that very creation."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 78,
       "tags": [
+        "creation",
         "Brahman",
-        "knowledge"
+        "immanence",
+        "defined",
+        "undefined"
       ],
-      "sanskrit": "[Verse 78 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 78 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 78 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तत्सृष्ट्वा तदेवानुप्राविशत् | तदनुप्रविश्य | सच्च त्यच्चाभवत् ||२.६.१||",
+      "transliteration": "tat sṛṣṭvā tad evānuprāviśat | tad anupraviśya | sac ca tyac cābhavat ||2.6.1||",
+      "word_meanings": [
+        {
+          "word": "सत् च त्यत् च अभवत्",
+          "meaning": "became both the defined and the undefined"
+        }
+      ],
+      "english_translation": "Having created it, he entered into that very creation. Having entered, he became both the defined and the undefined.",
+      "shankara_bhashya_sanskrit": "तत्सृष्ट्वा तदेवानुप्राविशत् | तदनुप्रविश्य | सच्च त्यच्चाभवत् ||२.६.१||...",
+      "shankara_bhashya_english": "Shankara: Having created it, he entered into that very creation. Having entered, he became both the defined and the undefined."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 79,
       "tags": [
         "Brahman",
-        "knowledge"
+        "paradox",
+        "defined",
+        "undefined",
+        "truth"
       ],
-      "sanskrit": "[Verse 79 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 79 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 79 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "निरुक्तं चानिरुक्तं च | निलयनं चानिलयनं च | विज्ञानं चाविज्ञानं च | सत्यं चानृतं च ||२.६.१||",
+      "transliteration": "niruktaṃ cāniruktaṃ ca | nilayanaṃ cānilayanaṃ ca | vijñānaṃ cāvijñānaṃ ca | satyaṃ cānṛtaṃ ca ||2.6.1||",
+      "word_meanings": [
+        {
+          "word": "निरुक्तम् च अनिरुक्तम् च",
+          "meaning": "the defined and the undefined"
+        },
+        {
+          "word": "सत्यम् च अनृतम् च",
+          "meaning": "truth and untruth"
+        }
+      ],
+      "english_translation": "The defined and the undefined, the supported and the unsupported, the known and the unknown, truth and untruth.",
+      "shankara_bhashya_sanskrit": "निरुक्तं चानिरुक्तं च | निलयनं चानिलयनं च | विज्ञानं चाविज्ञानं च | सत्यं चानृतं...",
+      "shankara_bhashya_english": "Shankara: The defined and the undefined, the supported and the unsupported, the known and the unknown, truth and untruth."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 80,
       "tags": [
         "Brahman",
-        "knowledge"
+        "truth",
+        "existence",
+        "creation"
       ],
-      "sanskrit": "[Verse 80 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 80 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 80 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सत्यमभवत् | यदिदं किञ्च | तत्सत्यमित्याचक्षते | तदप्येष श्लोको भवति ||२.६.१||",
+      "transliteration": "satyam abhavat | yad idaṃ kiñca | tat satyam ity ācakṣate | tad apy eṣa śloko bhavati ||2.6.1||",
+      "word_meanings": [
+        {
+          "word": "सत्यम् अभवत्",
+          "meaning": "truth became"
+        },
+        {
+          "word": "यत् इदम् किञ्च",
+          "meaning": "whatever exists here"
+        }
+      ],
+      "english_translation": "Truth became. Whatever exists here — that they call truth. And there is this verse about it.",
+      "shankara_bhashya_sanskrit": "सत्यमभवत् | यदिदं किञ्च | तत्सत्यमित्याचक्षते | तदप्येष श्लोको भवति ||२.६.१||...",
+      "shankara_bhashya_english": "Shankara: Truth became. Whatever exists here — that they call truth. And there is this verse about it."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 81,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "peace",
+        "conclusion",
+        "Om",
+        "Taittiriya"
       ],
-      "sanskrit": "[Verse 81 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 81 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 81 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ॐ शान्तिः शान्तिः शान्तिः | इति तैत्तिरीयोपनिषत् ||",
+      "transliteration": "oṃ śāntiḥ śāntiḥ śāntiḥ | iti taittirīyopaniṣat ||",
+      "word_meanings": [
+        {
+          "word": "शान्तिः शान्तिः शान्तिः",
+          "meaning": "peace, peace, peace (triple peace)"
+        }
+      ],
+      "english_translation": "Om peace, peace, peace. Thus ends the Taittiriya Upanishad.",
+      "shankara_bhashya_sanskrit": "ॐ शान्तिः शान्तिः शान्तिः | इति तैत्तिरीयोपनिषत् ||...",
+      "shankara_bhashya_english": "Shankara: Om peace, peace, peace. Thus ends the Taittiriya Upanishad."
     }
   ]
 }

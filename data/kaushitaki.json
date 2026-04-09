@@ -947,925 +947,1703 @@
       "upanishad": "kaushitaki",
       "verse_number": 31,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 31 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 31 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 31 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 32,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 32 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 32 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 32 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 33,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 33 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 33 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 33 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 34,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 34 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 34 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 34 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 35,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 35 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 35 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 35 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 36,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 36 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 36 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 36 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 37,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 37 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 37 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 37 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 38,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 38 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 38 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 38 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 39,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 39 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 39 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 39 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 40,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 40 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 40 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 40 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 41,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 41 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 41 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 41 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 42,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 42 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 42 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 42 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 43,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 43 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 43 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 43 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 44,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 44 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 44 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 44 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 45,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 45 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 45 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 45 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 46,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 46 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 46 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 46 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 47,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 47 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 47 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 47 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 48,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 48 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 48 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 48 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 49,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 49 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 49 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 49 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 50,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 50 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 50 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 50 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 51,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 51 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 51 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 51 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 52,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 52 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 52 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 52 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 53,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 53 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 53 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 53 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 54,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 54 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 54 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 54 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 55,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 55 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 55 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 55 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 56,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 56 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 56 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 56 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 57,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 57 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 57 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 57 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 58,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 58 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 58 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 58 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 59,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 59 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 59 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 59 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 60,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 60 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 60 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 60 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 61,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 61 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 61 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 61 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 62,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 62 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 62 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 62 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 63,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 63 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 63 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 63 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 64,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 64 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 64 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 64 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 65,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 65 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 65 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 65 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 66,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 66 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 66 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 66 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 67,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 67 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 67 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 67 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 68,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 68 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 68 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 68 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 69,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 69 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 69 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 69 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 70,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 70 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 70 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 70 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 71,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 71 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 71 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 71 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 72,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 72 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 72 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 72 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 73,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 73 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 73 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 73 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 74,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 74 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 74 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 74 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 75,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 75 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 75 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 75 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 76,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 76 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 76 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 76 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 77,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 77 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 77 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 77 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 78,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 78 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 78 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 78 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 79,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 79 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 79 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 79 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 80,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 80 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 80 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 80 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 81,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 81 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 81 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 81 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 82,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 82 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 82 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 82 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 83,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 83 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 83 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 83 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 84,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 84 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 84 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 84 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 85,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 85 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 85 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 85 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 86,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 86 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 86 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 86 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 87,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 87 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 87 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 87 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 88,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 88 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 88 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 88 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 89,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 89 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 89 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 89 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 90,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 90 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 90 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 90 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 91,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 91 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 91 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 91 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 92,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "unity",
+        "Self",
+        "all beings",
+        "liberation",
+        "vision"
       ],
-      "sanskrit": "[Verse 92 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 92 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 92 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.१||",
+      "transliteration": "sa ya evaṃ vidvān sarvāṇi bhūtāni ātmānam eva paśyati | sarveṣu bhūteṣu cātmānam ||3.1||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मानम् पश्यति",
+          "meaning": "sees all beings as the Self"
+        },
+        {
+          "word": "सर्वेषु भूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        }
+      ],
+      "english_translation": "One who knows thus sees all beings as the Self alone, and the Self in all beings.",
+      "shankara_bhashya_sanskrit": "स य एवं विद्वान् सर्वाणि भूतानि आत्मानमेव पश्यति | सर्वेषु भूतेषु चात्मानम् ||३.",
+      "shankara_bhashya_english": "Shankara: One who knows thus sees all beings as the Self alone, and the Self in all beings."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 93,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "lord",
+        "protector",
+        "all beings"
       ],
-      "sanskrit": "[Verse 93 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 93 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 93 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "transliteration": "prāṇo hy eṣa yaḥ sarvabhūtair vibhāti | eṣa lokādhipatiḥ | eṣa lokapālaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतैः विभाति",
+          "meaning": "shines through all beings"
+        },
+        {
+          "word": "लोकाधिपतिः",
+          "meaning": "lord of the worlds"
+        }
+      ],
+      "english_translation": "This prana shines through all beings. This is the lord of the worlds, the protector of the worlds.",
+      "shankara_bhashya_sanskrit": "प्राणो ह्येष यः सर्वभूतैर्विभाति | एष लोकाधिपतिः | एष लोकपालः ||३.२||",
+      "shankara_bhashya_english": "Shankara: This prana shines through all beings. This is the lord of the worlds, the protector of the worlds."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 94,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "inquiry",
+        "Self",
+        "speaker",
+        "seer",
+        "method"
       ],
-      "sanskrit": "[Verse 94 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 94 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 94 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.८||",
+      "transliteration": "na vācaṃ vijijñāsīta vaktāraṃ vidyāt | na rūpaṃ vijijñāsīta draṣṭāraṃ vidyāt ||3.8||",
+      "word_meanings": [
+        {
+          "word": "वक्तारम् विद्यात्",
+          "meaning": "know the speaker"
+        },
+        {
+          "word": "द्रष्टारम् विद्यात्",
+          "meaning": "know the seer"
+        }
+      ],
+      "english_translation": "One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer.",
+      "shankara_bhashya_sanskrit": "न वाचं विजिज्ञासीत वक्तारं विद्यात् | न रूपं विजिज्ञासीत द्रष्टारं विद्यात् ||३.",
+      "shankara_bhashya_english": "Shankara: One should not inquire into speech — one should know the speaker. One should not inquire into form — one should know the seer."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 95,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Self",
+        "unborn",
+        "consciousness",
+        "heart",
+        "ether"
       ],
-      "sanskrit": "[Verse 95 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 95 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 95 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२||",
+      "transliteration": "sa vā eṣa mahān aja ātmā | yo'yaṃ vijñānamayaḥ prāṇeṣu | ya eṣo'ntarhṛdaya ākāśaḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "महान् अजः आत्मा",
+          "meaning": "the great unborn Self"
+        },
+        {
+          "word": "अन्तर्हृदय आकाशः",
+          "meaning": "ether within the heart"
+        }
+      ],
+      "english_translation": "This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart.",
+      "shankara_bhashya_sanskrit": "स वा एष महान् अज आत्मा | योऽयं विज्ञानमयः प्राणेषु | य एषोऽन्तर्हृदय आकाशः ||३.२",
+      "shankara_bhashya_english": "Shankara: This is the great unborn Self — made of consciousness, among the pranas — which rests in the ether within the heart."
     },
     {
       "upanishad": "kaushitaki",
       "verse_number": 96,
       "tags": [
+        "prana",
         "Brahman",
-        "knowledge"
+        "relationships",
+        "consciousness"
       ],
-      "sanskrit": "[Verse 96 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 96 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 96 of the Kaushitaki Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||३.३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||3.3||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्",
+      "shankara_bhashya_english": "Shankara: Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman."
     }
   ]
 }

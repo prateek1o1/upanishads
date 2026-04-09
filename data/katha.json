@@ -76,15 +76,21 @@
       "upanishad": "katha",
       "verse_number": 3,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Nachiketa",
+        "introduction",
+        "Vajashravasa"
       ],
-      "sanskrit": "[Verse 3 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 3 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 3 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्य ह नचिकेता नाम पुत्र आस ||१.१.१||",
+      "transliteration": "tasya ha naciketā nāma putra āsa ||1.1.1||",
+      "word_meanings": [
+        {
+          "word": "नचिकेता नाम पुत्रः",
+          "meaning": "a son named Nachiketa"
+        }
+      ],
+      "english_translation": "He had a son named Nachiketa.",
+      "shankara_bhashya_sanskrit": "तस्य ह नचिकेता नाम पुत्र आस ||१.१.१||",
+      "shankara_bhashya_english": "Shankara: He had a son named Nachiketa."
     },
     {
       "upanishad": "katha",
@@ -1706,967 +1712,1797 @@
       "upanishad": "katha",
       "verse_number": 51,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "grace",
+        "knowledge",
+        "instruction"
       ],
-      "sanskrit": "[Verse 51 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 51 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 51 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यमेव धीरो विजानाति नायमात्मा प्रवचनेन लभ्यः | न मेधया न बहुना श्रुतेन ||१.२.२३||",
+      "transliteration": "yam eva dhīro vijānāti nāyam ātmā pravacanena labhyaḥ | na medhayā na bahunā śrutena ||1.2.23||",
+      "word_meanings": [
+        {
+          "word": "न प्रवचनेन लभ्यः",
+          "meaning": "not attained by instruction"
+        },
+        {
+          "word": "न मेधया",
+          "meaning": "not by intellect"
+        }
+      ],
+      "english_translation": "This Self cannot be attained by instruction, nor by intellect, nor by much learning. It is attained by the one whom it chooses.",
+      "shankara_bhashya_sanskrit": "यमेव धीरो विजानाति नायमात्मा प्रवचनेन लभ्यः | न मेधया न बहुना श्रुतेन ||१.२.२३||",
+      "shankara_bhashya_english": "Shankara: This Self cannot be attained by instruction, nor by intellect, nor by much learning. It is attained by the one whom it chooses."
     },
     {
       "upanishad": "katha",
       "verse_number": 52,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "strength",
+        "effort",
+        "austerity"
       ],
-      "sanskrit": "[Verse 52 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 52 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 52 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "नायमात्मा बलहीनेन लभ्यो न च प्रमादात्तपसो वाप्यलिङ्गात् ||१.२.२४||",
+      "transliteration": "nāyam ātmā balahīnena labhyo na ca pramādāt tapaso vāpy aliṅgāt ||1.2.24||",
+      "word_meanings": [
+        {
+          "word": "बलहीनेन न लभ्यः",
+          "meaning": "not attained by the weak"
+        },
+        {
+          "word": "न प्रमादात्",
+          "meaning": "not through carelessness"
+        }
+      ],
+      "english_translation": "This Self is not attained by the weak, nor through carelessness, nor through misdirected austerity.",
+      "shankara_bhashya_sanskrit": "नायमात्मा बलहीनेन लभ्यो न च प्रमादात्तपसो वाप्यलिङ्गात् ||१.२.२४||",
+      "shankara_bhashya_english": "Shankara: This Self is not attained by the weak, nor through carelessness, nor through misdirected austerity."
     },
     {
       "upanishad": "katha",
       "verse_number": 53,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "subtle",
+        "mind",
+        "prana",
+        "five"
       ],
-      "sanskrit": "[Verse 53 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 53 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 53 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एषोऽणुरात्मा चेतसा वेदितव्यो यस्मिन् प्राणः पञ्चधा संविवेश ||२.१.१||",
+      "transliteration": "eṣo'ṇur ātmā cetasā veditavyo yasmin prāṇaḥ pañcadhā saṃviveśa ||2.1.1||",
+      "word_meanings": [
+        {
+          "word": "अणुः आत्मा",
+          "meaning": "the subtle Self"
+        },
+        {
+          "word": "चेतसा वेदितव्यः",
+          "meaning": "to be known by the mind"
+        },
+        {
+          "word": "पञ्चधा",
+          "meaning": "fivefold"
+        }
+      ],
+      "english_translation": "This subtle Self is to be known by the mind, in which prana has entered fivefold.",
+      "shankara_bhashya_sanskrit": "एषोऽणुरात्मा चेतसा वेदितव्यो यस्मिन् प्राणः पञ्चधा संविवेश ||२.१.१||",
+      "shankara_bhashya_english": "Shankara: This subtle Self is to be known by the mind, in which prana has entered fivefold."
     },
     {
       "upanishad": "katha",
       "verse_number": 54,
       "tags": [
-        "Brahman",
+        "Atman",
+        "mind",
+        "heart",
+        "cave",
         "knowledge"
       ],
-      "sanskrit": "[Verse 54 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 54 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 54 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "चित्तेन सम्पन्नमनुप्रविष्टं यो वेद निहितं गुहायाम् ||२.१.१||",
+      "transliteration": "cittena sampannam anupraviṣṭaṃ yo veda nihitaṃ guhāyām ||2.1.1||",
+      "word_meanings": [
+        {
+          "word": "चित्तेन सम्पन्नम्",
+          "meaning": "endowed with mind"
+        },
+        {
+          "word": "गुहायाम् निहितम्",
+          "meaning": "hidden in the cave"
+        }
+      ],
+      "english_translation": "One who knows it as endowed with mind, entered into the cave of the heart.",
+      "shankara_bhashya_sanskrit": "चित्तेन सम्पन्नमनुप्रविष्टं यो वेद निहितं गुहायाम् ||२.१.१||",
+      "shankara_bhashya_english": "Shankara: One who knows it as endowed with mind, entered into the cave of the heart."
     },
     {
       "upanishad": "katha",
       "verse_number": 55,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Nachiketa",
+        "Yama",
+        "knowledge",
+        "yoga",
+        "conclusion"
       ],
-      "sanskrit": "[Verse 55 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 55 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 55 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "मृत्युप्रोक्तां नचिकेतोऽथ लब्ध्वा विद्यामेतां योगविधिं च कृत्स्नम् ||३.१.१८||",
+      "transliteration": "mṛtyuproktāṃ naciketaḥ atha labdhvā vidyām etāṃ yogavidhiṃ ca kṛtsnam ||3.1.18||",
+      "word_meanings": [
+        {
+          "word": "मृत्युप्रोक्ताम् विद्याम्",
+          "meaning": "knowledge taught by Death"
+        },
+        {
+          "word": "योगविधिम् कृत्स्नम्",
+          "meaning": "complete method of yoga"
+        }
+      ],
+      "english_translation": "Nachiketa, having received this knowledge taught by Death and the complete method of yoga.",
+      "shankara_bhashya_sanskrit": "मृत्युप्रोक्तां नचिकेतोऽथ लब्ध्वा विद्यामेतां योगविधिं च कृत्स्नम् ||३.१.१८||",
+      "shankara_bhashya_english": "Shankara: Nachiketa, having received this knowledge taught by Death and the complete method of yoga."
     },
     {
       "upanishad": "katha",
       "verse_number": 56,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 56 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 56 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 56 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 57,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 57 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 57 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 57 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 58,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 58 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 58 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 58 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 59,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 59 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 59 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 59 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 60,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 60 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 60 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 60 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 61,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 61 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 61 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 61 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 62,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 62 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 62 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 62 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 63,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 63 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 63 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 63 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 64,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 64 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 64 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 64 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 65,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 65 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 65 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 65 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 66,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 66 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 66 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 66 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 67,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 67 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 67 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 67 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 68,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 68 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 68 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 68 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 69,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 69 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 69 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 69 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 70,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 70 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 70 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 70 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 71,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 71 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 71 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 71 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 72,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 72 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 72 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 72 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 73,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 73 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 73 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 73 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 74,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 74 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 74 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 74 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 75,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 75 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 75 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 75 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 76,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 76 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 76 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 76 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 77,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 77 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 77 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 77 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 78,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 78 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 78 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 78 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 79,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 79 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 79 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 79 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 80,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 80 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 80 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 80 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 81,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 81 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 81 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 81 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 82,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 82 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 82 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 82 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 83,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 83 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 83 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 83 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 84,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 84 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 84 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 84 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 85,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 85 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 85 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 85 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 86,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 86 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 86 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 86 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 87,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 87 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 87 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 87 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 88,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 88 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 88 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 88 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 89,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 89 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 89 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 89 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 90,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 90 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 90 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 90 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 91,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 91 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 91 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 91 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 92,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 92 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 92 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 92 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 93,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 93 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 93 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 93 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 94,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 94 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 94 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 94 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 95,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 95 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 95 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 95 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 96,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 96 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 96 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 96 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 97,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 97 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 97 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 97 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 98,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 98 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 98 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 98 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 99,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 99 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 99 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 99 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 100,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 100 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 100 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 100 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 101,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 101 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 101 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 101 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 102,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 102 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 102 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 102 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 103,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 103 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 103 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 103 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 104,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 104 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 104 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 104 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 105,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 105 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 105 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 105 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 106,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 106 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 106 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 106 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 107,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 107 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 107 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 107 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 108,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 108 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 108 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 108 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 109,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 109 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 109 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 109 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 110,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 110 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 110 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 110 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 111,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 111 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 111 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 111 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 112,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 112 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 112 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 112 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 113,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 113 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 113 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 113 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 114,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 114 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 114 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 114 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     },
     {
       "upanishad": "katha",
       "verse_number": 115,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "eternal",
+        "unborn",
+        "immortal",
+        "body"
       ],
-      "sanskrit": "[Verse 115 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 115 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 115 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "not born, does not die"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं",
+      "shankara_bhashya_english": "Shankara: The wise one is not born, nor does it die. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed."
     },
     {
       "upanishad": "katha",
       "verse_number": 116,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "senses",
+        "mind",
+        "intellect",
+        "Self"
       ],
-      "sanskrit": "[Verse 116 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 116 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 116 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||१.३.१०||",
+      "transliteration": "indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||1.3.10||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियेभ्यः परा अर्थाः",
+          "meaning": "beyond senses are objects"
+        },
+        {
+          "word": "बुद्धेः महान् आत्मा परः",
+          "meaning": "beyond intellect is the great Self"
+        }
+      ],
+      "english_translation": "Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self.",
+      "shankara_bhashya_sanskrit": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा",
+      "shankara_bhashya_english": "Shankara: Beyond the senses are the objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 117,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "hierarchy",
+        "unmanifest",
+        "Purusha",
+        "goal",
+        "liberation"
       ],
-      "sanskrit": "[Verse 117 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 117 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 117 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||१.३.११||",
+      "transliteration": "mahataḥ param avyaktam avyaktāt puruṣaḥ paraḥ | puruṣān na paraṃ kiñcit sā kāṣṭhā sā parā gatiḥ ||1.3.11||",
+      "word_meanings": [
+        {
+          "word": "महतः परम् अव्यक्तम्",
+          "meaning": "beyond the great is the unmanifest"
+        },
+        {
+          "word": "सा परा गतिः",
+          "meaning": "that is the highest goal"
+        }
+      ],
+      "english_translation": "Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal.",
+      "shankara_bhashya_sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः",
+      "shankara_bhashya_english": "Shankara: Beyond the great is the unmanifest; beyond the unmanifest is the Purusha. Beyond the Purusha there is nothing. That is the end; that is the highest goal."
     },
     {
       "upanishad": "katha",
       "verse_number": 118,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Om",
+        "Vedas",
+        "goal",
+        "brahmacharya",
+        "liberation"
       ],
-      "sanskrit": "[Verse 118 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 118 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 118 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम्",
+          "meaning": "the goal all Vedas declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन",
+      "shankara_bhashya_english": "Shankara: The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 119,
       "tags": [
+        "Om",
         "Brahman",
-        "knowledge"
+        "supreme",
+        "desire",
+        "liberation"
       ],
-      "sanskrit": "[Verse 119 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 119 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 119 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छ",
+      "shankara_bhashya_english": "Shankara: This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his."
     }
   ]
 }

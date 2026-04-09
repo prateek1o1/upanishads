@@ -1702,196 +1702,440 @@
       "verse_number": 54,
       "tags": [
         "prana",
-        "Brahman"
+        "Brahmaloka",
+        "liberation",
+        "Om"
       ],
-      "sanskrit": "[Verse 54 — full text coming soon]",
-      "transliteration": "[Verse 54 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 54 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स यो ह वाव तमोंकारमनुविद्य किञ्चिदिच्छति तस्य तत् क्षिप्रमेव भवति ||५.७||",
+      "transliteration": "sa yo ha vāva tam oṃkāram anuvidy kiñcid icchati tasya tat kṣipram eva bhavati ||5.7||",
+      "word_meanings": [
+        {
+          "word": "ओंकारम् अनुविद्य",
+          "meaning": "having known Om"
+        },
+        {
+          "word": "किञ्चित् इच्छति",
+          "meaning": "desires anything"
+        },
+        {
+          "word": "क्षिप्रम् भवति",
+          "meaning": "quickly comes to be"
+        }
+      ],
+      "english_translation": "One who has known Om — whatever he desires quickly comes to him.",
+      "shankara_bhashya_sanskrit": "ओंकारम् अनुविद्य — यः ओंकारम् जानाति — किञ्चित् इच्छति — तस्य तत् क्षिप्रम् भवति।",
+      "shankara_bhashya_english": "Shankara: One who truly knows Om attains whatever he desires quickly. For the highest seeker, the desire is liberation, and that too is quickly attained through the knowledge of Om as Brahman."
     },
     {
       "upanishad": "prashna",
       "verse_number": 55,
       "tags": [
         "prana",
-        "Brahman"
+        "Brahmaloka",
+        "liberation",
+        "Om"
       ],
-      "sanskrit": "[Verse 55 — full text coming soon]",
-      "transliteration": "[Verse 55 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 55 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एष ह्येव साधु कर्म करोति यमेभ्यो लोकेभ्य उन्निनीषति | एष एवासाधु कर्म करोति यमधो निनीषति ||३.७||",
+      "transliteration": "eṣa hy eva sādhu karma karoti yam ebhyo lokebhya unnīnīṣati | eṣa evāsādhu karma karoti yam adho ninīṣati ||3.7||",
+      "word_meanings": [
+        {
+          "word": "साधु कर्म करोति",
+          "meaning": "does good action"
+        },
+        {
+          "word": "उन्निनीषति",
+          "meaning": "wishes to raise up"
+        },
+        {
+          "word": "असाधु कर्म करोति",
+          "meaning": "does bad action"
+        },
+        {
+          "word": "अधः निनीषति",
+          "meaning": "wishes to bring down"
+        }
+      ],
+      "english_translation": "This one (prana/Self) does good action for the one it wishes to raise up from these worlds. This one does bad action for the one it wishes to bring down.",
+      "shankara_bhashya_sanskrit": "एषः — प्राणः — साधु कर्म करोति — यम् उन्निनीषति। असाधु कर्म करोति — यम् अधः निनीषति।",
+      "shankara_bhashya_english": "Shankara: The Self (prana/Brahman) is the ultimate dispenser of karma — it raises up those it wishes to elevate and brings down those it wishes to humble. This is not arbitrary but based on the individual's own karma and readiness for liberation."
     },
     {
       "upanishad": "prashna",
       "verse_number": 56,
       "tags": [
         "prana",
-        "Brahman"
+        "Brahmaloka",
+        "liberation",
+        "Om"
       ],
-      "sanskrit": "[Verse 56 — full text coming soon]",
-      "transliteration": "[Verse 56 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 56 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एष लोकपालः | एष लोकाधिपतिः | एष सर्वेषां भूतानां पालयिता | एष सेतुर्विधरण एषां लोकानामसम्भेदाय ||२.१३||",
+      "transliteration": "eṣa lokapālaḥ | eṣa lokādhipatiḥ | eṣa sarveṣāṃ bhūtānāṃ pālayitā | eṣa setur vidharaṇa eṣāṃ lokānām asambhedāya ||2.13||",
+      "word_meanings": [
+        {
+          "word": "लोकपालः लोकाधिपतिः",
+          "meaning": "protector and lord of the worlds"
+        },
+        {
+          "word": "सर्वेषाम् भूतानाम् पालयिता",
+          "meaning": "protector of all beings"
+        },
+        {
+          "word": "सेतुः विधरणः",
+          "meaning": "bridge and support"
+        },
+        {
+          "word": "असम्भेदाय",
+          "meaning": "for the non-confusion of the worlds"
+        }
+      ],
+      "english_translation": "This is the protector of the worlds, the lord of the worlds, the protector of all beings. This is the bridge and support for the non-confusion of these worlds.",
+      "shankara_bhashya_sanskrit": "एषः — मुख्यप्राणः — लोकपालः — लोकाधिपतिः — सर्वेषाम् भूतानाम् पालयिता।",
+      "shankara_bhashya_english": "Shankara: The chief prana (Brahman) is the protector and lord of all worlds, the protector of all beings. It is the bridge that maintains the order of the worlds — without it, all would dissolve into chaos."
     },
     {
       "upanishad": "prashna",
       "verse_number": 57,
       "tags": [
         "prana",
-        "Brahman"
+        "Brahmaloka",
+        "liberation",
+        "Om"
       ],
-      "sanskrit": "[Verse 57 — full text coming soon]",
-      "transliteration": "[Verse 57 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 57 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अथ हैनं सुकेशा भारद्वाजः पप्रच्छ | भगवन् हिरण्यनाभः कौसल्यो राजपुत्रो मामुपेत्य एतं प्रश्नमपृच्छत ||६.१||",
+      "transliteration": "atha hainaṃ sukeśā bhāradvājaḥ papraccha | bhagavan hiraṇyanābhaḥ kausaliyo rājaputro mām upetya etaṃ praśnam apṛcchata ||6.1||",
+      "word_meanings": [
+        {
+          "word": "सुकेशा भारद्वाजः",
+          "meaning": "Sukesa Bharadvaja"
+        },
+        {
+          "word": "हिरण्यनाभः कौसल्यः",
+          "meaning": "Hiranyabha of Kosala"
+        },
+        {
+          "word": "राजपुत्रः",
+          "meaning": "a prince"
+        }
+      ],
+      "english_translation": "Then Sukesa Bharadvaja asked: 'O Blessed One, Hiranyabha of Kosala, a prince, came to me and asked about the Person of sixteen parts.'",
+      "shankara_bhashya_sanskrit": "षष्ठः प्रश्नः — षोडशकलः पुरुषः — कः।",
+      "shankara_bhashya_english": "Shankara: The sixth and final question asks about the Person of sixteen parts. This leads to the teaching about the Self as the ground of all sixteen aspects of manifest existence."
     },
     {
       "upanishad": "prashna",
       "verse_number": 58,
       "tags": [
+        "sixteen parts",
+        "Purusha",
         "prana",
-        "Brahman"
+        "liberation",
+        "rivers"
       ],
-      "sanskrit": "[Verse 58 — full text coming soon]",
-      "transliteration": "[Verse 58 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 58 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तं होवाच | इहैव सोम्य अन्तः शरीरे स पुरुषो यस्मिन्नेताः षोडशकलाः प्रभवन्तीति ||६.२||",
+      "transliteration": "taṃ hovāca | ihaiva somya antaḥ śarīre sa puruṣo yasmin netāḥ ṣoḍaśakalāḥ prabhavantīti ||6.2||",
+      "word_meanings": [
+        {
+          "word": "इह एव अन्तः शरीरे",
+          "meaning": "right here within the body"
+        },
+        {
+          "word": "सः पुरुषः",
+          "meaning": "that Person"
+        },
+        {
+          "word": "षोडशकलाः प्रभवन्ति",
+          "meaning": "from whom the sixteen parts arise"
+        }
+      ],
+      "english_translation": "He said: 'Right here within the body, O dear one, is that Person from whom these sixteen parts arise.'",
+      "shankara_bhashya_sanskrit": "इह एव — अस्मिन् शरीरे — सः पुरुषः — षोडशकलाः — प्रभवन्ति।",
+      "shankara_bhashya_english": "Shankara: Pippalada reveals that the Person of sixteen parts is not somewhere far away — he is right here within the body. The sixteen parts (prana and the fifteen aspects of the manifest world) all arise from this inner Person."
     },
     {
       "upanishad": "prashna",
       "verse_number": 59,
       "tags": [
+        "sixteen parts",
+        "Purusha",
         "prana",
-        "Brahman"
+        "liberation",
+        "rivers"
       ],
-      "sanskrit": "[Verse 59 — full text coming soon]",
-      "transliteration": "[Verse 59 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 59 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स ईक्षांचक्रे | कस्मिन्नहमुत्क्रान्त उत्क्रान्तो भविष्यामि | कस्मिन् वा प्रतिष्ठिते प्रतिष्ठास्यामीति ||६.३||",
+      "transliteration": "sa īkṣāṃcakre | kasmin nu aham utkrānte utkrānto bhaviṣyāmi | kasmin vā pratiṣṭhite pratiṣṭhāsyāmīti ||6.3||",
+      "word_meanings": [
+        {
+          "word": "स ईक्षांचक्रे",
+          "meaning": "he thought/willed"
+        },
+        {
+          "word": "कस्मिन् उत्क्रान्ते",
+          "meaning": "when which one departs"
+        },
+        {
+          "word": "उत्क्रान्तः भविष्यामि",
+          "meaning": "I will have departed"
+        },
+        {
+          "word": "कस्मिन् प्रतिष्ठिते",
+          "meaning": "when which one is established"
+        }
+      ],
+      "english_translation": "He thought: 'When which one departs, will I have departed? When which one is established, will I be established?'",
+      "shankara_bhashya_sanskrit": "सः — पुरुषः — ईक्षांचक्रे — कस्मिन् उत्क्रान्ते — अहम् उत्क्रान्तः भविष्यामि।",
+      "shankara_bhashya_english": "Shankara: The Person within thought about which of the sixteen parts is most essential — which one, when it departs, causes the whole to depart? This leads to the discovery that prana is the most essential — when prana departs, all sixteen parts depart."
     },
     {
       "upanishad": "prashna",
       "verse_number": 60,
       "tags": [
+        "sixteen parts",
+        "Purusha",
         "prana",
-        "Brahman"
+        "liberation",
+        "rivers"
       ],
-      "sanskrit": "[Verse 60 — full text coming soon]",
-      "transliteration": "[Verse 60 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 60 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स प्राणमसृजत | प्राणाच्छ्रद्धां खं वायुर्ज्योतिरापः पृथिवीन्द्रियं मनः | अन्नमन्नाद्वीर्यं तपो मन्त्राः कर्म लोका लोकेषु च नाम च ||६.४||",
+      "transliteration": "sa prāṇam asṛjat | prāṇāc chraddhāṃ khaṃ vāyur jyotir āpaḥ pṛthivīndriyaṃ manaḥ | annam annād vīryaṃ tapo mantrāḥ karma lokā lokeṣu ca nāma ca ||6.4||",
+      "word_meanings": [
+        {
+          "word": "प्राणम् असृजत",
+          "meaning": "he created prana"
+        },
+        {
+          "word": "प्राणात् श्रद्धा",
+          "meaning": "from prana, faith"
+        },
+        {
+          "word": "खम् वायुः ज्योतिः",
+          "meaning": "space, air, light"
+        },
+        {
+          "word": "आपः पृथिवी",
+          "meaning": "water, earth"
+        },
+        {
+          "word": "इन्द्रियम् मनः",
+          "meaning": "senses, mind"
+        },
+        {
+          "word": "अन्नम् वीर्यम् तपः",
+          "meaning": "food, vigor, austerity"
+        },
+        {
+          "word": "मन्त्राः कर्म लोकाः नाम",
+          "meaning": "mantras, action, worlds, name"
+        }
+      ],
+      "english_translation": "He created prana. From prana: faith, space, air, light, water, earth, senses, mind, food, vigor, austerity, mantras, action, worlds, and name — these are the sixteen parts.",
+      "shankara_bhashya_sanskrit": "षोडश कलाः — प्राणः श्रद्धा खम् वायुः ज्योतिः आपः पृथिवी इन्द्रियम् मनः अन्नम् वीर्यम् तपः मन्त्राः कर्म लोकाः नाम।",
+      "shankara_bhashya_english": "Shankara: The sixteen parts are: prana, faith, space, air, light, water, earth, senses, mind, food, vigor, austerity, mantras, action, worlds, and name. All sixteen arise from the Person within and return to him. This is the complete cosmology of the Prashna Upanishad."
     },
     {
       "upanishad": "prashna",
       "verse_number": 61,
       "tags": [
+        "sixteen parts",
+        "Purusha",
         "prana",
-        "Brahman"
+        "liberation",
+        "rivers"
       ],
-      "sanskrit": "[Verse 61 — full text coming soon]",
-      "transliteration": "[Verse 61 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 61 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स यथेमा नद्यः स्यन्दमानाः समुद्रायणाः समुद्रं प्राप्यास्तं गच्छन्ति | भिद्येते तासां नामरूपे समुद्र इत्येवं प्रोच्यते ||६.५||",
+      "transliteration": "sa yathemā nadyaḥ syandamānāḥ samudrāyaṇāḥ samudraṃ prāpyāstaṃ gacchanti | bhidyete tāsāṃ nāmarūpe samudra ity evaṃ procyate ||6.5||",
+      "word_meanings": [
+        {
+          "word": "नद्यः समुद्रायणाः",
+          "meaning": "rivers flowing toward the ocean"
+        },
+        {
+          "word": "समुद्रम् प्राप्य अस्तम् गच्छन्ति",
+          "meaning": "reaching the ocean, they merge"
+        },
+        {
+          "word": "नामरूपे भिद्येते",
+          "meaning": "their name and form are dissolved"
+        },
+        {
+          "word": "समुद्रः इति प्रोच्यते",
+          "meaning": "called the ocean"
+        }
+      ],
+      "english_translation": "As rivers flowing toward the ocean reach it and merge, their name and form dissolved — they are called the ocean.",
+      "shankara_bhashya_sanskrit": "नद्यः — समुद्रम् प्राप्य — नामरूपे भिद्येते — समुद्रः इति उच्यन्ते।",
+      "shankara_bhashya_english": "Shankara: Rivers lose their individual names and forms when they merge into the ocean — they become the ocean. Similarly, the sixteen parts lose their individual identities when they merge back into the Person. The individual soul loses its separate identity when it merges into Brahman."
     },
     {
       "upanishad": "prashna",
       "verse_number": 62,
       "tags": [
+        "sixteen parts",
+        "Purusha",
         "prana",
-        "Brahman"
+        "liberation",
+        "rivers"
       ],
-      "sanskrit": "[Verse 62 — full text coming soon]",
-      "transliteration": "[Verse 62 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 62 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एवमेवास्य परिद्रष्टुरिमाः षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति | भिद्येते चासां नामरूपे पुरुष इत्येवं प्रोच्यते ||६.५||",
+      "transliteration": "evam evāsya paridraṣṭur imāḥ ṣoḍaśakalāḥ puruṣāyaṇāḥ puruṣaṃ prāpyāstaṃ gacchanti | bhidyete cāsāṃ nāmarūpe puruṣa ity evaṃ procyate ||6.5||",
+      "word_meanings": [
+        {
+          "word": "परिद्रष्टुः",
+          "meaning": "of the all-seeing one"
+        },
+        {
+          "word": "षोडशकलाः पुरुषायणाः",
+          "meaning": "sixteen parts flowing toward the Person"
+        },
+        {
+          "word": "पुरुषम् प्राप्य अस्तम् गच्छन्ति",
+          "meaning": "reaching the Person, they merge"
+        },
+        {
+          "word": "नामरूपे भिद्येते",
+          "meaning": "their name and form dissolved"
+        }
+      ],
+      "english_translation": "So too these sixteen parts of the all-seeing one, flowing toward the Person, reach him and merge. Their name and form dissolved — he is called the Person.",
+      "shankara_bhashya_sanskrit": "षोडशकलाः — पुरुषम् प्राप्य — नामरूपे भिद्येते — पुरुषः इति उच्यते।",
+      "shankara_bhashya_english": "Shankara: The sixteen parts of the Person flow back into the Person at liberation, just as rivers flow into the ocean. Their individual names and forms dissolve — only the Person (Brahman) remains. This is the beautiful conclusion of the Prashna Upanishad's cosmology."
     },
     {
       "upanishad": "prashna",
       "verse_number": 63,
       "tags": [
+        "sixteen parts",
+        "Purusha",
         "prana",
-        "Brahman"
+        "liberation",
+        "rivers"
       ],
-      "sanskrit": "[Verse 63 — full text coming soon]",
-      "transliteration": "[Verse 63 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 63 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वेदैतत्परमं ब्रह्म धाम | यत्र विश्वं निहितं भाति शुभ्रम् | उपासते पुरुषं ये ह्यकामास्ते शुक्रमेतदतिवर्तन्ति धीराः ||३.२.१||",
+      "transliteration": "sa vedaitat paramaṃ brahma dhāma | yatra viśvaṃ nihitaṃ bhāti śubhram | upāsate puruṣaṃ ye hy akāmās te śukram etad ativartanti dhīrāḥ ||3.2.1||",
+      "word_meanings": [
+        {
+          "word": "परमम् ब्रह्म धाम",
+          "meaning": "the supreme abode of Brahman"
+        },
+        {
+          "word": "यत्र विश्वम् निहितम्",
+          "meaning": "in which the universe is established"
+        },
+        {
+          "word": "अकामाः धीराः",
+          "meaning": "the wise who are free from desire"
+        }
+      ],
+      "english_translation": "He knows this supreme abode of Brahman, in which the universe is established and shines pure. The wise who are free from desire go beyond this bright one.",
+      "shankara_bhashya_sanskrit": "परमम् ब्रह्म धाम — ब्रह्मणः उत्तमम् स्थानम्। अकामाः — धीराः — शुक्रम् अतिवर्तन्ति।",
+      "shankara_bhashya_english": "Shankara: The supreme abode of Brahman is where the entire universe is established and shines pure. The wise who are free from desire go beyond even the bright Brahmaloka — they attain the highest Brahman, beyond all worlds."
     },
     {
       "upanishad": "prashna",
       "verse_number": 64,
       "tags": [
-        "prana",
-        "Brahman"
+        "students",
+        "salutation",
+        "Pippalada",
+        "final"
       ],
-      "sanskrit": "[Verse 64 — full text coming soon]",
-      "transliteration": "[Verse 64 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 64 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ते होचुः | त्वं हि नः पिता | योऽस्माकमविद्यायाः परं पारं तारयसि ||६.८||",
+      "transliteration": "te hocuḥ | tvaṃ hi naḥ pitā | yo'smākam avidyāyāḥ paraṃ pāraṃ tārayasi ||6.8||",
+      "word_meanings": [
+        {
+          "word": "त्वम् नः पिता",
+          "meaning": "you are our father"
+        },
+        {
+          "word": "अविद्यायाः परम् पारम् तारयसि",
+          "meaning": "you carry us across to the other shore of ignorance"
+        }
+      ],
+      "english_translation": "They said: 'You are indeed our father, for you carry us across to the other shore of ignorance.'",
+      "shankara_bhashya_sanskrit": "त्वम् नः पिता — त्वम् अस्माकम् पिता — अविद्यायाः पारम् तारयसि — ज्ञानेन।",
+      "shankara_bhashya_english": "Shankara: The students honor Pippalada as their father — the one who carries them across the ocean of ignorance through knowledge. The teacher-student relationship is the vehicle for the transmission of Brahmavidya."
     },
     {
       "upanishad": "prashna",
       "verse_number": 65,
       "tags": [
-        "prana",
-        "Brahman"
+        "students",
+        "salutation",
+        "Pippalada",
+        "final"
       ],
-      "sanskrit": "[Verse 65 — full text coming soon]",
-      "transliteration": "[Verse 65 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 65 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "नमः परमऋषिभ्यो नमः परमऋषिभ्यः ||६.८||",
+      "transliteration": "namaḥ parama-ṛṣibhyo namaḥ parama-ṛṣibhyaḥ ||6.8||",
+      "word_meanings": [
+        {
+          "word": "नमः परमऋषिभ्यः",
+          "meaning": "salutation to the supreme sages"
+        }
+      ],
+      "english_translation": "Salutation to the supreme sages! Salutation to the supreme sages!",
+      "shankara_bhashya_sanskrit": "नमः परमऋषिभ्यः — पिप्पलादादिभ्यः महर्षिभ्यः — नमस्कारः।",
+      "shankara_bhashya_english": "Shankara: The Prashna Upanishad concludes with a double salutation to the supreme sages — Pippalada and all the great teachers who have transmitted this knowledge. The repetition emphasizes the depth of gratitude and reverence."
     },
     {
       "upanishad": "prashna",
       "verse_number": 66,
       "tags": [
-        "prana",
-        "Brahman"
+        "students",
+        "salutation",
+        "Pippalada",
+        "final"
       ],
-      "sanskrit": "[Verse 66 — full text coming soon]",
-      "transliteration": "[Verse 66 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 66 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इति प्रश्नोपनिषत् | ॐ शान्तिः शान्तिः शान्तिः ||",
+      "transliteration": "iti praśnopaniṣat | oṃ śāntiḥ śāntiḥ śāntiḥ ||",
+      "word_meanings": [
+        {
+          "word": "इति प्रश्नोपनिषत्",
+          "meaning": "thus ends the Prashna Upanishad"
+        },
+        {
+          "word": "शान्तिः शान्तिः शान्तिः",
+          "meaning": "peace, peace, peace"
+        }
+      ],
+      "english_translation": "Thus ends the Prashna Upanishad. Om peace, peace, peace.",
+      "shankara_bhashya_sanskrit": "शान्तिः — आधिभौतिकी — आधिदैविकी — आध्यात्मिकी — त्रिविधा शान्तिः।",
+      "shankara_bhashya_english": "Shankara: The triple peace (shanti) at the end of each Upanishad invokes peace from three sources of disturbance: physical (adhibhautika), divine (adhidaivika), and internal (adhyatmika). May all three be at peace."
     },
     {
       "upanishad": "prashna",
       "verse_number": 67,
       "tags": [
-        "prana",
-        "Brahman"
+        "students",
+        "salutation",
+        "Pippalada",
+        "final"
       ],
-      "sanskrit": "[Verse 67 — full text coming soon]",
-      "transliteration": "[Verse 67 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 67 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ॐ सह नाववतु | सह नौ भुनक्तु | सह वीर्यं करवावहै | तेजस्वि नावधीतमस्तु | मा विद्विषावहै | ॐ शान्तिः शान्तिः शान्तिः ||",
+      "transliteration": "oṃ saha nāv avatu | saha nau bhunaktu | saha vīryaṃ karavāvahai | tejasvi nāv adhītam astu | mā vidviṣāvahai | oṃ śāntiḥ śāntiḥ śāntiḥ ||",
+      "word_meanings": [
+        {
+          "word": "सह नौ अवतु",
+          "meaning": "may He protect us both"
+        },
+        {
+          "word": "सह नौ भुनक्तु",
+          "meaning": "may He nourish us both"
+        },
+        {
+          "word": "सह वीर्यम् करवावहै",
+          "meaning": "may we work together with vigor"
+        },
+        {
+          "word": "तेजस्वि नौ अधीतम् अस्तु",
+          "meaning": "may our study be brilliant"
+        },
+        {
+          "word": "मा विद्विषावहै",
+          "meaning": "may we not hate each other"
+        }
+      ],
+      "english_translation": "Om. May He protect us both. May He nourish us both. May we work together with vigor. May our study be brilliant. May we not hate each other. Om peace, peace, peace.",
+      "shankara_bhashya_sanskrit": "सह नौ अवतु — गुरुशिष्यौ — ईश्वरः — अवतु — रक्षतु।",
+      "shankara_bhashya_english": "Shankara: This opening peace invocation of the Taittiriya tradition is used here as the closing prayer. May the Lord protect both teacher and student, nourish both, may their study together be brilliant, and may there be no enmity between them. This is the ideal of the guru-shishya relationship."
     }
   ]
 }
