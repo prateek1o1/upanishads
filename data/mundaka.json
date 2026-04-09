@@ -539,98 +539,235 @@
       "verse_number": 16,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Angiras",
+        "Shaunaka",
+        "question"
       ],
-      "sanskrit": "[Verse 16 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 16 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 16 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "शौनको ह वै महाशालोऽङ्गिरसं विधिवदुपसन्नः पप्रच्छ | कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवतीति ||१.१.३||",
+      "transliteration": "śaunako ha vai mahāśālo'ṅgirasaṃ vidhivad upasannaḥ papraccha | kasmin nu bhagavo vijñāte sarvam idaṃ vijñātaṃ bhavatīti ||1.1.3||",
+      "word_meanings": [
+        {
+          "word": "शौनकः महाशालः",
+          "meaning": "Shaunaka, the great householder"
+        },
+        {
+          "word": "विधिवत् उपसन्नः",
+          "meaning": "approached properly"
+        },
+        {
+          "word": "कस्मिन् विज्ञाते",
+          "meaning": "by knowing what"
+        },
+        {
+          "word": "सर्वम् विज्ञातम् भवति",
+          "meaning": "does everything become known"
+        }
+      ],
+      "english_translation": "Shaunaka, the great householder, having approached Angiras properly, asked: 'O Blessed One, by knowing what does all this become known?'",
+      "shankara_bhashya_sanskrit": "शौनकः — महाशालः — गृहस्थः — अङ्गिरसम् — विधिवत् उपसन्नः — पप्रच्छ — कस्मिन् विज्ञाते — सर्वम् विज्ञातम् भवति।",
+      "shankara_bhashya_english": "Shankara: Shaunaka, a great householder, approached the sage Angiras properly (with humility and gifts) and asked the fundamental question: by knowing what one thing does everything become known? This is the question that opens the Mundaka Upanishad."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 17,
       "tags": [
         "Brahman",
-        "knowledge"
+        "two knowledges",
+        "para",
+        "apara"
       ],
-      "sanskrit": "[Verse 17 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 17 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 17 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्मै स होवाच | द्वे विद्ये वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदन्ति परा चैवापरा च ||१.१.४||",
+      "transliteration": "tasmai sa hovāca | dve vidye veditavye iti ha sma yad brahmavido vadanti parā caivāparā ca ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "द्वे विद्ये वेदितव्ये",
+          "meaning": "two knowledges are to be known"
+        },
+        {
+          "word": "ब्रह्मविदः वदन्ति",
+          "meaning": "knowers of Brahman say"
+        },
+        {
+          "word": "परा च अपरा च",
+          "meaning": "the higher and the lower"
+        }
+      ],
+      "english_translation": "To him he said: 'Two kinds of knowledge are to be known — so say the knowers of Brahman — the higher and the lower.'",
+      "shankara_bhashya_sanskrit": "परा — ब्रह्मज्ञानम्। अपरा — ऋग्वेदादिचतुर्वेदाः सशिक्षाव्याकरणादयश्च।",
+      "shankara_bhashya_english": "Shankara: The higher knowledge is the direct knowledge of Brahman. The lower knowledge comprises the four Vedas and their six auxiliaries. The lower leads to worldly and heavenly results; the higher leads to liberation."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 18,
       "tags": [
         "Brahman",
-        "knowledge"
+        "source",
+        "creation",
+        "fire",
+        "sparks"
       ],
-      "sanskrit": "[Verse 18 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 18 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 18 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यथा सुदीप्तात्पावकाद्विस्फुलिङ्गाः सहस्रशः प्रभवन्ते सरूपाः | तथाऽक्षरात्सम्भवन्तीह विविधाः सोम्य भावाः ||२.१.१||",
+      "transliteration": "yathā sudīptāt pāvakād visphuliṅgāḥ sahasraśaḥ prabhavante sarūpāḥ | tathā'kṣarāt sambhavantīha vividhāḥ somya bhāvāḥ ||2.1.1||",
+      "word_meanings": [
+        {
+          "word": "सुदीप्तात् पावकात्",
+          "meaning": "from a blazing fire"
+        },
+        {
+          "word": "विस्फुलिङ्गाः सहस्रशः",
+          "meaning": "thousands of sparks"
+        },
+        {
+          "word": "सरूपाः",
+          "meaning": "of the same nature"
+        },
+        {
+          "word": "अक्षरात् सम्भवन्ति",
+          "meaning": "arise from the Imperishable"
+        },
+        {
+          "word": "विविधाः भावाः",
+          "meaning": "various beings"
+        }
+      ],
+      "english_translation": "As from a blazing fire thousands of sparks of the same nature leap forth, so from the Imperishable, O dear one, various beings arise here.",
+      "shankara_bhashya_sanskrit": "सुदीप्तात् पावकात् — प्रज्वलितात् अग्नेः — विस्फुलिङ्गाः — अग्निसरूपाः — प्रभवन्ते। तथा अक्षरात् ब्रह्मणः विविधाः भावाः — जीवाः — प्रजायन्ते।",
+      "shankara_bhashya_english": "Shankara: Just as sparks of the same nature as fire arise from a blazing fire, so from the Imperishable Brahman, various beings arise. The sparks are of the same nature as fire — similarly, all beings are of the same nature as Brahman. This is the teaching of non-duality."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 19,
       "tags": [
         "Brahman",
-        "knowledge"
+        "all this",
+        "known",
+        "liberation",
+        "knot"
       ],
-      "sanskrit": "[Verse 19 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 19 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 19 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "परीक्ष्य लोकान् कर्मचितान् ब्राह्मणो निर्वेदमायात् | नास्त्यकृतः कृतेन ||१.२.१२||",
+      "transliteration": "parīkṣya lokān karmacitān brāhmaṇo nirvedam āyāt | nāsty akṛtaḥ kṛtena ||1.2.12||",
+      "word_meanings": [
+        {
+          "word": "कर्मचितान् लोकान् परीक्ष्य",
+          "meaning": "having examined the worlds won by karma"
+        },
+        {
+          "word": "निर्वेदम् आयात्",
+          "meaning": "let him come to dispassion"
+        },
+        {
+          "word": "न अस्ति अकृतः कृतेन",
+          "meaning": "the uncreated cannot be reached by the created"
+        }
+      ],
+      "english_translation": "Having examined the worlds won by karma, let the brahmin come to dispassion. The uncreated cannot be reached by the created.",
+      "shankara_bhashya_sanskrit": "कर्मचितान् लोकान् — कर्मफलभोगस्थानानि — अनित्यानि — परीक्ष्य — निर्वेदम् आयात्। अकृतः — ब्रह्म — कृतेन — कर्मणा — न प्राप्यते।",
+      "shankara_bhashya_english": "Shankara: Having seen that all worlds won by karma are impermanent, the seeker should develop dispassion. The uncreated Brahman cannot be reached by created means (karma). Only knowledge of Brahman leads to liberation."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 20,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Atman",
+        "known",
+        "liberation",
+        "Self"
       ],
-      "sanskrit": "[Verse 20 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 20 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 20 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तमेव विदित्वाऽतिमृत्युमेति | नान्यः पन्था विद्यतेऽयनाय ||३.२.९||",
+      "transliteration": "tam eva viditvā'timṛtyum eti | nānyaḥ panthā vidyate'yanāya ||3.2.9||",
+      "word_meanings": [
+        {
+          "word": "तम् एव विदित्वा",
+          "meaning": "having known that alone"
+        },
+        {
+          "word": "अतिमृत्युम् एति",
+          "meaning": "one goes beyond death"
+        },
+        {
+          "word": "नान्यः पन्थाः",
+          "meaning": "there is no other path"
+        },
+        {
+          "word": "अयनाय",
+          "meaning": "for liberation"
+        }
+      ],
+      "english_translation": "Having known that alone, one goes beyond death. There is no other path for liberation.",
+      "shankara_bhashya_sanskrit": "तम् — ब्रह्म — विदित्वा — अतिमृत्युम् एति — मृत्युम् अतिक्रामति। नान्यः पन्थाः — ब्रह्मज्ञानात् अन्यः मोक्षमार्गः नास्ति।",
+      "shankara_bhashya_english": "Shankara: Having known Brahman, one transcends death — attains immortality. There is no other path to liberation. Not ritual, not austerity, not charity alone — only the direct knowledge of Brahman leads to liberation. This is the central teaching of the Mundaka."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 21,
       "tags": [
         "Brahman",
-        "knowledge"
+        "self-luminous",
+        "all pervading",
+        "heart"
       ],
-      "sanskrit": "[Verse 21 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 21 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 21 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "विश्वतश्चक्षुरुत विश्वतोमुखो विश्वतोबाहुरुत विश्वतस्पात् | सं बाहुभ्यां धमति सं पतत्रैर्द्यावाभूमी जनयन् देव एकः ||२.१.४||",
+      "transliteration": "viśvataś cakṣur uta viśvatomukho viśvatobāhur uta viśvataspāt | saṃ bāhubhyāṃ dhamati saṃ patatrair dyāvābhūmī janayan deva ekaḥ ||2.1.4||",
+      "word_meanings": [
+        {
+          "word": "विश्वतः चक्षुः",
+          "meaning": "eyes on all sides"
+        },
+        {
+          "word": "विश्वतः मुखः",
+          "meaning": "faces on all sides"
+        },
+        {
+          "word": "विश्वतः बाहुः",
+          "meaning": "arms on all sides"
+        },
+        {
+          "word": "विश्वतः पात्",
+          "meaning": "feet on all sides"
+        },
+        {
+          "word": "देव एकः",
+          "meaning": "the one God"
+        }
+      ],
+      "english_translation": "With eyes on all sides, faces on all sides, arms on all sides, feet on all sides — the one God fans with his arms, fans with his wings, creating heaven and earth.",
+      "shankara_bhashya_sanskrit": "विश्वतः चक्षुः — सर्वत्र दृष्टिः यस्य। विश्वतः मुखः — सर्वत्र मुखम् यस्य। देव एकः — अद्वितीयः परमेश्वरः।",
+      "shankara_bhashya_english": "Shankara: Brahman has eyes, faces, arms, and feet on all sides — meaning it pervades all directions and all space. The one God creates heaven and earth. This describes Brahman's omnipresence and creative power."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 22,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "satyam",
+        "jnanam"
       ],
-      "sanskrit": "[Verse 22 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 22 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 22 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सत्यमेव जयते नानृतं सत्येन पन्था विततो देवयानः ||३.१.६||",
+      "transliteration": "satyam eva jayate nānṛtaṃ satyena panthā vitato devayānaḥ ||3.1.6||",
+      "word_meanings": [
+        {
+          "word": "सत्यम् एव जयते",
+          "meaning": "truth alone triumphs"
+        },
+        {
+          "word": "न अनृतम्",
+          "meaning": "not untruth"
+        },
+        {
+          "word": "सत्येन पन्थाः",
+          "meaning": "by truth the path"
+        },
+        {
+          "word": "देवयानः",
+          "meaning": "the path of the gods"
+        }
+      ],
+      "english_translation": "Truth alone triumphs, not untruth. By truth the divine path is spread — by which the sages travel to where the supreme treasure of truth abides.",
+      "shankara_bhashya_sanskrit": "सत्यम् — ब्रह्म — जयते। सत्येन — ब्रह्मज्ञानेन — देवयानः पन्थाः — विततः।",
+      "shankara_bhashya_english": "Shankara: Truth (Brahman) alone triumphs. By truth — by the knowledge of Brahman — the divine path is revealed. This verse is the national motto of India (Satyameva Jayate) and encapsulates the entire teaching of the Mundaka."
     },
     {
       "upanishad": "mundaka",

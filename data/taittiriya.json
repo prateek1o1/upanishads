@@ -713,84 +713,191 @@
       "verse_number": 21,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "scale"
       ],
-      "sanskrit": "[Verse 21 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 21 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 21 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतस्यैवानन्दस्यान्यानि भूतानि मात्रामुपजीवन्ति ||२.८.१||",
+      "transliteration": "etasyaivānandasyānyāni bhūtāni mātrām upajīvanti ||2.8.1||",
+      "word_meanings": [
+        {
+          "word": "एतस्य एव आनन्दस्य",
+          "meaning": "of this very bliss"
+        },
+        {
+          "word": "अन्यानि भूतानि",
+          "meaning": "other beings"
+        },
+        {
+          "word": "मात्राम् उपजीवन्ति",
+          "meaning": "live on a fraction"
+        }
+      ],
+      "english_translation": "All other beings live on a fraction of this very bliss.",
+      "shankara_bhashya_sanskrit": "एतस्य — ब्रह्मानन्दस्य — मात्राम् — अंशम् — अन्यानि भूतानि — उपजीवन्ति।",
+      "shankara_bhashya_english": "Shankara: All beings — humans, gods, and all creatures — live on a mere fraction of Brahman's bliss. The bliss we experience in any pleasure is a tiny reflection of the infinite bliss of Brahman. This is why all beings seek happiness — they are seeking Brahman."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 22,
       "tags": [
         "Brahman",
-        "knowledge"
+        "ananda",
+        "scale",
+        "human",
+        "divine"
       ],
-      "sanskrit": "[Verse 22 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 22 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 22 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "मनुष्याणां शतं वर्षाणि | तत्सार्धमायुः | तस्य मनुष्यानन्दः | स एको मनुष्यगन्धर्वाणामानन्दः ||२.८.१||",
+      "transliteration": "manuṣyāṇāṃ śataṃ varṣāṇi | tat sārdham āyuḥ | tasya manuṣyānandaḥ | sa eko manuṣyagandharvāṇām ānandaḥ ||2.8.1||",
+      "word_meanings": [
+        {
+          "word": "मनुष्याणाम् शतम् वर्षाणि",
+          "meaning": "a hundred years of human life"
+        },
+        {
+          "word": "मनुष्यानन्दः",
+          "meaning": "human bliss"
+        },
+        {
+          "word": "मनुष्यगन्धर्वाणाम् आनन्दः",
+          "meaning": "bliss of human gandharvas"
+        }
+      ],
+      "english_translation": "A hundred years of human life — that is the full lifespan. That is human bliss. That is one unit of the bliss of human gandharvas.",
+      "shankara_bhashya_sanskrit": "मनुष्यानन्दः — मनुष्यस्य परमानन्दः — एकः मनुष्यगन्धर्वानन्दः।",
+      "shankara_bhashya_english": "Shankara: The Taittiriya presents a scale of bliss from human to divine. The maximum human bliss is one unit of the bliss of human gandharvas. This scale continues upward through gods to Brahman, whose bliss is infinite. All lesser bliss is a fraction of Brahman's bliss."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 23,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "fear",
+        "support",
+        "liberation"
       ],
-      "sanskrit": "[Verse 23 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 23 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 23 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अभयं वै ब्रह्म | अभयं हि वै ब्रह्म भवति | य एवं वेद ||२.९.१||",
+      "transliteration": "abhayaṃ vai brahma | abhayaṃ hi vai brahma bhavati | ya evaṃ veda ||2.9.1||",
+      "word_meanings": [
+        {
+          "word": "अभयम् ब्रह्म",
+          "meaning": "Brahman is fearlessness"
+        },
+        {
+          "word": "अभयम् भवति",
+          "meaning": "becomes fearless"
+        },
+        {
+          "word": "य एवम् वेद",
+          "meaning": "one who knows thus"
+        }
+      ],
+      "english_translation": "Brahman is indeed fearlessness. One who knows thus becomes Brahman — becomes fearless.",
+      "shankara_bhashya_sanskrit": "अभयम् ब्रह्म — ब्रह्म अभयस्वरूपम्। य एवम् वेद — सः अभयम् भवति — ब्रह्म एव भवति।",
+      "shankara_bhashya_english": "Shankara: Brahman is fearlessness itself. Fear arises from duality — from the perception of an 'other.' In the non-dual Brahman, there is no other, hence no fear. One who knows Brahman becomes Brahman and becomes fearless."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 24,
       "tags": [
         "Brahman",
-        "knowledge"
+        "food",
+        "anna",
+        "first",
+        "worship"
       ],
-      "sanskrit": "[Verse 24 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 24 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 24 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अन्नं न परिचक्षीत | तद्व्रतम् | प्राणो वा अन्नम् | शरीरमन्नादम् ||३.७.१||",
+      "transliteration": "annaṃ na paricakṣīta | tad vratam | prāṇo vā annam | śarīram annādam ||3.7.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नम् न परिचक्षीत",
+          "meaning": "one should not despise food"
+        },
+        {
+          "word": "तत् व्रतम्",
+          "meaning": "that is the vow"
+        },
+        {
+          "word": "प्राणः अन्नम्",
+          "meaning": "prana is food"
+        },
+        {
+          "word": "शरीरम् अन्नादम्",
+          "meaning": "the body is the eater of food"
+        }
+      ],
+      "english_translation": "One should not despise food — that is the vow. Prana is indeed food; the body is the eater of food.",
+      "shankara_bhashya_sanskrit": "अन्नम् न परिचक्षीत — अन्नम् ब्रह्मरूपम् — तस्य निन्दा न कार्या।",
+      "shankara_bhashya_english": "Shankara: Food should not be despised because food is Brahman in manifest form. The entire teaching of the Taittiriya shows that Brahman manifests as food, prana, mind, intellect, and bliss. To despise food is to despise Brahman."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 25,
       "tags": [
         "Brahman",
-        "knowledge"
+        "produce food",
+        "give food",
+        "ethics"
       ],
-      "sanskrit": "[Verse 25 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 25 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 25 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अन्नं बहु कुर्वीत | तद्व्रतम् | पृथिवी वा अन्नम् | आकाशोऽन्नादः ||३.८.१||",
+      "transliteration": "annaṃ bahu kurvīta | tad vratam | pṛthivī vā annam | ākāśo'nnādaḥ ||3.8.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नम् बहु कुर्वीत",
+          "meaning": "one should produce much food"
+        },
+        {
+          "word": "तत् व्रतम्",
+          "meaning": "that is the vow"
+        },
+        {
+          "word": "पृथिवी अन्नम्",
+          "meaning": "earth is food"
+        },
+        {
+          "word": "आकाशः अन्नादः",
+          "meaning": "space is the eater"
+        }
+      ],
+      "english_translation": "One should produce much food — that is the vow. Earth is indeed food; space is the eater.",
+      "shankara_bhashya_sanskrit": "अन्नम् बहु कुर्वीत — अन्नम् उत्पादयेत् — अतिथिभ्यः दद्यात्। पृथिवी — अन्नम् — आकाशः — अन्नादः।",
+      "shankara_bhashya_english": "Shankara: One should produce much food and share it generously. Earth is the source of food; space is the container. This ethical teaching — produce and share food — is part of the Taittiriya's practical dharmic instruction."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 26,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "liberation",
+        "final"
       ],
-      "sanskrit": "[Verse 26 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 26 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 26 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सोऽकामयत | बहु स्यां प्रजायेयेति | स तपोऽतप्यत | स तपस्तप्त्वा | इदं सर्वमसृजत | यदिदं किञ्च | तत्सृष्ट्वा | तदेवानुप्राविशत् ||२.६.१||",
+      "transliteration": "so'kāmayata | bahu syāṃ prajāyeyeti | sa tapo'tapyata | sa tapas taptvā | idaṃ sarvam asṛjata | yad idaṃ kiñca | tat sṛṣṭvā | tad evānuprāviśat ||2.6.1||",
+      "word_meanings": [
+        {
+          "word": "बहु स्याम् प्रजायेय",
+          "meaning": "may I become many, may I be born"
+        },
+        {
+          "word": "तपः अतप्यत",
+          "meaning": "performed austerity"
+        },
+        {
+          "word": "इदम् सर्वम् असृजत",
+          "meaning": "created all this"
+        },
+        {
+          "word": "तत् एव अनुप्राविशत्",
+          "meaning": "entered into that very creation"
+        }
+      ],
+      "english_translation": "He desired: 'May I become many, may I be born.' He performed austerity. Having performed austerity, he created all this — whatever exists. Having created it, he entered into that very creation.",
+      "shankara_bhashya_sanskrit": "बहु स्याम् — बहुधा भवेयम् — इति अकामयत। तपः अतप्यत — संकल्पम् अकरोत्। इदम् सर्वम् असृजत — जगत् उत्पादयत। तत् एव अनुप्राविशत् — जगत् अन्तः प्रविशत्।",
+      "shankara_bhashya_english": "Shankara: Brahman desired to become many and performed austerity (tapas = creative will). It created the entire universe and then entered into it as the inner Self of all beings. This is the teaching of immanence — Brahman is both the creator and the creation, both transcendent and immanent."
     },
     {
       "upanishad": "taittiriya",
