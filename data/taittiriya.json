@@ -1339,84 +1339,226 @@
       "verse_number": 40,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "liberation",
+        "final"
       ],
-      "sanskrit": "[Verse 40 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 40 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 40 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अहमन्नमहमन्नादोऽहमश्लोककृत् | अहमस्मि प्रथमजा ऋतस्य | पूर्वं देवेभ्योऽमृतस्य नाभाय | यो मा ददाति स इदेव मावाः ||३.१०.५||",
+      "transliteration": "aham annam aham annādo'ham aślokakṛt | aham asmi prathamajā ṛtasya | pūrvaṃ devebhyo'mṛtasya nābhāya | yo mā dadāti sa id eva māvāḥ ||3.10.5||",
+      "word_meanings": [
+        {
+          "word": "अहम् अन्नम्",
+          "meaning": "I am food"
+        },
+        {
+          "word": "अहम् अन्नादः",
+          "meaning": "I am the eater of food"
+        },
+        {
+          "word": "प्रथमजा ऋतस्य",
+          "meaning": "the first-born of truth"
+        },
+        {
+          "word": "अमृतस्य नाभाय",
+          "meaning": "the navel of immortality"
+        }
+      ],
+      "english_translation": "I am food! I am the eater of food! I am the first-born of truth, before the gods, in the navel of immortality. One who gives me — he alone saves me.",
+      "shankara_bhashya_sanskrit": "अहम् अन्नम् — अहम् ब्रह्म — अन्नरूपम्। अहम् अन्नादः — अहम् ब्रह्म — अन्नादरूपम्।",
+      "shankara_bhashya_english": "Shankara: This ecstatic declaration of the liberated sage expresses the realization of non-duality. 'I am food' — I am the object. 'I am the eater' — I am the subject. Both subject and object are Brahman. The liberated one sees no distinction between the eater and the eaten."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 41,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "liberation",
+        "final"
       ],
-      "sanskrit": "[Verse 41 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 41 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 41 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सोऽहमन्नमन्नमदन्तमद्मि | अहं विश्वं भुवनमभ्यभवाम् | सुवर्ण ज्योतीः | य एवं वेद ||३.१०.६||",
+      "transliteration": "so'ham annam annam adantam admi | ahaṃ viśvaṃ bhuvanam abhyabhavām | suvarṇa jyotīḥ | ya evaṃ veda ||3.10.6||",
+      "word_meanings": [
+        {
+          "word": "अहम् अन्नम् अदन्तम् अद्मि",
+          "meaning": "I eat the one who eats food"
+        },
+        {
+          "word": "अहम् विश्वम् भुवनम् अभ्यभवाम्",
+          "meaning": "I have overcome the whole world"
+        },
+        {
+          "word": "सुवर्ण ज्योतीः",
+          "meaning": "golden light"
+        },
+        {
+          "word": "य एवम् वेद",
+          "meaning": "one who knows thus"
+        }
+      ],
+      "english_translation": "I eat the one who eats food! I have overcome the whole world! I am the golden light! One who knows thus.",
+      "shankara_bhashya_sanskrit": "अहम् अन्नम् अदन्तम् अद्मि — अहम् ब्रह्म — सर्वस्य भोक्ता। विश्वम् भुवनम् अभ्यभवाम् — सर्वम् अतिक्रान्तम्।",
+      "shankara_bhashya_english": "Shankara: The liberated sage declares: 'I eat the eater' — I am the ultimate subject that consumes all objects. 'I have overcome the whole world' — I am beyond all limitation. 'I am the golden light' — I am pure consciousness. This is the triumphant declaration of liberation."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 42,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "liberation",
+        "final"
       ],
-      "sanskrit": "[Verse 42 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 42 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 42 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यो वेद निहितं गुहायां परमे व्योमन् | सोऽश्नुते सर्वान् कामान् सह ब्रह्मणा विपश्चितेति ||२.१.१||",
+      "transliteration": "yo veda nihitaṃ guhāyāṃ parame vyoman | so'śnute sarvān kāmān saha brahmaṇā vipaściteti ||2.1.1||",
+      "word_meanings": [
+        {
+          "word": "गुहायाम् निहितम्",
+          "meaning": "hidden in the cave of the heart"
+        },
+        {
+          "word": "परमे व्योमन्",
+          "meaning": "in the supreme ether"
+        },
+        {
+          "word": "सर्वान् कामान् अश्नुते",
+          "meaning": "attains all desires"
+        },
+        {
+          "word": "सह ब्रह्मणा विपश्चित",
+          "meaning": "together with the all-knowing Brahman"
+        }
+      ],
+      "english_translation": "One who knows it hidden in the cave of the heart, in the supreme ether, attains all desires together with the all-knowing Brahman.",
+      "shankara_bhashya_sanskrit": "गुहायाम् — हृदयाकाशे — निहितम् — ब्रह्म — वेद — सः सर्वान् कामान् अश्नुते।",
+      "shankara_bhashya_english": "Shankara: One who knows Brahman hidden in the cave of the heart attains all desires — not by fulfilling individual desires but by becoming Brahman, which is the fulfillment of all desires. This is the opening and closing teaching of the Taittiriya."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 43,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "liberation",
+        "final"
       ],
-      "sanskrit": "[Verse 43 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 43 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 43 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "असद्वा इदमग्र आसीत् | ततो वै सदजायत | तदात्मानं स्वयमकुरुत | तस्मात्तत्सुकृतमुच्यत इति ||२.७.१||",
+      "transliteration": "asad vā idam agra āsīt | tato vai sad ajāyata | tad ātmānaṃ svayam akuruta | tasmāt tat sukṛtam ucyata iti ||2.7.1||",
+      "word_meanings": [
+        {
+          "word": "असत् इदम् अग्रे आसीत्",
+          "meaning": "in the beginning this was non-being"
+        },
+        {
+          "word": "सत् अजायत",
+          "meaning": "from that being arose"
+        },
+        {
+          "word": "आत्मानम् स्वयम् अकुरुत",
+          "meaning": "it made itself by itself"
+        },
+        {
+          "word": "सुकृतम् उच्यते",
+          "meaning": "is called well-made"
+        }
+      ],
+      "english_translation": "In the beginning this was non-being. From that, being arose. That made itself by itself. Therefore it is called 'well-made.'",
+      "shankara_bhashya_sanskrit": "असत् — अव्याकृतम् — अग्रे आसीत्। ततः सत् — व्याकृतम् — अजायत। आत्मानम् स्वयम् अकुरुत — स्वतः एव।",
+      "shankara_bhashya_english": "Shankara: Before creation, there was the unmanifest (asat = not yet manifest). From that, the manifest (sat) arose. It made itself by itself — without any external cause or material. Therefore creation is called 'well-made' (sukritam) — it is the self-expression of Brahman."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 44,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "liberation",
+        "final"
       ],
-      "sanskrit": "[Verse 44 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 44 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 44 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एतस्मादात्मन आकाशः सम्भूतः | आकाशाद्वायुः | वायोरग्निः | अग्नेरापः | अद्भ्यः पृथिवी | पृथिव्या ओषधयः | ओषधीभ्योऽन्नम् | अन्नात्पुरुषः ||२.१.१||",
+      "transliteration": "tasmād vā etasmād ātmana ākāśaḥ sambhūtaḥ | ākāśād vāyuḥ | vāyor agniḥ | agner āpaḥ | adbhyaḥ pṛthivī | pṛthivyā oṣadhayaḥ | oṣadhībhyo'nnam | annāt puruṣaḥ ||2.1.1||",
+      "word_meanings": [
+        {
+          "word": "आत्मनः आकाशः",
+          "meaning": "from the Self, space"
+        },
+        {
+          "word": "आकाशात् वायुः",
+          "meaning": "from space, air"
+        },
+        {
+          "word": "वायोः अग्निः",
+          "meaning": "from air, fire"
+        },
+        {
+          "word": "अग्नेः आपः",
+          "meaning": "from fire, water"
+        },
+        {
+          "word": "अद्भ्यः पृथिवी",
+          "meaning": "from water, earth"
+        },
+        {
+          "word": "पृथिव्याः ओषधयः",
+          "meaning": "from earth, plants"
+        },
+        {
+          "word": "ओषधीभ्यः अन्नम्",
+          "meaning": "from plants, food"
+        },
+        {
+          "word": "अन्नात् पुरुषः",
+          "meaning": "from food, the person"
+        }
+      ],
+      "english_translation": "From this Self, space arose; from space, air; from air, fire; from fire, water; from water, earth; from earth, plants; from plants, food; from food, the person.",
+      "shankara_bhashya_sanskrit": "आत्मनः — ब्रह्मणः — आकाशः — वायुः — अग्निः — आपः — पृथिवी — ओषधयः — अन्नम् — पुरुषः — क्रमेण उत्पद्यन्ते।",
+      "shankara_bhashya_english": "Shankara: The complete cosmological sequence from Brahman to the human person. From the Self (Brahman) arises space, then air, fire, water, earth, plants, food, and finally the person. The entire creation is a manifestation of Brahman — from the subtlest to the grossest."
     },
     {
       "upanishad": "taittiriya",
       "verse_number": 45,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "bliss",
+        "ananda",
+        "liberation",
+        "final"
       ],
-      "sanskrit": "[Verse 45 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 45 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 45 of the Taittiriya Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वा एष पुरुषोऽन्नरसमयः | तस्येदमेव शिरः | अयं दक्षिणः पक्षः | अयमुत्तरः पक्षः | अयमात्मा | इदं पुच्छं प्रतिष्ठा | तदप्येष श्लोको भवति ||२.१.२||",
+      "transliteration": "sa vā eṣa puruṣo'nnarasamayaḥ | tasyedam eva śiraḥ | ayaṃ dakṣiṇaḥ pakṣaḥ | ayam uttaraḥ pakṣaḥ | ayam ātmā | idaṃ pucchaṃ pratiṣṭhā | tad apy eṣa śloko bhavati ||2.1.2||",
+      "word_meanings": [
+        {
+          "word": "अन्नरसमयः पुरुषः",
+          "meaning": "the person made of food-essence"
+        },
+        {
+          "word": "शिरः दक्षिणः पक्षः",
+          "meaning": "head, right wing"
+        },
+        {
+          "word": "उत्तरः पक्षः आत्मा",
+          "meaning": "left wing, trunk"
+        },
+        {
+          "word": "पुच्छम् प्रतिष्ठा",
+          "meaning": "tail, the foundation"
+        }
+      ],
+      "english_translation": "This person is indeed made of the essence of food. This is his head, right wing, left wing, trunk, and tail — the foundation. And there is this verse about it.",
+      "shankara_bhashya_sanskrit": "अन्नरसमयः — स्थूलशरीरम् — पञ्चकोशानां मध्ये बाह्यतमः।",
+      "shankara_bhashya_english": "Shankara: The food sheath (annamaya kosha) is described with its five parts like a bird — head, two wings, trunk, and tail. This is the outermost of the five sheaths. The teaching progressively moves inward to discover the true Self beyond all sheaths."
     },
     {
       "upanishad": "taittiriya",

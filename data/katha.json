@@ -1548,71 +1548,159 @@
       "upanishad": "katha",
       "verse_number": 46,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 46 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 46 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 46 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यस्त्वविज्ञानवान् भवत्ययुक्तेन मनसा सदा | तस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ||१.३.५||",
+      "transliteration": "yas tv avijñānavān bhavaty ayuktena manasā sadā | tasyendriyāṇy avaśyāni duṣṭāśvā iva sārtheḥ ||1.3.5||",
+      "word_meanings": [
+        {
+          "word": "अविज्ञानवान्",
+          "meaning": "one without discrimination"
+        },
+        {
+          "word": "अयुक्तेन मनसा",
+          "meaning": "with uncontrolled mind"
+        },
+        {
+          "word": "दुष्टाश्वाः",
+          "meaning": "vicious horses"
+        }
+      ],
+      "english_translation": "One who is without discrimination, with always uncontrolled mind — his senses are uncontrolled, like vicious horses of a charioteer.",
+      "shankara_bhashya_sanskrit": "अविज्ञानवान् — विवेकरहितः — तस्य इन्द्रियाणि अवश्यानि।",
+      "shankara_bhashya_english": "Shankara: Without discrimination and an uncontrolled mind, the senses run wild like vicious horses. Such a person is dragged through samsara by the uncontrolled senses."
     },
     {
       "upanishad": "katha",
       "verse_number": 47,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 47 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 47 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 47 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यस्तु विज्ञानवान् भवति युक्तेन मनसा सदा | तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ||१.३.६||",
+      "transliteration": "yas tu vijñānavān bhavati yuktena manasā sadā | tasyendriyāṇi vaśyāni sadaśvā iva sārtheḥ ||1.3.6||",
+      "word_meanings": [
+        {
+          "word": "विज्ञानवान्",
+          "meaning": "one with discrimination"
+        },
+        {
+          "word": "युक्तेन मनसा",
+          "meaning": "with controlled mind"
+        },
+        {
+          "word": "सदश्वाः",
+          "meaning": "good horses"
+        }
+      ],
+      "english_translation": "One who has discrimination, with always controlled mind — his senses are controlled, like good horses of a charioteer.",
+      "shankara_bhashya_sanskrit": "विज्ञानवान् — विवेकी — युक्तेन मनसा — तस्य इन्द्रियाणि वश्यानि।",
+      "shankara_bhashya_english": "Shankara: With discrimination and a controlled mind, the senses are like good horses — they go where directed. Such a person moves steadily toward liberation."
     },
     {
       "upanishad": "katha",
       "verse_number": 48,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 48 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 48 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 48 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यस्त्वविज्ञानवान् भवत्यमनस्कः सदाऽशुचिः | न स तत्पदमाप्नोति संसारं चाधिगच्छति ||१.३.७||",
+      "transliteration": "yas tv avijñānavān bhavaty amanasakaḥ sadā'śuciḥ | na sa tat padam āpnoti saṃsāraṃ cādhigacchati ||1.3.7||",
+      "word_meanings": [
+        {
+          "word": "अविज्ञानवान् अमनस्कः",
+          "meaning": "without discrimination, without mind-control"
+        },
+        {
+          "word": "अशुचिः",
+          "meaning": "impure"
+        },
+        {
+          "word": "न तत् पदम् आप्नोति",
+          "meaning": "does not attain that goal"
+        },
+        {
+          "word": "संसारम् अधिगच्छति",
+          "meaning": "enters samsara"
+        }
+      ],
+      "english_translation": "One who is without discrimination, without mind-control, always impure — he does not attain that goal and enters samsara.",
+      "shankara_bhashya_sanskrit": "अविज्ञानवान् — अमनस्कः — अशुचिः — तत् पदम् — मोक्षम् — न आप्नोति — संसारम् गच्छति।",
+      "shankara_bhashya_english": "Shankara: Without discrimination, mind-control, and purity, one cannot attain liberation and continues in samsara. These three — discrimination, mind-control, and purity — are the essential qualifications for the spiritual path."
     },
     {
       "upanishad": "katha",
       "verse_number": 49,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 49 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 49 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 49 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यस्तु विज्ञानवान् भवति समनस्कः सदा शुचिः | स तु तत्पदमाप्नोति यस्माद्भूयो न जायते ||१.३.८||",
+      "transliteration": "yas tu vijñānavān bhavati samanaskaḥ sadā śuciḥ | sa tu tat padam āpnoti yasmād bhūyo na jāyate ||1.3.8||",
+      "word_meanings": [
+        {
+          "word": "विज्ञानवान् समनस्कः शुचिः",
+          "meaning": "with discrimination, mind-control, purity"
+        },
+        {
+          "word": "तत् पदम् आप्नोति",
+          "meaning": "attains that goal"
+        },
+        {
+          "word": "भूयः न जायते",
+          "meaning": "is not born again"
+        }
+      ],
+      "english_translation": "One who has discrimination, with mind-control, always pure — he attains that goal from which one is not born again.",
+      "shankara_bhashya_sanskrit": "विज्ञानवान् — समनस्कः — शुचिः — तत् पदम् — मोक्षम् — आप्नोति — भूयः न जायते।",
+      "shankara_bhashya_english": "Shankara: With discrimination, mind-control, and purity, one attains liberation — the goal from which there is no return to birth. These are the positive qualifications that lead to liberation, contrasted with the negative qualifications of the previous verse."
     },
     {
       "upanishad": "katha",
       "verse_number": 50,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 50 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 50 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 50 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "विज्ञानसारथिर्यस्तु मनःप्रग्रहवान्नरः | सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् ||१.३.९||",
+      "transliteration": "vijñānasārathir yas tu manaḥpragrahavān naraḥ | so'dhvanaḥ pāram āpnoti tad viṣṇoḥ paramaṃ padam ||1.3.9||",
+      "word_meanings": [
+        {
+          "word": "विज्ञानसारथिः",
+          "meaning": "one whose charioteer is the intellect"
+        },
+        {
+          "word": "मनःप्रग्रहवान्",
+          "meaning": "one who holds the reins of the mind"
+        },
+        {
+          "word": "अध्वनः पारम् आप्नोति",
+          "meaning": "reaches the end of the road"
+        },
+        {
+          "word": "विष्णोः परमम् पदम्",
+          "meaning": "the supreme abode of Vishnu"
+        }
+      ],
+      "english_translation": "One whose charioteer is the intellect, who holds the reins of the mind — he reaches the end of the road, the supreme abode of Vishnu.",
+      "shankara_bhashya_sanskrit": "विज्ञानसारथिः — बुद्धिः सारथिः यस्य। मनःप्रग्रहवान् — मनः प्रग्रहः यस्य। सः अध्वनः पारम् — विष्णोः परमम् पदम् — आप्नोति।",
+      "shankara_bhashya_english": "Shankara: One who uses the intellect as the charioteer and controls the mind as the reins reaches the supreme abode of Vishnu (Brahman). This is the positive conclusion of the chariot analogy — the qualified seeker who uses discrimination and mind-control reaches liberation."
     },
     {
       "upanishad": "katha",

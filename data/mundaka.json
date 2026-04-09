@@ -1278,98 +1278,226 @@
       "verse_number": 37,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 37 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 37 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 37 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "द्वे विद्ये वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदन्ति परा चैवापरा च | तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः ||१.१.४||",
+      "transliteration": "dve vidye veditavye iti ha sma yad brahmavido vadanti parā caivāparā ca | tatrāparā ṛgvedo yajurvedaḥ sāmavedo'tharvavedaḥ ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "द्वे विद्ये",
+          "meaning": "two knowledges"
+        },
+        {
+          "word": "परा च अपरा च",
+          "meaning": "the higher and the lower"
+        },
+        {
+          "word": "अपरा ऋग्वेदः",
+          "meaning": "the lower is the Rigveda"
+        }
+      ],
+      "english_translation": "Two kinds of knowledge are to be known — so say the knowers of Brahman — the higher and the lower. Of these, the lower is the Rigveda, Yajurveda, Samaveda, Atharvaveda.",
+      "shankara_bhashya_sanskrit": "परा — ब्रह्मज्ञानम्। अपरा — चतुर्वेदाः षडङ्गानि च।",
+      "shankara_bhashya_english": "Shankara: The higher knowledge is the direct knowledge of Brahman. The lower knowledge comprises the four Vedas and their six auxiliaries. The lower leads to worldly and heavenly results; the higher leads to liberation."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 38,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 38 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 38 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 38 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अथ परा यया तदक्षरमधिगम्यते | यत्तदद्रेश्यमग्राह्यमगोत्रमवर्णमचक्षुःश्रोत्रं तदपाणिपादम् | नित्यं विभुं सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः ||१.१.५||",
+      "transliteration": "atha parā yayā tad akṣaram adhigamyate | yat tad adreśyam agrāhyam agotram avarṇam acakṣuḥśrotraṃ tad apāṇipādam | nityaṃ vibhuṃ sarvagataṃ susūkṣmaṃ tad avyayaṃ yad bhūtayoniṃ paripaśyanti dhīrāḥ ||1.1.5||",
+      "word_meanings": [
+        {
+          "word": "परा विद्या",
+          "meaning": "the higher knowledge"
+        },
+        {
+          "word": "अक्षरम् अधिगम्यते",
+          "meaning": "by which the Imperishable is known"
+        },
+        {
+          "word": "अदृश्यम् अग्राह्यम्",
+          "meaning": "unseen, ungraspable"
+        },
+        {
+          "word": "नित्यम् विभुम् सर्वगतम्",
+          "meaning": "eternal, all-pervading, omnipresent"
+        },
+        {
+          "word": "भूतयोनिम्",
+          "meaning": "the source of all beings"
+        }
+      ],
+      "english_translation": "The higher is that by which the Imperishable is known — that which is unseen, ungraspable, without lineage, without color, without eyes or ears, without hands or feet, eternal, all-pervading, omnipresent, extremely subtle, imperishable — which the wise perceive as the source of all beings.",
+      "shankara_bhashya_sanskrit": "परा — यया — अक्षरम् — ब्रह्म — अधिगम्यते। अदृश्यम् — इन्द्रियागोचरम्। नित्यम् — कालत्रयेऽपि अस्ति।",
+      "shankara_bhashya_english": "Shankara: The higher knowledge is that by which the Imperishable Brahman is known. Brahman is unseen (beyond the senses), ungraspable (beyond the mind), without lineage or color (beyond all categories), eternal, all-pervading, and the source of all beings. The wise perceive it directly."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 39,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 39 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 39 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 39 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यथोर्णनाभिः सृजते गृह्णते च यथा पृथिव्यामोषधयः सम्भवन्ति | यथा सतः पुरुषात्केशलोमानि तथाऽक्षरात्सम्भवतीह विश्वम् ||२.१.७||",
+      "transliteration": "yathorṇanābhiḥ sṛjate gṛhṇate ca yathā pṛthivyām oṣadhayaḥ sambhavanti | yathā sataḥ puruṣāt keśalomāni tathā'kṣarāt sambhavatīha viśvam ||2.1.7||",
+      "word_meanings": [
+        {
+          "word": "ऊर्णनाभिः सृजते गृह्णते",
+          "meaning": "a spider creates and withdraws"
+        },
+        {
+          "word": "ओषधयः सम्भवन्ति",
+          "meaning": "plants grow"
+        },
+        {
+          "word": "केशलोमानि",
+          "meaning": "hair and body hair"
+        },
+        {
+          "word": "अक्षरात् विश्वम् सम्भवति",
+          "meaning": "from the Imperishable the universe arises"
+        }
+      ],
+      "english_translation": "As a spider creates and withdraws, as plants grow from the earth, as hair grows from a living person — so from the Imperishable this universe arises.",
+      "shankara_bhashya_sanskrit": "ऊर्णनाभिः — स्वतः तन्तुम् सृजति गृह्णाति च। तथा अक्षरात् ब्रह्मणः विश्वम् सम्भवति।",
+      "shankara_bhashya_english": "Shankara: Three analogies show that the universe arises from Brahman without any external material. The spider creates its web from itself; plants grow from earth; hair grows from the body. Similarly, the universe arises from Brahman alone — Brahman is both the material and efficient cause."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 40,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 40 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 40 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 40 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तपसा चीयते ब्रह्म ततोऽन्नमभिजायते | अन्नात्प्राणो मनः सत्यं लोकाः कर्मसु चामृतम् ||१.१.८||",
+      "transliteration": "tapasā cīyate brahma tato'nnam abhijāyate | annāt prāṇo manaḥ satyaṃ lokāḥ karmasu cāmṛtam ||1.1.8||",
+      "word_meanings": [
+        {
+          "word": "तपसा ब्रह्म चीयते",
+          "meaning": "Brahman grows through austerity"
+        },
+        {
+          "word": "अन्नम् अभिजायते",
+          "meaning": "food is born"
+        },
+        {
+          "word": "अन्नात् प्राणः मनः",
+          "meaning": "from food, prana and mind"
+        }
+      ],
+      "english_translation": "Through austerity Brahman grows; from that food is born; from food, prana; mind; truth; worlds; actions; and immortality.",
+      "shankara_bhashya_sanskrit": "तपसा — ब्रह्मणः संकल्पेन — अन्नम् — प्राणः — मनः — क्रमेण उत्पद्यन्ते।",
+      "shankara_bhashya_english": "Shankara: Through the austerity (tapas = creative will) of Brahman, the entire chain of creation unfolds. This describes the cosmological sequence from Brahman to the manifest world."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 41,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 41 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 41 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 41 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यः सर्वज्ञः सर्वविद्यस्यैष महिमा भुवि | दिव्ये ब्रह्मपुरे ह्येष व्योम्न्यात्मा प्रतिष्ठितः ||२.२.७||",
+      "transliteration": "yaḥ sarvajñaḥ sarvavid yasyaiṣa mahimā bhuvi | divye brahma-pure hy eṣa vyomny ātmā pratiṣṭhitaḥ ||2.2.7||",
+      "word_meanings": [
+        {
+          "word": "सर्वज्ञः सर्ववित्",
+          "meaning": "omniscient, all-knowing"
+        },
+        {
+          "word": "दिव्ये ब्रह्मपुरे",
+          "meaning": "in the divine city of Brahman (body)"
+        },
+        {
+          "word": "व्योम्नि आत्मा प्रतिष्ठितः",
+          "meaning": "the Self is established in the ether of the heart"
+        }
+      ],
+      "english_translation": "He who is omniscient, all-knowing — in the divine city of Brahman, the Self is established in the ether of the heart.",
+      "shankara_bhashya_sanskrit": "सर्वज्ञः — सर्वम् जानाति। दिव्ये ब्रह्मपुरे — हृदयाकाशे — आत्मा प्रतिष्ठितः।",
+      "shankara_bhashya_english": "Shankara: The omniscient Brahman is established in the ether of the heart — the 'divine city of Brahman' is the body, and the heart is its innermost chamber where the Self dwells."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 42,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 42 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 42 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 42 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "मनोमयः प्राणशरीरनेता प्रतिष्ठितोऽन्ने हृदयं सन्निधाय | तद्विज्ञानेन परिपश्यन्ति धीरा आनन्दरूपममृतं यद्विभाति ||२.२.७||",
+      "transliteration": "manomayaḥ prāṇaśarīranetā pratiṣṭhito'nne hṛdayaṃ sannidhāya | tad vijñānena paripaśyanti dhīrā ānandarūpam amṛtaṃ yad vibhāti ||2.2.7||",
+      "word_meanings": [
+        {
+          "word": "मनोमयः प्राणशरीरनेता",
+          "meaning": "made of mind, leader of prana and body"
+        },
+        {
+          "word": "हृदयम् सन्निधाय",
+          "meaning": "dwelling in the heart"
+        },
+        {
+          "word": "आनन्दरूपम् अमृतम्",
+          "meaning": "of the form of bliss, immortal"
+        }
+      ],
+      "english_translation": "Made of mind, leader of prana and body, dwelling in the heart — the wise perceive through knowledge that which shines as bliss, as immortal.",
+      "shankara_bhashya_sanskrit": "मनोमयः — मनःस्वरूपः। हृदये — सन्निधाय — आनन्दरूपम् — अमृतम् — विभाति।",
+      "shankara_bhashya_english": "Shankara: The Self is made of mind (consciousness), leads prana and the body, and dwells in the heart. The wise perceive it through knowledge as the shining, blissful, immortal Brahman."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 43,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 43 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 43 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 43 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न चक्षुषा गृह्यते नापि वाचा नान्यैर्देवैस्तपसा कर्मणा वा | ज्ञानप्रसादेन विशुद्धसत्त्वस्ततस्तु तं पश्यते निष्कलं ध्यायमानः ||३.१.८||",
+      "transliteration": "na cakṣuṣā gṛhyate nāpi vācā nānyair devais tapasā karmaṇā vā | jñānaprasādena viśuddhasattvas tatas tu taṃ paśyate niṣkalaṃ dhyāyamānaḥ ||3.1.8||",
+      "word_meanings": [
+        {
+          "word": "न चक्षुषा गृह्यते",
+          "meaning": "not grasped by the eye"
+        },
+        {
+          "word": "ज्ञानप्रसादेन",
+          "meaning": "by the grace of knowledge"
+        },
+        {
+          "word": "विशुद्धसत्त्वः",
+          "meaning": "one of purified being"
+        },
+        {
+          "word": "निष्कलम् पश्यते",
+          "meaning": "sees the partless one"
+        }
+      ],
+      "english_translation": "It is not grasped by the eye, nor by speech, nor by austerity or action. By the grace of knowledge, one of purified being, meditating, sees the partless one.",
+      "shankara_bhashya_sanskrit": "न चक्षुषा — इन्द्रियैः न गृह्यते। ज्ञानप्रसादेन — ब्रह्मज्ञानेन — विशुद्धसत्त्वः — पश्यते।",
+      "shankara_bhashya_english": "Shankara: Brahman cannot be grasped by any sense organ, nor attained by austerity or action alone. Only by the grace of knowledge — by the purification of the mind through discrimination and meditation — does one see the partless Brahman directly."
     },
     {
       "upanishad": "mundaka",
