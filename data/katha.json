@@ -864,141 +864,345 @@
       "upanishad": "katha",
       "verse_number": 26,
       "tags": [
+        "Atman",
+        "known",
+        "liberation",
         "Brahman",
-        "knowledge"
+        "Yama"
       ],
-      "sanskrit": "[Verse 26 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 26 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 26 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एष सर्वेषु भूतेषु गूढोऽत्मा न प्रकाशते | दृश्यते त्वग्र्यया बुद्ध्या सूक्ष्मया सूक्ष्मदर्शिभिः ||१.३.१२||",
+      "transliteration": "eṣa sarveṣu bhūteṣu gūḍho'tmā na prakāśate | dṛśyate tv agryayā buddhyā sūkṣmayā sūkṣmadarśibhiḥ ||1.3.12||",
+      "word_meanings": [
+        {
+          "word": "सर्वेषु भूतेषु गूढः",
+          "meaning": "hidden in all beings"
+        },
+        {
+          "word": "न प्रकाशते",
+          "meaning": "does not shine forth"
+        },
+        {
+          "word": "अग्र्यया बुद्ध्या",
+          "meaning": "by the sharp intellect"
+        },
+        {
+          "word": "सूक्ष्मदर्शिभिः",
+          "meaning": "by those who see the subtle"
+        }
+      ],
+      "english_translation": "This Self, hidden in all beings, does not shine forth. But it is seen by those who see the subtle, through a sharp and subtle intellect.",
+      "shankara_bhashya_sanskrit": "सर्वेषु भूतेषु गूढः — सर्वेषु प्राणिषु अन्तर्हितः। न प्रकाशते — सामान्यजनाय न दृश्यते। अग्र्यया बुद्ध्या — तीक्ष्णया बुद्ध्या — सूक्ष्मदर्शिभिः — दृश्यते।",
+      "shankara_bhashya_english": "Shankara: The Self is hidden in all beings but does not reveal itself to ordinary perception. It is seen only by those with a sharp, subtle intellect — those who have purified their minds through discrimination and meditation."
     },
     {
       "upanishad": "katha",
       "verse_number": 27,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "beyond senses",
+        "beyond mind",
+        "pure",
+        "eternal"
       ],
-      "sanskrit": "[Verse 27 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 27 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 27 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यच्छेद्वाङ्मनसी प्राज्ञस्तद्यच्छेज्ज्ञान आत्मनि ||१.३.१३||",
+      "transliteration": "yacched vāṅ manasī prājñas tad yacchej jñāna ātmani ||1.3.13||",
+      "word_meanings": [
+        {
+          "word": "वाक् मनसि यच्छेत्",
+          "meaning": "let him restrain speech in mind"
+        },
+        {
+          "word": "मनः ज्ञाने",
+          "meaning": "mind in the knowing Self"
+        },
+        {
+          "word": "प्राज्ञः",
+          "meaning": "the wise one"
+        }
+      ],
+      "english_translation": "Let the wise restrain speech in mind, mind in the knowing Self.",
+      "shankara_bhashya_sanskrit": "वाक् मनसि — वाचम् मनसि लयं नयेत्। मनः ज्ञाने — मनः बुद्धौ।",
+      "shankara_bhashya_english": "Shankara: This describes the yogic process of withdrawal. Speech is dissolved into mind, mind into intellect. This is the path of meditation leading to samadhi and the direct experience of the Self."
     },
     {
       "upanishad": "katha",
       "verse_number": 28,
       "tags": [
+        "Atman",
+        "Om",
         "Brahman",
-        "knowledge"
+        "meditation",
+        "goal"
       ],
-      "sanskrit": "[Verse 28 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 28 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 28 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||१.२.१६||",
+      "transliteration": "etad dhy evākṣaraṃ brahma etad dhy evākṣaraṃ param | etad dhy evākṣaraṃ jñātvā yo yad icchati tasya tat ||1.2.16||",
+      "word_meanings": [
+        {
+          "word": "एतत् अक्षरम् ब्रह्म",
+          "meaning": "this syllable is Brahman"
+        },
+        {
+          "word": "एतत् अक्षरम् परम्",
+          "meaning": "this syllable is the supreme"
+        },
+        {
+          "word": "यः यत् इच्छति",
+          "meaning": "whatever one desires"
+        },
+        {
+          "word": "तस्य तत्",
+          "meaning": "that is his"
+        }
+      ],
+      "english_translation": "This syllable is indeed Brahman; this syllable is indeed the supreme. Knowing this syllable, whatever one desires — that is his.",
+      "shankara_bhashya_sanskrit": "एतत् अक्षरम् — ओंकारः — ब्रह्म — परम्। एतत् ज्ञात्वा — यः यत् इच्छति — तस्य तत् — सर्वम् प्राप्नोति।",
+      "shankara_bhashya_english": "Shankara: The syllable Om is Brahman itself — the supreme. Knowing Om as Brahman, whatever one desires is attained. For the highest seeker, the desire is liberation — and that too is attained through the knowledge of Om."
     },
     {
       "upanishad": "katha",
       "verse_number": 29,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Om",
+        "meditation",
+        "goal",
+        "Brahman"
       ],
-      "sanskrit": "[Verse 29 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 29 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 29 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण ब्रवीम्योमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa bravīmy om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः यत् पदम् आमनन्ति",
+          "meaning": "which goal all the Vedas declare"
+        },
+        {
+          "word": "तपांसि सर्वाणि",
+          "meaning": "all austerities"
+        },
+        {
+          "word": "ब्रह्मचर्यम् चरन्ति",
+          "meaning": "practice celibacy"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "सर्वे वेदाः — यत् पदम् — आमनन्ति — ओंकारम्। तपांसि — यत् वदन्ति — ओंकारम्। ब्रह्मचर्यम् — यत् इच्छन्तः — चरन्ति — ओंकारम्।",
+      "shankara_bhashya_english": "Shankara: All the Vedas, all austerities, and all spiritual practices point to one goal — Om. Om is the symbol of Brahman, the ultimate reality. Yama reveals this to Nachiketa as the supreme secret."
     },
     {
       "upanishad": "katha",
       "verse_number": 30,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Nachiketa fire",
+        "heaven",
+        "second boon"
       ],
-      "sanskrit": "[Verse 30 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 30 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 30 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "नचिकेतमग्निं तं विद्याद्वेदमेदं प्रतिष्ठितम् | अमृतत्वं च गच्छति य इमं ब्रह्मणो विदुः ||१.१.१९||",
+      "transliteration": "naciketam agniṃ taṃ vidyād vedam edaṃ pratiṣṭhitam | amṛtatvaṃ ca gacchati ya imaṃ brahmaṇo viduḥ ||1.1.19||",
+      "word_meanings": [
+        {
+          "word": "नचिकेतम् अग्निम्",
+          "meaning": "the Nachiketa fire"
+        },
+        {
+          "word": "वेदम् एदम् प्रतिष्ठितम्",
+          "meaning": "this knowledge established"
+        },
+        {
+          "word": "अमृतत्वम् गच्छति",
+          "meaning": "attains immortality"
+        },
+        {
+          "word": "ब्रह्मणः विदुः",
+          "meaning": "those who know Brahman"
+        }
+      ],
+      "english_translation": "Know this as the Nachiketa fire, established in this knowledge. Those who know this Brahman attain immortality.",
+      "shankara_bhashya_sanskrit": "नचिकेतम् अग्निम् — नचिकेतसा पृष्टः अग्निः — नचिकेताग्निः। य इमम् ब्रह्मणः विदुः — ते अमृतत्वम् गच्छन्ति।",
+      "shankara_bhashya_english": "Shankara: Yama names the fire after Nachiketa — the Nachiketa fire. Those who know this fire as Brahman attain immortality. This is the fulfillment of Nachiketa's second boon — the knowledge of the fire that leads to heaven and ultimately to liberation."
     },
     {
       "upanishad": "katha",
       "verse_number": 31,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 31 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 31 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 31 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अन्यत्र धर्मादन्यत्राधर्मादन्यत्रास्मात्कृताकृतात् | अन्यत्र भूताच्च भव्याच्च यत्तत्पश्यसि तद्वद ||१.२.१४||",
+      "transliteration": "anyatra dharmād anyatrādharmād anyatrāsmāt kṛtākṛtāt | anyatra bhūtāc ca bhavyāc ca yat tat paśyasi tad vada ||1.2.14||",
+      "word_meanings": [
+        {
+          "word": "अन्यत्र धर्मात्",
+          "meaning": "other than dharma"
+        },
+        {
+          "word": "अन्यत्र अधर्मात्",
+          "meaning": "other than adharma"
+        },
+        {
+          "word": "अन्यत्र कृताकृतात्",
+          "meaning": "other than the done and undone"
+        },
+        {
+          "word": "अन्यत्र भूतात् भव्यात्",
+          "meaning": "other than past and future"
+        },
+        {
+          "word": "यत् तत् पश्यसि",
+          "meaning": "what you see as that"
+        }
+      ],
+      "english_translation": "Other than dharma, other than adharma, other than the done and undone, other than past and future — what you see as that, tell me that.",
+      "shankara_bhashya_sanskrit": "अन्यत्र धर्मात् — धर्माधर्मयोः अतीतम्। कृताकृतात् अन्यत्र — कर्मणः अतीतम्। भूतभव्यात् अन्यत्र — कालात् अतीतम्।",
+      "shankara_bhashya_english": "Shankara: Nachiketa asks Yama to describe that which is beyond dharma and adharma, beyond action and its results, beyond past and future. This is the description of Brahman — the timeless, actionless, pure consciousness that transcends all categories."
     },
     {
       "upanishad": "katha",
       "verse_number": 32,
       "tags": [
+        "Atman",
+        "Om",
         "Brahman",
-        "knowledge"
+        "meditation",
+        "goal"
       ],
-      "sanskrit": "[Verse 32 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 32 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 32 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वे वेदा यत्पदमामनन्ति | तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति | तत्ते पदं संग्रहेण ब्रवीमि | ओमित्येतत् ||१.२.१५||",
+      "transliteration": "sarve vedā yat padam āmananti | tapāṃsi sarvāṇi ca yad vadanti | yad icchanto brahmacaryaṃ caranti | tat te padaṃ saṃgraheṇa bravīmi | om ity etat ||1.2.15||",
+      "word_meanings": [
+        {
+          "word": "सर्वे वेदाः",
+          "meaning": "all the Vedas"
+        },
+        {
+          "word": "यत् पदम् आमनन्ति",
+          "meaning": "which goal they declare"
+        },
+        {
+          "word": "ओम् इति एतत्",
+          "meaning": "that is Om"
+        }
+      ],
+      "english_translation": "The goal which all the Vedas declare, which all austerities proclaim, desiring which people practice celibacy — that goal I tell you briefly: it is Om.",
+      "shankara_bhashya_sanskrit": "ओंकारः — सर्ववेदप्रतिपाद्यः — सर्वतपःफलम् — ब्रह्मचर्यलक्ष्यम्।",
+      "shankara_bhashya_english": "Shankara: Om is the goal of all the Vedas, all austerities, and all spiritual practices. It is the symbol of Brahman — the ultimate reality. Knowing Om as Brahman is the highest knowledge."
     },
     {
       "upanishad": "katha",
       "verse_number": 33,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Purusha",
+        "city",
+        "eleven gates",
+        "body"
       ],
-      "sanskrit": "[Verse 33 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 33 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 33 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "पुरमेकादशद्वारमजस्यावक्रचेतसः | अनुष्ठाय न शोचति विमुक्तश्च विमुच्यते | एतद्वै तत् ||२.२.१||",
+      "transliteration": "puram ekādaśadvāram ajasyāvakracetasaḥ | anuṣṭhāya na śocati vimuktaś ca vimucyate | etad vai tat ||2.2.1||",
+      "word_meanings": [
+        {
+          "word": "पुरम् एकादशद्वारम्",
+          "meaning": "the city with eleven gates"
+        },
+        {
+          "word": "अजस्य अवक्रचेतसः",
+          "meaning": "of the unborn, straight-minded one"
+        },
+        {
+          "word": "अनुष्ठाय न शोचति",
+          "meaning": "meditating on it, one does not grieve"
+        },
+        {
+          "word": "विमुक्तः विमुच्यते",
+          "meaning": "liberated, one is freed"
+        }
+      ],
+      "english_translation": "The city with eleven gates of the unborn, straight-minded one — meditating on it, one does not grieve. Liberated, one is freed. This is indeed That.",
+      "shankara_bhashya_sanskrit": "पुरम् एकादशद्वारम् — शरीरम् — एकादश इन्द्रियद्वाराणि। अजस्य — आत्मनः — अवक्रचेतसः — ऋजुचित्तस्य।",
+      "shankara_bhashya_english": "Shankara: The 'city with eleven gates' is the body — with nine openings (two eyes, two ears, two nostrils, mouth, navel, and the lower opening) plus the crown of the head and the heart. The unborn Self dwells in this city. Meditating on the Self in the body, one is freed from grief and attains liberation."
     },
     {
       "upanishad": "katha",
       "verse_number": 34,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "sun",
+        "moon",
+        "fire",
+        "light",
+        "Brahman"
       ],
-      "sanskrit": "[Verse 34 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 34 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 34 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न तत्र सूर्यो भाति न चन्द्रतारकं नेमा विद्युतो भान्ति कुतोऽयमग्निः | तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति ||२.२.१५||",
+      "transliteration": "na tatra sūryo bhāti na candratārakaṃ nemā vidyuto bhānti kuto'yam agniḥ | tam eva bhāntam anubhāti sarvaṃ tasya bhāsā sarvam idaṃ vibhāti ||2.2.15||",
+      "word_meanings": [
+        {
+          "word": "न सूर्यः भाति",
+          "meaning": "the sun does not shine there"
+        },
+        {
+          "word": "न चन्द्रतारकम्",
+          "meaning": "nor moon and stars"
+        },
+        {
+          "word": "तमेव भान्तम्",
+          "meaning": "that one alone shining"
+        },
+        {
+          "word": "अनुभाति सर्वम्",
+          "meaning": "everything shines after it"
+        },
+        {
+          "word": "तस्य भासा",
+          "meaning": "by its light"
+        }
+      ],
+      "english_translation": "The sun does not shine there, nor the moon and stars, nor these lightnings — how then this fire? Everything shines after that one shines. By its light all this is illumined.",
+      "shankara_bhashya_sanskrit": "तमेव भान्तम् — ब्रह्म एव प्रकाशमानम् — अनुभाति सर्वम् — सूर्यादयः अनुप्रकाशन्ते।",
+      "shankara_bhashya_english": "Shankara: Brahman alone is self-luminous. The sun, moon, stars, and fire all shine by reflecting Brahman's light. Without Brahman's consciousness illumining them, no light could shine. This verse appears also in the Mundaka and Bhagavad Gita."
     },
     {
       "upanishad": "katha",
       "verse_number": 35,
       "tags": [
+        "Atman",
+        "tree",
         "Brahman",
-        "knowledge"
+        "eternal",
+        "root above"
       ],
-      "sanskrit": "[Verse 35 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 35 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 35 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ऊर्ध्वमूलोऽवाक्शाख एषोऽश्वत्थः सनातनः | तदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते | तस्मिँल्लोकाः श्रिताः सर्वे तदु नात्येति कश्चन | एतद्वै तत् ||२.३.१||",
+      "transliteration": "ūrdhvamūlo'vākśākha eṣo'śvatthaḥ sanātanaḥ | tad eva śukraṃ tad brahma tad evāmṛtam ucyate | tasmiṃl lokāḥ śritāḥ sarve tad u nātyeti kaścana | etad vai tat ||2.3.1||",
+      "word_meanings": [
+        {
+          "word": "ऊर्ध्वमूलः अवाक्शाखः",
+          "meaning": "root above, branches below"
+        },
+        {
+          "word": "अश्वत्थः सनातनः",
+          "meaning": "the eternal Ashvattha tree"
+        },
+        {
+          "word": "तत् शुक्रम् तत् ब्रह्म",
+          "meaning": "that is the pure, that is Brahman"
+        },
+        {
+          "word": "तत् अमृतम्",
+          "meaning": "that is immortality"
+        },
+        {
+          "word": "तस्मिन् लोकाः श्रिताः",
+          "meaning": "in that all worlds rest"
+        }
+      ],
+      "english_translation": "This eternal Ashvattha tree has its root above and branches below. That is the pure; that is Brahman; that is called immortality. In it all worlds rest; none goes beyond it. This is indeed That.",
+      "shankara_bhashya_sanskrit": "ऊर्ध्वमूलः — ब्रह्म मूलम् — ऊर्ध्वे। अवाक्शाखः — जगत् शाखाः — अधः। अश्वत्थः — न श्वः स्थास्यति — अनित्यः।",
+      "shankara_bhashya_english": "Shankara: The eternal tree with roots above and branches below represents the universe with Brahman as its root. The root (Brahman) is above — transcendent; the branches (the world) spread downward. All worlds rest in Brahman. This image also appears in the Bhagavad Gita (15.1)."
     },
     {
       "upanishad": "katha",

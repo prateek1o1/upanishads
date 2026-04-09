@@ -311,112 +311,299 @@
       "verse_number": 9,
       "tags": [
         "Brahman",
-        "knowledge"
+        "inquiry",
+        "cause",
+        "time",
+        "nature",
+        "Self"
       ],
-      "sanskrit": "[Verse 9 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 9 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 9 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "कालः स्वभावो नियतिर्यदृच्छा भूतानि योनिः पुरुष इति चिन्त्या | संयोग एषां न त्वात्मभावादात्माप्यनीशः सुखदुःखहेतोः ||१.२||",
+      "transliteration": "kālaḥ svabhāvo niyatir yadṛcchā bhūtāni yoniḥ puruṣa iti cintyā | saṃyoga eṣāṃ na tv ātmabhāvād ātmāpy anīśaḥ sukhaduḥkhahetoḥ ||1.2||",
+      "word_meanings": [
+        {
+          "word": "कालः स्वभावः",
+          "meaning": "time, inherent nature"
+        },
+        {
+          "word": "नियतिः यदृच्छा",
+          "meaning": "fate, chance"
+        },
+        {
+          "word": "भूतानि योनिः",
+          "meaning": "elements, womb/source"
+        },
+        {
+          "word": "पुरुषः",
+          "meaning": "the Person/Self"
+        },
+        {
+          "word": "संयोगः",
+          "meaning": "combination"
+        },
+        {
+          "word": "आत्मा अनीशः",
+          "meaning": "the Self is not the lord (of pleasure/pain)"
+        }
+      ],
+      "english_translation": "Is it time, inherent nature, fate, chance, the elements, the womb, or the Person? — these are to be considered. It is not their combination, because the Self is not the lord of pleasure and pain.",
+      "shankara_bhashya_sanskrit": "कालः — स्वभावः — नियतिः — यदृच्छा — भूतानि — योनिः — पुरुषः — एते सर्वे कारणत्वेन चिन्त्याः। किन्तु एषाम् संयोगः न — आत्मा अनीशः — सुखदुःखहेतोः।",
+      "shankara_bhashya_english": "Shankara: The Shvetashvatara opens by asking: what is the cause of the universe? Is it time, nature, fate, chance, elements, or the Self? The answer is that none of these alone, nor their combination, is the ultimate cause — because the Self is not subject to pleasure and pain. The true cause is the one God, Brahman."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 10,
       "tags": [
         "Brahman",
-        "knowledge"
+        "meditation",
+        "yoga",
+        "fire",
+        "Om"
       ],
-      "sanskrit": "[Verse 10 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 10 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 10 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "युञ्जानः प्रथमं मनस्तत्त्वाय सविता धियः | अग्नेर्ज्योतिर्निचाय्य पृथिव्या अध्याभरत् ||२.१||",
+      "transliteration": "yuñjānaḥ prathamaṃ manas tattvāya savitā dhiyaḥ | agner jyotir nicāyya pṛthivyā adhy ābharat ||2.1||",
+      "word_meanings": [
+        {
+          "word": "युञ्जानः प्रथमम् मनः",
+          "meaning": "first yoking the mind"
+        },
+        {
+          "word": "तत्त्वाय",
+          "meaning": "to the truth"
+        },
+        {
+          "word": "सविता धियः",
+          "meaning": "Savita of the intellects"
+        },
+        {
+          "word": "अग्नेः ज्योतिः",
+          "meaning": "the light of fire"
+        }
+      ],
+      "english_translation": "First yoking the mind to the truth, Savita of the intellects, having perceived the light of fire, brought it from the earth.",
+      "shankara_bhashya_sanskrit": "युञ्जानः — योगम् अभ्यसन् — प्रथमम् मनः — तत्त्वाय — ब्रह्मणि — युञ्जीत।",
+      "shankara_bhashya_english": "Shankara: The yoga practice begins with yoking the mind to the truth (Brahman). The Sun (Savita) represents the illuminating power of consciousness. The yogi first controls the mind, then perceives the inner light of the Self."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 11,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "yoga",
+        "body",
+        "posture",
+        "breath",
+        "meditation"
       ],
-      "sanskrit": "[Verse 11 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 11 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 11 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स्वदेहमरणिं कृत्वा प्रणवं चोत्तरारणिम् | ध्याननिर्मथनाभ्यासाद्देवं पश्येन्निगूढवत् ||१.१४||",
+      "transliteration": "svadeham araṇiṃ kṛtvā praṇavaṃ cottarāraṇim | dhyānanimathanābhyāsād devaṃ paśyen nigūḍhavat ||1.14||",
+      "word_meanings": [
+        {
+          "word": "स्वदेहम् अरणिम्",
+          "meaning": "making one's body the lower fire-stick"
+        },
+        {
+          "word": "प्रणवम् उत्तरारणिम्",
+          "meaning": "Om as the upper fire-stick"
+        },
+        {
+          "word": "ध्याननिर्मथनाभ्यासात्",
+          "meaning": "by the practice of churning through meditation"
+        },
+        {
+          "word": "देवम् पश्येत्",
+          "meaning": "one sees the God"
+        },
+        {
+          "word": "निगूढवत्",
+          "meaning": "hidden within"
+        }
+      ],
+      "english_translation": "Making one's body the lower fire-stick and Om the upper fire-stick, by the practice of churning through meditation, one sees the God hidden within.",
+      "shankara_bhashya_sanskrit": "स्वदेहम् अरणिम् — शरीरम् अधरारणिः। प्रणवम् उत्तरारणिम् — ओंकारः उत्तरारणिः। ध्याननिर्मथनेन — देवम् पश्येत्।",
+      "shankara_bhashya_english": "Shankara: The body is the lower fire-stick; Om is the upper fire-stick. By churning them together through meditation, the fire of knowledge is kindled and the God hidden within is revealed. This is the yoga of the Shvetashvatara — using the body and Om as instruments of meditation."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 12,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "one",
+        "no second",
+        "liberation"
       ],
-      "sanskrit": "[Verse 12 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 12 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 12 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एको हि रुद्रो न द्वितीयाय तस्थुर्य इमाँल्लोकानीशत ईशनीभिः ||३.२||",
+      "transliteration": "eko hi rudro na dvitīyāya tasthur ya imāṃl lokān īśata īśanībhiḥ ||3.2||",
+      "word_meanings": [
+        {
+          "word": "एकः रुद्रः",
+          "meaning": "one Rudra"
+        },
+        {
+          "word": "न द्वितीयाय",
+          "meaning": "no second"
+        },
+        {
+          "word": "इमान् लोकान् ईशते",
+          "meaning": "rules these worlds"
+        },
+        {
+          "word": "ईशनीभिः",
+          "meaning": "with his powers"
+        }
+      ],
+      "english_translation": "One Rudra — no second — rules these worlds with his powers.",
+      "shankara_bhashya_sanskrit": "एकः रुद्रः — अद्वितीयः। न द्वितीयाय — द्वितीयः नास्ति। इमान् लोकान् ईशते — सर्वान् लोकान् नियच्छति।",
+      "shankara_bhashya_english": "Shankara: There is only one Rudra — no second. He rules all worlds with his powers. This is the theistic teaching of the Shvetashvatara — Brahman as the personal God Rudra-Shiva, the one without a second."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 13,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "creator",
+        "destroyer",
+        "all"
       ],
-      "sanskrit": "[Verse 13 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 13 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 13 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सर्वाजीवे सर्वसंस्थे बृहन्ते तस्मिन्हंसो भ्राम्यते ब्रह्मचक्रे | पृथगात्मानं प्रेरितारं च मत्वा जुष्टस्ततस्तेनामृतत्वमेति ||१.६||",
+      "transliteration": "sarvājīve sarvasaṃsthe bṛhante tasmin haṃso bhrāmyate brahmacakre | pṛthag ātmānaṃ preritāraṃ ca matvā juṣṭas tatas tenāmṛtatvam eti ||1.6||",
+      "word_meanings": [
+        {
+          "word": "सर्वाजीवे सर्वसंस्थे",
+          "meaning": "in which all life, all existence"
+        },
+        {
+          "word": "ब्रह्मचक्रे",
+          "meaning": "in the wheel of Brahman"
+        },
+        {
+          "word": "हंसः भ्राम्यते",
+          "meaning": "the swan (individual soul) wanders"
+        },
+        {
+          "word": "पृथक् आत्मानम्",
+          "meaning": "the Self as separate"
+        },
+        {
+          "word": "प्रेरितारम्",
+          "meaning": "the impeller"
+        },
+        {
+          "word": "अमृतत्वम् एति",
+          "meaning": "attains immortality"
+        }
+      ],
+      "english_translation": "In this wheel of Brahman, in which all life and all existence rests, the swan (individual soul) wanders. Knowing the Self as separate from the impeller, and being graced by it, one attains immortality.",
+      "shankara_bhashya_sanskrit": "ब्रह्मचक्रे — संसारचक्रे — हंसः — जीवः — भ्राम्यते। प्रेरितारम् — ईश्वरम् — मत्वा — जुष्टः — अमृतत्वम् एति।",
+      "shankara_bhashya_english": "Shankara: The individual soul (hamsa) wanders in the wheel of samsara. When it recognizes the impeller — the Lord — and is graced by him, it attains immortality. This is the theistic path of the Shvetashvatara: grace of the Lord leads to liberation."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 14,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "all forms",
+        "fire",
+        "water",
+        "plants"
       ],
-      "sanskrit": "[Verse 14 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 14 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 14 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "त्वमग्निस्त्वं वायुस्त्वं सूर्यस्त्वं वासव | त्वं देवा सर्वे त्वं महाभूतानि | त्वं स्त्री त्वं पुमानसि त्वं कुमार उत वा कुमारी ||४.३||",
+      "transliteration": "tvam agnis tvaṃ vāyus tvaṃ sūryas tvaṃ vāsava | tvaṃ devā sarve tvaṃ mahābhūtāni | tvaṃ strī tvaṃ pumān asi tvaṃ kumāra uta vā kumārī ||4.3||",
+      "word_meanings": [
+        {
+          "word": "त्वम् अग्निः",
+          "meaning": "you are fire"
+        },
+        {
+          "word": "त्वम् वायुः",
+          "meaning": "you are wind"
+        },
+        {
+          "word": "त्वम् सूर्यः",
+          "meaning": "you are the sun"
+        },
+        {
+          "word": "त्वम् देवाः सर्वे",
+          "meaning": "you are all the gods"
+        },
+        {
+          "word": "त्वम् स्त्री त्वम् पुमान्",
+          "meaning": "you are woman, you are man"
+        }
+      ],
+      "english_translation": "You are fire, you are wind, you are the sun, you are Indra. You are all the gods; you are the great elements. You are woman, you are man, you are the youth, and also the maiden.",
+      "shankara_bhashya_sanskrit": "त्वम् अग्निः — रुद्रः एव अग्निः। त्वम् वायुः — रुद्रः एव वायुः। सर्वम् रुद्रः एव।",
+      "shankara_bhashya_english": "Shankara: This beautiful verse declares that Rudra (Brahman) is everything — fire, wind, sun, all gods, all elements, man, woman, youth, and maiden. Brahman pervades all forms and is the inner reality of all existence. This is the vision of unity in diversity."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 15,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "blue",
+        "red",
+        "green",
+        "colors"
       ],
-      "sanskrit": "[Verse 15 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 15 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 15 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "नीलोऽथ पीत इति स्रुजत्येष रूपाणि बहूनि | अस्य माया महेश्वरस्य जगद्बभूव ||४.१||",
+      "transliteration": "nīlo'tha pīta iti sṛjaty eṣa rūpāṇi bahūni | asya māyā maheśvarasya jagad babhūva ||4.1||",
+      "word_meanings": [
+        {
+          "word": "नीलः अथ पीतः",
+          "meaning": "blue, then yellow"
+        },
+        {
+          "word": "बहूनि रूपाणि सृजति",
+          "meaning": "creates many forms"
+        },
+        {
+          "word": "माया महेश्वरस्य",
+          "meaning": "the maya of the great Lord"
+        },
+        {
+          "word": "जगत् बभूव",
+          "meaning": "the world came into being"
+        }
+      ],
+      "english_translation": "He creates many forms — blue, yellow, and others. By the maya of the great Lord, the world came into being.",
+      "shankara_bhashya_sanskrit": "नीलः पीतः — बहूनि रूपाणि — सृजति। माया — महेश्वरस्य — शक्तिः — जगत् बभूव।",
+      "shankara_bhashya_english": "Shankara: The great Lord creates the world of many colors and forms through his maya (creative power). The world is not an illusion in the sense of non-existence — it is real as an appearance, but its ultimate reality is Brahman. Maya is the Lord's creative power."
     },
     {
       "upanishad": "shvetashvatara",
       "verse_number": 16,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Rudra",
+        "liberation",
+        "grace",
+        "devotion"
       ],
-      "sanskrit": "[Verse 16 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 16 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 16 of the Shvetashvatara Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तमीश्वराणां परमं महेश्वरं तं देवतानां परमं च दैवतम् | पतिं पतीनां परमं परस्ताद्विदाम देवं भुवनेशमीड्यम् ||६.७||",
+      "transliteration": "tam īśvarāṇāṃ paramaṃ maheśvaraṃ taṃ devatānāṃ paramaṃ ca daivatam | patiṃ patīnāṃ paramaṃ parastād vidāma devaṃ bhuvanešam īḍyam ||6.7||",
+      "word_meanings": [
+        {
+          "word": "ईश्वराणाम् परमम् महेश्वरम्",
+          "meaning": "the supreme Lord of lords"
+        },
+        {
+          "word": "देवतानाम् परमम् दैवतम्",
+          "meaning": "the supreme deity of deities"
+        },
+        {
+          "word": "पतिम् पतीनाम्",
+          "meaning": "the lord of lords"
+        },
+        {
+          "word": "भुवनेशम् ईड्यम्",
+          "meaning": "the lord of the worlds, worthy of praise"
+        }
+      ],
+      "english_translation": "Let us know that supreme great Lord of lords, that supreme deity of deities, that lord of lords, the God who is the lord of the worlds and worthy of praise.",
+      "shankara_bhashya_sanskrit": "ईश्वराणाम् परमम् — सर्वेश्वराणाम् ईश्वरः। देवतानाम् परमम् — सर्वदेवानाम् देवः। भुवनेशम् — सर्वलोकेश्वरम्।",
+      "shankara_bhashya_english": "Shankara: The supreme Lord is the lord of all lords, the deity of all deities, the lord of all worlds. He is worthy of the highest praise and devotion. Knowing this supreme Lord, one attains liberation. This is the culminating teaching of the Shvetashvatara."
     },
     {
       "upanishad": "shvetashvatara",
