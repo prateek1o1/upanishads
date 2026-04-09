@@ -1,0 +1,97 @@
+{
+  "id": "isha",
+  "name": "Isha Upanishad",
+  "name_sanskrit": "ईशावास्योपनिषद्",
+  "tradition": "Shukla Yajurveda",
+  "summary": "The Isha Upanishad opens the Shukla Yajurveda and teaches that the entire universe is pervaded by the Lord. It reconciles action and renunciation, knowledge and works, and points to the unity of Atman and Brahman.",
+  "total_verses": 18,
+  "verses": [
+    {
+      "upanishad": "isha", "verse_number": 1,
+      "tags": ["renunciation", "non-attachment", "Brahman"],
+      "sanskrit": "ईशावास्यमिदं सर्वं यत्किञ्च जगत्यां जगत् |\nतेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ||१||",
+      "transliteration": "īśāvāsyam idaṃ sarvaṃ yat kiñca jagatyāṃ jagat |\ntena tyaktena bhuñjīthā mā gṛdhaḥ kasya svid dhanam ||1||",
+      "word_meanings": [
+        {"word": "ईशावास्यम्", "meaning": "pervaded/clothed by the Lord"},
+        {"word": "इदम् सर्वम्", "meaning": "all this"},
+        {"word": "यत् किञ्च", "meaning": "whatever"},
+        {"word": "जगत्याम् जगत्", "meaning": "moves in this moving world"},
+        {"word": "तेन त्यक्तेन", "meaning": "by that renunciation"},
+        {"word": "भुञ्जीथाः", "meaning": "enjoy/protect"},
+        {"word": "मा गृधः", "meaning": "do not covet"},
+        {"word": "कस्य स्वित् धनम्", "meaning": "whose indeed is wealth?"}
+      ],
+      "english_translation": "All this — whatever moves in this moving world — is pervaded by the Lord. Protect yourself through that renunciation. Do not covet anyone's wealth.",
+      "shankara_bhashya_sanskrit": "ईशा ईश्वरेण वास्यम् आच्छादनीयम् — सर्वं जगत् ईश्वरस्य आत्मत्वेन व्याप्तम् इत्यर्थः। तेन ईश्वरेण त्यक्तेन, भोगार्थं परित्यक्तेन, भुञ्जीथाः — आत्मानं पालय। मा गृधः — मा लोभं कुरु।",
+      "shankara_bhashya_english": "Shankara explains: 'Isha-vasyam' means to be clothed or pervaded by the Lord — the entire world is permeated by the Lord as its very Self. 'Tena tyaktena' — by that which is renounced for the Lord's sake, protect yourself. 'Ma gridhah' — do not be greedy. No wealth truly belongs to anyone, for all belongs to the Lord."
+    },
+    {
+      "upanishad": "isha", "verse_number": 2,
+      "tags": ["karma", "action", "longevity"],
+      "sanskrit": "कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः |\nएवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ||२||",
+      "transliteration": "kurvan neveha karmāṇi jijīviṣec chataṃ samāḥ |\nevaṃ tvayi nānyatheto'sti na karma lipyate nare ||2||",
+      "word_meanings": [
+        {"word": "कुर्वन् एव", "meaning": "doing only, performing"},
+        {"word": "इह कर्माणि", "meaning": "actions here in this world"},
+        {"word": "जिजीविषेत्", "meaning": "one should desire to live"},
+        {"word": "शतम् समाः", "meaning": "a hundred years"},
+        {"word": "न कर्म लिप्यते", "meaning": "karma does not cling"},
+        {"word": "नरे", "meaning": "to the person"}
+      ],
+      "english_translation": "Performing actions here, one should desire to live a hundred years. Thus for you — there is no other way — karma does not cling to a person.",
+      "shankara_bhashya_sanskrit": "कर्माणि कुर्वन् एव — ज्ञानाभावे कर्मयोगेन जीवितुमिच्छेत्। एवं कर्म कुर्वतः त्वयि कर्म न लिप्यते — ईश्वरार्पणबुद्ध्या कृतं कर्म बन्धकं न भवति।",
+      "shankara_bhashya_english": "Shankara comments: For one who lacks the qualification for pure knowledge, performing actions with dedication to the Lord is prescribed. When actions are performed as an offering to the Lord, they do not bind — karma does not cling to such a person."
+    },
+    {
+      "upanishad": "isha", "verse_number": 9,
+      "tags": ["avidya", "vidya", "knowledge", "ignorance"],
+      "sanskrit": "अन्धं तमः प्रविशन्ति येऽविद्यामुपासते |\nततो भूय इव ते तमो य उ विद्यायां रताः ||९||",
+      "transliteration": "andhaṃ tamaḥ praviśanti ye'vidyām upāsate |\ntato bhūya iva te tamo ya u vidyāyāṃ ratāḥ ||9||",
+      "word_meanings": [
+        {"word": "अन्धम् तमः", "meaning": "blinding darkness"},
+        {"word": "प्रविशन्ति", "meaning": "enter into"},
+        {"word": "अविद्याम् उपासते", "meaning": "worship ignorance"},
+        {"word": "ततो भूयः", "meaning": "into even greater"},
+        {"word": "विद्यायाम् रताः", "meaning": "those devoted to knowledge alone"}
+      ],
+      "english_translation": "Into blinding darkness enter those who worship ignorance. Into even greater darkness enter those who are devoted to knowledge alone.",
+      "shankara_bhashya_sanskrit": "अविद्यां कर्म इत्युच्यते — कर्ममात्रोपासकाः अन्धतमसं प्रविशन्ति। विद्यामात्रोपासकाः — हिरण्यगर्भादिदेवताज्ञानमात्रपराः — ततोऽपि गहनतरं तमः प्रविशन्ति।",
+      "shankara_bhashya_english": "Shankara explains: 'Avidya' here refers to ritual action (karma). Those who pursue only ritual action enter blinding darkness. But those who pursue only intellectual knowledge of deities like Hiranyagarbha, without combining it with action, enter into even deeper darkness."
+    },
+    {
+      "upanishad": "isha", "verse_number": 15,
+      "tags": ["prayer", "Surya", "Pushan", "Self"],
+      "sanskrit": "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् |\nतत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये ||१५||",
+      "transliteration": "hiraṇmayena pātreṇa satyasyāpihitaṃ mukham |\ntat tvaṃ pūṣann apāvṛṇu satyadharmāya dṛṣṭaye ||15||",
+      "word_meanings": [
+        {"word": "हिरण्मयेन पात्रेण", "meaning": "by a golden vessel/disc"},
+        {"word": "सत्यस्य मुखम्", "meaning": "the face of Truth"},
+        {"word": "अपिहितम्", "meaning": "is covered"},
+        {"word": "पूषन्", "meaning": "O Pushan (Sun, nourisher)"},
+        {"word": "अपावृणु", "meaning": "uncover, remove"},
+        {"word": "सत्यधर्माय दृष्टये", "meaning": "for the vision of one devoted to truth"}
+      ],
+      "english_translation": "The face of Truth is covered by a golden vessel. O Pushan, remove it, so that I who am devoted to truth may behold it.",
+      "shankara_bhashya_sanskrit": "हिरण्मयेन — आदित्यमण्डलस्थं ब्रह्म हिरण्मयेन तेजोमयेन पात्रेण आवृतम्। हे पूषन् — सर्वपोषक आदित्य — तत् आवरणम् अपावृणु, सत्यधर्माय — सत्यनिष्ठाय मह्यम् — दर्शनाय।",
+      "shankara_bhashya_english": "Shankara explains: The Brahman residing in the solar orb is covered by a golden, luminous vessel (the brilliant disc of the sun). O Pushan — the all-nourishing Sun — remove that covering for me who am devoted to truth, so that I may have the vision of the Self."
+    },
+    {
+      "upanishad": "isha", "verse_number": 18,
+      "tags": ["prayer", "Agni", "liberation", "final verse"],
+      "sanskrit": "अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् |\nयुयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम ||१८||",
+      "transliteration": "agne naya supathā rāye asmān viśvāni deva vayunāni vidvān |\nyuyodhyasmaj juhurāṇam eno bhūyiṣṭhāṃ te nama-uktiṃ vidhema ||18||",
+      "word_meanings": [
+        {"word": "अग्ने", "meaning": "O Agni (fire, divine guide)"},
+        {"word": "नय सुपथा", "meaning": "lead by the good path"},
+        {"word": "राये", "meaning": "to prosperity/liberation"},
+        {"word": "विश्वानि वयुनानि विद्वान्", "meaning": "knowing all our deeds"},
+        {"word": "युयोधि", "meaning": "remove, ward off"},
+        {"word": "जुहुराणम् एनः", "meaning": "the crooked sin"},
+        {"word": "नम उक्तिम् विधेम", "meaning": "we offer salutations"}
+      ],
+      "english_translation": "O Agni, lead us by the good path to prosperity. O God, you know all our deeds. Remove from us the crooked sin. We offer you the most abundant salutation.",
+      "shankara_bhashya_sanskrit": "हे अग्ने — अन्तर्यामिन् — अस्मान् सुपथा नय — श्रेयोमार्गेण प्रापय। विश्वानि वयुनानि विद्वान् — सर्वाणि कर्माणि जानन् — जुहुराणम् एनः — कुटिलं पापम् — अस्मत् युयोधि — दूरीकुरु।",
+      "shankara_bhashya_english": "Shankara explains: O Agni, the inner controller — lead us by the good path to the highest good. You know all our deeds. Remove from us the crooked sin that leads us astray. We offer you abundant salutations. This closing prayer asks the divine guide to lead the seeker from the path of karma to the path of liberation."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="manifest" href="manifest.json">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upanishad — Study</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Noto+Sans+Devanagari:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="reading-progress"></div>
+  <header>
+    <a href="index.html" class="site-title">🕉 Upanishads</a>
+    <div class="header-controls">
+      <button id="theme-toggle" class="btn-icon">🌙</button>
+    </div>
+  </header>
+  <nav class="breadcrumb">
+    <a href="index.html">Home</a><span>›</span>
+    <span id="bc-upanishad">Upanishad</span>
+  </nav>
+  <main>
+    <div class="chapter-header" id="upanishad-header">
+      <div style="color:var(--text-muted)">Loading…</div>
+    </div>
+    <div class="shloka-nav" style="margin-top:0;margin-bottom:1.5rem;padding-top:0;border-top:none">
+      <a id="prev-u" href="#" class="nav-btn">← Previous</a>
+      <a id="next-u" href="#" class="nav-btn">Next →</a>
+    </div>
+    <div class="shloka-list" id="verse-list"></div>
+  </main>
+
+  <script type="module">
+    import { initTheme, initFontScale, initControls, initReadingProgress, fetchUpanishad } from './js/main.js';
+    import { isRead, getUpanishadProgress } from './js/storage.js';
+
+    initTheme(); initFontScale(); initControls(); initReadingProgress();
+
+    const ORDER = ['isha','kena','katha','prashna','mundaka','mandukya','taittiriya','aitareya','chandogya','brihadaranyaka','shvetashvatara','kaushitaki'];
+    const params = new URLSearchParams(location.search);
+    const uid = params.get('u') || 'isha';
+    const idx = ORDER.indexOf(uid);
+
+    const prevEl = document.getElementById('prev-u');
+    const nextEl = document.getElementById('next-u');
+    if (idx <= 0) prevEl.style.visibility = 'hidden';
+    else prevEl.href = `upanishad.html?u=${ORDER[idx-1]}`;
+    if (idx >= ORDER.length-1) nextEl.style.visibility = 'hidden';
+    else nextEl.href = `upanishad.html?u=${ORDER[idx+1]}`;
+
+    fetchUpanishad(uid).then(data => {
+      document.title = `${data.name} — Upanishads`;
+      document.getElementById('bc-upanishad').textContent = data.name;
+      const read = getUpanishadProgress(uid, data.total_verses);
+      document.getElementById('upanishad-header').innerHTML = `
+        <h1>${data.name}</h1>
+        <div class="sanskrit-title">${data.name_sanskrit}</div>
+        <div style="font-size:0.82rem;color:var(--text-muted);margin:0.2rem 0">${data.tradition}</div>
+        <p>${data.summary}</p>
+        <div class="ch-progress" style="margin-top:0.75rem;gap:0.75rem">
+          <div class="ch-progress-bar" style="height:6px">
+            <div class="ch-progress-fill" style="width:${Math.round(read/data.total_verses*100)}%"></div>
+          </div>
+          <span style="font-size:0.85rem;color:var(--text-muted)">${read} / ${data.total_verses} read</span>
+        </div>`;
+
+      const list = document.getElementById('verse-list');
+      data.verses.forEach(v => {
+        const item = document.createElement('a');
+        item.href = `verse.html?u=${uid}&v=${v.verse_number}`;
+        item.className = 'shloka-item' + (isRead(uid, v.verse_number) ? ' read' : '');
+        const tags = (v.tags||[]).map(t => `<span class="badge">${t}</span>`).join('');
+        item.innerHTML = `
+          <span class="shloka-num">${v.verse_number}</span>
+          <span class="shloka-preview">${v.sanskrit.split('\n')[0]}</span>
+          <span class="shloka-badges">${tags}</span>`;
+        list.appendChild(item);
+      });
+
+      if (data.total_verses > data.verses.length) {
+        list.insertAdjacentHTML('beforeend', `
+          <div style="padding:1rem;color:var(--text-muted);font-style:italic;text-align:center;font-size:0.9rem">
+            Showing ${data.verses.length} of ${data.total_verses} verses. Full data coming soon.
+          </div>`);
+      }
+    }).catch(() => {
+      document.getElementById('upanishad-header').innerHTML = `<p style="color:var(--text-muted)">Data not yet available.</p>`;
+    });
+  </script>
+  <script>if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js");</script>
+</body>
+</html>

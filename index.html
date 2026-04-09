@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="manifest" href="manifest.json">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upanishads — Personal Study</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Noto+Sans+Devanagari:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="reading-progress"></div>
+  <header>
+    <a href="index.html" class="site-title">🕉 Upanishads</a>
+    <div class="header-controls">
+      <button id="theme-toggle" class="btn-icon" title="Toggle theme">🌙</button>
+    </div>
+  </header>
+  <main>
+    <div class="page-title">
+      <h1>Upanishads</h1>
+      <p class="subtitle">उपनिषद् — Principal Upanishads Study</p>
+    </div>
+
+    <div class="search-bar">
+      <input type="text" id="search-input" class="search-input" placeholder="Search verses, keywords, topics…">
+      <button id="search-btn" class="notes-save-btn">Search</button>
+    </div>
+    <div id="search-results"></div>
+
+    <div id="resume-banner" style="display:none;margin-bottom:1.2rem;padding:.75rem 1.2rem;background:var(--bg-card);border:1px solid var(--border);border-left:3px solid var(--saffron);border-radius:8px;display:flex;align-items:center;justify-content:space-between;gap:1rem">
+      <span style="font-size:15px;color:var(--text-body)">📖 Continue where you left off</span>
+      <a id="resume-link" href="#" class="notes-save-btn" style="white-space:nowrap">Resume →</a>
+    </div>
+
+    <div class="daily-shloka" id="daily-verse">
+      <h2>✨ Verse of the Day</h2>
+      <div class="sanskrit-text" id="daily-sanskrit">Loading…</div>
+      <div class="translation" id="daily-translation"></div>
+      <a id="daily-link" href="#">Read full verse →</a>
+    </div>
+
+    <div class="overall-progress">
+      <span class="progress-label">Overall Progress</span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar-fill" id="overall-bar" style="width:0%"></div>
+      </div>
+      <span class="progress-label" id="overall-label">0 / 1479</span>
+    </div>
+
+    <div class="chapters-grid" id="upanishads-grid"></div>
+  </main>
+
+  <script type="module">
+    import { initTheme, initFontScale, initControls, initReadingProgress, fetchUpanishad, getDailyVerseRef } from './js/main.js';
+    import { getTotalRead, getUpanishadProgress, getLastVerse } from './js/storage.js';
+
+    initTheme(); initFontScale(); initControls(); initReadingProgress();
+
+    const UPANISHADS = [
+      { id:'isha',           name:'Isha Upanishad',           skt:'ईशावास्योपनिषद्',      tradition:'Shukla Yajurveda', total:18 },
+      { id:'kena',           name:'Kena Upanishad',           skt:'केनोपनिषद्',            tradition:'Samaveda',         total:35 },
+      { id:'katha',          name:'Katha Upanishad',          skt:'कठोपनिषद्',             tradition:'Krishna Yajurveda',total:119 },
+      { id:'prashna',        name:'Prashna Upanishad',        skt:'प्रश्नोपनिषद्',         tradition:'Atharvaveda',      total:67 },
+      { id:'mundaka',        name:'Mundaka Upanishad',        skt:'मुण्डकोपनिषद्',         tradition:'Atharvaveda',      total:64 },
+      { id:'mandukya',       name:'Mandukya Upanishad',       skt:'माण्डूक्योपनिषद्',      tradition:'Atharvaveda',      total:12 },
+      { id:'taittiriya',     name:'Taittiriya Upanishad',     skt:'तैत्तिरीयोपनिषद्',      tradition:'Krishna Yajurveda',total:81 },
+      { id:'aitareya',       name:'Aitareya Upanishad',       skt:'ऐतरेयोपनिषद्',          tradition:'Rigveda',          total:33 },
+      { id:'chandogya',      name:'Chandogya Upanishad',      skt:'छान्दोग्योपनिषद्',       tradition:'Samaveda',         total:627 },
+      { id:'brihadaranyaka', name:'Brihadaranyaka Upanishad', skt:'बृहदारण्यकोपनिषद्',     tradition:'Shukla Yajurveda', total:435 },
+      { id:'shvetashvatara', name:'Shvetashvatara Upanishad', skt:'श्वेताश्वतरोपनिषद्',    tradition:'Krishna Yajurveda',total:113 },
+      { id:'kaushitaki',     name:'Kaushitaki Upanishad',     skt:'कौषीतकिोपनिषद्',        tradition:'Rigveda',          total:96 },
+    ];
+
+    const TOTAL = UPANISHADS.reduce((s, u) => s + u.total, 0);
+
+    // Overall progress
+    const totalRead = getTotalRead();
+    document.getElementById('overall-bar').style.width = (totalRead / TOTAL * 100) + '%';
+    document.getElementById('overall-label').textContent = `${totalRead} / ${TOTAL}`;
+
+    // Resume banner
+    const last = getLastVerse();
+    if (last) {
+      const banner = document.getElementById('resume-banner');
+      banner.style.display = 'flex';
+      const u = UPANISHADS.find(x => x.id === last.uid);
+      banner.querySelector('span').textContent = `📖 Resume — ${u ? u.name : last.uid}, Verse ${last.vn}`;
+      document.getElementById('resume-link').href = `verse.html?u=${last.uid}&v=${last.vn}`;
+    }
+
+    // Grid
+    const grid = document.getElementById('upanishads-grid');
+    UPANISHADS.forEach(u => {
+      const read = getUpanishadProgress(u.id, u.total);
+      const pct = Math.round(read / u.total * 100);
+      const card = document.createElement('a');
+      card.href = `upanishad.html?u=${u.id}`;
+      card.className = 'chapter-card';
+      card.innerHTML = `
+        <div class="chapter-num">${u.tradition}</div>
+        <h3>${u.name}</h3>
+        <div class="sanskrit-name">${u.skt}</div>
+        <div class="ch-progress">
+          <div class="ch-progress-bar"><div class="ch-progress-fill" style="width:${pct}%"></div></div>
+          <span>${read}/${u.total}</span>
+        </div>`;
+      grid.appendChild(card);
+    });
+
+    // Daily verse
+    const { uid, vn } = getDailyVerseRef(UPANISHADS);
+    fetchUpanishad(uid).then(data => {
+      const v = data.verses.find(x => x.verse_number === vn) || data.verses[0];
+      document.getElementById('daily-sanskrit').textContent = v.sanskrit.split('\n')[0];
+      document.getElementById('daily-translation').textContent = v.english_translation;
+      document.getElementById('daily-link').href = `verse.html?u=${uid}&v=${v.verse_number}`;
+    }).catch(() => {
+      document.getElementById('daily-sanskrit').textContent = 'Data not yet loaded.';
+    });
+
+    // Search
+    async function doSearch() {
+      const q = document.getElementById('search-input').value.trim().toLowerCase();
+      const container = document.getElementById('search-results');
+      if (!q) { container.innerHTML = ''; return; }
+      container.innerHTML = '<p style="color:var(--text-muted);padding:0.5rem 0">Searching…</p>';
+      const results = [];
+      for (const u of UPANISHADS) {
+        try {
+          const data = await fetchUpanishad(u.id);
+          for (const v of data.verses) {
+            if ((v.english_translation||'').toLowerCase().includes(q) ||
+                (v.sanskrit||'').includes(q) ||
+                (v.tags||[]).some(t => t.toLowerCase().includes(q))) {
+              results.push({ ...v, upanishad_name: u.name });
+              if (results.length >= 20) break;
+            }
+          }
+        } catch {}
+        if (results.length >= 20) break;
+      }
+      if (!results.length) { container.innerHTML = '<p style="color:var(--text-muted);padding:0.5rem 0">No results found.</p>'; return; }
+      container.innerHTML = results.map(v => `
+        <a href="verse.html?u=${v.upanishad}&v=${v.verse_number}" class="shloka-item" style="margin-bottom:0.5rem;display:flex">
+          <span class="shloka-num">${v.upanishad_name} ${v.verse_number}</span>
+          <span class="shloka-preview">${v.english_translation}</span>
+        </a>`).join('');
+    }
+    document.getElementById('search-btn').addEventListener('click', doSearch);
+    document.getElementById('search-input').addEventListener('keydown', e => { if (e.key === 'Enter') doSearch(); });
+    document.getElementById('search-input').addEventListener('input', e => { if (!e.target.value.trim()) document.getElementById('search-results').innerHTML = ''; });
+  </script>
+  <script>if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js");</script>
+</body>
+</html>

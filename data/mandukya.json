@@ -1,0 +1,76 @@
+{
+  "id": "mandukya",
+  "name": "Mandukya Upanishad",
+  "name_sanskrit": "माण्डूक्योपनिषद्",
+  "tradition": "Atharvaveda",
+  "summary": "The shortest yet most profound Upanishad. Its 12 verses expound the nature of AUM (Om) and the four states of consciousness — waking (jagrat), dreaming (svapna), deep sleep (sushupti), and turiya (the fourth, pure awareness). It declares: Ayam Atma Brahma — This Self is Brahman.",
+  "total_verses": 12,
+  "verses": [
+    {
+      "upanishad": "mandukya", "verse_number": 1,
+      "tags": ["AUM", "Brahman", "Atman", "consciousness"],
+      "sanskrit": "ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानम् |\nभूतं भवद्भविष्यदिति सर्वमोंकार एव |\nयच्चान्यत् त्रिकालातीतं तदप्योंकार एव ||१||",
+      "transliteration": "om ity etad akṣaram idaṃ sarvaṃ tasyopavyākhyānam |\nbhūtaṃ bhavad bhaviṣyad iti sarvam oṃkāra eva |\nyac cānyat trikālātītaṃ tad apy oṃkāra eva ||1||",
+      "word_meanings": [
+        {"word": "ओम् इति एतत् अक्षरम्", "meaning": "this syllable Om"},
+        {"word": "इदम् सर्वम्", "meaning": "all this (universe)"},
+        {"word": "तस्य उपव्याख्यानम्", "meaning": "its explanation/elaboration"},
+        {"word": "भूतम् भवत् भविष्यत्", "meaning": "past, present, future"},
+        {"word": "त्रिकालातीतम्", "meaning": "beyond the three times"},
+        {"word": "ओंकार एव", "meaning": "is Om alone"}
+      ],
+      "english_translation": "Om — this syllable is all this. Its further explanation: all that is past, present, and future — all of it is indeed Om. And whatever is beyond the three times — that too is Om alone.",
+      "shankara_bhashya_sanskrit": "ओमित्येतत् — प्रणवः सर्वस्य वाचकः। भूतं भवत् भविष्यत् — त्रिकालविषयं सर्वं नामरूपात्मकं जगत् ओंकार एव। त्रिकालातीतं तुरीयम् अपि ओंकार एव — प्रणवस्य सर्वात्मकत्वात्।",
+      "shankara_bhashya_english": "Shankara explains: Om is the indicator of all. All that exists in the three times — past, present, future — all the world of name and form is Om alone. Even the Turiya (fourth state) beyond the three times is Om alone, because Om is the Self of all."
+    },
+    {
+      "upanishad": "mandukya", "verse_number": 2,
+      "tags": ["Atman", "Brahman", "identity"],
+      "sanskrit": "सर्वं ह्येतद् ब्रह्मायमात्मा ब्रह्म सोऽयमात्मा चतुष्पात् ||२||",
+      "transliteration": "sarvaṃ hy etad brahmāyam ātmā brahma so'yam ātmā catuṣpāt ||2||",
+      "word_meanings": [
+        {"word": "सर्वम् एतत् ब्रह्म", "meaning": "all this is Brahman"},
+        {"word": "अयम् आत्मा ब्रह्म", "meaning": "this Self is Brahman"},
+        {"word": "चतुष्पात्", "meaning": "having four quarters/feet"}
+      ],
+      "english_translation": "All this is indeed Brahman. This Self is Brahman. This same Self has four quarters.",
+      "shankara_bhashya_sanskrit": "सर्वम् एतत् ब्रह्म — जगत् ब्रह्मैव। अयम् आत्मा ब्रह्म — प्रत्यगात्मा परब्रह्मैव। चतुष्पात् — जाग्रत्स्वप्नसुषुप्तितुरीयाख्याश्चत्वारः पादाः।",
+      "shankara_bhashya_english": "Shankara: All this universe is Brahman alone. This inner Self is the supreme Brahman. The four quarters are the four states: waking (jagrat), dreaming (svapna), deep sleep (sushupti), and the fourth (turiya)."
+    },
+    {
+      "upanishad": "mandukya", "verse_number": 7,
+      "tags": ["turiya", "fourth state", "pure consciousness"],
+      "sanskrit": "नान्तःप्रज्ञं न बहिष्प्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम् |\nअदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते स आत्मा स विज्ञेयः ||७||",
+      "transliteration": "nāntaḥprajñaṃ na bahiṣprajñaṃ nobhayataḥprajñaṃ na prajñānaghanaṃ na prajñaṃ nāprajñam | adṛṣṭam avyavahāryam agrāhyam alakṣaṇam acintyam avyapadeśyam ekātmapratyayasāraṃ prapañcopaśamaṃ śāntaṃ śivam advaitaṃ caturthaṃ manyante sa ātmā sa vijñeyaḥ ||7||",
+      "word_meanings": [
+        {"word": "नान्तःप्रज्ञम्", "meaning": "not inward-knowing (not dreaming)"},
+        {"word": "न बहिष्प्रज्ञम्", "meaning": "not outward-knowing (not waking)"},
+        {"word": "अदृष्टम्", "meaning": "unseen"},
+        {"word": "अचिन्त्यम्", "meaning": "unthinkable"},
+        {"word": "अद्वैतम्", "meaning": "non-dual"},
+        {"word": "चतुर्थम्", "meaning": "the fourth"},
+        {"word": "स आत्मा", "meaning": "that is the Self"}
+      ],
+      "english_translation": "The fourth is not inward-knowing, not outward-knowing, not both-ways-knowing, not a mass of knowing, not knowing, not non-knowing. It is unseen, beyond transaction, beyond grasp, without marks, unthinkable, unnameable, the essence of the one-Self-conviction, the cessation of the world-appearance, peaceful, auspicious, non-dual. That is the Self. That is to be known.",
+      "shankara_bhashya_sanskrit": "तुरीयम् — जाग्रत्स्वप्नसुषुप्तिव्यतिरिक्तम् — न अन्तःप्रज्ञम् न बहिःप्रज्ञम् — सर्वविशेषरहितम् शुद्धचैतन्यमात्रम्। अद्वैतम् — द्वितीयरहितम्। स आत्मा — स एव परमात्मा।",
+      "shankara_bhashya_english": "Shankara: The Turiya (fourth) is distinct from waking, dreaming, and deep sleep. It is not inward-knowing (dreaming), not outward-knowing (waking) — it is pure consciousness devoid of all distinctions. Non-dual — without a second. That is the Self, the supreme Atman, to be known through direct experience."
+    },
+    {
+      "upanishad": "mandukya", "verse_number": 12,
+      "tags": ["AUM", "four quarters", "Brahman", "liberation"],
+      "sanskrit": "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत एवमोंकारः आत्मैव संविशत्यात्मनाऽऽत्मानम् य एवं वेद ||१२||",
+      "transliteration": "amātraś caturtho'vyavahāryaḥ prapañcopaśamaḥ śivo'dvaita evam oṃkāraḥ ātmaiva saṃviśaty ātmanā'tmānaṃ ya evaṃ veda ||12||",
+      "word_meanings": [
+        {"word": "अमात्रः", "meaning": "without measure/syllable"},
+        {"word": "चतुर्थः", "meaning": "the fourth"},
+        {"word": "प्रपञ्चोपशमः", "meaning": "cessation of phenomenal world"},
+        {"word": "शिवः अद्वैतः", "meaning": "auspicious, non-dual"},
+        {"word": "आत्मैव संविशति", "meaning": "the Self enters the Self"},
+        {"word": "य एवं वेद", "meaning": "one who knows thus"}
+      ],
+      "english_translation": "The fourth is without measure, beyond transaction, the cessation of the phenomenal world, auspicious, non-dual. Thus Om is the Self. One who knows thus enters the Self by the Self.",
+      "shankara_bhashya_sanskrit": "अमात्रः — मात्रारहितः तुरीयः। एवम् ओंकारः आत्मैव — प्रणवः परमात्मैव। य एवं वेद — यः एवं साक्षात्करोति — स आत्मना आत्मानं संविशति — ब्रह्मैव भवति।",
+      "shankara_bhashya_english": "Shankara: The fourth quarter is without measure — beyond the three matras (A, U, M). Thus Om is the Self itself. One who knows this directly — who realizes this — enters the Self by the Self, meaning they become Brahman itself. This is the culmination of the Upanishad's teaching."
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="manifest" href="manifest.json">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Verse — Upanishads</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Noto+Sans+Devanagari:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="reading-progress"></div>
+  <header>
+    <a href="index.html" class="site-title">🕉 Upanishads</a>
+    <div class="header-controls">
+      <div class="font-slider-wrap" title="Font size">
+        <span class="font-slider-label" id="font-label">100%</span>
+        <input type="range" id="font-slider" min="80" max="160" step="5" value="100" class="font-slider">
+      </div>
+      <button id="theme-toggle" class="btn-icon">🌙</button>
+    </div>
+  </header>
+  <nav class="breadcrumb">
+    <a href="index.html">Home</a><span>›</span>
+    <a id="bc-upanishad" href="#">Upanishad</a><span>›</span>
+    <span id="bc-verse">Verse</span>
+  </nav>
+  <main id="verse-main">
+    <div style="color:var(--text-muted)">Loading…</div>
+  </main>
+
+  <script type="module">
+    import { initTheme, initFontScale, initControls, initReadingProgress, fetchUpanishad } from './js/main.js';
+    import { isBookmarked, toggleBookmark, getNote, saveNote, isRead, markRead, unmarkRead, setLastVerse } from './js/storage.js';
+
+    initTheme(); initFontScale(); initControls(); initReadingProgress();
+
+    const params = new URLSearchParams(location.search);
+    const uid = params.get('u') || 'isha';
+    const vn = parseInt(params.get('v')) || 1;
+
+    const sections = { sanskrit:true, transliteration:true, anvaya:true, translation:true, bhashya:true, bhashya_en:true };
+    const labels = { sanskrit:'Sanskrit', transliteration:'Transliteration', anvaya:'Anvaya', translation:'Translation', bhashya:'Bhashya (Skt)', bhashya_en:'Bhashya (Eng)' };
+
+    fetchUpanishad(uid).then(data => {
+      const verse = data.verses.find(v => v.verse_number === vn);
+      if (!verse) { document.getElementById('verse-main').innerHTML = '<p>Verse not found in loaded data.</p>'; return; }
+
+      document.title = `${data.name}, Verse ${vn} — Upanishads`;
+      document.getElementById('bc-upanishad').href = `upanishad.html?u=${uid}`;
+      document.getElementById('bc-upanishad').textContent = data.name;
+      document.getElementById('bc-verse').textContent = `Verse ${vn}`;
+      setLastVerse(uid, vn);
+
+      const allVn = data.verses.map(v => v.verse_number).sort((a,b)=>a-b);
+      const idx = allVn.indexOf(vn);
+      const prevVn = idx > 0 ? allVn[idx-1] : null;
+      const nextVn = idx < allVn.length-1 ? allVn[idx+1] : null;
+
+      const wordMeanings = (verse.word_meanings||[]).map(w =>
+        `<div class="word-item"><div class="word">${w.word}</div><div class="meaning">${w.meaning}</div></div>`
+      ).join('');
+
+      const tags = (verse.tags||[]).map(t => `<span class="tag">${t}</span>`).join('');
+      const bookmarked = isBookmarked(uid, vn);
+      const read = isRead(uid, vn);
+      const note = getNote(uid, vn);
+
+      document.getElementById('verse-main').innerHTML = `
+        <div class="shloka-page-header">
+          <h1>${data.name}, Verse ${vn}</h1>
+          <div class="shloka-actions">
+            <button id="btn-bookmark" class="btn-icon">${bookmarked ? '🔖' : '☆'}</button>
+            <button id="btn-read" class="btn-icon${read ? ' btn-read-active' : ''}">${read ? '✅ Read' : '○ Mark read'}</button>
+          </div>
+        </div>
+        <div class="tags-row">${tags}</div>
+        <div class="section-toggles">
+          <span style="font-size:0.78rem;color:var(--text-muted);margin-right:0.3rem">Show:</span>
+          ${Object.keys(sections).map(k => `<button class="toggle-btn active" data-section="${k}">${labels[k]}</button>`).join('')}
+        </div>
+        <div class="shloka-section" id="sec-sanskrit">
+          <div class="section-header" data-toggle="sanskrit">Sanskrit <span>▾</span></div>
+          <div class="section-body"><div class="sanskrit-text">${verse.sanskrit.replace(/\n/g,'<br>')}</div></div>
+        </div>
+        <div class="shloka-section" id="sec-transliteration">
+          <div class="section-header" data-toggle="transliteration">Transliteration <span>▾</span></div>
+          <div class="section-body"><div class="transliteration-text">${verse.transliteration.replace(/\n/g,'<br>')}</div></div>
+        </div>
+        <div class="shloka-section" id="sec-anvaya">
+          <div class="section-header" data-toggle="anvaya">Word by Word (Anvaya) <span>▾</span></div>
+          <div class="section-body"><div class="word-meanings-grid">${wordMeanings}</div></div>
+        </div>
+        <div class="shloka-section" id="sec-translation">
+          <div class="section-header" data-toggle="translation">English Translation <span>▾</span></div>
+          <div class="section-body"><div class="translation-text">${verse.english_translation}</div></div>
+        </div>
+        <div class="shloka-section" id="sec-bhashya">
+          <div class="section-header" data-toggle="bhashya">Shankara Bhashya (Sanskrit) <span>▾</span></div>
+          <div class="section-body"><div class="sanskrit-text shankara-text">${verse.shankara_bhashya_sanskrit}</div></div>
+        </div>
+        <div class="shloka-section" id="sec-bhashya_en">
+          <div class="section-header" data-toggle="bhashya_en">Shankara Bhashya (English) <span>▾</span></div>
+          <div class="section-body"><div class="translation-text shankara-text">${verse.shankara_bhashya_english}</div></div>
+        </div>
+        <div class="shloka-section">
+          <div class="section-header">My Notes</div>
+          <div class="section-body">
+            <textarea id="notes-area" class="notes-textarea" placeholder="Write your reflections…">${note}</textarea>
+            <div style="display:flex;align-items:center;gap:0.5rem;margin-top:0.5rem">
+              <button id="save-note" class="notes-save-btn">Save Note</button>
+              <span id="note-saved" class="notes-saved" style="display:none">✓ Saved</span>
+            </div>
+          </div>
+        </div>
+        <div class="shloka-nav">
+          ${prevVn ? `<a href="verse.html?u=${uid}&v=${prevVn}" class="nav-btn">← Verse ${prevVn}</a>` : `<a href="upanishad.html?u=${uid}" class="nav-btn">← Overview</a>`}
+          <a href="upanishad.html?u=${uid}" class="nav-btn" style="font-size:0.85rem">${data.name}</a>
+          ${nextVn ? `<a href="verse.html?u=${uid}&v=${nextVn}" class="nav-btn">Verse ${nextVn} →</a>` : `<a href="index.html" class="nav-btn">Home →</a>`}
+        </div>`;
+
+      document.getElementById('btn-bookmark').addEventListener('click', function() {
+        const added = toggleBookmark(uid, vn, verse.sanskrit.split('\n')[0]);
+        this.textContent = added ? '🔖' : '☆';
+      });
+
+      let readState = read;
+      document.getElementById('btn-read').addEventListener('click', function() {
+        readState = !readState;
+        if (readState) markRead(uid, vn); else unmarkRead(uid, vn);
+        this.textContent = readState ? '✅ Read' : '○ Mark read';
+        this.classList.toggle('btn-read-active', readState);
+      });
+
+      document.getElementById('save-note').addEventListener('click', () => {
+        saveNote(uid, vn, document.getElementById('notes-area').value);
+        const s = document.getElementById('note-saved');
+        s.style.display = 'inline';
+        setTimeout(() => s.style.display = 'none', 2000);
+      });
+
+      document.querySelectorAll('.toggle-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+          const key = this.dataset.section;
+          sections[key] = !sections[key];
+          this.classList.toggle('active', sections[key]);
+          const sec = document.getElementById(`sec-${key}`);
+          if (sec) sec.style.display = sections[key] ? '' : 'none';
+        });
+      });
+
+      document.querySelectorAll('.section-header[data-toggle]').forEach(hdr => {
+        hdr.addEventListener('click', function() {
+          const body = this.nextElementSibling;
+          const open = body.style.display !== 'none';
+          body.style.display = open ? 'none' : '';
+          this.querySelector('span').textContent = open ? '▸' : '▾';
+        });
+      });
+    }).catch(err => {
+      document.getElementById('verse-main').innerHTML = `<p style="color:var(--text-muted)">Could not load verse. ${err.message}</p>`;
+    });
+  </script>
+  <script>if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js");</script>
+</body>
+</html>

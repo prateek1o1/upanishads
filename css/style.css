@@ -1,0 +1,535 @@
+/* ── Tokens ─────────────────────────────────────────────── */
+:root {
+  /* Aged-paper book palette — quiet, ink on parchment */
+  --bg:           #F5F0E8;   /* parchment */
+  --bg-card:      #FAF7F2;   /* slightly lighter */
+  --bg-subtle:    #EDE7DA;   /* section tints */
+  --border:       #D8CFBF;
+  --saffron:      #8B5E3C;   /* muted warm brown — used sparingly */
+  --saffron-light:#A67550;
+  --text-primary: #1A1208;   /* deep ink */
+  --text-body:    #2E2010;   /* body reading text */
+  --text-muted:   #6E5C48;
+  --shadow:       rgba(60,40,15,0.07);
+  --font-scale:   1;
+}
+
+[data-theme="dark"] {
+  --bg:           #1A1510;   /* dark sepia */
+  --bg-card:      #201A12;
+  --bg-subtle:    #28200F;
+  --border:       #38301F;
+  --saffron:      #C4956A;   /* warm tan — readable, not glowing */
+  --saffron-light:#D4A87A;
+  --text-primary: #EDE5D5;
+  --text-body:    #D5C9B5;
+  --text-muted:   #8A7A62;
+  --shadow:       rgba(0,0,0,0.30);
+}
+
+/* ── Reset ───────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Crimson Text', Georgia, serif;
+  background: var(--bg);
+  color: var(--text-body);
+  font-size: calc(17px * var(--font-scale));
+  line-height: 1.75;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* ── Reading progress bar ────────────────────────────────── */
+#reading-progress {
+  position: fixed; top: 0; left: 0;
+  height: 3px; width: 0%;
+  background: var(--saffron);
+  z-index: 1000;
+  transition: width 0.15s;
+}
+
+/* ── Header ──────────────────────────────────────────────── */
+header {
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+  padding: 0.65rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky; top: 0; z-index: 100;
+  box-shadow: 0 1px 6px var(--shadow);
+}
+
+.site-title {
+  font-size: 1.15rem;
+  color: var(--saffron);
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: 0.01em;
+}
+
+.header-controls { display: flex; gap: 0.4rem; align-items: center; }
+
+.btn-icon {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.3rem 0.6rem;
+  cursor: pointer;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-family: inherit;
+  transition: all 0.15s;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+.btn-icon:hover { border-color: var(--saffron); color: var(--saffron); background: var(--bg-subtle); }
+.btn-read-active { border-color: var(--saffron) !important; color: var(--saffron) !important; }
+
+/* ── Breadcrumb ──────────────────────────────────────────── */
+.breadcrumb {
+  padding: 0.5rem 1.5rem;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  background: var(--bg-subtle);
+  border-bottom: 1px solid var(--border);
+}
+.breadcrumb a { color: var(--saffron); text-decoration: none; }
+.breadcrumb a:hover { text-decoration: underline; }
+.breadcrumb span { margin: 0 0.35rem; }
+
+/* ── Main container ──────────────────────────────────────── */
+main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+/* ── Page title ──────────────────────────────────────────── */
+.page-title { text-align: center; margin-bottom: 2rem; }
+.page-title h1 { font-size: 2rem; color: var(--text-primary); margin-bottom: 0.25rem; }
+.page-title .subtitle { font-size: 1.05rem; color: var(--text-muted); font-style: italic; }
+
+/* ── Progress bar (inline) ───────────────────────────────── */
+.progress-bar-wrap {
+  flex: 1;
+  background: var(--bg-subtle);
+  border-radius: 4px;
+  height: 7px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+.progress-bar-fill {
+  height: 100%;
+  background: var(--saffron);
+  border-radius: 4px;
+  transition: width 0.4s;
+}
+.progress-label { font-size: 0.82rem; color: var(--text-muted); white-space: nowrap; }
+
+/* ── Daily shloka ────────────────────────────────────────── */
+.daily-shloka {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--saffron);
+  border-radius: 8px;
+  padding: 1.4rem 1.6rem;
+  margin-bottom: 1.75rem;
+  box-shadow: 0 2px 8px var(--shadow);
+}
+.daily-shloka h2 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-muted);
+  margin-bottom: 0.9rem;
+}
+.daily-shloka .sanskrit-text { font-size: 1.15rem; margin-bottom: 0.5rem; }
+.daily-shloka .translation { color: var(--text-muted); font-style: italic; font-size: 0.95rem; }
+.daily-shloka a { display: inline-block; margin-top: 0.7rem; color: var(--saffron); font-size: 0.88rem; text-decoration: none; }
+.daily-shloka a:hover { text-decoration: underline; }
+
+/* ── Overall progress strip ──────────────────────────────── */
+.overall-progress {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.9rem 1.4rem;
+  margin-bottom: 1.75rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* ── Chapter grid ────────────────────────────────────────── */
+.chapters-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 0.9rem;
+}
+.chapter-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.1rem 1.2rem;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+  box-shadow: 0 1px 4px var(--shadow);
+}
+.chapter-card:hover {
+  border-color: var(--saffron);
+  box-shadow: 0 3px 10px var(--shadow);
+  transform: translateY(-1px);
+}
+.chapter-card .chapter-num {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.25rem;
+}
+.chapter-card h3 { font-size: 1rem; color: var(--text-primary); margin-bottom: 0.15rem; }
+.chapter-card .sanskrit-name {
+  font-family: 'Noto Sans Devanagari', serif;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  margin-bottom: 0.6rem;
+}
+.chapter-card .ch-progress { font-size: 0.78rem; color: var(--text-muted); display: flex; align-items: center; gap: 0.5rem; }
+.ch-progress-bar { flex: 1; height: 4px; background: var(--bg-subtle); border-radius: 2px; overflow: hidden; }
+.ch-progress-fill { height: 100%; background: var(--saffron-light); border-radius: 2px; }
+
+/* ── Chapter page ────────────────────────────────────────── */
+.chapter-header { margin-bottom: 1.75rem; padding-bottom: 1rem; border-bottom: 1px solid var(--border); }
+.chapter-header h1 { font-size: 1.7rem; color: var(--text-primary); }
+.chapter-header .sanskrit-title {
+  font-family: 'Noto Sans Devanagari', serif;
+  font-size: 1.1rem;
+  color: var(--text-muted);
+  margin: 0.25rem 0;
+}
+.chapter-header p { color: var(--text-body); font-style: italic; }
+
+.shloka-list { display: flex; flex-direction: column; gap: 0.6rem; }
+.shloka-item {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  padding: 0.85rem 1.1rem;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.shloka-item:hover { border-color: var(--saffron); box-shadow: 0 2px 8px var(--shadow); }
+.shloka-item.read { border-left: 3px solid var(--saffron); }
+.shloka-num { font-size: 1rem; font-weight: 600; color: var(--text-muted); min-width: 2rem; }
+.shloka-preview {
+  flex: 1;
+  font-family: 'Noto Sans Devanagari', serif;
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.shloka-badges { display: flex; gap: 0.3rem; flex-wrap: wrap; }
+.badge {
+  font-size: 0.68rem;
+  padding: 0.12rem 0.45rem;
+  border-radius: 20px;
+  background: var(--bg-subtle);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+.badge.bookmarked { background: var(--bg-subtle); color: var(--text-muted); border-color: var(--border); }
+[data-theme="dark"] .badge.bookmarked { background: var(--bg-subtle); color: var(--text-muted); border-color: var(--border); }
+
+/* ── Shloka page ─────────────────────────────────────────── */
+.shloka-page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.shloka-page-header h1 { font-size: 1.3rem; color: var(--text-primary); }
+.shloka-actions { display: flex; gap: 0.4rem; }
+
+/* Section toggles */
+.section-toggles {
+  display: flex;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.4rem;
+  padding: 0.65rem 0.9rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 7px;
+}
+.toggle-btn {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.65rem;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: var(--bg-subtle);
+  color: var(--text-muted);
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 0.15s;
+}
+.toggle-btn.active { background: var(--saffron); color: #fff; border-color: var(--saffron); }
+
+/* Shloka sections — paper card feel */
+.shloka-section {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  overflow: hidden;
+  box-shadow: 0 1px 4px var(--shadow);
+}
+.section-header {
+  padding: 0.6rem 1.2rem;
+  background: var(--bg-subtle);
+  border-bottom: 1px solid var(--border);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  user-select: none;
+  transition: background 0.15s;
+}
+.section-header:hover { background: var(--border); }
+.section-body { padding: 1.2rem 1.4rem; }
+
+/* Text styles */
+.sanskrit-text {
+  font-family: 'Noto Sans Devanagari', serif;
+  font-size: calc(1.15rem * var(--font-scale));
+  line-height: 2;
+  color: var(--text-primary);
+}
+.transliteration-text {
+  font-style: italic;
+  color: var(--text-muted);
+  font-size: calc(1rem * var(--font-scale));
+  line-height: 1.85;
+}
+.translation-text {
+  font-size: calc(1.05rem * var(--font-scale));
+  color: var(--text-body);
+  line-height: 1.8;
+}
+
+/* Word meanings */
+.word-meanings-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 0.45rem;
+}
+.word-item {
+  padding: 0.4rem 0.65rem;
+  background: var(--bg-subtle);
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+.word-item .word {
+  font-family: 'Noto Sans Devanagari', serif;
+  font-size: 0.95rem;
+  color: var(--text-primary);
+  font-weight: 600;
+}
+.word-item .meaning { font-size: 0.82rem; color: var(--text-muted); }
+
+/* Tags */
+.tags-row { display: flex; gap: 0.35rem; flex-wrap: wrap; margin-bottom: 1rem; }
+.tag {
+  font-size: 0.72rem;
+  padding: 0.18rem 0.55rem;
+  border-radius: 20px;
+  background: var(--bg-subtle);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  text-transform: capitalize;
+}
+
+/* Notes */
+.notes-textarea {
+  width: 100%;
+  min-height: 110px;
+  padding: 0.7rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--text-body);
+  font-family: 'Crimson Text', Georgia, serif;
+  font-size: calc(1rem * var(--font-scale));
+  resize: vertical;
+  transition: border-color 0.15s;
+  line-height: 1.7;
+}
+.notes-textarea:focus { outline: none; border-color: var(--saffron); }
+.notes-save-btn {
+  margin-top: 0.5rem;
+  padding: 0.38rem 1rem;
+  background: var(--saffron);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.9rem;
+  transition: opacity 0.15s;
+}
+.notes-save-btn:hover { opacity: 0.85; }
+.notes-saved { color: var(--saffron); font-size: 0.82rem; margin-left: 0.5rem; }
+
+/* Navigation */
+.shloka-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.nav-btn {
+  padding: 0.45rem 1.1rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.88rem;
+  font-family: inherit;
+  transition: all 0.15s;
+  cursor: pointer;
+}
+.nav-btn:hover { border-color: var(--saffron); color: var(--saffron); }
+
+/* Font size slider */
+.font-slider-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0 0.3rem;
+}
+.font-slider-label {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  min-width: 2.8rem;
+  text-align: right;
+  font-family: inherit;
+}
+.font-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 80px;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--border);
+  outline: none;
+  cursor: pointer;
+}
+.font-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  background: var(--saffron);
+  cursor: pointer;
+  transition: transform 0.15s;
+}
+.font-slider::-webkit-slider-thumb:hover { transform: scale(1.2); }
+.font-slider::-moz-range-thumb {
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  background: var(--saffron);
+  border: none;
+  cursor: pointer;
+}
+
+/* Search */
+.search-bar { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; }
+.search-input {
+  flex: 1;
+  padding: 0.55rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg-card);
+  color: var(--text-body);
+  font-family: 'Crimson Text', Georgia, serif;
+  font-size: 1rem;
+  transition: border-color 0.15s;
+}
+.search-input:focus { outline: none; border-color: var(--saffron); }
+
+/* Bookmarks */
+.bookmarks-list { display: flex; flex-direction: column; gap: 0.7rem; }
+.bookmark-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s;
+}
+.bookmark-card:hover { border-color: var(--saffron); }
+.bookmark-card .ref { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 0.35rem; }
+
+/* Progress page */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0.9rem;
+  margin-bottom: 2rem;
+}
+.stat-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.1rem;
+  text-align: center;
+  box-shadow: 0 1px 4px var(--shadow);
+}
+.stat-card .stat-value { font-size: 1.9rem; font-weight: 700; color: var(--text-primary); }
+.stat-card .stat-label { font-size: 0.82rem; color: var(--text-muted); margin-top: 0.2rem; }
+
+.chapter-progress-list { display: flex; flex-direction: column; gap: 0.65rem; }
+.ch-progress-item {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  padding: 0.85rem 1.2rem;
+}
+.ch-progress-item .ch-name {
+  font-size: 0.92rem;
+  color: var(--text-body);
+  margin-bottom: 0.4rem;
+  display: flex;
+  justify-content: space-between;
+}
+.ch-progress-item .ch-name span { color: var(--text-muted); font-size: 0.82rem; }
+
+/* Responsive */
+@media (max-width: 600px) {
+  main { padding: 1rem; }
+  header { padding: 0.55rem 1rem; }
+  .chapters-grid { grid-template-columns: 1fr 1fr; }
+  .word-meanings-grid { grid-template-columns: 1fr 1fr; }
+  .shloka-page-header { flex-direction: column; align-items: flex-start; }
+  .stats-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 380px) {
+  .chapters-grid { grid-template-columns: 1fr; }
+}
