@@ -817,140 +817,329 @@
       "verse_number": 26,
       "tags": [
         "prana",
-        "Brahman"
+        "origin",
+        "Self",
+        "Atman"
       ],
-      "sanskrit": "[Verse 26 — full text coming soon]",
-      "transliteration": "[Verse 26 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 26 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "आत्मन एष प्राणो जायते | यथैषा पुरुषे छायैतस्मिन्नेतदाततं मनोकृतेनायात्यस्मिञ्शरीरे ||३.३||",
+      "transliteration": "ātmana eṣa prāṇo jāyate | yathaiṣā puruṣe chāyaitasminn etad ātatam manokṛtenāyāty asmiñ śarīre ||3.3||",
+      "word_meanings": [
+        {
+          "word": "आत्मनः प्राणः जायते",
+          "meaning": "prana is born from the Self"
+        },
+        {
+          "word": "यथा छाया",
+          "meaning": "like a shadow"
+        },
+        {
+          "word": "मनोकृतेन",
+          "meaning": "by the action of the mind"
+        },
+        {
+          "word": "अस्मिन् शरीरे आयाति",
+          "meaning": "comes into this body"
+        }
+      ],
+      "english_translation": "Prana is born from the Self. As a shadow is cast by a person, so prana is spread in this body. It comes here by the action of the mind.",
+      "shankara_bhashya_sanskrit": "आत्मनः — परमात्मनः — प्राणः जायते। यथा छाया — पुरुषस्य छाया — तथा प्राणः आत्मनः।",
+      "shankara_bhashya_english": "Shankara: Prana arises from the Self (Atman) just as a shadow arises from a person. The shadow is not separate from the person; similarly, prana is not separate from the Self. Prana enters the body through the action of the mind — through the karmic impressions that draw the soul into a new birth."
     },
     {
       "upanishad": "prashna",
       "verse_number": 27,
       "tags": [
         "prana",
-        "Brahman"
+        "five pranas",
+        "functions",
+        "body"
       ],
-      "sanskrit": "[Verse 27 — full text coming soon]",
-      "transliteration": "[Verse 27 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 27 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यथा राजानमायान्तं महामात्राः पुरस्कृत्य | एवमेवैनं प्राणमायान्तमन्ये प्राणाः पुरस्कृत्य ||३.४||",
+      "transliteration": "yathā rājānam āyāntaṃ mahāmātrāḥ puraskṛtya | evam evainaṃ prāṇam āyāntam anye prāṇāḥ puraskṛtya ||3.4||",
+      "word_meanings": [
+        {
+          "word": "राजानम् आयान्तम्",
+          "meaning": "a king who is coming"
+        },
+        {
+          "word": "महामात्राः पुरस्कृत्य",
+          "meaning": "ministers going ahead"
+        },
+        {
+          "word": "प्राणम् आयान्तम्",
+          "meaning": "the chief prana coming"
+        },
+        {
+          "word": "अन्ये प्राणाः पुरस्कृत्य",
+          "meaning": "other pranas going ahead"
+        }
+      ],
+      "english_translation": "As ministers go ahead to receive a king who is coming, so the other pranas go ahead to receive the chief prana when it comes.",
+      "shankara_bhashya_sanskrit": "राजा — मुख्यप्राणः। महामात्राः — अन्ये प्राणाः। राजानम् इव — मुख्यप्राणम् — पुरस्कृत्य — सेवन्ते।",
+      "shankara_bhashya_english": "Shankara: The chief prana is like a king; the other pranas are like ministers who serve him. When the chief prana enters the body, all other pranas follow and serve it. This shows the supremacy of the chief prana over all other vital forces."
     },
     {
       "upanishad": "prashna",
       "verse_number": 28,
       "tags": [
         "prana",
-        "Brahman"
+        "fire",
+        "sun",
+        "rain",
+        "food",
+        "creation"
       ],
-      "sanskrit": "[Verse 28 — full text coming soon]",
-      "transliteration": "[Verse 28 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 28 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एष ह्येवाग्निस्तपति | एष सूर्यः | एष पर्जन्यः | एष वायुः | एष पृथिवी | एष रयिः | एष देवः | एष असत् | एष सत् ||२.५||",
+      "transliteration": "eṣa hy evāgnis tapati | eṣa sūryaḥ | eṣa parjanyaḥ | eṣa vāyuḥ | eṣa pṛthivī | eṣa rayiḥ | eṣa devaḥ | eṣa asat | eṣa sat ||2.5||",
+      "word_meanings": [
+        {
+          "word": "एषः अग्निः तपति",
+          "meaning": "this one burns as fire"
+        },
+        {
+          "word": "एषः सूर्यः",
+          "meaning": "this one is the sun"
+        },
+        {
+          "word": "एषः पर्जन्यः",
+          "meaning": "this one is rain"
+        },
+        {
+          "word": "एषः सत् एषः असत्",
+          "meaning": "this one is being and non-being"
+        }
+      ],
+      "english_translation": "This one burns as fire; this one is the sun; this one is rain; this one is wind; this one is earth; this one is matter; this one is God; this one is being and non-being.",
+      "shankara_bhashya_sanskrit": "एषः — मुख्यप्राणः — अग्निः — सूर्यः — पर्जन्यः — सर्वम् एव।",
+      "shankara_bhashya_english": "Shankara: The chief prana is identified with all cosmic forces — fire, sun, rain, wind, earth, and ultimately with being and non-being. Prana is Brahman manifesting as all these forces. This is the cosmic dimension of prana."
     },
     {
       "upanishad": "prashna",
       "verse_number": 29,
       "tags": [
-        "prana",
-        "Brahman"
+        "fourth question",
+        "Gargya",
+        "dream",
+        "waking",
+        "sleep"
       ],
-      "sanskrit": "[Verse 29 — full text coming soon]",
-      "transliteration": "[Verse 29 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 29 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अथ सौर्यायणी गार्ग्यः पप्रच्छ | भगवन् एतस्मिन् पुरुषे कानि स्वपन्ति | कान्येतस्मिञ्जाग्रति | कतर एष देवः स्वप्नान् पश्यति | कस्यैतत्सुखं भवति | कस्मिन्नु सर्वे सम्प्रतिष्ठिता भवन्तीति ||४.१||",
+      "transliteration": "atha sauryāyaṇī gārgyaḥ papraccha | bhagavan etasmin puruṣe kāni svapanti | kāny etasmiñ jāgrati | katara eṣa devaḥ svapnān paśyati | kasyaitat sukhaṃ bhavati | kasmin nu sarve sampratiṣṭhitā bhavantīti ||4.1||",
+      "word_meanings": [
+        {
+          "word": "कानि स्वपन्ति",
+          "meaning": "which ones sleep"
+        },
+        {
+          "word": "कानि जाग्रति",
+          "meaning": "which ones are awake"
+        },
+        {
+          "word": "स्वप्नान् पश्यति",
+          "meaning": "sees dreams"
+        },
+        {
+          "word": "कस्य सुखम्",
+          "meaning": "whose is the bliss"
+        },
+        {
+          "word": "सर्वे सम्प्रतिष्ठिताः",
+          "meaning": "all are established"
+        }
+      ],
+      "english_translation": "Then Sauryayani Gargya asked: 'O Blessed One, in this person, which ones sleep? Which ones are awake? Which god sees dreams? Whose is this bliss? In whom are all established?'",
+      "shankara_bhashya_sanskrit": "चतुर्थः प्रश्नः — स्वप्नजागरणसुषुप्तिविषयः।",
+      "shankara_bhashya_english": "Shankara: The fourth question asks about the three states of consciousness — waking, dreaming, and deep sleep. Who sleeps? Who is awake? Who dreams? Whose is the bliss of deep sleep? In whom are all these states established? Pippalada will answer that the Self is the ground of all three states."
     },
     {
       "upanishad": "prashna",
       "verse_number": 30,
       "tags": [
+        "dream",
+        "waking",
         "prana",
-        "Brahman"
+        "senses",
+        "sleep"
       ],
-      "sanskrit": "[Verse 30 — full text coming soon]",
-      "transliteration": "[Verse 30 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 30 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "गार्ग्य एतस्मिन् पुरुषे सर्वाणीन्द्रियाणि स्वपन्ति | प्राण एव जागर्ति | एष वैश्वानरः | एष प्राणः ||४.२||",
+      "transliteration": "gārgya etasmin puruṣe sarvāṇīndriyāṇi svapanti | prāṇa eva jāgarti | eṣa vaiśvānaraḥ | eṣa prāṇaḥ ||4.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि इन्द्रियाणि स्वपन्ति",
+          "meaning": "all the senses sleep"
+        },
+        {
+          "word": "प्राणः एव जागर्ति",
+          "meaning": "prana alone is awake"
+        },
+        {
+          "word": "वैश्वानरः",
+          "meaning": "the universal fire/consciousness"
+        }
+      ],
+      "english_translation": "O Gargya, in this person all the senses sleep. Prana alone is awake. This is Vaishvanara. This is prana.",
+      "shankara_bhashya_sanskrit": "सर्वाणि इन्द्रियाणि — स्वपन्ति — सुषुप्तौ। प्राणः एव जागर्ति — मुख्यप्राणः — सदा जागर्ति।",
+      "shankara_bhashya_english": "Shankara: In deep sleep, all the senses withdraw and 'sleep.' But the chief prana remains awake — it continues to sustain the body even in deep sleep. This is why we wake up alive. Prana is the Vaishvanara — the universal consciousness that never sleeps."
     },
     {
       "upanishad": "prashna",
       "verse_number": 31,
       "tags": [
-        "prana",
-        "Brahman"
+        "fifth question",
+        "Satyakama",
+        "Om",
+        "Brahman",
+        "meditation"
       ],
-      "sanskrit": "[Verse 31 — full text coming soon]",
-      "transliteration": "[Verse 31 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 31 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अथ सत्यकामो जाबालिः पप्रच्छ | स यो ह वाव भगवन् मनुष्येषु प्रायणान्तमोंकारमभिध्यायीत | कतमं वाव स तेन लोकं जयतीति ||५.१||",
+      "transliteration": "atha satyakāmo jābāliḥ papraccha | sa yo ha vāva bhagavan manuṣyeṣu prāyaṇāntam oṃkāram abhidhyāyīta | katamaṃ vāva sa tena lokaṃ jayatīti ||5.1||",
+      "word_meanings": [
+        {
+          "word": "प्रायणान्तम् ओंकारम् अभिध्यायीत",
+          "meaning": "meditates on Om until death"
+        },
+        {
+          "word": "कतमम् लोकम् जयति",
+          "meaning": "which world does he win"
+        }
+      ],
+      "english_translation": "Then Satyakama Jabali asked: 'O Blessed One, if a person among humans meditates on Om until death, which world does he win by that?'",
+      "shankara_bhashya_sanskrit": "पञ्चमः प्रश्नः — ओंकारोपासनाफलम् — किम्।",
+      "shankara_bhashya_english": "Shankara: The fifth question asks about the fruit of meditating on Om until death. Pippalada will answer that meditation on one matra (A) leads to the human world; on two matras (AU) to the lunar world; on all three matras (AUM) to Brahmaloka; and on the fourth (silence) to Brahman itself."
     },
     {
       "upanishad": "prashna",
       "verse_number": 32,
       "tags": [
-        "prana",
-        "Brahman"
+        "Om",
+        "one matra",
+        "human world",
+        "Rigveda"
       ],
-      "sanskrit": "[Verse 32 — full text coming soon]",
-      "transliteration": "[Verse 32 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 32 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्वै सत्यकाम परं चापरं च ब्रह्म यदोंकारः | तस्माद्विद्वानेतेनैवायतनेनैकतरमन्वेति ||५.२||",
+      "transliteration": "etad vai satyakāma paraṃ cāparaṃ ca brahma yad oṃkāraḥ | tasmād vidvān etenaivāyatanenaika taram anveti ||5.2||",
+      "word_meanings": [
+        {
+          "word": "परम् च अपरम् च ब्रह्म",
+          "meaning": "both the higher and lower Brahman"
+        },
+        {
+          "word": "यत् ओंकारः",
+          "meaning": "which is Om"
+        },
+        {
+          "word": "विद्वान् एतेन आयतनेन",
+          "meaning": "the wise one by this support"
+        },
+        {
+          "word": "एकतरम् अन्वेति",
+          "meaning": "reaches one or the other"
+        }
+      ],
+      "english_translation": "O Satyakama, Om is indeed both the higher and lower Brahman. Therefore the wise one, using this very support, reaches one or the other.",
+      "shankara_bhashya_sanskrit": "ओंकारः — परम् ब्रह्म — अपरम् ब्रह्म च। एतेन — ओंकारेण — विद्वान् — परम् वा अपरम् वा — प्राप्नोति।",
+      "shankara_bhashya_english": "Shankara: Om is both the higher Brahman (nirguna, without qualities) and the lower Brahman (saguna, with qualities). Depending on the depth of meditation, the meditator reaches either the lower Brahman (Brahmaloka) or the higher Brahman (liberation). Om is the bridge between the two."
     },
     {
       "upanishad": "prashna",
       "verse_number": 33,
       "tags": [
-        "prana",
-        "Brahman"
+        "sixth question",
+        "Sukesa",
+        "sixteen parts",
+        "Purusha"
       ],
-      "sanskrit": "[Verse 33 — full text coming soon]",
-      "transliteration": "[Verse 33 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 33 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अथ सुकेशा भारद्वाजः पप्रच्छ | भगवन् हिरण्यनाभः कौसल्यो राजपुत्रो मामुपेत्य एतं प्रश्नमपृच्छत | षोडशकलं भारद्वाज पुरुषं वेत्थेति ||६.१||",
+      "transliteration": "atha sukeśā bhāradvājaḥ papraccha | bhagavan hiraṇyanābhaḥ kausaliyo rājaputro mām upetya etaṃ praśnam apṛcchata | ṣoḍaśakalaṃ bhāradvāja puruṣaṃ vettheti ||6.1||",
+      "word_meanings": [
+        {
+          "word": "हिरण्यनाभः कौसल्यः",
+          "meaning": "Hiranyabha of Kosala"
+        },
+        {
+          "word": "षोडशकलम् पुरुषम्",
+          "meaning": "the Person of sixteen parts"
+        },
+        {
+          "word": "वेत्थ",
+          "meaning": "do you know"
+        }
+      ],
+      "english_translation": "Then Sukesa Bharadvaja asked: 'O Blessed One, Hiranyabha of Kosala, a prince, came to me and asked: Do you know the Person of sixteen parts, O Bharadvaja?'",
+      "shankara_bhashya_sanskrit": "षष्ठः प्रश्नः — षोडशकलः पुरुषः — कः।",
+      "shankara_bhashya_english": "Shankara: The sixth and final question asks about the Person of sixteen parts. Pippalada will explain that the sixteen parts are prana and the fifteen aspects of the manifest world. When all sixteen parts merge back into the Self, liberation is attained."
     },
     {
       "upanishad": "prashna",
       "verse_number": 34,
       "tags": [
+        "sixteen parts",
+        "Purusha",
         "prana",
-        "Brahman"
+        "liberation",
+        "rivers"
       ],
-      "sanskrit": "[Verse 34 — full text coming soon]",
-      "transliteration": "[Verse 34 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 34 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्मिन्नुदिते सर्वे कलाः पञ्चदश प्रतिष्ठन्ते | तदा वाक् सर्वैर्नामभिः सह प्राणे प्रतिष्ठते ||६.५||",
+      "transliteration": "tasminn udite sarve kalāḥ pañcadaśa pratiṣṭhante | tadā vāk sarvair nāmabhiḥ saha prāṇe pratiṣṭhate ||6.5||",
+      "word_meanings": [
+        {
+          "word": "तस्मिन् उदिते",
+          "meaning": "when that (sun/Self) rises"
+        },
+        {
+          "word": "सर्वे कलाः पञ्चदश",
+          "meaning": "all fifteen parts"
+        },
+        {
+          "word": "प्रतिष्ठन्ते",
+          "meaning": "are established"
+        },
+        {
+          "word": "वाक् सर्वैः नामभिः",
+          "meaning": "speech with all names"
+        },
+        {
+          "word": "प्राणे प्रतिष्ठते",
+          "meaning": "is established in prana"
+        }
+      ],
+      "english_translation": "When that (Self) rises, all fifteen parts are established in it. Then speech with all names is established in prana.",
+      "shankara_bhashya_sanskrit": "तस्मिन् उदिते — आत्मनि — सर्वे कलाः — पञ्चदश — प्रतिष्ठन्ते। वाक् — प्राणे — प्रतिष्ठते।",
+      "shankara_bhashya_english": "Shankara: When the Self (like the sun) rises in the heart of the meditator, all fifteen parts (the manifest world) are established in it. Speech merges into prana, prana into the Self. This is the process of dissolution — all parts returning to their source."
     },
     {
       "upanishad": "prashna",
       "verse_number": 35,
       "tags": [
-        "prana",
-        "Brahman"
+        "rivers",
+        "ocean",
+        "liberation",
+        "Self",
+        "sixteen parts"
       ],
-      "sanskrit": "[Verse 35 — full text coming soon]",
-      "transliteration": "[Verse 35 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 35 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यथा नद्यः स्यन्दमानाः समुद्रेऽस्तं गच्छन्ति नामरूपे विहाय | तथा विद्वान् नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् ||६.५||",
+      "transliteration": "yathā nadyaḥ syandamānāḥ samudre'staṃ gacchanti nāmarūpe vihāya | tathā vidvān nāmarūpād vimuktaḥ parātparaṃ puruṣam upaiti divyam ||6.5||",
+      "word_meanings": [
+        {
+          "word": "नद्यः समुद्रे अस्तम् गच्छन्ति",
+          "meaning": "rivers merge into the ocean"
+        },
+        {
+          "word": "नामरूपे विहाय",
+          "meaning": "leaving behind name and form"
+        },
+        {
+          "word": "परात्परम् पुरुषम्",
+          "meaning": "the Person beyond the beyond"
+        },
+        {
+          "word": "दिव्यम् उपैति",
+          "meaning": "attains the divine"
+        }
+      ],
+      "english_translation": "As rivers flowing merge into the ocean, leaving behind name and form — so the wise one, freed from name and form, attains the divine Person who is beyond the beyond.",
+      "shankara_bhashya_sanskrit": "नद्यः — समुद्रे लीयन्ते — नामरूपे विहाय। तथा विद्वान् — नामरूपात् विमुक्तः — परात्परम् पुरुषम् उपैति।",
+      "shankara_bhashya_english": "Shankara: Just as rivers lose their individual names and forms when they merge into the ocean, the wise one loses individual identity when merging into Brahman. This is liberation — the dissolution of the separate self into the infinite. The Prashna Upanishad concludes with this beautiful image."
     },
     {
       "upanishad": "prashna",

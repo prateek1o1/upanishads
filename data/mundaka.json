@@ -774,98 +774,250 @@
       "verse_number": 23,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Atman",
+        "known",
+        "liberation",
+        "knot"
       ],
-      "sanskrit": "[Verse 23 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 23 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 23 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः | क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे ||२.२.८||",
+      "transliteration": "bhidyate hṛdayagranthiś chidyante sarvasaṃśayāḥ | kṣīyante cāsya karmāṇi tasmin dṛṣṭe parāvare ||2.2.8||",
+      "word_meanings": [
+        {
+          "word": "हृदयग्रन्थिः भिद्यते",
+          "meaning": "the knot of the heart is cut"
+        },
+        {
+          "word": "सर्वसंशयाः छिद्यन्ते",
+          "meaning": "all doubts are severed"
+        },
+        {
+          "word": "कर्माणि क्षीयन्ते",
+          "meaning": "all karmas are destroyed"
+        },
+        {
+          "word": "परावरे दृष्टे",
+          "meaning": "when the higher and lower are seen"
+        }
+      ],
+      "english_translation": "The knot of the heart is cut, all doubts are severed, and all one's karmas are destroyed when the higher and lower are seen.",
+      "shankara_bhashya_sanskrit": "हृदयग्रन्थिः — अविद्याकामकर्मरूपः — भिद्यते। सर्वसंशयाः — छिद्यन्ते। कर्माणि — क्षीयन्ते।",
+      "shankara_bhashya_english": "Shankara: The 'knot of the heart' is the knot of ignorance, desire, and karma. When Brahman is directly realized, this knot is cut, all doubts vanish, and all karmas are destroyed. This is liberation."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 24,
       "tags": [
         "Brahman",
-        "knowledge"
+        "fire",
+        "light",
+        "all pervading",
+        "heart"
       ],
-      "sanskrit": "[Verse 24 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 24 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 24 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "हिरण्मये परे कोशे विरजं ब्रह्म निष्कलम् | तच्छुभ्रं ज्योतिषां ज्योतिस्तद्यदात्मविदो विदुः ||२.२.९||",
+      "transliteration": "hiraṇmaye pare kośe virajaṃ brahma niṣkalam | tac chubhraṃ jyotiṣāṃ jyotis tad yad ātmavido viduḥ ||2.2.9||",
+      "word_meanings": [
+        {
+          "word": "हिरण्मये परे कोशे",
+          "meaning": "in the golden supreme sheath"
+        },
+        {
+          "word": "विरजम् ब्रह्म निष्कलम्",
+          "meaning": "Brahman, stainless, without parts"
+        },
+        {
+          "word": "शुभ्रम् ज्योतिषाम् ज्योतिः",
+          "meaning": "the pure light of lights"
+        },
+        {
+          "word": "आत्मविदः विदुः",
+          "meaning": "knowers of the Self know"
+        }
+      ],
+      "english_translation": "In the golden supreme sheath is Brahman, stainless, without parts. That is the pure light of lights — that which the knowers of the Self know.",
+      "shankara_bhashya_sanskrit": "हिरण्मये कोशे — आनन्दमयकोशे — विरजम् ब्रह्म — निष्कलम् — निरवयवम्। ज्योतिषाम् ज्योतिः — सर्वप्रकाशकम्।",
+      "shankara_bhashya_english": "Shankara: Within the golden sheath (the anandamaya kosha) is Brahman — stainless, without parts, the pure light of all lights. The knowers of the Self know this Brahman directly. It is the innermost reality, beyond all sheaths."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 25,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "satyam",
+        "jnanam"
       ],
-      "sanskrit": "[Verse 25 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 25 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 25 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न चक्षुषा गृह्यते नापि वाचा नान्यैर्देवैस्तपसा कर्मणा वा | ज्ञानप्रसादेन विशुद्धसत्त्वस्ततस्तु तं पश्यते निष्कलं ध्यायमानः ||३.१.८||",
+      "transliteration": "na cakṣuṣā gṛhyate nāpi vācā nānyair devais tapasā karmaṇā vā | jñānaprasādena viśuddhasattvas tatas tu taṃ paśyate niṣkalaṃ dhyāyamānaḥ ||3.1.8||",
+      "word_meanings": [
+        {
+          "word": "न चक्षुषा गृह्यते",
+          "meaning": "not grasped by the eye"
+        },
+        {
+          "word": "न वाचा",
+          "meaning": "not by speech"
+        },
+        {
+          "word": "न तपसा कर्मणा",
+          "meaning": "not by austerity or action"
+        },
+        {
+          "word": "ज्ञानप्रसादेन",
+          "meaning": "by the grace of knowledge"
+        },
+        {
+          "word": "विशुद्धसत्त्वः",
+          "meaning": "one of purified being"
+        },
+        {
+          "word": "निष्कलम् पश्यते",
+          "meaning": "sees the partless one"
+        }
+      ],
+      "english_translation": "It is not grasped by the eye, nor by speech, nor by the other senses, nor by austerity or action. By the grace of knowledge, one of purified being, meditating, sees the partless one.",
+      "shankara_bhashya_sanskrit": "न चक्षुषा — इन्द्रियैः न गृह्यते। न तपसा — कर्मणा — न प्राप्यते। ज्ञानप्रसादेन — ब्रह्मज्ञानेन — विशुद्धसत्त्वः — पश्यते।",
+      "shankara_bhashya_english": "Shankara: Brahman cannot be grasped by any sense organ, nor attained by austerity or action alone. Only by the grace of knowledge — by the purification of the mind through discrimination and meditation — does one see the partless Brahman directly."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 26,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 26 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 26 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 26 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एष आत्मा सर्वभूतेषु गूढोऽत्मा न प्रकाशते | दृश्यते त्वग्र्यया बुद्ध्या सूक्ष्मया सूक्ष्मदर्शिभिः ||३.१.८||",
+      "transliteration": "eṣa ātmā sarvabhūteṣu gūḍho'tmā na prakāśate | dṛśyate tv agryayā buddhyā sūkṣmayā sūkṣmadarśibhiḥ ||3.1.8||",
+      "word_meanings": [
+        {
+          "word": "सर्वभूतेषु गूढः",
+          "meaning": "hidden in all beings"
+        },
+        {
+          "word": "न प्रकाशते",
+          "meaning": "does not shine forth"
+        },
+        {
+          "word": "अग्र्यया बुद्ध्या",
+          "meaning": "by the sharp intellect"
+        },
+        {
+          "word": "सूक्ष्मदर्शिभिः",
+          "meaning": "by those who see the subtle"
+        }
+      ],
+      "english_translation": "This Self, hidden in all beings, does not shine forth. But it is seen by those who see the subtle, through a sharp and subtle intellect.",
+      "shankara_bhashya_sanskrit": "सर्वभूतेषु गूढः — सर्वेषु प्राणिषु अन्तर्हितः। न प्रकाशते — सामान्यजनाय न दृश्यते। अग्र्यया बुद्ध्या — तीक्ष्णया बुद्ध्या — दृश्यते।",
+      "shankara_bhashya_english": "Shankara: The Self is hidden in all beings but does not reveal itself to ordinary perception. It is seen only by those with a sharp, subtle intellect — those who have purified their minds through discrimination and meditation."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 27,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 27 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 27 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 27 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यस्मिन् द्यौः पृथिवी चान्तरिक्षमोतं मनः सह प्राणैश्च सर्वैः | तमेवैकं जानथ आत्मानमन्या वाचो विमुञ्चथामृतस्यैष सेतुः ||२.२.५||",
+      "transliteration": "yasmin dyauḥ pṛthivī cāntarikṣam otaṃ manaḥ saha prāṇaiś ca sarvaiḥ | tam evaikaṃ jānatha ātmānam anyā vāco vimuñcathāmṛtasyaiṣa setuḥ ||2.2.5||",
+      "word_meanings": [
+        {
+          "word": "यस्मिन् द्यौः पृथिवी",
+          "meaning": "in which heaven and earth"
+        },
+        {
+          "word": "अन्तरिक्षम् ओतम्",
+          "meaning": "and the atmosphere are woven"
+        },
+        {
+          "word": "मनः सह प्राणैः",
+          "meaning": "mind together with all pranas"
+        },
+        {
+          "word": "तम् एकम् जानथ आत्मानम्",
+          "meaning": "know that one as the Self"
+        },
+        {
+          "word": "अमृतस्य सेतुः",
+          "meaning": "the bridge to immortality"
+        }
+      ],
+      "english_translation": "In which heaven, earth, and the atmosphere are woven, along with mind and all the pranas — know that one alone as the Self. Leave aside other words. This is the bridge to immortality.",
+      "shankara_bhashya_sanskrit": "यस्मिन् — ब्रह्मणि — द्यौः पृथिवी — ओतम् — प्रोतम्। तम् एकम् — आत्मानम् — जानथ। अमृतस्य सेतुः — मोक्षमार्गः।",
+      "shankara_bhashya_english": "Shankara: In Brahman, heaven, earth, atmosphere, mind, and all pranas are woven together. Know that one Brahman as the Self. Leave aside all other words and teachings — this knowledge alone is the bridge to immortality."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 28,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 28 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 28 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 28 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणश्चक्षुः श्रोत्रं खानि वाक् मनश्च | ते प्रक्षीणे काले सम्प्रयान्ति | तान् यथाक्रमं प्रतिष्ठापयन्ति ||२.२.७||",
+      "transliteration": "prāṇaś cakṣuḥ śrotraṃ khāni vāk manaś ca | te prakṣīṇe kāle samprayānti | tān yathākramaṃ pratiṣṭhāpayanti ||2.2.7||",
+      "word_meanings": [
+        {
+          "word": "प्राणः चक्षुः श्रोत्रम्",
+          "meaning": "prana, eye, ear"
+        },
+        {
+          "word": "खानि वाक् मनः",
+          "meaning": "the openings, speech, mind"
+        },
+        {
+          "word": "प्रक्षीणे काले",
+          "meaning": "when the time is exhausted"
+        },
+        {
+          "word": "सम्प्रयान्ति",
+          "meaning": "they all depart together"
+        }
+      ],
+      "english_translation": "Prana, eye, ear, the openings, speech, and mind — when the time is exhausted, they all depart together.",
+      "shankara_bhashya_sanskrit": "प्राणः — चक्षुः — श्रोत्रम् — वाक् — मनः — प्रक्षीणे काले — सम्प्रयान्ति — मृत्युकाले।",
+      "shankara_bhashya_english": "Shankara: At the time of death, all the vital forces — prana, sight, hearing, speech, and mind — depart together. They return to their cosmic sources. The Self alone remains, witnessing the departure of all these instruments."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 29,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 29 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 29 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 29 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वेदैतत्परमं ब्रह्म धाम | यत्र विश्वं निहितं भाति शुभ्रम् | उपासते पुरुषं ये ह्यकामास्ते शुक्रमेतदतिवर्तन्ति धीराः ||३.२.१||",
+      "transliteration": "sa vedaitat paramaṃ brahma dhāma | yatra viśvaṃ nihitaṃ bhāti śubhram | upāsate puruṣaṃ ye hy akāmās te śukram etad ativartanti dhīrāḥ ||3.2.1||",
+      "word_meanings": [
+        {
+          "word": "परमम् ब्रह्म धाम",
+          "meaning": "the supreme abode of Brahman"
+        },
+        {
+          "word": "यत्र विश्वम् निहितम्",
+          "meaning": "in which the universe is established"
+        },
+        {
+          "word": "अकामाः",
+          "meaning": "free from desire"
+        },
+        {
+          "word": "शुक्रम् अतिवर्तन्ति",
+          "meaning": "go beyond the bright one"
+        }
+      ],
+      "english_translation": "He knows this supreme abode of Brahman, in which the universe is established and shines pure. The wise who are free from desire worship the Person — they go beyond this bright one.",
+      "shankara_bhashya_sanskrit": "परमम् ब्रह्म धाम — ब्रह्मणः उत्तमम् स्थानम्। अकामाः — इच्छारहिताः — धीराः — शुक्रम् अतिवर्तन्ति।",
+      "shankara_bhashya_english": "Shankara: The supreme abode of Brahman is where the entire universe is established and shines pure. The wise who are free from desire go beyond even the bright Brahmaloka — they attain the highest Brahman, beyond all worlds."
     },
     {
       "upanishad": "mundaka",
