@@ -772,154 +772,350 @@
       "verse_number": 25,
       "tags": [
         "Brahman",
-        "knowledge"
+        "thunder",
+        "flash",
+        "recognition"
       ],
-      "sanskrit": "[Verse 25 — full text coming soon]",
-      "transliteration": "[Verse 25 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 25 of the Kena Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अथाध्यात्मं यदेतद्गच्छतीव च मनोऽनेन चैतदुपस्मरत्यभीक्ष्णं संकल्पः ||४.५||",
+      "transliteration": "athādhyātmaṃ yad etad gacchati iva ca mano'nena caitad upasmarary abhīkṣṇaṃ saṃkalpaḥ ||4.5||",
+      "word_meanings": [
+        {
+          "word": "अध्यात्मम्",
+          "meaning": "with reference to the Self"
+        },
+        {
+          "word": "मनः गच्छति इव",
+          "meaning": "the mind seems to go toward it"
+        },
+        {
+          "word": "संकल्पः",
+          "meaning": "intention, will"
+        }
+      ],
+      "english_translation": "Now with reference to the Self: it is that toward which the mind seems to go, and by which the mind repeatedly remembers — that is intention.",
+      "shankara_bhashya_sanskrit": "अध्यात्मम् — आत्मविषये — मनः गच्छति इव — मनः ब्रह्म प्रति गच्छतीव।",
+      "shankara_bhashya_english": "Shankara: With reference to the individual Self, Brahman is that toward which the mind seems to move but cannot actually reach. It is the ground of all mental activity including intention and memory."
     },
     {
       "upanishad": "kena",
       "verse_number": 26,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "immortality",
+        "Self"
       ],
-      "sanskrit": "[Verse 26 — full text coming soon]",
-      "transliteration": "[Verse 26 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 26 of the Kena Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इह चेदवेदीदथ सत्यमस्ति न चेदिहावेदीन्महती विनष्टिः |\nभूतेषु भूतेषु विचित्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति ||२.५||",
+      "transliteration": "iha ced avedidam atha satyam asti na ced ihāvedīn mahatī vinaṣṭiḥ |\nbhūteṣu bhūteṣu vicitya dhīrāḥ pretyāsmāl lokād amṛtā bhavanti ||2.5||",
+      "word_meanings": [
+        {
+          "word": "इह चेत् अवेदीत्",
+          "meaning": "if one knows here"
+        },
+        {
+          "word": "सत्यम् अस्ति",
+          "meaning": "there is truth"
+        },
+        {
+          "word": "न चेत् इह अवेदीत्",
+          "meaning": "if one does not know here"
+        },
+        {
+          "word": "महती विनष्टिः",
+          "meaning": "great destruction"
+        },
+        {
+          "word": "भूतेषु विचित्य",
+          "meaning": "having discerned in all beings"
+        }
+      ],
+      "english_translation": "If one knows here, there is truth. If one does not know here, great is the destruction. The wise, having discerned the Self in all beings, departing from this world, become immortal.",
+      "shankara_bhashya_sanskrit": "इह — अस्मिन् जन्मनि — चेत् अवेदीत् — ब्रह्म जानाति — सत्यम् अस्ति — मोक्षः अस्ति। न चेत् — महती विनष्टिः — पुनर्जन्म।",
+      "shankara_bhashya_english": "Shankara: If one knows Brahman in this very life, there is truth — liberation is attained. If not, there is great loss — one continues in the cycle of rebirth. The wise who discern the Self in all beings become immortal after departing this world."
     },
     {
       "upanishad": "kena",
       "verse_number": 27,
       "tags": [
         "Brahman",
-        "knowledge"
+        "self-knowledge",
+        "austerity",
+        "student"
       ],
-      "sanskrit": "[Verse 27 — full text coming soon]",
-      "transliteration": "[Verse 27 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 27 of the Kena Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा इतीन्न्यमीमिषदा इत्यधिदैवतम् ||४.४||",
+      "transliteration": "tasyaiṣa ādeśo yad etad vidyuto vyadyutad ā itīn nyamīmiṣad ā ity adhidaivatam ||4.4||",
+      "word_meanings": [
+        {
+          "word": "विद्युतः व्यद्युतत्",
+          "meaning": "it flashed as lightning"
+        },
+        {
+          "word": "आ इति",
+          "meaning": "'Ah!' — the exclamation of recognition"
+        },
+        {
+          "word": "न्यमीमिषत्",
+          "meaning": "the eye blinked"
+        },
+        {
+          "word": "अधिदैवतम्",
+          "meaning": "with reference to the gods"
+        }
+      ],
+      "english_translation": "This is the teaching about Brahman with reference to the gods: it is that which flashed as lightning — 'Ah!' — and the eye blinked.",
+      "shankara_bhashya_sanskrit": "विद्युत् इव — क्षणमात्रम् प्रकाशते। आ इति — आश्चर्यम् — इत्यधिदैवतम्।",
+      "shankara_bhashya_english": "Shankara: Brahman flashes like lightning — perceived in a flash of intuition. The 'Ah!' is the exclamation of sudden recognition. This is the cosmic description of Brahman — it illumines everything in an instant."
     },
     {
       "upanishad": "kena",
       "verse_number": 28,
       "tags": [
         "Brahman",
-        "knowledge"
+        "mind",
+        "known",
+        "unknown"
       ],
-      "sanskrit": "[Verse 28 — full text coming soon]",
-      "transliteration": "[Verse 28 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 28 of the Kena Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यन्मनसा न मनुते येनाहुर्मनो मतम् | तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ||१.५||",
+      "transliteration": "yan manasā na manute yenāhur mano matam | tad eva brahma tvaṃ viddhi nedaṃ yad idam upāsate ||1.5||",
+      "word_meanings": [
+        {
+          "word": "मनसा न मनुते",
+          "meaning": "what the mind does not think"
+        },
+        {
+          "word": "येन मनः मतम्",
+          "meaning": "by which the mind is thought"
+        },
+        {
+          "word": "तत् एव ब्रह्म",
+          "meaning": "that alone is Brahman"
+        },
+        {
+          "word": "न इदम्",
+          "meaning": "not this"
+        },
+        {
+          "word": "यत् उपासते",
+          "meaning": "what people worship here"
+        }
+      ],
+      "english_translation": "What the mind does not think, but by which, they say, the mind is thought — know that alone as Brahman, not this which people worship here.",
+      "shankara_bhashya_sanskrit": "मनसा न मनुते — मनः यत् न जानाति। येन मनः मतम् — यत् मनसः प्रकाशकम्। तत् ब्रह्म — न इदम् — न विषयभूतम्।",
+      "shankara_bhashya_english": "Shankara: Brahman is not an object of the mind — the mind cannot think it. Rather, Brahman is that which enables the mind to think. It is the light of consciousness behind all mental activity. This is not the Brahman that people worship as an object — it is the subject itself."
     },
     {
       "upanishad": "kena",
       "verse_number": 29,
       "tags": [
         "Brahman",
-        "knowledge"
+        "eye",
+        "not seen",
+        "seer"
       ],
-      "sanskrit": "[Verse 29 — full text coming soon]",
-      "transliteration": "[Verse 29 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 29 of the Kena Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यच्चक्षुषा न पश्यति येन चक्षूंषि पश्यति | तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ||१.६||",
+      "transliteration": "yac cakṣuṣā na paśyati yena cakṣūṃṣi paśyati | tad eva brahma tvaṃ viddhi nedaṃ yad idam upāsate ||1.6||",
+      "word_meanings": [
+        {
+          "word": "चक्षुषा न पश्यति",
+          "meaning": "what the eye does not see"
+        },
+        {
+          "word": "येन चक्षूंषि पश्यति",
+          "meaning": "by which the eyes see"
+        },
+        {
+          "word": "तत् एव ब्रह्म",
+          "meaning": "that alone is Brahman"
+        }
+      ],
+      "english_translation": "What the eye does not see, but by which the eyes see — know that alone as Brahman, not this which people worship here.",
+      "shankara_bhashya_sanskrit": "चक्षुषा न पश्यति — चक्षुः यत् न पश्यति। येन चक्षूंषि पश्यन्ति — यत् चक्षुषाम् प्रकाशकम्। तत् ब्रह्म।",
+      "shankara_bhashya_english": "Shankara: The eye cannot see Brahman — for Brahman is the light by which the eye sees. It is the seer behind all seeing. This is the 'eye of the eye' teaching from verse 2 — Brahman is the ultimate subject, never an object."
     },
     {
       "upanishad": "kena",
       "verse_number": 30,
       "tags": [
         "Brahman",
-        "knowledge"
+        "ear",
+        "not heard",
+        "hearer"
       ],
-      "sanskrit": "[Verse 30 — full text coming soon]",
-      "transliteration": "[Verse 30 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 30 of the Kena Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यच्छ्रोत्रेण न शृणोति येन श्रोत्रमिदं श्रुतम् | तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ||१.७||",
+      "transliteration": "yac chrotreṇa na śṛṇoti yena śrotram idaṃ śrutam | tad eva brahma tvaṃ viddhi nedaṃ yad idam upāsate ||1.7||",
+      "word_meanings": [
+        {
+          "word": "श्रोत्रेण न शृणोति",
+          "meaning": "what the ear does not hear"
+        },
+        {
+          "word": "येन श्रोत्रम् श्रुतम्",
+          "meaning": "by which the ear is heard"
+        },
+        {
+          "word": "तत् एव ब्रह्म",
+          "meaning": "that alone is Brahman"
+        }
+      ],
+      "english_translation": "What the ear does not hear, but by which the ear is heard — know that alone as Brahman, not this which people worship here.",
+      "shankara_bhashya_sanskrit": "श्रोत्रेण न शृणोति — श्रोत्रम् यत् न शृणोति। येन श्रोत्रम् श्रुतम् — यत् श्रोत्रस्य प्रकाशकम्।",
+      "shankara_bhashya_english": "Shankara: Brahman is the 'ear of the ear' — it cannot be heard by the ear, for it is what enables hearing. The ear hears sounds; Brahman is the consciousness that enables the ear to function. It is the hearer behind all hearing."
     },
     {
       "upanishad": "kena",
       "verse_number": 31,
       "tags": [
         "Brahman",
-        "knowledge"
+        "breath",
+        "not breathed",
+        "life"
       ],
-      "sanskrit": "[Verse 31 — full text coming soon]",
-      "transliteration": "[Verse 31 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 31 of the Kena Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यत्प्राणेन न प्राणिति येन प्राणः प्रणीयते | तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ||१.८||",
+      "transliteration": "yat prāṇena na prāṇiti yena prāṇaḥ praṇīyate | tad eva brahma tvaṃ viddhi nedaṃ yad idam upāsate ||1.8||",
+      "word_meanings": [
+        {
+          "word": "प्राणेन न प्राणिति",
+          "meaning": "what does not breathe by prana"
+        },
+        {
+          "word": "येन प्राणः प्रणीयते",
+          "meaning": "by which prana is led/animated"
+        },
+        {
+          "word": "तत् एव ब्रह्म",
+          "meaning": "that alone is Brahman"
+        }
+      ],
+      "english_translation": "What does not breathe by prana, but by which prana is led — know that alone as Brahman, not this which people worship here.",
+      "shankara_bhashya_sanskrit": "प्राणेन न प्राणिति — प्राणः यत् न प्राणयति। येन प्राणः प्रणीयते — यत् प्राणस्य प्रेरकम्।",
+      "shankara_bhashya_english": "Shankara: Brahman does not breathe — it is not sustained by prana. Rather, it is what animates prana itself. Brahman is the life of life — the consciousness that enables the life-force to function. Without Brahman, prana itself would be inert."
     },
     {
       "upanishad": "kena",
       "verse_number": 32,
       "tags": [
         "Brahman",
-        "knowledge"
+        "not known",
+        "known",
+        "paradox"
       ],
-      "sanskrit": "[Verse 32 — full text coming soon]",
-      "transliteration": "[Verse 32 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 32 of the Kena Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न तत्र चक्षुर्गच्छति न वाग्गच्छति नो मनः | न विद्मो न विजानीमो यथैतदनुशिष्यात् ||१.३||",
+      "transliteration": "na tatra cakṣur gacchati na vāg gacchati no manaḥ | na vidmo na vijānīmo yathaitad anuśiṣyāt ||1.3||",
+      "word_meanings": [
+        {
+          "word": "न चक्षुः गच्छति",
+          "meaning": "the eye does not go there"
+        },
+        {
+          "word": "न वाक् गच्छति",
+          "meaning": "speech does not go there"
+        },
+        {
+          "word": "न मनः",
+          "meaning": "nor the mind"
+        },
+        {
+          "word": "न विद्मः",
+          "meaning": "we do not know"
+        },
+        {
+          "word": "यथा अनुशिष्यात्",
+          "meaning": "how one would teach it"
+        }
+      ],
+      "english_translation": "There the eye does not go, nor speech, nor the mind. We do not know, we do not understand how one would teach this.",
+      "shankara_bhashya_sanskrit": "न तत्र चक्षुः — ब्रह्म चक्षुषा न गृह्यते। न वाक् — वाचा न उच्यते। न मनः — मनसा न ज्ञायते।",
+      "shankara_bhashya_english": "Shankara: Brahman cannot be reached by the eye, speech, or mind — for it is their very ground. The teacher says 'we do not know' not from ignorance but because Brahman transcends all ordinary knowing. It is known only through direct experience."
     },
     {
       "upanishad": "kena",
       "verse_number": 33,
       "tags": [
         "Brahman",
-        "knowledge"
+        "Indra",
+        "greatest",
+        "gods"
       ],
-      "sanskrit": "[Verse 33 — full text coming soon]",
-      "transliteration": "[Verse 33 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 33 of the Kena Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एते देवा अतितरामिवान्यान्देवान् यदग्निर्वायुरिन्द्रस्ते ह्येनन्नेदिष्ठं पस्पर्शुः ||३.१३||",
+      "transliteration": "tasmād vā ete devā atitarām ivānyān devān yad agnir vāyur indras te hy enan nediṣṭhaṃ pasparśuḥ ||3.13||",
+      "word_meanings": [
+        {
+          "word": "अतितराम् इव",
+          "meaning": "exceedingly more than others"
+        },
+        {
+          "word": "नेदिष्ठम् पस्पर्शुः",
+          "meaning": "touched it most closely"
+        }
+      ],
+      "english_translation": "Therefore these gods — Agni, Vayu, and Indra — excel the other gods, for they touched Brahman most closely.",
+      "shankara_bhashya_sanskrit": "एते त्रयः देवाः — अग्निः वायुः इन्द्रः — अन्यान् देवान् अतिक्रामन्ति — यतः ते ब्रह्म नेदिष्ठम् पस्पर्शुः।",
+      "shankara_bhashya_english": "Shankara: Agni, Vayu, and Indra are superior to other gods because they came closest to Brahman — they directly encountered it. And Indra is the greatest because he was the first to truly know it as Brahman through Uma's teaching."
     },
     {
       "upanishad": "kena",
       "verse_number": 34,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "immortality",
+        "Self",
+        "here"
       ],
-      "sanskrit": "[Verse 34 — full text coming soon]",
-      "transliteration": "[Verse 34 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 34 of the Kena Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इह चेदवेदीदथ सत्यमस्ति न चेदिहावेदीन्महती विनष्टिः ||२.५||",
+      "transliteration": "iha ced avedidam atha satyam asti na ced ihāvedīn mahatī vinaṣṭiḥ ||2.5||",
+      "word_meanings": [
+        {
+          "word": "इह चेत् अवेदीत्",
+          "meaning": "if one knows here (in this life)"
+        },
+        {
+          "word": "सत्यम् अस्ति",
+          "meaning": "there is truth/reality"
+        },
+        {
+          "word": "महती विनष्टिः",
+          "meaning": "great is the loss"
+        }
+      ],
+      "english_translation": "If one knows here, there is truth. If one does not know here, great is the destruction.",
+      "shankara_bhashya_sanskrit": "इह — अस्मिन् जन्मनि — ब्रह्म जानाति — सत्यम् — मोक्षः। न जानाति — महती विनष्टिः — संसारः।",
+      "shankara_bhashya_english": "Shankara: The urgency of self-knowledge is emphasized. If one attains the knowledge of Brahman in this very life, liberation is achieved. If not, one continues in the great loss of samsara — repeated birth and death. There is no greater loss than missing this opportunity."
     },
     {
       "upanishad": "kena",
       "verse_number": 35,
       "tags": [
         "Brahman",
-        "knowledge"
+        "tapas",
+        "dama",
+        "karma",
+        "foundation",
+        "final"
       ],
-      "sanskrit": "[Verse 35 — full text coming soon]",
-      "transliteration": "[Verse 35 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 35 of the Kena Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्यै तपो दमः कर्मेति प्रतिष्ठा वेदाः सर्वाङ्गानि सत्यमायतनम् ||४.८||",
+      "transliteration": "tasyai tapo damaḥ karmeti pratiṣṭhā vedāḥ sarvāṅgāni satyam āyatanam ||4.8||",
+      "word_meanings": [
+        {
+          "word": "तपः दमः कर्म",
+          "meaning": "austerity, self-control, action"
+        },
+        {
+          "word": "प्रतिष्ठा",
+          "meaning": "foundation"
+        },
+        {
+          "word": "वेदाः सर्वाङ्गानि",
+          "meaning": "the Vedas with all their limbs"
+        },
+        {
+          "word": "सत्यम् आयतनम्",
+          "meaning": "truth is the abode"
+        }
+      ],
+      "english_translation": "Its foundation is austerity, self-control, and action. The Vedas with all their limbs are its body. Truth is its abode.",
+      "shankara_bhashya_sanskrit": "तस्यै ब्रह्मविद्यायाः — तपः दमः कर्म — प्रतिष्ठा। सत्यम् — आयतनम्।",
+      "shankara_bhashya_english": "Shankara: The foundation of Brahmavidya is austerity, self-control, and right action. The Vedas are its body. Truth is its dwelling place. Without these, the knowledge of Brahman cannot be attained or sustained. This is the concluding teaching of the Kena Upanishad."
     }
   ]
 }

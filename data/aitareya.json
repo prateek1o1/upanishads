@@ -331,141 +331,313 @@
       "upanishad": "aitareya",
       "verse_number": 11,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "creation",
+        "waters",
+        "fire",
+        "earth"
       ],
-      "sanskrit": "[Verse 11 — full text coming soon]",
-      "transliteration": "[Verse 11 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 11 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स ईक्षत इमे नु लोका लोकपालान्नु सृजा इति | सोऽद्भ्य एव पुरुषमुद्धृत्य अमूर्च्छयत् ||१.१.३||",
+      "transliteration": "sa īkṣata ime nu lokā lokapālān nu sṛjā iti | so'dbhya eva puruṣam uddhṛtya amūrcchayat ||1.1.3||",
+      "word_meanings": [
+        {
+          "word": "लोकपालान् सृजा",
+          "meaning": "let me create guardians of the worlds"
+        },
+        {
+          "word": "अद्भ्यः पुरुषम् उद्धृत्य",
+          "meaning": "drawing a person from the waters"
+        },
+        {
+          "word": "अमूर्च्छयत्",
+          "meaning": "gave it form"
+        }
+      ],
+      "english_translation": "He thought: 'These are the worlds. Let me create guardians of the worlds.' He drew a person from the waters and gave it form.",
+      "shankara_bhashya_sanskrit": "लोकपालान् — लोकानां पालकान् — सृजामि इति ईक्षत। अद्भ्यः पुरुषम् उद्धृत्य — जलात् पुरुषाकारम् उद्धृत्य — अमूर्च्छयत्।",
+      "shankara_bhashya_english": "Shankara: Having created the worlds, the Self thought to create guardians for them. It drew a cosmic person from the primordial waters and gave it form — this is the creation of the cosmic body (virat)."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 12,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "organs",
+        "deities",
+        "fire",
+        "Agni",
+        "Vayu"
       ],
-      "sanskrit": "[Verse 12 — full text coming soon]",
-      "transliteration": "[Verse 12 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 12 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "नासिके प्राणमसृजत | तस्माद्वायुः | नेत्रे चक्षुरसृजत | तस्मादादित्यः ||१.१.४||",
+      "transliteration": "nāsike prāṇam asṛjat | tasmād vāyuḥ | netre cakṣur asṛjat | tasmād ādityaḥ ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "नासिके प्राणम् असृजत",
+          "meaning": "from the nostrils he created prana"
+        },
+        {
+          "word": "तस्मात् वायुः",
+          "meaning": "from that, Vayu (wind)"
+        },
+        {
+          "word": "नेत्रे चक्षुः असृजत",
+          "meaning": "from the eyes he created sight"
+        },
+        {
+          "word": "तस्मात् आदित्यः",
+          "meaning": "from that, the Sun"
+        }
+      ],
+      "english_translation": "From the nostrils he created prana — from that, Vayu. From the eyes he created sight — from that, the Sun.",
+      "shankara_bhashya_sanskrit": "नासिकाभ्याम् प्राणः — वायुः। नेत्राभ्याम् चक्षुः — आदित्यः। प्रत्येकम् इन्द्रियात् देवता।",
+      "shankara_bhashya_english": "Shankara: Each sense organ has a corresponding cosmic deity. From the nostrils/prana came Vayu (wind); from the eyes/sight came the Sun. This shows the correspondence between the microcosm (individual body) and the macrocosm (universe)."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 13,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "hunger",
+        "food",
+        "anna",
+        "creation",
+        "body"
       ],
-      "sanskrit": "[Verse 13 — full text coming soon]",
-      "transliteration": "[Verse 13 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 13 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तमशनायापिपासे अभ्यवर्तेताम् | सोऽकामयत | अन्नं मे सृज्यतामिति ||१.२.१||",
+      "transliteration": "tam aśanāyāpipāse abhyavartetām | so'kāmayata | annaṃ me sṛjyatām iti ||1.2.1||",
+      "word_meanings": [
+        {
+          "word": "अशनाया अपिपासे",
+          "meaning": "hunger and thirst"
+        },
+        {
+          "word": "अभ्यवर्तेताम्",
+          "meaning": "approached him"
+        },
+        {
+          "word": "अन्नम् सृज्यताम्",
+          "meaning": "let food be created"
+        }
+      ],
+      "english_translation": "Hunger and thirst approached him. He desired: 'Let food be created for me.'",
+      "shankara_bhashya_sanskrit": "अशनाया — क्षुत् — अपिपासा — तृष्णा — तम् अभ्यवर्तेताम्। सः अकामयत — अन्नम् सृज्यताम्।",
+      "shankara_bhashya_english": "Shankara: The cosmic person experienced hunger and thirst — the fundamental drives of embodied existence. He desired food to be created. This describes the creation of the objective world as the food for the subjective Self."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 14,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "Self",
+        "entered body",
+        "three births",
+        "womb"
       ],
-      "sanskrit": "[Verse 14 — full text coming soon]",
-      "transliteration": "[Verse 14 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 14 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तान्येतानि कर्माणि सत्यानि | अथ खल्वेतानि कर्माणि सत्यानि | अथ खल्वेतानि कर्माणि सत्यानि ||२.१.१||",
+      "transliteration": "tāny etāni karmāṇi satyāni | atha khalv etāni karmāṇi satyāni | atha khalv etāni karmāṇi satyāni ||2.1.1||",
+      "word_meanings": [
+        {
+          "word": "एतानि कर्माणि सत्यानि",
+          "meaning": "these actions are true/real"
+        },
+        {
+          "word": "अथ खलु",
+          "meaning": "now indeed"
+        }
+      ],
+      "english_translation": "These actions are indeed real. Now indeed these actions are real. Now indeed these actions are real.",
+      "shankara_bhashya_sanskrit": "एतानि कर्माणि — सृष्टिकर्माणि — सत्यानि — वास्तवानि। त्रिवारम् उक्तम् — दृढीकरणाय।",
+      "shankara_bhashya_english": "Shankara: The acts of creation are real — not illusory. The threefold repetition emphasizes the reality of the creative process. This prepares for the teaching about the three births of the Self."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 15,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "three births",
+        "first birth",
+        "conception",
+        "Self"
       ],
-      "sanskrit": "[Verse 15 — full text coming soon]",
-      "transliteration": "[Verse 15 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 15 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "गर्भो ह वा अयमस्मिन् रेतः सिच्यते | तदेतत्सर्वाङ्गेभ्यस्तेजः समभरत् | तन्नारीमेव गच्छति ||२.१.३||",
+      "transliteration": "garbho ha vā ayam asmin retaḥ sicyate | tad etat sarvāṅgebhyas tejaḥ samabharat | tan nārīm eva gacchati ||2.1.3||",
+      "word_meanings": [
+        {
+          "word": "गर्भः",
+          "meaning": "the embryo"
+        },
+        {
+          "word": "रेतः सिच्यते",
+          "meaning": "seed is sown"
+        },
+        {
+          "word": "सर्वाङ्गेभ्यः तेजः",
+          "meaning": "vitality from all limbs"
+        },
+        {
+          "word": "नारीम् गच्छति",
+          "meaning": "goes to the woman"
+        }
+      ],
+      "english_translation": "This is the first birth: the seed is sown in him. That vitality gathered from all limbs goes to the woman.",
+      "shankara_bhashya_sanskrit": "प्रथमम् जन्म — गर्भाधानम्। रेतः — बीजम् — नारीम् गच्छति।",
+      "shankara_bhashya_english": "Shankara: The first birth is conception — when the seed (carrying the Self) is sown. The vitality gathered from all limbs of the father goes to the mother. This is the beginning of the Self's journey into a new body."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 16,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "second birth",
+        "birth from womb",
+        "Self",
+        "mother"
       ],
-      "sanskrit": "[Verse 16 — full text coming soon]",
-      "transliteration": "[Verse 16 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 16 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स जायमानो यं लोकं जायते तेन सम्भवति | स एव तस्य द्वितीयं जन्म ||२.१.४||",
+      "transliteration": "sa jāyamāno yaṃ lokaṃ jāyate tena sambhavati | sa eva tasya dvitīyaṃ janma ||2.1.4||",
+      "word_meanings": [
+        {
+          "word": "जायमानः",
+          "meaning": "being born"
+        },
+        {
+          "word": "यम् लोकम् जायते",
+          "meaning": "the world into which he is born"
+        },
+        {
+          "word": "तेन सम्भवति",
+          "meaning": "he comes into being through it"
+        },
+        {
+          "word": "द्वितीयम् जन्म",
+          "meaning": "the second birth"
+        }
+      ],
+      "english_translation": "Being born, he comes into being through the world into which he is born. That is his second birth.",
+      "shankara_bhashya_sanskrit": "द्वितीयम् जन्म — मातुः गर्भात् जन्म। यम् लोकम् जायते — यस्मिन् लोके जन्म प्राप्नोति।",
+      "shankara_bhashya_english": "Shankara: The second birth is physical birth from the mother's womb. The Self comes into the world and takes on a new identity. This is the birth that most people consider the only birth."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 17,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "third birth",
+        "death",
+        "liberation",
+        "Self"
       ],
-      "sanskrit": "[Verse 17 — full text coming soon]",
-      "transliteration": "[Verse 17 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 17 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्य प्रेतस्य यं लोकं प्रेष्यन्ति | तस्मात्सम्भवति | तत्तृतीयं जन्म ||२.१.५||",
+      "transliteration": "tasya pretasya yaṃ lokaṃ preṣyanti | tasmāt sambhavati | tat tṛtīyaṃ janma ||2.1.5||",
+      "word_meanings": [
+        {
+          "word": "प्रेतस्य",
+          "meaning": "of the departed (dead)"
+        },
+        {
+          "word": "यम् लोकम् प्रेष्यन्ति",
+          "meaning": "the world to which they send him"
+        },
+        {
+          "word": "तृतीयम् जन्म",
+          "meaning": "the third birth"
+        }
+      ],
+      "english_translation": "Of the departed, the world to which they send him — from that he comes into being. That is the third birth.",
+      "shankara_bhashya_sanskrit": "तृतीयम् जन्म — मृत्योः परम् — परलोके जन्म। प्रेतस्य — मृतस्य — यम् लोकम् प्रेष्यन्ति — तस्मात् सम्भवति।",
+      "shankara_bhashya_english": "Shankara: The third birth is after death — the rebirth in another world or another body. The Aitareya teaches that the Self undergoes three births: conception, physical birth, and rebirth after death. Liberation means transcending all three births."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 18,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "Vamadeva",
+        "womb",
+        "liberation",
+        "knowledge"
       ],
-      "sanskrit": "[Verse 18 — full text coming soon]",
-      "transliteration": "[Verse 18 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 18 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तदुक्तमृषिणा | गर्भे नु सन्नन्वेषामवेदमहं देवानां जनिमानि विश्वा | शतं मा पुर आयसीररक्षन्नधः श्येनो जवसा निरदीयम् ||२.१.५||",
+      "transliteration": "tad uktam ṛṣiṇā | garbhe nu sann anv eṣām avedam ahaṃ devānāṃ janimāni viśvā | śataṃ mā pura āyasīr arakṣann adhaḥ śyeno javasā niradīyam ||2.1.5||",
+      "word_meanings": [
+        {
+          "word": "गर्भे नु सन्",
+          "meaning": "while still in the womb"
+        },
+        {
+          "word": "अन्वेषाम् अवेदम्",
+          "meaning": "I knew all these"
+        },
+        {
+          "word": "देवानाम् जनिमानि",
+          "meaning": "the births of the gods"
+        },
+        {
+          "word": "शतम् पुराः",
+          "meaning": "a hundred iron fortresses"
+        },
+        {
+          "word": "श्येनः जवसा",
+          "meaning": "like a hawk with speed"
+        }
+      ],
+      "english_translation": "This was said by the seer: 'While still in the womb, I knew all the births of the gods. A hundred iron fortresses held me; then like a hawk with speed I flew down.'",
+      "shankara_bhashya_sanskrit": "वामदेवः — गर्भे एव — ज्ञानम् प्राप्तवान्। शतम् पुराः — शरीरम् — आयसीः — दृढाः। श्येनः इव — निरदीयम् — मुक्तः अभवत्।",
+      "shankara_bhashya_english": "Shankara: The sage Vamadeva attained knowledge even in the womb. The 'hundred iron fortresses' represent the body and its limitations. Like a hawk breaking free, he attained liberation. This shows that knowledge of the Self can be attained at any stage of life."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 19,
       "tags": [
         "consciousness",
-        "Brahman"
+        "all beings",
+        "Brahman",
+        "prajnanam"
       ],
-      "sanskrit": "[Verse 19 — full text coming soon]",
-      "transliteration": "[Verse 19 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 19 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्रज्ञेनैव पश्यति प्रज्ञेन शृणोति | प्रज्ञेन गन्धान् जिघ्रति प्रज्ञेन वाचं वदति ||३.१.२||",
+      "transliteration": "prajñenaiva paśyati prajñena śṛṇoti | prajñena gandhān jighrati prajñena vācaṃ vadati ||3.1.2||",
+      "word_meanings": [
+        {
+          "word": "प्रज्ञेन पश्यति",
+          "meaning": "by consciousness one sees"
+        },
+        {
+          "word": "प्रज्ञेन शृणोति",
+          "meaning": "by consciousness one hears"
+        },
+        {
+          "word": "प्रज्ञेन जिघ्रति",
+          "meaning": "by consciousness one smells"
+        },
+        {
+          "word": "प्रज्ञेन वदति",
+          "meaning": "by consciousness one speaks"
+        }
+      ],
+      "english_translation": "By consciousness alone one sees, by consciousness one hears, by consciousness one smells fragrances, by consciousness one speaks.",
+      "shankara_bhashya_sanskrit": "प्रज्ञेन — चैतन्येन — सर्वाणि इन्द्रियाणि प्रवर्तन्ते। चैतन्यम् एव सर्वस्य प्रवर्तकम्।",
+      "shankara_bhashya_english": "Shankara: All the senses function by consciousness alone. Consciousness is the activator of everything. Without consciousness, no sense organ can function. This leads to the conclusion: consciousness (prajna) is Brahman."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 20,
       "tags": [
         "consciousness",
-        "Brahman"
+        "heart",
+        "Brahman",
+        "all worlds"
       ],
-      "sanskrit": "[Verse 20 — full text coming soon]",
-      "transliteration": "[Verse 20 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 20 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "हृदयं वा इदं ब्रह्म | एतद्ब्रह्म | एतत्सर्वम् ||३.१.३||",
+      "transliteration": "hṛdayaṃ vā idaṃ brahma | etad brahma | etat sarvam ||3.1.3||",
+      "word_meanings": [
+        {
+          "word": "हृदयम् इदम् ब्रह्म",
+          "meaning": "this heart is Brahman"
+        },
+        {
+          "word": "एतत् ब्रह्म",
+          "meaning": "this is Brahman"
+        },
+        {
+          "word": "एतत् सर्वम्",
+          "meaning": "this is all"
+        }
+      ],
+      "english_translation": "This heart is indeed Brahman. This is Brahman. This is all.",
+      "shankara_bhashya_sanskrit": "हृदयम् — चित्तम् — ब्रह्म। एतत् सर्वम् — सर्वम् ब्रह्मैव।",
+      "shankara_bhashya_english": "Shankara: The heart (hridaya) — the seat of consciousness — is Brahman. This is Brahman. This is all. The Aitareya concludes with the simplest and most direct statement: everything is Brahman, and Brahman is consciousness."
     },
     {
       "upanishad": "aitareya",
