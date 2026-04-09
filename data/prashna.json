@@ -494,141 +494,323 @@
       "upanishad": "prashna",
       "verse_number": 16,
       "tags": [
-        "prana",
-        "Brahman"
+        "Pippalada",
+        "students",
+        "six questions",
+        "introduction"
       ],
-      "sanskrit": "[Verse 16 — full text coming soon]",
-      "transliteration": "[Verse 16 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 16 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सुकेशा च भारद्वाजः शैब्यश्च सत्यकामः सौर्यायणी च गार्ग्यः कौसल्यश्चाश्वलायनो भार्गवो वैदर्भिः कबन्धी कात्यायनस्ते हैते ब्रह्मपरा ब्रह्मनिष्ठाः परं ब्रह्मान्वेषमाणा एष ह वै तत्सर्वं वक्ष्यतीति पिप्पलादमुपसन्नाः ||१.१||",
+      "transliteration": "sukeśā ca bhāradvājaḥ śaibyaś ca satyakāmaḥ sauryāyaṇī ca gārgyaḥ kausalyaś cāśvalāyano bhārgavo vaidarbhiḥ kabandhī kātyāyanas te haite brahmaparā brahmanisṭhāḥ paraṃ brahmānveṣamāṇā eṣa ha vai tat sarvaṃ vakṣyatīti pippalādam upasannāḥ ||1.1||",
+      "word_meanings": [
+        {
+          "word": "ब्रह्मपराः ब्रह्मनिष्ठाः",
+          "meaning": "devoted to Brahman, established in Brahman"
+        },
+        {
+          "word": "परम् ब्रह्म अन्वेषमाणाः",
+          "meaning": "seeking the supreme Brahman"
+        },
+        {
+          "word": "पिप्पलादम् उपसन्नाः",
+          "meaning": "approached Pippalada"
+        }
+      ],
+      "english_translation": "Sukesa Bharadvaja, Saibya Satyakama, Sauryayani Gargya, Kausalya Ashvalayana, Bhargava Vaidarbhi, and Kabandhi Katyayana — these, devoted to Brahman and established in Brahman, seeking the supreme Brahman, approached Pippalada.",
+      "shankara_bhashya_sanskrit": "षट् शिष्याः — ब्रह्मपराः — परम् ब्रह्म अन्वेषमाणाः — पिप्पलादम् उपसन्नाः।",
+      "shankara_bhashya_english": "Shankara: Six qualified students, all devoted to Brahman and seeking the supreme truth, approached the sage Pippalada. Their qualifications — devotion to Brahman and establishment in Brahman — show they were ready for the highest teaching."
     },
     {
       "upanishad": "prashna",
       "verse_number": 17,
       "tags": [
-        "prana",
-        "Brahman"
+        "Pippalada",
+        "tapas",
+        "brahmacharya",
+        "year",
+        "preparation"
       ],
-      "sanskrit": "[Verse 17 — full text coming soon]",
-      "transliteration": "[Verse 17 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 17 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तान् ह स ऋषिरुवाच | भूय एव तपसा ब्रह्मचर्येण श्रद्धया संवत्सरं संवत्स्यथ | यथाकामं प्रश्नान् पृच्छत | यदि विज्ञास्यामः सर्वं ह वो वक्ष्याम इति ||१.२||",
+      "transliteration": "tān ha sa ṛṣir uvāca | bhūya eva tapasā brahmacaryeṇa śraddhayā saṃvatsaraṃ saṃvatsyatha | yathākāmaṃ praśnān pṛcchata | yadi vijñāsyāmaḥ sarvaṃ ha vo vakṣyāma iti ||1.2||",
+      "word_meanings": [
+        {
+          "word": "तपसा ब्रह्मचर्येण श्रद्धया",
+          "meaning": "with austerity, celibacy, and faith"
+        },
+        {
+          "word": "संवत्सरम् संवत्स्यथ",
+          "meaning": "live for a year"
+        },
+        {
+          "word": "यथाकामम् प्रश्नान् पृच्छत",
+          "meaning": "ask questions as you wish"
+        },
+        {
+          "word": "यदि विज्ञास्यामः",
+          "meaning": "if I know"
+        }
+      ],
+      "english_translation": "The sage said to them: 'Live here for a year with austerity, celibacy, and faith. Then ask questions as you wish. If I know, I will tell you everything.'",
+      "shankara_bhashya_sanskrit": "तपसा ब्रह्मचर्येण श्रद्धया — एतैः त्रिभिः — संवत्सरम् वसत। ततः प्रश्नान् पृच्छत।",
+      "shankara_bhashya_english": "Shankara: Pippalada first tests the students by asking them to live for a year with austerity, celibacy, and faith. Only after this preparation does he agree to answer their questions. This shows that spiritual knowledge requires preparation — it cannot be given to the unprepared."
     },
     {
       "upanishad": "prashna",
       "verse_number": 18,
       "tags": [
-        "prana",
-        "Brahman"
+        "Kabandhi",
+        "first question",
+        "creation",
+        "Prajapati",
+        "beings"
       ],
-      "sanskrit": "[Verse 18 — full text coming soon]",
-      "transliteration": "[Verse 18 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 18 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अथ कबन्धी कात्यायन उपेत्य पप्रच्छ | भगवन् कुतो ह वा इमाः प्रजाः प्रजायन्त इति ||१.३||",
+      "transliteration": "atha kabandhī kātyāyana upetya papraccha | bhagavan kuto ha vā imāḥ prajāḥ prajāyanta iti ||1.3||",
+      "word_meanings": [
+        {
+          "word": "कुतः प्रजाः प्रजायन्ते",
+          "meaning": "from where are beings born"
+        },
+        {
+          "word": "भगवन्",
+          "meaning": "O Blessed One"
+        }
+      ],
+      "english_translation": "Then Kabandhi Katyayana approached and asked: 'O Blessed One, from where are all these beings born?'",
+      "shankara_bhashya_sanskrit": "कबन्धी — प्रथमः प्रश्नः — कुतः प्रजाः प्रजायन्ते — सृष्टेः कारणम् किम्।",
+      "shankara_bhashya_english": "Shankara: The first question is about the origin of creation. Kabandhi asks: from where do all beings arise? This is the fundamental cosmological question that the Upanishad addresses through the teaching of prana and rayi."
     },
     {
       "upanishad": "prashna",
       "verse_number": 19,
       "tags": [
+        "Prajapati",
+        "tapas",
+        "creation",
         "prana",
-        "Brahman"
+        "rayi"
       ],
-      "sanskrit": "[Verse 19 — full text coming soon]",
-      "transliteration": "[Verse 19 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 19 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स होवाच | प्रजाकामो वाव प्रजापतिस्तपोऽतप्यत | स तपस्तप्त्वा मिथुनमुत्पादयते | रयिं च प्राणं चेत्येतौ मे बहुधा प्रजाः करिष्यत इति ||१.४||",
+      "transliteration": "sa hovāca | prajākāmo vāva prajāpatis tapo'tapyata | sa tapas taptvā mithunam utpādayate | rayiṃ ca prāṇaṃ cety etau me bahudhā prajāḥ kariṣyata iti ||1.4||",
+      "word_meanings": [
+        {
+          "word": "प्रजाकामः प्रजापतिः",
+          "meaning": "Prajapati, desiring offspring"
+        },
+        {
+          "word": "तपः अतप्यत",
+          "meaning": "performed austerity"
+        },
+        {
+          "word": "मिथुनम् उत्पादयते",
+          "meaning": "produced a pair"
+        },
+        {
+          "word": "रयिम् च प्राणम् च",
+          "meaning": "rayi and prana"
+        }
+      ],
+      "english_translation": "He said: 'Prajapati, desiring offspring, performed austerity. Having performed austerity, he produced a pair — rayi and prana — thinking: these two will produce beings for me in many ways.'",
+      "shankara_bhashya_sanskrit": "प्रजापतिः — तपः अतप्यत — मिथुनम् — रयिम् प्राणम् च — उत्पादयत।",
+      "shankara_bhashya_english": "Shankara: Prajapati (the Lord of creation) performed austerity and produced the primordial pair — rayi (matter/moon) and prana (consciousness/sun). All creation arises from the interaction of these two principles."
     },
     {
       "upanishad": "prashna",
       "verse_number": 20,
       "tags": [
-        "prana",
-        "Brahman"
+        "sun",
+        "moon",
+        "day",
+        "night",
+        "year",
+        "time"
       ],
-      "sanskrit": "[Verse 20 — full text coming soon]",
-      "transliteration": "[Verse 20 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 20 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "आदित्यो ह वै प्राणः | रयिरेव चन्द्रमाः | रयिर्वा एतत्सर्वं यन्मूर्तं चामूर्तं च | तस्मान्मूर्तिरेव रयिः ||१.५||",
+      "transliteration": "ādityo ha vai prāṇaḥ | rayir eva candramāḥ | rayir vā etat sarvaṃ yan mūrtaṃ cāmūrtaṃ ca | tasmān mūrtir eva rayiḥ ||1.5||",
+      "word_meanings": [
+        {
+          "word": "आदित्यः प्राणः",
+          "meaning": "the Sun is prana"
+        },
+        {
+          "word": "रयिः चन्द्रमाः",
+          "meaning": "the Moon is rayi"
+        },
+        {
+          "word": "मूर्तम् च अमूर्तम् च",
+          "meaning": "the formed and the formless"
+        },
+        {
+          "word": "मूर्तिः एव रयिः",
+          "meaning": "form itself is rayi"
+        }
+      ],
+      "english_translation": "The Sun is indeed prana; the Moon is indeed rayi. Whatever is formed and formless — all that is rayi. Therefore form itself is rayi.",
+      "shankara_bhashya_sanskrit": "आदित्यः — सूर्यः — प्राणः — चेतनः। चन्द्रमाः — रयिः — अचेतनः। मूर्तम् अमूर्तम् — सर्वम् रयिः।",
+      "shankara_bhashya_english": "Shankara: The Sun represents the conscious, active principle (prana); the Moon represents the material, passive principle (rayi). All formed and formless matter is rayi. This cosmic duality underlies all creation."
     },
     {
       "upanishad": "prashna",
       "verse_number": 21,
       "tags": [
         "prana",
-        "Brahman"
+        "five fires",
+        "year",
+        "seasons",
+        "creation"
       ],
-      "sanskrit": "[Verse 21 — full text coming soon]",
-      "transliteration": "[Verse 21 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 21 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अथ यः प्राणः स एव संवत्सरः | तस्यायने दक्षिणं चोत्तरं च ||१.९||",
+      "transliteration": "atha yaḥ prāṇaḥ sa eva saṃvatsaraḥ | tasyāyane dakṣiṇaṃ cottaraṃ ca ||1.9||",
+      "word_meanings": [
+        {
+          "word": "यः प्राणः",
+          "meaning": "that which is prana"
+        },
+        {
+          "word": "संवत्सरः",
+          "meaning": "is the year"
+        },
+        {
+          "word": "दक्षिणम् उत्तरम्",
+          "meaning": "southern and northern (paths)"
+        }
+      ],
+      "english_translation": "That which is prana is indeed the year. Its two paths are the southern and the northern.",
+      "shankara_bhashya_sanskrit": "प्राणः — संवत्सरः — कालस्वरूपः। दक्षिणायनम् — पितृयानम्। उत्तरायणम् — देवयानम्।",
+      "shankara_bhashya_english": "Shankara: Prana manifests as time — the year. The year has two paths: the southern path (pitriyana — path of the ancestors, leading to rebirth) and the northern path (devayana — path of the gods, leading to liberation). This connects cosmic time with the paths after death."
     },
     {
       "upanishad": "prashna",
       "verse_number": 22,
       "tags": [
-        "prana",
-        "Brahman"
+        "second question",
+        "Bhargava",
+        "how many gods",
+        "prana"
       ],
-      "sanskrit": "[Verse 22 — full text coming soon]",
-      "transliteration": "[Verse 22 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 22 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अथ भार्गवो वैदर्भिः पप्रच्छ | भगवन् कति देवाः प्रजां विधारयन्ते | कतर एतत्प्रकाशयन्ते | कश्चैतेषां वरिष्ठ इति ||२.१||",
+      "transliteration": "atha bhārgavo vaidarbhiḥ papraccha | bhagavan kati devāḥ prajāṃ vidhārayante | katara etat prakāśayante | kaś caitesāṃ variṣṭha iti ||2.1||",
+      "word_meanings": [
+        {
+          "word": "कति देवाः",
+          "meaning": "how many gods"
+        },
+        {
+          "word": "प्रजाम् विधारयन्ते",
+          "meaning": "support the creatures"
+        },
+        {
+          "word": "कः वरिष्ठः",
+          "meaning": "who is the greatest"
+        }
+      ],
+      "english_translation": "Then Bhargava Vaidarbhi asked: 'O Blessed One, how many gods support the creatures? Which of these illuminate it? And who among them is the greatest?'",
+      "shankara_bhashya_sanskrit": "द्वितीयः प्रश्नः — कति देवाः — प्रजाम् विधारयन्ते — कः वरिष्ठः।",
+      "shankara_bhashya_english": "Shankara: The second question asks about the cosmic forces that sustain life. Pippalada will answer that the five pranas (along with the senses) support creatures, and the chief prana is the greatest among them."
     },
     {
       "upanishad": "prashna",
       "verse_number": 23,
       "tags": [
         "prana",
-        "Brahman"
+        "dispute",
+        "who is greatest",
+        "senses"
       ],
-      "sanskrit": "[Verse 23 — full text coming soon]",
-      "transliteration": "[Verse 23 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 23 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ते ह देवाः प्राणे विवदमाना ब्रह्म जग्मुः | ते होचुः को नः श्रेष्ठ इति | तान् होवाच यस्मिन् वः प्रयत्युत्क्रान्ते शरीरं पापिष्ठतरमिव दृश्यते स वः श्रेष्ठ इति ||२.२||",
+      "transliteration": "te ha devāḥ prāṇe vivadamānā brahma jagmuḥ | te hocuḥ ko naḥ śreṣṭha iti | tān hovāca yasmin vaḥ prayaty utkrānte śarīraṃ pāpiṣṭhataram iva dṛśyate sa vaḥ śreṣṭha iti ||2.2||",
+      "word_meanings": [
+        {
+          "word": "देवाः प्राणे विवदमानाः",
+          "meaning": "the gods disputing about prana"
+        },
+        {
+          "word": "को नः श्रेष्ठः",
+          "meaning": "who among us is the greatest"
+        },
+        {
+          "word": "यस्मिन् उत्क्रान्ते",
+          "meaning": "when which one departs"
+        },
+        {
+          "word": "शरीरम् पापिष्ठतरम्",
+          "meaning": "the body appears most wretched"
+        }
+      ],
+      "english_translation": "The gods, disputing about prana, went to Brahman and asked: 'Who among us is the greatest?' He said: 'The one whose departure makes the body appear most wretched — that one is the greatest among you.'",
+      "shankara_bhashya_sanskrit": "देवाः — वाग्आदयः — विवदमानाः — ब्रह्म जग्मुः। ब्रह्म उवाच — यस्मिन् उत्क्रान्ते — शरीरम् पापिष्ठतरम् — स श्रेष्ठः।",
+      "shankara_bhashya_english": "Shankara: The senses disputed about who was greatest. Brahman gave them a test: whichever one, when it departs, makes the body most wretched — that one is the greatest. This leads to the demonstration that the chief prana is supreme."
     },
     {
       "upanishad": "prashna",
       "verse_number": 24,
       "tags": [
         "prana",
-        "Brahman"
+        "departed",
+        "body wretched",
+        "greatest",
+        "test"
       ],
-      "sanskrit": "[Verse 24 — full text coming soon]",
-      "transliteration": "[Verse 24 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 24 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सा ह वाग्उत्क्रामत् | सा संवत्सरं प्रोष्य आगत्योवाच | कथमशकत मद्विना जीवितुमिति | प्राणा ऊचुः | यथा मूका अप्राणन्तः प्राणेन जीवन्तः ||२.४||",
+      "transliteration": "sā ha vāg utkrāmat | sā saṃvatsaraṃ proṣya āgatyovāca | katham aśakata mad vinā jīvitum iti | prāṇā ūcuḥ | yathā mūkā aprāṇantaḥ prāṇena jīvantaḥ ||2.4||",
+      "word_meanings": [
+        {
+          "word": "वाक् उत्क्रामत्",
+          "meaning": "speech departed"
+        },
+        {
+          "word": "संवत्सरम् प्रोष्य",
+          "meaning": "having stayed away a year"
+        },
+        {
+          "word": "कथम् अशकत जीवितुम्",
+          "meaning": "how could you live without me"
+        },
+        {
+          "word": "मूकाः",
+          "meaning": "mute"
+        },
+        {
+          "word": "प्राणेन जीवन्तः",
+          "meaning": "living by prana"
+        }
+      ],
+      "english_translation": "Speech departed. Having stayed away a year, it returned and asked: 'How could you live without me?' The pranas said: 'Like the mute — not speaking, but living by prana.'",
+      "shankara_bhashya_sanskrit": "वाक् उत्क्रामत् — संवत्सरम् — शरीरम् मूकम् अभवत् — किन्तु जीवत् एव। प्राणेन जीवन्तः।",
+      "shankara_bhashya_english": "Shankara: When speech departed, the body became mute but continued to live. This shows speech is not essential for life. Similarly, when the eye departed, the body became blind but lived. Only when the chief prana departed did the body begin to die — proving prana is the greatest."
     },
     {
       "upanishad": "prashna",
       "verse_number": 25,
       "tags": [
+        "third question",
+        "Kausalya",
         "prana",
-        "Brahman"
+        "origin",
+        "sleep"
       ],
-      "sanskrit": "[Verse 25 — full text coming soon]",
-      "transliteration": "[Verse 25 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 25 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अथ कौसल्यश्चाश्वलायनः पप्रच्छ | भगवन् कुत एष प्राणो जायते | कथमायात्यस्मिञ्शरीरे | आत्मानं वा प्रविभज्य कथं प्रतिष्ठते | केनोत्क्रामते | कथं बाह्यमभिधत्ते | कथमध्यात्ममिति ||३.१||",
+      "transliteration": "atha kausalyaś cāśvalāyanaḥ papraccha | bhagavan kuta eṣa prāṇo jāyate | katham āyāty asmiñ śarīre | ātmānaṃ vā pravibhajya kathaṃ pratiṣṭhate | kenotkrāmate | kathaṃ bāhyam abhidhatte | katham adhyātmam iti ||3.1||",
+      "word_meanings": [
+        {
+          "word": "कुतः प्राणः जायते",
+          "meaning": "from where is prana born"
+        },
+        {
+          "word": "कथम् आयाति",
+          "meaning": "how does it come"
+        },
+        {
+          "word": "आत्मानम् प्रविभज्य",
+          "meaning": "dividing itself"
+        },
+        {
+          "word": "केन उत्क्रामते",
+          "meaning": "by what does it depart"
+        }
+      ],
+      "english_translation": "Then Kausalya Ashvalayana asked: 'O Blessed One, from where is this prana born? How does it come into this body? How does it establish itself by dividing itself? By what does it depart? How does it relate to the external? How to the internal?'",
+      "shankara_bhashya_sanskrit": "तृतीयः प्रश्नः — प्राणस्य उत्पत्तिः — आगमनम् — विभागः — उत्क्रमणम्।",
+      "shankara_bhashya_english": "Shankara: The third question is the most detailed — asking about prana's origin, entry into the body, distribution within it, departure, and its relationship to the external and internal worlds. Pippalada will explain all aspects of prana's functioning."
     },
     {
       "upanishad": "prashna",

@@ -643,183 +643,403 @@
       "upanishad": "aitareya",
       "verse_number": 21,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "creation",
+        "sky",
+        "earth",
+        "waters"
       ],
-      "sanskrit": "[Verse 21 — full text coming soon]",
-      "transliteration": "[Verse 21 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 21 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स ईक्षत | लोकाः किं नु मे लोकपालान् सृजेयमिति ||१.१.१||",
+      "transliteration": "sa īkṣata | lokāḥ kiṃ nu me lokapālān sṛjeyam iti ||1.1.1||",
+      "word_meanings": [
+        {
+          "word": "स ईक्षत",
+          "meaning": "he thought/willed"
+        },
+        {
+          "word": "लोकाः",
+          "meaning": "worlds"
+        },
+        {
+          "word": "लोकपालान् सृजेयम्",
+          "meaning": "let me create guardians of the worlds"
+        }
+      ],
+      "english_translation": "He thought: 'These are the worlds. Let me create guardians of the worlds.'",
+      "shankara_bhashya_sanskrit": "स — परमात्मा — ईक्षत — संकल्पम् अकरोत्। लोकपालान् — लोकरक्षकान् — सृजेयम्।",
+      "shankara_bhashya_english": "Shankara: The Self willed to create guardians for the worlds it had created. This shows that creation proceeds from the Self's own will and consciousness — not from any external compulsion."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 22,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "speech",
+        "fire",
+        "Agni",
+        "creation",
+        "organs"
       ],
-      "sanskrit": "[Verse 22 — full text coming soon]",
-      "transliteration": "[Verse 22 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 22 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "मुखं निरभिद्यत यथाण्डं मुखाद्वाग्वाचोऽग्निः ||१.१.४||",
+      "transliteration": "mukhaṃ nirabhidyata yathāṇḍaṃ mukhād vāg vāco'gniḥ ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "मुखम् निरभिद्यत",
+          "meaning": "the mouth burst open"
+        },
+        {
+          "word": "यथा अण्डम्",
+          "meaning": "like an egg"
+        },
+        {
+          "word": "मुखात् वाक्",
+          "meaning": "from the mouth, speech"
+        },
+        {
+          "word": "वाचः अग्निः",
+          "meaning": "from speech, fire"
+        }
+      ],
+      "english_translation": "The mouth burst open as an egg bursts. From the mouth came speech; from speech, fire.",
+      "shankara_bhashya_sanskrit": "मुखम् — वाग्द्वारम् — निरभिद्यत। मुखात् वाक् — वाचः अग्निः — वाग्देवता।",
+      "shankara_bhashya_english": "Shankara: The mouth burst open and speech emerged. The deity of speech is Agni (fire). Each organ of the cosmic body has a corresponding cosmic deity — this is the correspondence between microcosm and macrocosm."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 23,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "nostrils",
+        "prana",
+        "Vayu",
+        "creation"
       ],
-      "sanskrit": "[Verse 23 — full text coming soon]",
-      "transliteration": "[Verse 23 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 23 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "नासिके निरभिद्येतां नासिकाभ्यां प्राणः प्राणाद्वायुः ||१.१.४||",
+      "transliteration": "nāsike nirabhidyetāṃ nāsikābhyāṃ prāṇaḥ prāṇād vāyuḥ ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "नासिके निरभिद्येताम्",
+          "meaning": "the two nostrils burst open"
+        },
+        {
+          "word": "नासिकाभ्याम् प्राणः",
+          "meaning": "from the nostrils, prana"
+        },
+        {
+          "word": "प्राणात् वायुः",
+          "meaning": "from prana, Vayu"
+        }
+      ],
+      "english_translation": "The two nostrils burst open. From the nostrils came prana; from prana, Vayu.",
+      "shankara_bhashya_sanskrit": "नासिकाभ्याम् — प्राणः — वायुः। प्राणस्य देवता वायुः।",
+      "shankara_bhashya_english": "Shankara: From the nostrils came prana, and the deity of prana is Vayu (wind). The nostrils are the gateway of the life-force in the body."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 24,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "eyes",
+        "sight",
+        "sun",
+        "creation"
       ],
-      "sanskrit": "[Verse 24 — full text coming soon]",
-      "transliteration": "[Verse 24 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 24 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अक्षिणी निरभिद्येतामक्षिभ्यां चक्षुश्चक्षुष आदित्यः ||१.१.४||",
+      "transliteration": "akṣiṇī nirabhidyetām akṣibhyāṃ cakṣuś cakṣuṣa ādityaḥ ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "अक्षिणी निरभिद्येताम्",
+          "meaning": "the two eyes burst open"
+        },
+        {
+          "word": "अक्षिभ्याम् चक्षुः",
+          "meaning": "from the eyes, sight"
+        },
+        {
+          "word": "चक्षुषः आदित्यः",
+          "meaning": "from sight, the Sun"
+        }
+      ],
+      "english_translation": "The two eyes burst open. From the eyes came sight; from sight, the Sun.",
+      "shankara_bhashya_sanskrit": "अक्षिभ्याम् — चक्षुः — आदित्यः। चक्षुषः देवता आदित्यः।",
+      "shankara_bhashya_english": "Shankara: From the eyes came sight, and the deity of sight is the Sun (Aditya). The sun illumines the external world just as the eye perceives it — they are cosmic counterparts."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 25,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "ears",
+        "hearing",
+        "directions",
+        "creation"
       ],
-      "sanskrit": "[Verse 25 — full text coming soon]",
-      "transliteration": "[Verse 25 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 25 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "कर्णौ निरभिद्येतां कर्णाभ्यां श्रोत्रं श्रोत्राद्दिशः ||१.१.४||",
+      "transliteration": "karṇau nirabhidyetāṃ karṇābhyāṃ śrotraṃ śrotrād diśaḥ ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "कर्णौ निरभिद्येताम्",
+          "meaning": "the two ears burst open"
+        },
+        {
+          "word": "कर्णाभ्याम् श्रोत्रम्",
+          "meaning": "from the ears, hearing"
+        },
+        {
+          "word": "श्रोत्रात् दिशः",
+          "meaning": "from hearing, the directions"
+        }
+      ],
+      "english_translation": "The two ears burst open. From the ears came hearing; from hearing, the directions.",
+      "shankara_bhashya_sanskrit": "कर्णाभ्याम् — श्रोत्रम् — दिशः। श्रोत्रस्य देवताः दिशः।",
+      "shankara_bhashya_english": "Shankara: From the ears came hearing, and the deities of hearing are the directions (disha). Sound travels in all directions, and the ears receive sound from all directions — hence the correspondence."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 26,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "skin",
+        "hair",
+        "plants",
+        "creation"
       ],
-      "sanskrit": "[Verse 26 — full text coming soon]",
-      "transliteration": "[Verse 26 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 26 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "त्वङ्निरभिद्यत त्वचो लोमानि लोमभ्य ओषधिवनस्पतयः ||१.१.४||",
+      "transliteration": "tvaṅ nirabhidyata tvaco lomāni lomabhya oṣadhivanaspatayaḥ ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "त्वक् निरभिद्यत",
+          "meaning": "the skin burst open"
+        },
+        {
+          "word": "त्वचः लोमानि",
+          "meaning": "from the skin, hair"
+        },
+        {
+          "word": "लोमभ्यः ओषधिवनस्पतयः",
+          "meaning": "from hair, plants and trees"
+        }
+      ],
+      "english_translation": "The skin burst open. From the skin came hair; from hair, plants and trees.",
+      "shankara_bhashya_sanskrit": "त्वचः — लोमानि — ओषधिवनस्पतयः। त्वचः देवताः ओषधयः।",
+      "shankara_bhashya_english": "Shankara: From the skin came hair, and the deities of hair are plants and trees. Just as hair grows from the skin, plants grow from the earth. The microcosm (body) mirrors the macrocosm (universe)."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 27,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "heart",
+        "mind",
+        "moon",
+        "creation"
       ],
-      "sanskrit": "[Verse 27 — full text coming soon]",
-      "transliteration": "[Verse 27 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 27 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "हृदयं निरभिद्यत हृदयान्मनो मनसश्चन्द्रमाः ||१.१.४||",
+      "transliteration": "hṛdayaṃ nirabhidyata hṛdayān mano manasaś candramāḥ ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "हृदयम् निरभिद्यत",
+          "meaning": "the heart burst open"
+        },
+        {
+          "word": "हृदयात् मनः",
+          "meaning": "from the heart, mind"
+        },
+        {
+          "word": "मनसः चन्द्रमाः",
+          "meaning": "from mind, the Moon"
+        }
+      ],
+      "english_translation": "The heart burst open. From the heart came mind; from mind, the Moon.",
+      "shankara_bhashya_sanskrit": "हृदयात् — मनः — चन्द्रमाः। मनसः देवता चन्द्रमाः।",
+      "shankara_bhashya_english": "Shankara: From the heart came mind, and the deity of mind is the Moon. The moon governs the mind — this is why the mind is said to wax and wane like the moon, and why the full moon affects mental states."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 28,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "navel",
+        "apana",
+        "death",
+        "creation"
       ],
-      "sanskrit": "[Verse 28 — full text coming soon]",
-      "transliteration": "[Verse 28 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 28 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "नाभिर्निरभिद्यत नाभ्या अपानोऽपानान्मृत्युः ||१.१.४||",
+      "transliteration": "nābhir nirabhidyata nābhyā apāno'pānān mṛtyuḥ ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "नाभिः निरभिद्यत",
+          "meaning": "the navel burst open"
+        },
+        {
+          "word": "नाभ्याः अपानः",
+          "meaning": "from the navel, apana"
+        },
+        {
+          "word": "अपानात् मृत्युः",
+          "meaning": "from apana, death"
+        }
+      ],
+      "english_translation": "The navel burst open. From the navel came apana; from apana, death.",
+      "shankara_bhashya_sanskrit": "नाभ्याः — अपानः — मृत्युः। अपानस्य देवता मृत्युः।",
+      "shankara_bhashya_english": "Shankara: From the navel came apana (the downward breath), and the deity of apana is death (Mrityu). Apana governs elimination and the downward movement of energy — associated with the process of dying."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 29,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "generative organ",
+        "water",
+        "creation",
+        "Varuna"
       ],
-      "sanskrit": "[Verse 29 — full text coming soon]",
-      "transliteration": "[Verse 29 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 29 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "शिश्नं निरभिद्यत शिश्नाद्रेतो रेतस आपः ||१.१.४||",
+      "transliteration": "śiśnaṃ nirabhidyata śiśnād reto retasa āpaḥ ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "शिश्नम् निरभिद्यत",
+          "meaning": "the generative organ burst open"
+        },
+        {
+          "word": "शिश्नात् रेतः",
+          "meaning": "from it, seed"
+        },
+        {
+          "word": "रेतसः आपः",
+          "meaning": "from seed, waters"
+        }
+      ],
+      "english_translation": "The generative organ burst open. From it came seed; from seed, the waters.",
+      "shankara_bhashya_sanskrit": "शिश्नात् — रेतः — आपः। रेतसः देवताः आपः।",
+      "shankara_bhashya_english": "Shankara: From the generative organ came seed, and the deity of seed is water (Apas). Water is the cosmic counterpart of the generative principle — both are associated with fertility and creation."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 30,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "deities",
+        "entered body",
+        "hunger",
+        "thirst",
+        "fire"
       ],
-      "sanskrit": "[Verse 30 — full text coming soon]",
-      "transliteration": "[Verse 30 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 30 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ता एता देवताः सृष्टा अस्मिन्महत्यर्णवे प्रापतन् | तमशनायापिपासाभ्यामन्ववार्जत् ||१.२.१||",
+      "transliteration": "tā etā devatāḥ sṛṣṭā asmin mahaty arṇave prāpatan | tam aśanāyāpipāsābhyām anvavārjat ||1.2.1||",
+      "word_meanings": [
+        {
+          "word": "देवताः सृष्टाः",
+          "meaning": "the created deities"
+        },
+        {
+          "word": "महति अर्णवे प्रापतन्",
+          "meaning": "fell into the great ocean"
+        },
+        {
+          "word": "अशनाया अपिपासाभ्याम्",
+          "meaning": "by hunger and thirst"
+        },
+        {
+          "word": "अन्ववार्जत्",
+          "meaning": "were overcome"
+        }
+      ],
+      "english_translation": "These created deities fell into the great ocean. Hunger and thirst overcame him.",
+      "shankara_bhashya_sanskrit": "देवताः — वाग्आदयः — संसारसागरे प्रापतन्। अशनाया अपिपासाभ्याम् — क्षुत्पिपासाभ्याम् — अन्ववार्जत्।",
+      "shankara_bhashya_english": "Shankara: The created deities fell into the ocean of samsara. The cosmic person was overcome by hunger and thirst — the fundamental drives of embodied existence. This sets up the need for food (the objective world) to be created."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 31,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "deities",
+        "entered body",
+        "fire",
+        "speech",
+        "mouth"
       ],
-      "sanskrit": "[Verse 31 — full text coming soon]",
-      "transliteration": "[Verse 31 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 31 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ता अब्रुवन् | अधि नो ब्रूहि यस्मिन् प्रतिष्ठिताः अन्नमदाम ||१.२.३||",
+      "transliteration": "tā abruvan | adhi no brūhi yasmin pratiṣṭhitāḥ annam adāma ||1.2.3||",
+      "word_meanings": [
+        {
+          "word": "अधि नः ब्रूहि",
+          "meaning": "tell us"
+        },
+        {
+          "word": "यस्मिन् प्रतिष्ठिताः",
+          "meaning": "in which established"
+        },
+        {
+          "word": "अन्नम् अदाम",
+          "meaning": "we may eat food"
+        }
+      ],
+      "english_translation": "They said: 'Tell us — established in which, may we eat food?'",
+      "shankara_bhashya_sanskrit": "देवताः अपृच्छन् — कस्मिन् शरीरे प्रतिष्ठिताः — अन्नम् अदाम — भोगम् प्राप्नुयाम।",
+      "shankara_bhashya_english": "Shankara: The deities asked to be placed in a body so they could experience the world. They needed a vehicle (body) to enjoy food and experience existence. This leads to the Self entering the body."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 32,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "Self",
+        "entered body",
+        "cow",
+        "horse",
+        "person"
       ],
-      "sanskrit": "[Verse 32 — full text coming soon]",
-      "transliteration": "[Verse 32 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 32 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तासां गां दर्शयामास | ता अब्रुवन् न वै नोऽयमलमिति | अश्वं दर्शयामास | ता अब्रुवन् न वै नोऽयमलमिति | पुरुषं दर्शयामास | ता अब्रुवन् सुकृतं बतेति | पुरुषो वाव सुकृतम् ||१.२.३||",
+      "transliteration": "tāsāṃ gāṃ darśayām āsa | tā abruvan na vai no'yam alam iti | aśvaṃ darśayām āsa | tā abruvan na vai no'yam alam iti | puruṣaṃ darśayām āsa | tā abruvan sukṛtaṃ bateti | puruṣo vāva sukṛtam ||1.2.3||",
+      "word_meanings": [
+        {
+          "word": "गाम् दर्शयामास",
+          "meaning": "showed them a cow"
+        },
+        {
+          "word": "न अयम् अलम्",
+          "meaning": "this is not enough for us"
+        },
+        {
+          "word": "पुरुषम् दर्शयामास",
+          "meaning": "showed them a person"
+        },
+        {
+          "word": "सुकृतम् बत",
+          "meaning": "well made indeed"
+        },
+        {
+          "word": "पुरुषः सुकृतम्",
+          "meaning": "the person is well made"
+        }
+      ],
+      "english_translation": "He showed them a cow. They said: 'This is not enough for us.' He showed them a horse. They said: 'This is not enough.' He showed them a person. They said: 'Well made indeed!' The person is indeed well made.",
+      "shankara_bhashya_sanskrit": "गाम् — अश्वम् — पुरुषम् — दर्शयामास। पुरुषः — सुकृतम् — सर्वेन्द्रियसम्पन्नः।",
+      "shankara_bhashya_english": "Shankara: The deities rejected the cow and horse as insufficient vehicles. They chose the human body as the best — 'well made' — because it has all the organs needed for full experience and, most importantly, for self-knowledge. The human body is the best vehicle for liberation."
     },
     {
       "upanishad": "aitareya",
       "verse_number": 33,
       "tags": [
-        "consciousness",
-        "Brahman"
+        "Self",
+        "entered body",
+        "brahmarandhra",
+        "three births",
+        "liberation"
       ],
-      "sanskrit": "[Verse 33 — full text coming soon]",
-      "transliteration": "[Verse 33 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 33 of the Aitareya Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स एतमेव सीमानं विदार्यैतया द्वारा प्रापद्यत | सैषा विदृतिर्नाम द्वास्तदेतन्नान्दनं नाम ||१.३.१२||",
+      "transliteration": "sa etam eva sīmānam vidāryaitayā dvārā prāpadyata | saiṣā vidṛtir nāma dvās tad etan nāndanaṃ nāma ||1.3.12||",
+      "word_meanings": [
+        {
+          "word": "सीमानम् विदार्य",
+          "meaning": "splitting the crown of the head"
+        },
+        {
+          "word": "एतया द्वारा प्रापद्यत",
+          "meaning": "entered by this door"
+        },
+        {
+          "word": "विदृतिः नाम द्वाः",
+          "meaning": "the door called Vidrti"
+        },
+        {
+          "word": "नान्दनम् नाम",
+          "meaning": "called Nandana (joy)"
+        }
+      ],
+      "english_translation": "Splitting the crown of the head, it entered by this door. This door is called Vidrti. This is the place called Nandana.",
+      "shankara_bhashya_sanskrit": "सीमानम् विदार्य — ब्रह्मरन्ध्रम् भित्त्वा — प्रविशत्। विदृतिः — ब्रह्मरन्ध्रम् — नान्दनम् — आनन्दस्थानम्।",
+      "shankara_bhashya_english": "Shankara: The Self entered the cosmic body through the crown of the head (brahmarandhra). This is called Vidrti (the cleft) and Nandana (the place of joy) — because the Self's entry brings consciousness and bliss to the body. At death, the liberated soul exits through this same door."
     }
   ]
 }
