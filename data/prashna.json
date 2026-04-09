@@ -308,84 +308,187 @@
       "verse_number": 10,
       "tags": [
         "prana",
-        "Brahman"
+        "sun",
+        "fire",
+        "cosmic",
+        "Pippalada"
       ],
-      "sanskrit": "[Verse 10 — full text coming soon]",
-      "transliteration": "[Verse 10 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 10 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एष ह वाव वरिष्ठः यः प्राणः | एष एव सर्वाणि भूतानि धारयति ||२.१३||",
+      "transliteration": "eṣa ha vāva variṣṭhaḥ yaḥ prāṇaḥ | eṣa eva sarvāṇi bhūtāni dhārayati ||2.13||",
+      "word_meanings": [
+        {
+          "word": "एषः वरिष्ठः",
+          "meaning": "this one is the greatest"
+        },
+        {
+          "word": "यः प्राणः",
+          "meaning": "which is prana"
+        },
+        {
+          "word": "सर्वाणि भूतानि धारयति",
+          "meaning": "supports all beings"
+        }
+      ],
+      "english_translation": "This one is indeed the greatest — the chief prana. This one alone supports all beings.",
+      "shankara_bhashya_sanskrit": "एषः प्राणः — मुख्यप्राणः — वरिष्ठः। एषः सर्वाणि भूतानि धारयति।",
+      "shankara_bhashya_english": "Shankara: The chief prana is the greatest — it is the life-force that sustains all beings. All the other pranas are its manifestations."
     },
     {
       "upanishad": "prashna",
       "verse_number": 11,
       "tags": [
+        "sleep",
+        "waking",
+        "dream",
         "prana",
-        "Brahman"
+        "fire"
       ],
-      "sanskrit": "[Verse 11 — full text coming soon]",
-      "transliteration": "[Verse 11 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 11 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यदा सुप्तः स्वप्नं न कञ्चन पश्यति | अथास्मिन् प्राण एवैकधा भवति ||४.२||",
+      "transliteration": "yadā suptas svapnaṃ na kañcana paśyati | athāsmin prāṇa evaikadha bhavati ||4.2||",
+      "word_meanings": [
+        {
+          "word": "सुप्तः स्वप्नम् न पश्यति",
+          "meaning": "the sleeper sees no dream"
+        },
+        {
+          "word": "प्राणे एकधा भवति",
+          "meaning": "becomes unified in prana"
+        }
+      ],
+      "english_translation": "When the sleeper sees no dream at all, then he becomes unified in prana alone.",
+      "shankara_bhashya_sanskrit": "स्वप्नम् न पश्यति — सुषुप्तौ — प्राणे एकधा भवति — सर्वे प्राणाः मुख्यप्राणे लीयन्ते।",
+      "shankara_bhashya_english": "Shankara: In deep dreamless sleep, all the individual pranas merge into the chief prana. The senses withdraw, the mind rests, and consciousness becomes unified. This is the daily experience of the deep sleep state."
     },
     {
       "upanishad": "prashna",
       "verse_number": 12,
       "tags": [
+        "dream",
+        "waking",
         "prana",
-        "Brahman"
+        "fire",
+        "senses"
       ],
-      "sanskrit": "[Verse 12 — full text coming soon]",
-      "transliteration": "[Verse 12 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 12 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यथाग्नेः क्षुद्रा विस्फुलिङ्गा व्युच्चरन्त्येवमेवास्मादात्मनः सर्वे प्राणाः | सर्वे लोकाः सर्वे देवाः सर्वाणि भूतानि ||४.८||",
+      "transliteration": "yathāgneḥ kṣudrā visphuliṅgā vyuccaranty evam evāsmād ātmanaḥ sarve prāṇāḥ | sarve lokāḥ sarve devāḥ sarvāṇi bhūtāni ||4.8||",
+      "word_meanings": [
+        {
+          "word": "अग्नेः विस्फुलिङ्गाः",
+          "meaning": "sparks from fire"
+        },
+        {
+          "word": "व्युच्चरन्ति",
+          "meaning": "fly out"
+        },
+        {
+          "word": "आत्मनः सर्वे प्राणाः",
+          "meaning": "from the Self all pranas"
+        },
+        {
+          "word": "सर्वे लोकाः",
+          "meaning": "all worlds"
+        },
+        {
+          "word": "सर्वे देवाः",
+          "meaning": "all gods"
+        }
+      ],
+      "english_translation": "As sparks fly out from fire, so from this Self all pranas, all worlds, all gods, and all beings fly out.",
+      "shankara_bhashya_sanskrit": "अग्नेः विस्फुलिङ्गाः — अग्निसरूपाः — व्युच्चरन्ति। तथा आत्मनः — सर्वे प्राणाः — सर्वे लोकाः — सर्वाणि भूतानि — उत्पद्यन्ते।",
+      "shankara_bhashya_english": "Shankara: Just as sparks of the same nature as fire fly out from fire, so from the Self all pranas, worlds, gods, and beings arise. This is the same teaching as the Mundaka — the universe arises from Brahman like sparks from fire."
     },
     {
       "upanishad": "prashna",
       "verse_number": 13,
       "tags": [
-        "prana",
-        "Brahman"
+        "Om",
+        "higher lower Brahman",
+        "meditation",
+        "liberation"
       ],
-      "sanskrit": "[Verse 13 — full text coming soon]",
-      "transliteration": "[Verse 13 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 13 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स यदि विद्वान् साधुकर्मा भवति | तेजसैव लोकानुत्क्रामति ||५.७||",
+      "transliteration": "sa yadi vidvān sādhukarmā bhavati | tejasaiva lokān utkrāmati ||5.7||",
+      "word_meanings": [
+        {
+          "word": "विद्वान् साधुकर्मा",
+          "meaning": "one who is learned and does good deeds"
+        },
+        {
+          "word": "तेजसा एव",
+          "meaning": "by light/brilliance alone"
+        },
+        {
+          "word": "लोकान् उत्क्रामति",
+          "meaning": "rises above the worlds"
+        }
+      ],
+      "english_translation": "If one is learned and does good deeds, by light alone one rises above the worlds.",
+      "shankara_bhashya_sanskrit": "विद्वान् — ओंकारम् जानाति — साधुकर्मा — शुभकर्मकारी — तेजसा — ओंकारतेजसा — लोकान् उत्क्रामति।",
+      "shankara_bhashya_english": "Shankara: One who meditates on Om and performs good deeds rises above all worlds by the light of Om. The meditation on Om combined with right action leads to liberation."
     },
     {
       "upanishad": "prashna",
       "verse_number": 14,
       "tags": [
-        "prana",
-        "Brahman"
+        "Brahman",
+        "sixteen parts",
+        "Purusha",
+        "rivers",
+        "ocean"
       ],
-      "sanskrit": "[Verse 14 — full text coming soon]",
-      "transliteration": "[Verse 14 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 14 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितम् | ऋचो यजूंषि सामानि यज्ञः क्षत्रं ब्रह्म च ||२.६||",
+      "transliteration": "arā iva rathanābhau prāṇe sarvaṃ pratiṣṭhitam | ṛco yajūṃṣi sāmāni yajñaḥ kṣatraṃ brahma ca ||2.6||",
+      "word_meanings": [
+        {
+          "word": "अराः रथनाभौ",
+          "meaning": "spokes in a wheel hub"
+        },
+        {
+          "word": "प्राणे सर्वम् प्रतिष्ठितम्",
+          "meaning": "everything is established in prana"
+        },
+        {
+          "word": "ऋचः यजूंषि सामानि",
+          "meaning": "Rig, Yajur, Sama Vedas"
+        },
+        {
+          "word": "यज्ञः क्षत्रम् ब्रह्म",
+          "meaning": "sacrifice, power, and Brahman"
+        }
+      ],
+      "english_translation": "As spokes are established in a wheel hub, so everything is established in prana — the Rig, Yajur, Sama Vedas, sacrifice, power, and Brahman.",
+      "shankara_bhashya_sanskrit": "अराः रथनाभौ — नाभौ अराः प्रतिष्ठिताः। तथा प्राणे — सर्वम् — वेदाः यज्ञाः — प्रतिष्ठितम्।",
+      "shankara_bhashya_english": "Shankara: Just as all spokes of a wheel are established in the hub, so all the Vedas, sacrifices, and all of existence are established in prana (Brahman). Prana is the hub of the wheel of existence."
     },
     {
       "upanishad": "prashna",
       "verse_number": 15,
       "tags": [
-        "prana",
-        "Brahman"
+        "Brahman",
+        "knower",
+        "liberation",
+        "Pippalada",
+        "final"
       ],
-      "sanskrit": "[Verse 15 — full text coming soon]",
-      "transliteration": "[Verse 15 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 15 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतावदेवाहमेतत्परं ब्रह्म वेद | नातः परमस्तीति ||६.७||",
+      "transliteration": "etāvad evāham etat paraṃ brahma veda | nātaḥ param astīti ||6.7||",
+      "word_meanings": [
+        {
+          "word": "एतावत् एव",
+          "meaning": "only this much"
+        },
+        {
+          "word": "एतत् परम् ब्रह्म वेद",
+          "meaning": "I know this supreme Brahman"
+        },
+        {
+          "word": "नातः परम् अस्ति",
+          "meaning": "there is nothing beyond this"
+        }
+      ],
+      "english_translation": "'Only this much do I know of this supreme Brahman. There is nothing beyond this.'",
+      "shankara_bhashya_sanskrit": "एतावत् — इयत्परिमाणम् — परम् ब्रह्म वेद — जानामि। नातः परम् — अस्मात् उत्तरम् — नास्ति।",
+      "shankara_bhashya_english": "Shankara: Pippalada humbly says 'I know only this much of Brahman — there is nothing beyond this.' This is the concluding statement of the Prashna Upanishad. The teacher acknowledges the limits of verbal teaching — Brahman in its fullness transcends all description."
     },
     {
       "upanishad": "prashna",

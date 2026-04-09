@@ -353,71 +353,186 @@
       "upanishad": "mundaka",
       "verse_number": 11,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "fire",
+        "sacrifice",
+        "ritual",
+        "karma",
+        "result"
       ],
-      "sanskrit": "[Verse 11 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 11 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 11 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एते सप्त ज्वलन्ति तनवः | सप्त समिधः | सप्त होमाः | सप्त इमे लोकाः ||१.२.४||",
+      "transliteration": "ete sapta jvalanti tanavaḥ | sapta samidhaḥ | sapta homāḥ | sapta ime lokāḥ ||1.2.4||",
+      "word_meanings": [
+        {
+          "word": "सप्त ज्वलन्ति तनवः",
+          "meaning": "seven flaming tongues"
+        },
+        {
+          "word": "सप्त समिधः",
+          "meaning": "seven kinds of fuel"
+        },
+        {
+          "word": "सप्त होमाः",
+          "meaning": "seven oblations"
+        },
+        {
+          "word": "सप्त लोकाः",
+          "meaning": "seven worlds"
+        }
+      ],
+      "english_translation": "These seven flame as tongues; seven are the fuels; seven are the oblations; these seven are the worlds.",
+      "shankara_bhashya_sanskrit": "सप्त ज्वालाः — काली कराली च मनोजवा च — इत्यादयः। सप्त समिधः — सप्त होमाः — सप्त लोकाः।",
+      "shankara_bhashya_english": "Shankara: The seven tongues of fire (Kali, Karali, Manojava, etc.) represent the seven aspects of the sacrificial fire. This section describes the Vedic ritual in detail before showing its limitations compared to the higher knowledge of Brahman."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 12,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "karma",
+        "impermanent",
+        "worlds",
+        "fall",
+        "ritual"
       ],
-      "sanskrit": "[Verse 12 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 12 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 12 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्लवा ह्येते अदृढा यज्ञरूपा अष्टादशोक्तमवरं येषु कर्म |\nएतच्छ्रेयो येऽभिनन्दन्ति मूढा जरामृत्युं ते पुनरेवापि यन्ति ||१.२.७||",
+      "transliteration": "plavā hy ete adṛḍhā yajñarūpā aṣṭādaśoktam avaraṃ yeṣu karma |\netac chreyo ye'bhinandanti mūḍhā jarāmṛtyuṃ te punar evāpi yanti ||1.2.7||",
+      "word_meanings": [
+        {
+          "word": "प्लवाः अदृढाः",
+          "meaning": "unstable rafts"
+        },
+        {
+          "word": "यज्ञरूपाः",
+          "meaning": "in the form of sacrifices"
+        },
+        {
+          "word": "अष्टादश",
+          "meaning": "eighteen (limbs of sacrifice)"
+        },
+        {
+          "word": "मूढाः",
+          "meaning": "the deluded"
+        },
+        {
+          "word": "जरामृत्युम् यन्ति",
+          "meaning": "go to old age and death"
+        }
+      ],
+      "english_translation": "These eighteen forms of sacrifice are unstable rafts. The deluded who consider this the highest good go again to old age and death.",
+      "shankara_bhashya_sanskrit": "प्लवाः — नौकाः — अदृढाः — अस्थिराः। यज्ञाः — संसारसागरे तारकाः न भवन्ति। मूढाः — अज्ञाः — जरामृत्युम् यन्ति।",
+      "shankara_bhashya_english": "Shankara: The eighteen limbs of sacrifice are like unstable rafts — they cannot carry one across the ocean of samsara. The deluded who think ritual alone is the highest good continue to be reborn into old age and death. Only knowledge of Brahman leads to liberation."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 13,
       "tags": [
         "Brahman",
-        "knowledge"
+        "self-luminous",
+        "subtle",
+        "heart",
+        "known"
       ],
-      "sanskrit": "[Verse 13 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 13 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 13 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "दिव्यो ह्यमूर्तः पुरुषः सबाह्याभ्यन्तरो ह्यजः | अप्राणो ह्यमनाः शुभ्रो ह्यक्षरात्परतः परः ||२.१.२||",
+      "transliteration": "divyo hy amūrtaḥ puruṣaḥ sabāhyābhyantaro hy ajaḥ | aprāṇo hy amanāḥ śubhro hy akṣarāt parataḥ paraḥ ||2.1.2||",
+      "word_meanings": [
+        {
+          "word": "दिव्यः अमूर्तः",
+          "meaning": "divine, formless"
+        },
+        {
+          "word": "सबाह्याभ्यन्तरः",
+          "meaning": "inside and outside"
+        },
+        {
+          "word": "अजः",
+          "meaning": "unborn"
+        },
+        {
+          "word": "अप्राणः अमनाः",
+          "meaning": "without prana, without mind"
+        },
+        {
+          "word": "शुभ्रः",
+          "meaning": "pure, bright"
+        },
+        {
+          "word": "अक्षरात् परतः परः",
+          "meaning": "higher than the Imperishable"
+        }
+      ],
+      "english_translation": "The divine, formless Person is outside and inside, unborn, without prana, without mind, pure, higher than the highest Imperishable.",
+      "shankara_bhashya_sanskrit": "दिव्यः — प्रकाशस्वरूपः। अमूर्तः — स्थूलशरीररहितः। सबाह्याभ्यन्तरः — सर्वत्र व्याप्तः। अक्षरात् परतः परः — अव्याकृतादपि उत्कृष्टः।",
+      "shankara_bhashya_english": "Shankara: Brahman is divine and formless — it is pure light. It is both inside and outside all things. It is unborn, without prana or mind (which are its instruments, not its nature). It is higher than even the Imperishable (akshara) — it is the ultimate ground."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 14,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "satyam",
+        "jnanam"
       ],
-      "sanskrit": "[Verse 14 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 14 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 14 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "सत्यमेव जयते नानृतं सत्येन पन्था विततो देवयानः |\nयेनाक्रमन्त्यृषयो ह्याप्तकामा यत्र तत्सत्यस्य परमं निधानम् ||३.१.६||",
+      "transliteration": "satyam eva jayate nānṛtaṃ satyena panthā vitato devayānaḥ |\nyenākramanty ṛṣayo hy āptakāmā yatra tat satyasya paramaṃ nidhānam ||3.1.6||",
+      "word_meanings": [
+        {
+          "word": "सत्यम् एव जयते",
+          "meaning": "truth alone triumphs"
+        },
+        {
+          "word": "न अनृतम्",
+          "meaning": "not untruth"
+        },
+        {
+          "word": "सत्येन पन्थाः",
+          "meaning": "by truth the path"
+        },
+        {
+          "word": "देवयानः",
+          "meaning": "the path of the gods"
+        },
+        {
+          "word": "आप्तकामाः ऋषयः",
+          "meaning": "sages who have attained their desires"
+        },
+        {
+          "word": "सत्यस्य परमम् निधानम्",
+          "meaning": "the supreme treasure of truth"
+        }
+      ],
+      "english_translation": "Truth alone triumphs, not untruth. By truth the divine path is spread — by which the sages who have attained their desires travel to where the supreme treasure of truth abides.",
+      "shankara_bhashya_sanskrit": "सत्यम् एव जयते — सत्यम् — ब्रह्म — जयते — प्रकाशते। सत्येन पन्थाः — ब्रह्मज्ञानेन मार्गः।",
+      "shankara_bhashya_english": "Shankara: Truth (Brahman) alone triumphs — not untruth (the phenomenal world). By truth — by the knowledge of Brahman — the divine path is revealed. The sages who have fulfilled all desires travel this path to the supreme treasure of truth — Brahman itself. This verse is the motto of India."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 15,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known by Brahman",
+        "Self-knowledge",
+        "liberation"
       ],
-      "sanskrit": "[Verse 15 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 15 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 15 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "ब्रह्मविद् ब्रह्मैव भवति | तदेव ब्रह्म ज्योतिषां ज्योतिः | आयुर्होपनिषत् ||३.२.९||",
+      "transliteration": "brahmavid brahmaiva bhavati | tad eva brahma jyotiṣāṃ jyotiḥ | āyur hopaṇiṣat ||3.2.9||",
+      "word_meanings": [
+        {
+          "word": "ब्रह्मवित् ब्रह्म एव भवति",
+          "meaning": "the knower of Brahman becomes Brahman itself"
+        },
+        {
+          "word": "ज्योतिषाम् ज्योतिः",
+          "meaning": "the light of lights"
+        },
+        {
+          "word": "आयुः होपनिषत्",
+          "meaning": "this is the Upanishad of life/immortality"
+        }
+      ],
+      "english_translation": "The knower of Brahman becomes Brahman itself. That Brahman is the light of lights. This is the Upanishad of life.",
+      "shankara_bhashya_sanskrit": "ब्रह्मवित् — ब्रह्म जानाति — ब्रह्म एव भवति — ब्रह्मैक्यम् प्राप्नोति। ज्योतिषाम् ज्योतिः — सर्वप्रकाशकम्।",
+      "shankara_bhashya_english": "Shankara: The knower of Brahman becomes Brahman — not metaphorically but literally. The individual self merges into the universal Self. Brahman is the light of all lights — the consciousness that illumines the sun, moon, and all luminaries. This is the concluding teaching of the Mundaka."
     },
     {
       "upanishad": "mundaka",
