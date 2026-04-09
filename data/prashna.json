@@ -1146,168 +1146,378 @@
       "verse_number": 36,
       "tags": [
         "prana",
-        "Brahman"
+        "waking",
+        "dream",
+        "deep sleep",
+        "states"
       ],
-      "sanskrit": "[Verse 36 — full text coming soon]",
-      "transliteration": "[Verse 36 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 36 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यदा सुप्तः स्वप्नं न कञ्चन पश्यति अथास्मिन् प्राण एवैकधा भवति | तदैनं वाक् सर्वैर्नामभिः सह प्राणमेवापीयते ||४.२||",
+      "transliteration": "yadā suptas svapnaṃ na kañcana paśyati athāsmin prāṇa evaikadha bhavati | tadainaṃ vāk sarvair nāmabhiḥ saha prāṇam evāpīyate ||4.2||",
+      "word_meanings": [
+        {
+          "word": "स्वप्नम् न पश्यति",
+          "meaning": "sees no dream"
+        },
+        {
+          "word": "प्राणे एकधा भवति",
+          "meaning": "becomes unified in prana"
+        },
+        {
+          "word": "वाक् सर्वैः नामभिः",
+          "meaning": "speech with all names"
+        },
+        {
+          "word": "प्राणम् अपीयते",
+          "meaning": "merges into prana"
+        }
+      ],
+      "english_translation": "When the sleeper sees no dream, then he becomes unified in prana alone. Then speech with all names merges into prana.",
+      "shankara_bhashya_sanskrit": "सुषुप्तौ — स्वप्नम् न पश्यति — प्राणे एकधा भवति — सर्वे इन्द्रियाः प्राणे लीयन्ते।",
+      "shankara_bhashya_english": "Shankara: In deep dreamless sleep, all the senses and their objects merge into the chief prana. Speech with all names, sight with all forms, hearing with all sounds — all merge into prana. This is the daily experience of the dissolution of the individual into the universal."
     },
     {
       "upanishad": "prashna",
       "verse_number": 37,
       "tags": [
         "prana",
-        "Brahman"
+        "fire",
+        "sun",
+        "rain",
+        "food",
+        "creation"
       ],
-      "sanskrit": "[Verse 37 — full text coming soon]",
-      "transliteration": "[Verse 37 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 37 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "चक्षुश्च सर्वाणि रूपाणि सह | श्रोत्रं च सर्वे शब्दाः सह | घ्राणं च सर्वे गन्धाः सह | रसश्च सर्वे रसाः सह ||४.३||",
+      "transliteration": "cakṣuś ca sarvāṇi rūpāṇi saha | śrotraṃ ca sarve śabdāḥ saha | ghrāṇaṃ ca sarve gandhāḥ saha | rasaś ca sarve rasāḥ saha ||4.3||",
+      "word_meanings": [
+        {
+          "word": "चक्षुः सर्वाणि रूपाणि सह",
+          "meaning": "sight with all forms"
+        },
+        {
+          "word": "श्रोत्रम् सर्वे शब्दाः सह",
+          "meaning": "hearing with all sounds"
+        },
+        {
+          "word": "घ्राणम् सर्वे गन्धाः सह",
+          "meaning": "smell with all fragrances"
+        },
+        {
+          "word": "रसः सर्वे रसाः सह",
+          "meaning": "taste with all tastes"
+        }
+      ],
+      "english_translation": "Sight with all forms, hearing with all sounds, smell with all fragrances, taste with all tastes — all merge into prana in deep sleep.",
+      "shankara_bhashya_sanskrit": "चक्षुः — सर्वाणि रूपाणि — सह — प्राणे लीयते। एवम् सर्वाणि इन्द्रियाणि।",
+      "shankara_bhashya_english": "Shankara: Each sense organ along with its objects merges into prana in deep sleep. This shows that prana is the ground of all sensory experience. When prana withdraws, all experience ceases. When prana returns, all experience resumes."
     },
     {
       "upanishad": "prashna",
       "verse_number": 38,
       "tags": [
         "prana",
-        "Brahman"
+        "dream",
+        "waking",
+        "fire",
+        "senses"
       ],
-      "sanskrit": "[Verse 38 — full text coming soon]",
-      "transliteration": "[Verse 38 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 38 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स यदा तेजसाऽभिभूतो भवति | अथास्मिन् देवः स्वप्नान् पश्यति ||४.५||",
+      "transliteration": "sa yadā tejasābhibhūto bhavati | athāsmin devaḥ svapnān paśyati ||4.5||",
+      "word_meanings": [
+        {
+          "word": "तेजसा अभिभूतः",
+          "meaning": "overcome by light/fire"
+        },
+        {
+          "word": "देवः स्वप्नान् पश्यति",
+          "meaning": "the god (mind) sees dreams"
+        }
+      ],
+      "english_translation": "When he is overcome by light, then the god (mind) sees dreams.",
+      "shankara_bhashya_sanskrit": "तेजसा — मनसः तेजसा — अभिभूतः — स्वप्नान् पश्यति — मनः स्वप्नावस्थायाम्।",
+      "shankara_bhashya_english": "Shankara: When the mind is activated by its own light (tejas), it sees dreams. In the dream state, the mind creates its own world from the impressions (vasanas) of the waking state. The mind is the 'god' that creates the dream world."
     },
     {
       "upanishad": "prashna",
       "verse_number": 39,
       "tags": [
         "prana",
-        "Brahman"
+        "waking",
+        "dream",
+        "deep sleep",
+        "states"
       ],
-      "sanskrit": "[Verse 39 — full text coming soon]",
-      "transliteration": "[Verse 39 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 39 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यत्र एतत्सुप्तः समस्तः सम्प्रसन्नः स्वप्नं न विजानाति | एष प्राणः ||४.६||",
+      "transliteration": "yatra etat suptaḥ samastas samprasannaḥ svapnaṃ na vijānāti | eṣa prāṇaḥ ||4.6||",
+      "word_meanings": [
+        {
+          "word": "सुप्तः समस्तः सम्प्रसन्नः",
+          "meaning": "sleeping, complete, serene"
+        },
+        {
+          "word": "स्वप्नम् न विजानाति",
+          "meaning": "does not know any dream"
+        },
+        {
+          "word": "एषः प्राणः",
+          "meaning": "this is prana"
+        }
+      ],
+      "english_translation": "Where this one, sleeping, complete and serene, does not know any dream — this is prana.",
+      "shankara_bhashya_sanskrit": "सुप्तः — समस्तः — सम्प्रसन्नः — स्वप्नम् न विजानाति — एषः प्राणः — सुषुप्त्यवस्था।",
+      "shankara_bhashya_english": "Shankara: In deep sleep, the person is complete and serene — all the senses have merged into prana. There are no dreams, no thoughts, no desires. This state of completeness and serenity is the closest ordinary experience to the bliss of Brahman."
     },
     {
       "upanishad": "prashna",
       "verse_number": 40,
       "tags": [
         "prana",
-        "Brahman"
+        "fire",
+        "sun",
+        "rain",
+        "food",
+        "creation"
       ],
-      "sanskrit": "[Verse 40 — full text coming soon]",
-      "transliteration": "[Verse 40 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 40 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "प्राणो ह पिता प्राणो माता प्राणो भ्राता प्राणः स्वसा प्राण आचार्यः प्राणो ब्राह्मणः ||२.१३||",
+      "transliteration": "prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ ||2.13||",
+      "word_meanings": [
+        {
+          "word": "प्राणः पिता",
+          "meaning": "prana is the father"
+        },
+        {
+          "word": "प्राणः माता",
+          "meaning": "prana is the mother"
+        },
+        {
+          "word": "प्राणः ब्राह्मणः",
+          "meaning": "prana is Brahman"
+        }
+      ],
+      "english_translation": "Prana is the father, prana is the mother, prana is the brother, prana is the sister, prana is the teacher, prana is Brahman.",
+      "shankara_bhashya_sanskrit": "प्राणः — सर्वस्य — पिता माता भ्राता स्वसा आचार्यः — ब्राह्मणः — ब्रह्मस्वरूपः।",
+      "shankara_bhashya_english": "Shankara: Prana is identified with all relationships and ultimately with Brahman. All relationships are sustained by prana (consciousness). When prana departs, all relationships end. Therefore prana is the ultimate reality behind all bonds."
     },
     {
       "upanishad": "prashna",
       "verse_number": 41,
       "tags": [
         "prana",
-        "Brahman"
+        "fire",
+        "sun",
+        "rain",
+        "food",
+        "creation"
       ],
-      "sanskrit": "[Verse 41 — full text coming soon]",
-      "transliteration": "[Verse 41 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 41 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यथा इमाः सर्वाः प्रजाः अहरहर्गच्छन्त्यो मृत्युं न विन्दन्ति | अथ यदा प्रयान्ति अथ मृत्युमेव गच्छन्ति ||१.१०||",
+      "transliteration": "yathā imāḥ sarvāḥ prajāḥ ahar ahar gacchantyo mṛtyuṃ na vindanti | atha yadā prayānti atha mṛtyum eva gacchanti ||1.10||",
+      "word_meanings": [
+        {
+          "word": "अहरहः गच्छन्त्यः",
+          "meaning": "going day by day"
+        },
+        {
+          "word": "मृत्युम् न विन्दन्ति",
+          "meaning": "do not find death"
+        },
+        {
+          "word": "यदा प्रयान्ति",
+          "meaning": "when they depart"
+        },
+        {
+          "word": "मृत्युम् गच्छन्ति",
+          "meaning": "they go to death"
+        }
+      ],
+      "english_translation": "As all these creatures go day by day without finding death — but when they depart, they go to death.",
+      "shankara_bhashya_sanskrit": "अहरहः — प्रतिदिनम् — मृत्युम् न विन्दन्ति — जीवन्ति। यदा प्रयान्ति — मृत्युकाले — मृत्युम् गच्छन्ति।",
+      "shankara_bhashya_english": "Shankara: Creatures live day by day without consciously encountering death — yet they are moving toward it with every breath. When the time comes, they go to death. This teaching on the inevitability of death motivates the seeker to pursue the knowledge of the immortal Self."
     },
     {
       "upanishad": "prashna",
       "verse_number": 42,
       "tags": [
         "prana",
-        "Brahman"
+        "fire",
+        "sun",
+        "rain",
+        "food",
+        "creation"
       ],
-      "sanskrit": "[Verse 42 — full text coming soon]",
-      "transliteration": "[Verse 42 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 42 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तस्माद्वा एतमोंकारमेवायतनमालम्बनं ब्रह्मविदो ब्रह्म उपासते ||५.२||",
+      "transliteration": "tasmād vā etam oṃkāram evāyatanam ālambanam brahmavidо brahma upāsate ||5.2||",
+      "word_meanings": [
+        {
+          "word": "ओंकारम् आयतनम् आलम्बनम्",
+          "meaning": "Om as the support and refuge"
+        },
+        {
+          "word": "ब्रह्मविदः",
+          "meaning": "knowers of Brahman"
+        },
+        {
+          "word": "ब्रह्म उपासते",
+          "meaning": "meditate on Brahman"
+        }
+      ],
+      "english_translation": "Therefore the knowers of Brahman meditate on Brahman using Om as the support and refuge.",
+      "shankara_bhashya_sanskrit": "ओंकारम् — आयतनम् — आलम्बनम् — ब्रह्मविदः — ब्रह्म उपासते।",
+      "shankara_bhashya_english": "Shankara: The knowers of Brahman use Om as their support and refuge in meditation. Om is the bridge between the finite and the infinite — by meditating on Om, one moves from the lower Brahman (saguna) to the higher Brahman (nirguna)."
     },
     {
       "upanishad": "prashna",
       "verse_number": 43,
       "tags": [
-        "prana",
-        "Brahman"
+        "Om",
+        "three matras",
+        "Brahman",
+        "higher lower",
+        "meditation"
       ],
-      "sanskrit": "[Verse 43 — full text coming soon]",
-      "transliteration": "[Verse 43 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 43 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स यो ह वाव तमोंकारमनुविद्य किञ्चिदिच्छति तस्य तत् क्षिप्रमेव भवति ||५.७||",
+      "transliteration": "sa yo ha vāva tam oṃkāram anuvidy kiñcid icchati tasya tat kṣipram eva bhavati ||5.7||",
+      "word_meanings": [
+        {
+          "word": "ओंकारम् अनुविद्य",
+          "meaning": "having known Om"
+        },
+        {
+          "word": "किञ्चित् इच्छति",
+          "meaning": "desires anything"
+        },
+        {
+          "word": "तस्य तत् क्षिप्रम् भवति",
+          "meaning": "that quickly comes to him"
+        }
+      ],
+      "english_translation": "One who has known Om — whatever he desires quickly comes to him.",
+      "shankara_bhashya_sanskrit": "ओंकारम् अनुविद्य — यः ओंकारम् जानाति — किञ्चित् इच्छति — तस्य तत् क्षिप्रम् भवति।",
+      "shankara_bhashya_english": "Shankara: One who truly knows Om — who meditates on it with understanding — attains whatever he desires quickly. For the highest seeker, the desire is liberation, and that too is quickly attained through the knowledge of Om as Brahman."
     },
     {
       "upanishad": "prashna",
       "verse_number": 44,
       "tags": [
-        "prana",
-        "Brahman"
+        "Om",
+        "three matras",
+        "Brahman",
+        "higher lower",
+        "meditation"
       ],
-      "sanskrit": "[Verse 44 — full text coming soon]",
-      "transliteration": "[Verse 44 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 44 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "एतद्वै सत्यकाम परं चापरं च ब्रह्म यदोंकारः | तस्माद्विद्वानेतेनैवायतनेनैकतरमन्वेति ||५.२||",
+      "transliteration": "etad vai satyakāma paraṃ cāparaṃ ca brahma yad oṃkāraḥ | tasmād vidvān etenaivāyatanenaika taram anveti ||5.2||",
+      "word_meanings": [
+        {
+          "word": "परम् च अपरम् च ब्रह्म",
+          "meaning": "both the higher and lower Brahman"
+        },
+        {
+          "word": "यत् ओंकारः",
+          "meaning": "which is Om"
+        },
+        {
+          "word": "एकतरम् अन्वेति",
+          "meaning": "reaches one or the other"
+        }
+      ],
+      "english_translation": "O Satyakama, Om is indeed both the higher and lower Brahman. Therefore the wise one reaches one or the other using Om as support.",
+      "shankara_bhashya_sanskrit": "ओंकारः — परम् ब्रह्म — अपरम् ब्रह्म च। एतेन — ओंकारेण — विद्वान् — परम् वा अपरम् वा — प्राप्नोति।",
+      "shankara_bhashya_english": "Shankara: Om is both the higher Brahman (nirguna) and the lower Brahman (saguna). Depending on the depth of meditation, the meditator reaches either Brahmaloka or liberation. Om is the universal bridge."
     },
     {
       "upanishad": "prashna",
       "verse_number": 45,
       "tags": [
-        "prana",
-        "Brahman"
+        "Om",
+        "one matra",
+        "human world",
+        "Rigveda"
       ],
-      "sanskrit": "[Verse 45 — full text coming soon]",
-      "transliteration": "[Verse 45 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 45 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स यद्येकमात्रमभिध्यायीत | स तेनैव संवेदितस्तूर्णमेव जगत्यामभिसम्पद्यते | तमृचो मनुष्यलोकमुपनयन्ते ||५.३||",
+      "transliteration": "sa yady ekamātram abhidhyāyīta | sa tenaiva saṃveditastūrṇam eva jagatyām abhisampadyate | tam ṛco manuṣyalokam upanayante ||5.3||",
+      "word_meanings": [
+        {
+          "word": "एकमात्रम् अभिध्यायीत",
+          "meaning": "meditates on one matra (A)"
+        },
+        {
+          "word": "तूर्णम् जगत्याम् अभिसम्पद्यते",
+          "meaning": "quickly returns to the human world"
+        },
+        {
+          "word": "ऋचः मनुष्यलोकम् उपनयन्ते",
+          "meaning": "the Rig verses lead to the human world"
+        }
+      ],
+      "english_translation": "If one meditates on one matra (A), quickly returning to the human world, the Rig verses lead him to the human world.",
+      "shankara_bhashya_sanskrit": "एकमात्रम् — अकारम् — अभिध्यायीत — मनुष्यलोकम् — प्राप्नोति।",
+      "shankara_bhashya_english": "Shankara: Meditation on the first matra (A) of Om leads to the human world after death — one is reborn as a human with good qualities. The Rig Veda corresponds to the first matra and the human world."
     },
     {
       "upanishad": "prashna",
       "verse_number": 46,
       "tags": [
-        "prana",
-        "Brahman"
+        "Om",
+        "two matras",
+        "lunar world",
+        "Yajurveda"
       ],
-      "sanskrit": "[Verse 46 — full text coming soon]",
-      "transliteration": "[Verse 46 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 46 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "अथ यद्द्विमात्रेण मनसि सम्पद्यते | सोऽन्तरिक्षं यजुर्भिरुन्नीयते सोमलोकम् | सोमलोके विभूतिमनुभूय पुनरावर्तते ||५.४||",
+      "transliteration": "atha yad dvimātreṇa manasi sampadyate | so'ntarikṣaṃ yajurbhir unnīyate somalokam | somaloke vibhūtim anubhūya punar āvartate ||5.4||",
+      "word_meanings": [
+        {
+          "word": "द्विमात्रेण",
+          "meaning": "by two matras (AU)"
+        },
+        {
+          "word": "मनसि सम्पद्यते",
+          "meaning": "merges into the mind"
+        },
+        {
+          "word": "सोमलोकम् उन्नीयते",
+          "meaning": "is led to the lunar world"
+        },
+        {
+          "word": "पुनः आवर्तते",
+          "meaning": "returns again"
+        }
+      ],
+      "english_translation": "By two matras (AU), merging into the mind, one is led by the Yajur verses to the lunar world. Having enjoyed greatness in the lunar world, one returns again.",
+      "shankara_bhashya_sanskrit": "द्विमात्रेण — अकारोकारेण — सोमलोकम् — प्राप्नोति — पुनः आवर्तते।",
+      "shankara_bhashya_english": "Shankara: Meditation on two matras (A and U) of Om leads to the lunar world — a higher realm of enjoyment. But one returns from there, as it is not liberation. The Yajur Veda corresponds to the second matra and the lunar world."
     },
     {
       "upanishad": "prashna",
       "verse_number": 47,
       "tags": [
-        "prana",
-        "Brahman"
+        "Om",
+        "three matras",
+        "Brahmaloka",
+        "Samaveda",
+        "liberation"
       ],
-      "sanskrit": "[Verse 47 — full text coming soon]",
-      "transliteration": "[Verse 47 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 47 of the Prashna Upanishad.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यः पुनरेतं त्रिमात्रेणोमित्येतेनैवाक्षरेण परं पुरुषमभिध्यायीत | स तेजसि सूर्ये सम्पन्नः | यथा पादोदरस्त्वचा विनिर्मुच्यते एवं ह वै स पाप्मना विनिर्मुक्तः ||५.५||",
+      "transliteration": "yaḥ punar etaṃ trimātreṇom ity etenaivākṣareṇa paraṃ puruṣam abhidhyāyīta | sa tejasi sūrye sampannaḥ | yathā pādodaras tvacā vinirmucyate evam ha vai sa pāpmanā vinirmuktaḥ ||5.5||",
+      "word_meanings": [
+        {
+          "word": "त्रिमात्रेण ओम् इति",
+          "meaning": "by three matras, Om"
+        },
+        {
+          "word": "परम् पुरुषम् अभिध्यायीत",
+          "meaning": "meditates on the supreme Person"
+        },
+        {
+          "word": "तेजसि सूर्ये सम्पन्नः",
+          "meaning": "merges into the light of the sun"
+        },
+        {
+          "word": "पाप्मना विनिर्मुक्तः",
+          "meaning": "freed from all sin"
+        }
+      ],
+      "english_translation": "One who meditates on the supreme Person through all three matras of Om merges into the light of the sun. As a snake is freed from its skin, so he is freed from all sin.",
+      "shankara_bhashya_sanskrit": "त्रिमात्रेण — ओंकारेण — परम् पुरुषम् — अभिध्यायीत — सूर्ये सम्पन्नः — पाप्मना विनिर्मुक्तः।",
+      "shankara_bhashya_english": "Shankara: Meditation on all three matras of Om leads to the highest result — merging into the light of the sun (Brahmaloka). As a snake sheds its skin, the meditator is freed from all sin and karma. The Sama Veda corresponds to the third matra and the solar world."
     },
     {
       "upanishad": "prashna",

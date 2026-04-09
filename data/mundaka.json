@@ -1024,98 +1024,254 @@
       "verse_number": 30,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 30 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 30 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 30 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "तपसा चीयते ब्रह्म ततोऽन्नमभिजायते | अन्नात्प्राणो मनः सत्यं लोकाः कर्मसु चामृतम् ||१.१.८||",
+      "transliteration": "tapasā cīyate brahma tato'nnam abhijāyate | annāt prāṇo manaḥ satyaṃ lokāḥ karmasu cāmṛtam ||1.1.8||",
+      "word_meanings": [
+        {
+          "word": "तपसा ब्रह्म चीयते",
+          "meaning": "Brahman grows through austerity"
+        },
+        {
+          "word": "अन्नम् अभिजायते",
+          "meaning": "food is born"
+        },
+        {
+          "word": "अन्नात् प्राणः",
+          "meaning": "from food, prana"
+        },
+        {
+          "word": "मनः सत्यम्",
+          "meaning": "mind, truth"
+        },
+        {
+          "word": "लोकाः कर्मसु अमृतम्",
+          "meaning": "worlds, actions, and immortality"
+        }
+      ],
+      "english_translation": "Through austerity Brahman grows; from that food is born; from food, prana; mind; truth; worlds; actions; and immortality.",
+      "shankara_bhashya_sanskrit": "तपसा — ब्रह्मणः संकल्पेन — अन्नम् — प्राणः — मनः — सत्यम् — लोकाः — क्रमेण उत्पद्यन्ते।",
+      "shankara_bhashya_english": "Shankara: Through the austerity (tapas = creative will) of Brahman, the entire chain of creation unfolds: food, prana, mind, truth, worlds, actions, and immortality. This describes the cosmological sequence from Brahman to the manifest world."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 31,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 31 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 31 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 31 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यः सर्वज्ञः सर्वविद्यस्यैष महिमा भुवि | दिव्ये ब्रह्मपुरे ह्येष व्योम्न्यात्मा प्रतिष्ठितः ||२.२.७||",
+      "transliteration": "yaḥ sarvajñaḥ sarvavid yasyaiṣa mahimā bhuvi | divye brahma-pure hy eṣa vyomny ātmā pratiṣṭhitaḥ ||2.2.7||",
+      "word_meanings": [
+        {
+          "word": "सर्वज्ञः सर्ववित्",
+          "meaning": "omniscient, all-knowing"
+        },
+        {
+          "word": "यस्य महिमा भुवि",
+          "meaning": "whose glory is on earth"
+        },
+        {
+          "word": "दिव्ये ब्रह्मपुरे",
+          "meaning": "in the divine city of Brahman"
+        },
+        {
+          "word": "व्योम्नि आत्मा प्रतिष्ठितः",
+          "meaning": "the Self is established in the ether"
+        }
+      ],
+      "english_translation": "He who is omniscient, all-knowing, whose glory is on earth — in the divine city of Brahman, the Self is established in the ether of the heart.",
+      "shankara_bhashya_sanskrit": "सर्वज्ञः — सर्वम् जानाति। दिव्ये ब्रह्मपुरे — हृदयाकाशे — आत्मा प्रतिष्ठितः।",
+      "shankara_bhashya_english": "Shankara: The omniscient Brahman is established in the ether of the heart — the 'divine city of Brahman' is the body, and the heart is its innermost chamber where the Self dwells. The Self is both the cosmic omniscient and the intimate inner presence."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 32,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 32 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 32 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 32 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "मनोमयः प्राणशरीरनेता प्रतिष्ठितोऽन्ने हृदयं सन्निधाय | तद्विज्ञानेन परिपश्यन्ति धीरा आनन्दरूपममृतं यद्विभाति ||२.२.७||",
+      "transliteration": "manomayaḥ prāṇaśarīranetā pratiṣṭhito'nne hṛdayaṃ sannidhāya | tad vijñānena paripaśyanti dhīrā ānandarūpam amṛtaṃ yad vibhāti ||2.2.7||",
+      "word_meanings": [
+        {
+          "word": "मनोमयः प्राणशरीरनेता",
+          "meaning": "made of mind, leader of prana and body"
+        },
+        {
+          "word": "अन्ने प्रतिष्ठितः",
+          "meaning": "established in food"
+        },
+        {
+          "word": "हृदयम् सन्निधाय",
+          "meaning": "dwelling in the heart"
+        },
+        {
+          "word": "आनन्दरूपम् अमृतम्",
+          "meaning": "of the form of bliss, immortal"
+        },
+        {
+          "word": "यत् विभाति",
+          "meaning": "which shines"
+        }
+      ],
+      "english_translation": "Made of mind, leader of prana and body, established in food, dwelling in the heart — the wise perceive through knowledge that which shines as bliss, as immortal.",
+      "shankara_bhashya_sanskrit": "मनोमयः — मनःस्वरूपः। प्राणशरीरनेता — प्राणस्य शरीरस्य च नेता। हृदये — सन्निधाय — आनन्दरूपम् — अमृतम् — विभाति।",
+      "shankara_bhashya_english": "Shankara: The Self is made of mind (consciousness), leads prana and the body, and dwells in the heart. The wise perceive it through knowledge as the shining, blissful, immortal Brahman. This is the direct vision of the Self in the heart."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 33,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 33 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 33 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 33 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः | क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे ||२.२.८||",
+      "transliteration": "bhidyate hṛdayagranthiś chidyante sarvasaṃśayāḥ | kṣīyante cāsya karmāṇi tasmin dṛṣṭe parāvare ||2.2.8||",
+      "word_meanings": [
+        {
+          "word": "हृदयग्रन्थिः भिद्यते",
+          "meaning": "the knot of the heart is cut"
+        },
+        {
+          "word": "सर्वसंशयाः छिद्यन्ते",
+          "meaning": "all doubts are severed"
+        },
+        {
+          "word": "कर्माणि क्षीयन्ते",
+          "meaning": "all karmas are destroyed"
+        },
+        {
+          "word": "परावरे दृष्टे",
+          "meaning": "when the higher and lower are seen as one"
+        }
+      ],
+      "english_translation": "The knot of the heart is cut, all doubts are severed, and all karmas are destroyed when the higher and lower are seen as one.",
+      "shankara_bhashya_sanskrit": "हृदयग्रन्थिः — अविद्याकामकर्मरूपः — भिद्यते। परावरे दृष्टे — जीवब्रह्मैक्यम् ज्ञात्वा।",
+      "shankara_bhashya_english": "Shankara: When the identity of the individual self (avara) and Brahman (para) is directly realized, the knot of ignorance is cut, all doubts vanish, and all karmas are destroyed. This is the most celebrated verse of the Mundaka — the description of liberation."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 34,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 34 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 34 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 34 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स वेदैतत्परमं ब्रह्म धाम | यत्र विश्वं निहितं भाति शुभ्रम् | उपासते पुरुषं ये ह्यकामास्ते शुक्रमेतदतिवर्तन्ति धीराः ||३.२.१||",
+      "transliteration": "sa vedaitat paramaṃ brahma dhāma | yatra viśvaṃ nihitaṃ bhāti śubhram | upāsate puruṣaṃ ye hy akāmās te śukram etad ativartanti dhīrāḥ ||3.2.1||",
+      "word_meanings": [
+        {
+          "word": "परमम् ब्रह्म धाम",
+          "meaning": "the supreme abode of Brahman"
+        },
+        {
+          "word": "यत्र विश्वम् निहितम्",
+          "meaning": "in which the universe is established"
+        },
+        {
+          "word": "अकामाः धीराः",
+          "meaning": "the wise who are free from desire"
+        },
+        {
+          "word": "शुक्रम् अतिवर्तन्ति",
+          "meaning": "go beyond the bright one"
+        }
+      ],
+      "english_translation": "He knows this supreme abode of Brahman, in which the universe is established and shines pure. The wise who are free from desire go beyond this bright one.",
+      "shankara_bhashya_sanskrit": "परमम् ब्रह्म धाम — ब्रह्मणः उत्तमम् स्थानम्। अकामाः — इच्छारहिताः — धीराः — शुक्रम् अतिवर्तन्ति।",
+      "shankara_bhashya_english": "Shankara: The supreme abode of Brahman is where the entire universe is established and shines pure. The wise who are free from desire go beyond even the bright Brahmaloka — they attain the highest Brahman, beyond all worlds."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 35,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 35 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 35 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 35 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "कामान् यः कामयते मन्यमानः स कर्मभिर्जायते तत्र तत्र | पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ||३.२.२||",
+      "transliteration": "kāmān yaḥ kāmayate manyamānaḥ sa karmabhir jāyate tatra tatra | pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate ||3.2.2||",
+      "word_meanings": [
+        {
+          "word": "कामान् कामयते",
+          "meaning": "one who desires desires"
+        },
+        {
+          "word": "कर्मभिः जायते",
+          "meaning": "is born through karmas"
+        },
+        {
+          "word": "पूर्णस्य पूर्णम् आदाय",
+          "meaning": "taking the full from the full"
+        },
+        {
+          "word": "पूर्णम् एव अवशिष्यते",
+          "meaning": "the full alone remains"
+        }
+      ],
+      "english_translation": "One who desires desires is born through karmas here and there. Taking the full from the full, the full alone remains.",
+      "shankara_bhashya_sanskrit": "कामान् कामयते — इच्छाः इच्छति — कर्मभिः जायते। पूर्णस्य पूर्णम् आदाय — ब्रह्मणः जगत् उत्पन्नम् — ब्रह्म पूर्णम् एव।",
+      "shankara_bhashya_english": "Shankara: One who desires continues to be reborn through karma. But Brahman is the fullness — taking the full (the world) from the full (Brahman), the full (Brahman) alone remains. This famous verse from the Isha Upanishad is echoed here — Brahman's fullness is never diminished by creation."
     },
     {
       "upanishad": "mundaka",
       "verse_number": 36,
       "tags": [
         "Brahman",
-        "knowledge"
+        "known",
+        "liberation",
+        "Atman",
+        "all"
       ],
-      "sanskrit": "[Verse 36 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 36 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 36 of the Mundaka Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "स य एवं विद्वान् ब्रह्मविद् ब्रह्मैव भवति | नास्यादहीयसे गोत्रे जायते | स तरति शोकं तरति पाप्मानम् | गुहाग्रन्थिभ्यो विमुक्तोऽमृतो भवति ||३.२.९||",
+      "transliteration": "sa ya evaṃ vidvān brahmavid brahmaiva bhavati | nāsyādahīyase gotre jāyate | sa tarati śokaṃ tarati pāpmānam | guhāgranthibhyo vimukto'mṛto bhavati ||3.2.9||",
+      "word_meanings": [
+        {
+          "word": "ब्रह्मवित् ब्रह्म एव भवति",
+          "meaning": "the knower of Brahman becomes Brahman"
+        },
+        {
+          "word": "गोत्रे न जायते",
+          "meaning": "is not born in the lineage"
+        },
+        {
+          "word": "शोकम् तरति",
+          "meaning": "crosses grief"
+        },
+        {
+          "word": "पाप्मानम् तरति",
+          "meaning": "crosses sin"
+        },
+        {
+          "word": "गुहाग्रन्थिभ्यः विमुक्तः",
+          "meaning": "freed from the knots of the cave"
+        },
+        {
+          "word": "अमृतः भवति",
+          "meaning": "becomes immortal"
+        }
+      ],
+      "english_translation": "One who knows thus — the knower of Brahman becomes Brahman itself. He is not born in the lineage. He crosses grief, crosses sin, freed from the knots of the cave, he becomes immortal.",
+      "shankara_bhashya_sanskrit": "ब्रह्मवित् — ब्रह्म एव भवति — ब्रह्मैक्यम् प्राप्नोति। शोकम् तरति — पाप्मानम् तरति — अमृतः भवति।",
+      "shankara_bhashya_english": "Shankara: The knower of Brahman becomes Brahman — not metaphorically but literally. He crosses grief and sin, is freed from the knots of the heart (the cave), and becomes immortal. This is the final teaching of the Mundaka — the complete description of liberation."
     },
     {
       "upanishad": "mundaka",
