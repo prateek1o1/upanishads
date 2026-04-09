@@ -1348,85 +1348,201 @@
       "upanishad": "katha",
       "verse_number": 40,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 40 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 40 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 40 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||१.२.१८||",
+      "transliteration": "na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||1.2.18||",
+      "word_meanings": [
+        {
+          "word": "न जायते न म्रियते",
+          "meaning": "is not born, does not die"
+        },
+        {
+          "word": "अजः नित्यः शाश्वतः",
+          "meaning": "unborn, eternal, everlasting"
+        },
+        {
+          "word": "पुराणः",
+          "meaning": "ancient"
+        },
+        {
+          "word": "न हन्यते हन्यमाने शरीरे",
+          "meaning": "not killed when the body is killed"
+        }
+      ],
+      "english_translation": "The wise one is not born, nor does it die. It did not come from anywhere, nor did it become anything. Unborn, eternal, everlasting, ancient — it is not killed when the body is killed.",
+      "shankara_bhashya_sanskrit": "न जायते — उत्पत्तिरहितः। न म्रियते — विनाशरहितः। अजः — जन्मरहितः। नित्यः — कालत्रयेऽपि अस्ति।",
+      "shankara_bhashya_english": "Shankara: The Self is beyond birth and death. It was not born, it does not die, it has no origin and no end. When the body is destroyed, the Self is not destroyed — for the Self is not the body. This verse also appears in the Bhagavad Gita (2.20)."
     },
     {
       "upanishad": "katha",
       "verse_number": 41,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 41 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 41 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 41 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "हन्ता चेन्मन्यते हन्तुं हतश्चेन्मन्यते हतम् | उभौ तौ न विजानीतो नायं हन्ति न हन्यते ||१.२.१९||",
+      "transliteration": "hantā cen manyate hantuṃ hataś cen manyate hatam | ubhau tau na vijānīto nāyaṃ hanti na hanyate ||1.2.19||",
+      "word_meanings": [
+        {
+          "word": "हन्ता मन्यते हन्तुम्",
+          "meaning": "if the killer thinks he kills"
+        },
+        {
+          "word": "हतः मन्यते हतम्",
+          "meaning": "if the killed thinks he is killed"
+        },
+        {
+          "word": "उभौ न विजानीतः",
+          "meaning": "both do not know"
+        },
+        {
+          "word": "न हन्ति न हन्यते",
+          "meaning": "it neither kills nor is killed"
+        }
+      ],
+      "english_translation": "If the killer thinks he kills, and if the killed thinks he is killed — both of them do not know. This one neither kills nor is killed.",
+      "shankara_bhashya_sanskrit": "हन्ता — यः मन्यते — अहम् हन्मि — सः न जानाति। हतः — यः मन्यते — अहम् हतः — सः न जानाति। आत्मा — न हन्ति — न हन्यते।",
+      "shankara_bhashya_english": "Shankara: Both the killer and the killed are mistaken — they identify with the body, not the Self. The Self neither kills nor is killed — it is the eternal witness, beyond all action and its consequences. This verse also appears in the Bhagavad Gita (2.19)."
     },
     {
       "upanishad": "katha",
       "verse_number": 42,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 42 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 42 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 42 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "आत्मानं रथिनं विद्धि शरीरं रथमेव तु | बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च ||१.३.३||",
+      "transliteration": "ātmānaṃ rathinaṃ viddhi śarīraṃ ratham eva tu | buddhiṃ tu sārathiṃ viddhi manaḥ pragraham eva ca ||1.3.3||",
+      "word_meanings": [
+        {
+          "word": "आत्मानम् रथिनम् विद्धि",
+          "meaning": "know the Self as the rider"
+        },
+        {
+          "word": "शरीरम् रथम्",
+          "meaning": "the body is the chariot"
+        },
+        {
+          "word": "बुद्धिम् सारथिम्",
+          "meaning": "the intellect is the charioteer"
+        },
+        {
+          "word": "मनः प्रग्रहम्",
+          "meaning": "the mind is the reins"
+        }
+      ],
+      "english_translation": "Know the Self as the rider of the chariot, the body as the chariot, the intellect as the charioteer, and the mind as the reins.",
+      "shankara_bhashya_sanskrit": "आत्मा — रथी — भोक्ता। शरीरम् — रथः। बुद्धिः — सारथिः। मनः — प्रग्रहः।",
+      "shankara_bhashya_english": "Shankara: The chariot analogy: the Self is the passenger, the body is the vehicle, the intellect is the driver, the mind is the reins, the senses are the horses, and the sense objects are the roads. The goal is to control the horses (senses) through the reins (mind) guided by the charioteer (intellect) so the passenger (Self) reaches its destination (liberation)."
     },
     {
       "upanishad": "katha",
       "verse_number": 43,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 43 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 43 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 43 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "इन्द्रियाणि हयानाहुर्विषयांस्तेषु गोचरान् | आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः ||१.३.४||",
+      "transliteration": "indriyāṇi hayān āhur viṣayāṃs teṣu gocarān | ātmendriyamanoyuktaṃ bhoktety āhur manīṣiṇaḥ ||1.3.4||",
+      "word_meanings": [
+        {
+          "word": "इन्द्रियाणि हयाः",
+          "meaning": "the senses are the horses"
+        },
+        {
+          "word": "विषयाः गोचराः",
+          "meaning": "sense objects are the roads"
+        },
+        {
+          "word": "भोक्ता",
+          "meaning": "the enjoyer"
+        }
+      ],
+      "english_translation": "The senses are called the horses; the sense objects are their roads. The Self joined with the senses and mind — the wise call it the enjoyer.",
+      "shankara_bhashya_sanskrit": "इन्द्रियाणि — हयाः — विषयेषु धावन्ति। आत्मा इन्द्रियमनोयुक्तः — भोक्ता — संसारी।",
+      "shankara_bhashya_english": "Shankara: The senses are like horses that run toward their objects. The Self, when identified with the senses and mind, becomes the enjoyer — the bound individual soul in samsara. Liberation comes when the Self recognizes itself as the witness, not the enjoyer."
     },
     {
       "upanishad": "katha",
       "verse_number": 44,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 44 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 44 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 44 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यस्त्वविज्ञानवान् भवत्ययुक्तेन मनसा सदा | तस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ||१.३.५||",
+      "transliteration": "yas tv avijñānavān bhavaty ayuktena manasā sadā | tasyendriyāṇy avaśyāni duṣṭāśvā iva sārtheḥ ||1.3.5||",
+      "word_meanings": [
+        {
+          "word": "अविज्ञानवान्",
+          "meaning": "one without discrimination"
+        },
+        {
+          "word": "अयुक्तेन मनसा",
+          "meaning": "with uncontrolled mind"
+        },
+        {
+          "word": "इन्द्रियाणि अवश्यानि",
+          "meaning": "uncontrolled senses"
+        },
+        {
+          "word": "दुष्टाश्वाः",
+          "meaning": "vicious horses"
+        }
+      ],
+      "english_translation": "One who is without discrimination, with always uncontrolled mind — his senses are uncontrolled, like vicious horses of a charioteer.",
+      "shankara_bhashya_sanskrit": "अविज्ञानवान् — विवेकरहितः — अयुक्तेन मनसा — असंयतचित्तेन — तस्य इन्द्रियाणि अवश्यानि।",
+      "shankara_bhashya_english": "Shankara: Without discrimination and an uncontrolled mind, the senses run wild like vicious horses. Such a person is dragged through samsara. The solution is to develop discrimination (viveka) and control the mind through the reins of the intellect."
     },
     {
       "upanishad": "katha",
       "verse_number": 45,
       "tags": [
-        "Brahman",
-        "knowledge"
+        "Atman",
+        "Yama",
+        "teaching",
+        "Nachiketa",
+        "liberation"
       ],
-      "sanskrit": "[Verse 45 — full Sanskrit text coming soon]",
-      "transliteration": "[Verse 45 transliteration coming soon]",
-      "word_meanings": [],
-      "english_translation": "Verse 45 of the Katha Upanishad. Full content will be added.",
-      "shankara_bhashya_sanskrit": "",
-      "shankara_bhashya_english": ""
+      "sanskrit": "यस्तु विज्ञानवान् भवति युक्तेन मनसा सदा | तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ||१.३.६||",
+      "transliteration": "yas tu vijñānavān bhavati yuktena manasā sadā | tasyendriyāṇi vaśyāni sadaśvā iva sārtheḥ ||1.3.6||",
+      "word_meanings": [
+        {
+          "word": "विज्ञानवान्",
+          "meaning": "one with discrimination"
+        },
+        {
+          "word": "युक्तेन मनसा",
+          "meaning": "with controlled mind"
+        },
+        {
+          "word": "इन्द्रियाणि वश्यानि",
+          "meaning": "controlled senses"
+        },
+        {
+          "word": "सदश्वाः",
+          "meaning": "good horses"
+        }
+      ],
+      "english_translation": "One who has discrimination, with always controlled mind — his senses are controlled, like good horses of a charioteer.",
+      "shankara_bhashya_sanskrit": "विज्ञानवान् — विवेकी — युक्तेन मनसा — संयतचित्तेन — तस्य इन्द्रियाणि वश्यानि — सदश्वाः इव।",
+      "shankara_bhashya_english": "Shankara: With discrimination and a controlled mind, the senses are like good horses — they go where directed. Such a person moves steadily toward liberation. This is the positive counterpart to the previous verse — the description of the qualified seeker."
     },
     {
       "upanishad": "katha",
