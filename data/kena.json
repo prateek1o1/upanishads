@@ -1,1 +1,925 @@
-{"id":"kena","name":"Kena Upanishad","name_sanskrit":"केनोपनिषद्","tradition":"Samaveda","summary":"The Kena Upanishad asks 'By whom?' — by whose will does the mind think, the eye see, the ear hear? It teaches that Brahman is the unseen Seer, the unheard Hearer — the ground of all knowing, itself unknown by the ordinary mind.","total_verses":35,"verses":[{"upanishad":"kena","verse_number":1,"tags":["Brahman","mind","senses","inquiry"],"sanskrit":"केनेषितं पतति प्रेषितं मनः केन प्राणः प्रथमः प्रैति युक्तः |\nकेनेषितां वाचमिमां वदन्ति चक्षुः श्रोत्रं क उ देवो युनक्ति ||१||","transliteration":"keneṣitaṃ patati preṣitaṃ manaḥ kena prāṇaḥ prathamaḥ praiti yuktaḥ |\nkeneṣitāṃ vācam imāṃ vadanti cakṣuḥ śrotraṃ ka u devo yunakti ||1||","word_meanings":[{"word":"केन इषितम्","meaning":"willed/directed by whom"},{"word":"मनः","meaning":"the mind"},{"word":"प्राणः प्रथमः","meaning":"the chief vital breath"},{"word":"वाचम् वदन्ति","meaning":"speak speech"},{"word":"चक्षुः श्रोत्रम्","meaning":"eye and ear"}],"english_translation":"Willed by whom does the directed mind fall upon its objects? By whom is the first vital breath set in motion? By whose will do people utter this speech? What god directs the eye and ear?","shankara_bhashya_sanskrit":"केन — कस्य प्रेरणया — मनः इषितम् — प्रेरितम् — विषयेषु पतति। प्राणः प्रथमः — मुख्यप्राणः — केन युक्तः प्रैति।","shankara_bhashya_english":"Shankara: By whose impulsion does the mind fall on its objects? By whom is the chief prana set in motion? The student asks about the ultimate ground of all cognitive and vital activity."},{"upanishad":"kena","verse_number":2,"tags":["Brahman","eye of the eye","ear of the ear"],"sanskrit":"श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं स उ प्राणस्य प्राणः |\nचक्षुषश्चक्षुरतिमुच्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति ||२||","transliteration":"śrotrasya śrotraṃ manaso mano yad vāco ha vācaṃ sa u prāṇasya prāṇaḥ |\ncakṣuṣaś cakṣur ati mucya dhīrāḥ pretyāsmāl lokād amṛtā bhavanti ||2||","word_meanings":[{"word":"श्रोत्रस्य श्रोत्रम्","meaning":"the ear of the ear"},{"word":"मनसः मनः","meaning":"the mind of the mind"},{"word":"वाचः वाचम्","meaning":"the speech of speech"},{"word":"प्राणस्य प्राणः","meaning":"the life of life"},{"word":"अमृताः भवन्ति","meaning":"become immortal"}],"english_translation":"It is the ear of the ear, the mind of the mind, the speech of speech, the life of life, the eye of the eye. The wise, departing from this world, become immortal.","shankara_bhashya_sanskrit":"श्रोत्रस्य श्रोत्रम् — श्रोत्रं प्रकाशयति यत् तत् ब्रह्म श्रोत्रस्य श्रोत्रम्। तत् ब्रह्म न चक्षुषा न मनसा गृह्यते।","shankara_bhashya_english":"Shankara: That which illumines the ear is the 'ear of the ear' — Brahman. It cannot be grasped by the eye or mind, for it is their very ground. The wise who know this become immortal."}]}
+{
+  "id": "kena",
+  "name": "Kena Upanishad",
+  "name_sanskrit": "केनोपनिषद्",
+  "tradition": "Samaveda",
+  "summary": "The Kena Upanishad asks 'By whom?' — by whose will does the mind think, the eye see, the ear hear? It teaches that Brahman is the unseen Seer, the unheard Hearer — the ground of all knowing, itself unknown by the ordinary mind.",
+  "total_verses": 35,
+  "verses": [
+    {
+      "upanishad": "kena",
+      "verse_number": 1,
+      "tags": [
+        "Brahman",
+        "mind",
+        "senses",
+        "inquiry"
+      ],
+      "sanskrit": "केनेषितं पतति प्रेषितं मनः केन प्राणः प्रथमः प्रैति युक्तः |\nकेनेषितां वाचमिमां वदन्ति चक्षुः श्रोत्रं क उ देवो युनक्ति ||१||",
+      "transliteration": "keneṣitaṃ patati preṣitaṃ manaḥ kena prāṇaḥ prathamaḥ praiti yuktaḥ |\nkeneṣitāṃ vācam imāṃ vadanti cakṣuḥ śrotraṃ ka u devo yunakti ||1||",
+      "word_meanings": [
+        {
+          "word": "केन इषितम्",
+          "meaning": "willed/directed by whom"
+        },
+        {
+          "word": "मनः",
+          "meaning": "the mind"
+        },
+        {
+          "word": "प्राणः प्रथमः",
+          "meaning": "the chief vital breath"
+        },
+        {
+          "word": "वाचम् वदन्ति",
+          "meaning": "speak speech"
+        },
+        {
+          "word": "चक्षुः श्रोत्रम्",
+          "meaning": "eye and ear"
+        }
+      ],
+      "english_translation": "Willed by whom does the directed mind fall upon its objects? By whom is the first vital breath set in motion? By whose will do people utter this speech? What god directs the eye and ear?",
+      "shankara_bhashya_sanskrit": "केन — कस्य प्रेरणया — मनः इषितम् — प्रेरितम् — विषयेषु पतति। प्राणः प्रथमः — मुख्यप्राणः — केन युक्तः प्रैति।",
+      "shankara_bhashya_english": "Shankara: By whose impulsion does the mind fall on its objects? By whom is the chief prana set in motion? The student asks about the ultimate ground of all cognitive and vital activity."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 2,
+      "tags": [
+        "Brahman",
+        "eye of the eye",
+        "ear of the ear"
+      ],
+      "sanskrit": "श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं स उ प्राणस्य प्राणः |\nचक्षुषश्चक्षुरतिमुच्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति ||२||",
+      "transliteration": "śrotrasya śrotraṃ manaso mano yad vāco ha vācaṃ sa u prāṇasya prāṇaḥ |\ncakṣuṣaś cakṣur ati mucya dhīrāḥ pretyāsmāl lokād amṛtā bhavanti ||2||",
+      "word_meanings": [
+        {
+          "word": "श्रोत्रस्य श्रोत्रम्",
+          "meaning": "the ear of the ear"
+        },
+        {
+          "word": "मनसः मनः",
+          "meaning": "the mind of the mind"
+        },
+        {
+          "word": "वाचः वाचम्",
+          "meaning": "the speech of speech"
+        },
+        {
+          "word": "प्राणस्य प्राणः",
+          "meaning": "the life of life"
+        },
+        {
+          "word": "अमृताः भवन्ति",
+          "meaning": "become immortal"
+        }
+      ],
+      "english_translation": "It is the ear of the ear, the mind of the mind, the speech of speech, the life of life, the eye of the eye. The wise, departing from this world, become immortal.",
+      "shankara_bhashya_sanskrit": "श्रोत्रस्य श्रोत्रम् — श्रोत्रं प्रकाशयति यत् तत् ब्रह्म श्रोत्रस्य श्रोत्रम्। तत् ब्रह्म न चक्षुषा न मनसा गृह्यते।",
+      "shankara_bhashya_english": "Shankara: That which illumines the ear is the 'ear of the ear' — Brahman. It cannot be grasped by the eye or mind, for it is their very ground. The wise who know this become immortal."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 3,
+      "tags": [
+        "Brahman",
+        "not known by mind",
+        "known by unknown"
+      ],
+      "sanskrit": "न तत्र चक्षुर्गच्छति न वाग्गच्छति नो मनः |\nन विद्मो न विजानीमो यथैतदनुशिष्यात् ||१.३||",
+      "transliteration": "na tatra cakṣur gacchati na vāg gacchati no manaḥ |\nna vidmo na vijānīmo yathaitad anuśiṣyāt ||1.3||",
+      "word_meanings": [
+        {
+          "word": "न चक्षुः गच्छति",
+          "meaning": "the eye does not go there"
+        },
+        {
+          "word": "न वाक् गच्छति",
+          "meaning": "speech does not go there"
+        },
+        {
+          "word": "न मनः",
+          "meaning": "nor the mind"
+        },
+        {
+          "word": "न विद्मः",
+          "meaning": "we do not know"
+        },
+        {
+          "word": "यथा अनुशिष्यात्",
+          "meaning": "how one would teach it"
+        }
+      ],
+      "english_translation": "There the eye does not go, nor speech, nor the mind. We do not know, we do not understand how one would teach this.",
+      "shankara_bhashya_sanskrit": "न तत्र चक्षुः गच्छति — ब्रह्म चक्षुषा न गृह्यते। न वाक् — वाचा न उच्यते। न मनः — मनसा न ज्ञायते।",
+      "shankara_bhashya_english": "Shankara: Brahman cannot be reached by the eye, speech, or mind — for it is their very ground. The teacher says 'we do not know' not from ignorance but because Brahman transcends all ordinary knowing."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 4,
+      "tags": [
+        "Brahman",
+        "known by unknown",
+        "unknown by known"
+      ],
+      "sanskrit": "अन्यदेव तद्विदितादथो अविदितादधि |\nइति शुश्रुम पूर्वेषां ये नस्तद्व्याचचक्षिरे ||१.४||",
+      "transliteration": "anyad eva tad viditād atho aviditād adhi |\niti śuśruma pūrveṣāṃ ye nas tad vyācacakṣire ||1.4||",
+      "word_meanings": [
+        {
+          "word": "अन्यत् विदितात्",
+          "meaning": "different from the known"
+        },
+        {
+          "word": "अविदितात् अधि",
+          "meaning": "beyond the unknown"
+        },
+        {
+          "word": "पूर्वेषाम्",
+          "meaning": "of the ancients"
+        }
+      ],
+      "english_translation": "It is other than the known, and beyond the unknown. Thus have we heard from the ancients who explained it to us.",
+      "shankara_bhashya_sanskrit": "विदितात् अन्यत् — ज्ञातविषयेभ्यः भिन्नम्। अविदितात् अधि — अज्ञातादपि परम्।",
+      "shankara_bhashya_english": "Shankara: Brahman is not among the known objects (which are finite) nor is it the unknown (which is merely not yet known). It transcends both categories — it is the knowing itself."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 5,
+      "tags": [
+        "Brahman",
+        "not known by those who know",
+        "known by those who do not know"
+      ],
+      "sanskrit": "यस्यामतं तस्य मतं मतं यस्य न वेद सः |\nअविज्ञातं विजानतां विज्ञातमविजानताम् ||२.३||",
+      "transliteration": "yasyāmataṃ tasya mataṃ mataṃ yasya na veda saḥ |\navijñātaṃ vijānatāṃ vijñātam avijānatām ||2.3||",
+      "word_meanings": [
+        {
+          "word": "यस्य अमतम्",
+          "meaning": "by whom it is not thought/known"
+        },
+        {
+          "word": "तस्य मतम्",
+          "meaning": "by that one it is known"
+        },
+        {
+          "word": "यस्य मतम्",
+          "meaning": "by whom it is thought known"
+        },
+        {
+          "word": "न वेद सः",
+          "meaning": "that one does not know it"
+        },
+        {
+          "word": "अविज्ञातम् विजानताम्",
+          "meaning": "unknown to those who know"
+        },
+        {
+          "word": "विज्ञातम् अविजानताम्",
+          "meaning": "known to those who do not know"
+        }
+      ],
+      "english_translation": "By whom it is not thought, by that one it is known. By whom it is thought known, that one does not know it. It is unknown to those who know; it is known to those who do not know.",
+      "shankara_bhashya_sanskrit": "यस्य अमतम् — यः न मन्यते 'अहं ब्रह्म जानामि' — तस्य मतम् — स जानाति। यस्य मतम् — यः मन्यते 'अहं ब्रह्म जानामि' — स न वेद।",
+      "shankara_bhashya_english": "Shankara: One who thinks 'I know Brahman' does not know it — for Brahman is the knower, not an object of knowledge. One who says 'I do not know' is closer to the truth — for Brahman is the very subject, not an object to be known."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 6,
+      "tags": [
+        "Brahman",
+        "pratibodha",
+        "awakening",
+        "known in every cognition"
+      ],
+      "sanskrit": "प्रतिबोधविदितं मतममृतत्वं हि विन्दते |\nआत्मना विन्दते वीर्यं विद्यया विन्दतेऽमृतम् ||२.४||",
+      "transliteration": "pratibodhaviditaṃ matam amṛtatvaṃ hi vindate |\nātmanā vindate vīryaṃ vidyayā vindate'mṛtam ||2.4||",
+      "word_meanings": [
+        {
+          "word": "प्रतिबोधविदितम्",
+          "meaning": "known in every act of cognition"
+        },
+        {
+          "word": "मतम्",
+          "meaning": "is the (right) view"
+        },
+        {
+          "word": "अमृतत्वम् विन्दते",
+          "meaning": "attains immortality"
+        },
+        {
+          "word": "आत्मना वीर्यम्",
+          "meaning": "strength through the Self"
+        },
+        {
+          "word": "विद्यया अमृतम्",
+          "meaning": "immortality through knowledge"
+        }
+      ],
+      "english_translation": "Known in every act of cognition — that is the right view. Through it one attains immortality. Through the Self one attains strength; through knowledge one attains immortality.",
+      "shankara_bhashya_sanskrit": "प्रतिबोधविदितम् — प्रत्येकं बोधे विदितम् — प्रत्येकज्ञाने साक्षिरूपेण अनुगतम् — तत् ब्रह्म।",
+      "shankara_bhashya_english": "Shankara: Brahman is known as the witness present in every act of cognition. It is not an object known once — it is the knowing itself, present in every moment of awareness. This is the right understanding that leads to immortality."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 7,
+      "tags": [
+        "Indra",
+        "Uma",
+        "Brahman",
+        "story"
+      ],
+      "sanskrit": "तद्ध तद्वनं नाम तद्वनमित्युपासितव्यं स य एतदेवं वेदाभि हैनं सर्वाणि भूतानि संवाञ्छन्ति ||4.6||",
+      "transliteration": "tad dha tad vanaṃ nāma tad vanam ity upāsitavyaṃ sa ya etad evaṃ vedābhi hainaṃ sarvāṇi bhūtāni saṃvāñchanti ||4.6||",
+      "word_meanings": [
+        {
+          "word": "तद्वनम्",
+          "meaning": "that which is the delight of all"
+        },
+        {
+          "word": "उपासितव्यम्",
+          "meaning": "should be meditated upon"
+        },
+        {
+          "word": "सर्वाणि भूतानि संवाञ्छन्ति",
+          "meaning": "all beings long for"
+        }
+      ],
+      "english_translation": "It is called Tadvana — the delight of all. It should be meditated upon as Tadvana. All beings long for one who knows this.",
+      "shankara_bhashya_sanskrit": "तद्वनम् — सर्वेषां वनम् — सर्वेषां प्रियम्। तद्वनम् इति उपासीत — ब्रह्म सर्वप्रियम् इति ध्यायेत्।",
+      "shankara_bhashya_english": "Shankara: 'Tadvana' means 'the delight of all' — Brahman is the ultimate object of love for all beings. One who meditates on Brahman as the source of all delight becomes beloved by all beings."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 8,
+      "tags": [
+        "Indra",
+        "Brahman",
+        "yaksha",
+        "story"
+      ],
+      "sanskrit": "ब्रह्म ह देवेभ्यो विजिग्ये तस्य ह ब्रह्मणो विजये देवा अमहीयन्त ||३.१||",
+      "transliteration": "brahma ha devebhyo vijigye tasya ha brahmaṇo vijaye devā amahīyanta ||3.1||",
+      "word_meanings": [
+        {
+          "word": "ब्रह्म विजिग्ये",
+          "meaning": "Brahman won the victory"
+        },
+        {
+          "word": "देवाः अमहीयन्त",
+          "meaning": "the gods became proud"
+        }
+      ],
+      "english_translation": "Brahman won a victory for the gods. In that victory of Brahman, the gods became proud.",
+      "shankara_bhashya_sanskrit": "ब्रह्म — परमात्मा — देवेभ्यः विजिग्ये — असुरान् जित्वा देवान् विजयिनः अकरोत्। देवाः अमहीयन्त — अहंकारम् अकुर्वन्।",
+      "shankara_bhashya_english": "Shankara: Brahman won the victory for the gods over the demons. But the gods became proud, thinking the victory was theirs. This story illustrates how the ego claims credit for what is really the work of Brahman."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 9,
+      "tags": [
+        "yaksha",
+        "Agni",
+        "Vayu",
+        "Indra",
+        "Brahman"
+      ],
+      "sanskrit": "तदैषामविदत् परेऽस्मान् महीयन्त इति | तेभ्यो ह प्रादुर्बभूव तन्न व्यजानत किमिदं यक्षमिति ||३.२||",
+      "transliteration": "tad aiṣām avidat pare'smān mahīyanta iti | tebhyo ha prādurbabhūva tan na vyajānata kim idaṃ yakṣam iti ||3.2||",
+      "word_meanings": [
+        {
+          "word": "परे अस्मान् महीयन्ते",
+          "meaning": "they are becoming proud beyond us"
+        },
+        {
+          "word": "प्रादुर्बभूव",
+          "meaning": "appeared before them"
+        },
+        {
+          "word": "यक्षम्",
+          "meaning": "the spirit/being"
+        }
+      ],
+      "english_translation": "Brahman perceived this — 'They are becoming proud beyond me.' It appeared before them. They did not know what this spirit was.",
+      "shankara_bhashya_sanskrit": "ब्रह्म अविदत् — देवाः अहंकारम् कुर्वन्ति इति। तेभ्यः प्रादुर्बभूव — यक्षरूपेण आविर्बभूव।",
+      "shankara_bhashya_english": "Shankara: Brahman, perceiving the gods' pride, appeared before them as a mysterious spirit (yaksha) to teach them humility. The gods could not recognize Brahman in this form."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 10,
+      "tags": [
+        "Agni",
+        "straw",
+        "Brahman",
+        "test"
+      ],
+      "sanskrit": "तेऽग्निमब्रुवन् जातवेद एतद्विजानीहि किमेतद्यक्षमिति | तथेति ||३.३||",
+      "transliteration": "te'gnim abruvan jātaveda etad vijānīhi kim etad yakṣam iti | tatheti ||3.3||",
+      "word_meanings": [
+        {
+          "word": "जातवेद",
+          "meaning": "O Agni (knower of all births)"
+        },
+        {
+          "word": "एतत् विजानीहि",
+          "meaning": "find out what this is"
+        },
+        {
+          "word": "यक्षम्",
+          "meaning": "this spirit"
+        }
+      ],
+      "english_translation": "They said to Agni: 'O Jatavedas, find out what this spirit is.' 'So be it,' he said.",
+      "shankara_bhashya_sanskrit": "देवाः अग्निम् प्रेषयन् — एतत् यक्षम् किम् इति विजानीहि। अग्निः तथा इति उक्त्वा यक्षम् अभिगच्छत्।",
+      "shankara_bhashya_english": "Shankara: The gods sent Agni first to investigate the mysterious spirit. Agni, proud of his power to burn everything, went forward confidently."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 11,
+      "tags": [
+        "Agni",
+        "straw",
+        "humility",
+        "Brahman"
+      ],
+      "sanskrit": "तदभ्यद्रवत् | तमब्रवीत् कोऽसीत्यग्निर्वा अहमस्मीत्यब्रवीत् जातवेदा वा अहमस्मीति ||३.४||",
+      "transliteration": "tad abhyadravat | tam abravīt ko'sīty agnir vā aham asmīty abravīt jātavedā vā aham asmīti ||3.4||",
+      "word_meanings": [
+        {
+          "word": "अभ्यद्रवत्",
+          "meaning": "ran toward it"
+        },
+        {
+          "word": "कः असि",
+          "meaning": "who are you"
+        },
+        {
+          "word": "अग्निः वा अहम् अस्मि",
+          "meaning": "I am indeed Agni"
+        },
+        {
+          "word": "जातवेदाः",
+          "meaning": "knower of all births"
+        }
+      ],
+      "english_translation": "He ran toward it. It said: 'Who are you?' 'I am indeed Agni,' he said, 'I am Jatavedas.'",
+      "shankara_bhashya_sanskrit": "अग्निः यक्षम् अभ्यद्रवत्। यक्षः अपृच्छत् — कः असि। अग्निः अब्रवीत् — अग्निः वा अहम् अस्मि।",
+      "shankara_bhashya_english": "Shankara: Agni ran toward the spirit. The spirit asked 'Who are you?' — testing Agni's self-knowledge. Agni proudly declared his identity and powers."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 12,
+      "tags": [
+        "Agni",
+        "straw",
+        "cannot burn",
+        "Brahman"
+      ],
+      "sanskrit": "तस्मिंस्त्वयि किं वीर्यमित्यपीदं सर्वं दहेयं यदिदं पृथिव्यामिति | तस्मै तृणं निदधावेतद्दहेति | तदुपप्रेयाय सर्वजवेन तन्न शशाक दग्धुम् | तत ए व निववृते नैतदशकं विज्ञातुमिति ||३.५||",
+      "transliteration": "tasmiṃs tvayī kiṃ vīryam ity apīdaṃ sarvaṃ daheyaṃ yad idaṃ pṛthivyām iti | tasmai tṛṇaṃ nidadhāv etad daheti | tad uprapreyāya sarvajaven tan na śaśāka dagdhum | tata eva nivavṛte naitad aśakaṃ vijñātum iti ||3.5||",
+      "word_meanings": [
+        {
+          "word": "किं वीर्यम्",
+          "meaning": "what is your power"
+        },
+        {
+          "word": "सर्वं दहेयम्",
+          "meaning": "I can burn all this"
+        },
+        {
+          "word": "तृणम् निदधौ",
+          "meaning": "placed a blade of grass"
+        },
+        {
+          "word": "न शशाक दग्धुम्",
+          "meaning": "could not burn it"
+        },
+        {
+          "word": "न अशकम् विज्ञातुम्",
+          "meaning": "could not find out"
+        }
+      ],
+      "english_translation": "'What is your power?' 'I can burn all this that is on earth.' It placed a blade of grass before him: 'Burn this.' He rushed at it with all his speed but could not burn it. He returned: 'I could not find out what this spirit is.'",
+      "shankara_bhashya_sanskrit": "यक्षः तृणम् निदधौ — एतत् दह इति। अग्निः सर्वजवेन उपप्रेयाय — तत् न शशाक दग्धुम्। ब्रह्मशक्त्या अग्नेः शक्तिः निरुद्धा।",
+      "shankara_bhashya_english": "Shankara: The spirit placed a blade of grass and challenged Agni to burn it. Agni, who can burn the entire earth, could not burn even a blade of grass — because Brahman had withdrawn its power from him. This teaches that all powers belong to Brahman alone."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 13,
+      "tags": [
+        "Vayu",
+        "straw",
+        "cannot blow",
+        "Brahman"
+      ],
+      "sanskrit": "अथ वायुमब्रुवन् वायवेतद्विजानीहि किमेतद्यक्षमिति | तथेति | तदभ्यद्रवत् | तमब्रवीत् कोऽसीति | वायुर्वा अहमस्मीत्यब्रवीत् मातरिश्वा वा अहमस्मीति ||३.६||",
+      "transliteration": "atha vāyum abruvan vāyav etad vijānīhi kim etad yakṣam iti | tatheti | tad abhyadravat | tam abravīt ko'sīti | vāyur vā aham asmīty abravīt mātariśvā vā aham asmīti ||3.6||",
+      "word_meanings": [
+        {
+          "word": "वायो",
+          "meaning": "O Vayu (wind)"
+        },
+        {
+          "word": "मातरिश्वा",
+          "meaning": "one who moves in the mother (space)"
+        }
+      ],
+      "english_translation": "Then they said to Vayu: 'O Vayu, find out what this spirit is.' 'So be it.' He ran toward it. It said: 'Who are you?' 'I am Vayu,' he said, 'I am Matarishvan.'",
+      "shankara_bhashya_sanskrit": "देवाः वायुम् प्रेषयन्। वायुः अपि यक्षम् अभिगच्छत्।",
+      "shankara_bhashya_english": "Shankara: Having failed with Agni, the gods sent Vayu. Vayu, proud of his power to move everything in the universe, went forward."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 14,
+      "tags": [
+        "Vayu",
+        "straw",
+        "cannot move",
+        "Brahman"
+      ],
+      "sanskrit": "तस्मिंस्त्वयि किं वीर्यमित्यपीदं सर्वमाददीय यदिदं पृथिव्यामिति | तस्मै तृणं निदधावेतदाददस्वेति | तदुपप्रेयाय सर्वजवेन तन्न शशाकादातुम् | तत एव निववृते नैतदशकं विज्ञातुमिति ||३.७||",
+      "transliteration": "tasmiṃs tvayī kiṃ vīryam ity apīdaṃ sarvam ādadīya yad idaṃ pṛthivyām iti | tasmai tṛṇaṃ nidadhāv etad ādadasveti | tad uprapreyāya sarvajaven tan na śaśākādātum | tata eva nivavṛte naitad aśakaṃ vijñātum iti ||3.7||",
+      "word_meanings": [
+        {
+          "word": "सर्वम् आददीय",
+          "meaning": "I can carry away all this"
+        },
+        {
+          "word": "एतत् आददस्व",
+          "meaning": "carry this away"
+        },
+        {
+          "word": "न शशाक आदातुम्",
+          "meaning": "could not carry it away"
+        }
+      ],
+      "english_translation": "'What is your power?' 'I can carry away all this that is on earth.' It placed a blade of grass: 'Carry this away.' He rushed at it with all his speed but could not carry it away. He returned: 'I could not find out what this spirit is.'",
+      "shankara_bhashya_sanskrit": "वायुः अपि तृणम् न शशाक आदातुम्। ब्रह्मशक्त्या वायोः शक्तिः निरुद्धा।",
+      "shankara_bhashya_english": "Shankara: Vayu too could not move even a blade of grass. Brahman had withdrawn its power from Vayu as well. This reinforces the teaching: all cosmic powers are borrowed from Brahman."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 15,
+      "tags": [
+        "Indra",
+        "Uma",
+        "Brahman",
+        "recognition"
+      ],
+      "sanskrit": "अथेन्द्रमब्रुवन् मघवन्नेतद्विजानीहि किमेतद्यक्षमिति | तथेति | तदभ्यद्रवत् | तस्मात्तिरोदधे ||३.८||",
+      "transliteration": "athendram abruvan maghavann etad vijānīhi kim etad yakṣam iti | tatheti | tad abhyadravat | tasmāt tirodadhe ||3.8||",
+      "word_meanings": [
+        {
+          "word": "मघवन्",
+          "meaning": "O Indra (the bountiful)"
+        },
+        {
+          "word": "तिरोदधे",
+          "meaning": "disappeared, vanished"
+        }
+      ],
+      "english_translation": "Then they said to Indra: 'O Maghavan, find out what this spirit is.' 'So be it.' He ran toward it. It disappeared from him.",
+      "shankara_bhashya_sanskrit": "इन्द्रः यक्षम् अभिगच्छत्। यक्षः तस्मात् तिरोदधे — अन्तर्धानम् अगच्छत्।",
+      "shankara_bhashya_english": "Shankara: When Indra, the chief of gods, approached, Brahman disappeared. This is significant — Brahman cannot be grasped even by the most powerful. But Indra, being the most refined, was deemed worthy of direct teaching."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 16,
+      "tags": [
+        "Uma",
+        "Indra",
+        "Brahman",
+        "teaching"
+      ],
+      "sanskrit": "स तस्मिन्नेवाकाशे स्त्रियमाजगाम बहुशोभमानामुमां हैमवतीं | तां होवाच किमेतद्यक्षमिति ||३.१२||",
+      "transliteration": "sa tasminn evākāśe striyam ājagāma bahuśobhamānām umāṃ haimavatīṃ | tāṃ hovāca kim etad yakṣam iti ||3.12||",
+      "word_meanings": [
+        {
+          "word": "उमाम् हैमवतीम्",
+          "meaning": "Uma, daughter of Himavat"
+        },
+        {
+          "word": "बहुशोभमानाम्",
+          "meaning": "exceedingly beautiful"
+        },
+        {
+          "word": "किम् एतत् यक्षम्",
+          "meaning": "what is this spirit"
+        }
+      ],
+      "english_translation": "In that very space he came upon a woman, exceedingly beautiful — Uma, daughter of Himavat. He said to her: 'What is this spirit?'",
+      "shankara_bhashya_sanskrit": "इन्द्रः तस्मिन् आकाशे उमाम् हैमवतीम् अपश्यत्। उमा — ब्रह्मविद्या — हिमवतः पुत्री।",
+      "shankara_bhashya_english": "Shankara: Uma Haimavati represents Brahmavidya (the knowledge of Brahman). She appeared to Indra because he was the most qualified among the gods. She will reveal what the spirit truly is."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 17,
+      "tags": [
+        "Uma",
+        "Brahman",
+        "revelation",
+        "Indra"
+      ],
+      "sanskrit": "ब्रह्मेति होवाच | ब्रह्मणो वा एतद्विजये महीयध्वमिति | ततो हैव विदाञ्चकार ब्रह्मेति ||३.१२||",
+      "transliteration": "brahmeti hovāca | brahmaṇo vā etad vijaye mahīyadhvam iti | tato haiva vidāñcakāra brahmeti ||3.12||",
+      "word_meanings": [
+        {
+          "word": "ब्रह्म इति",
+          "meaning": "'It is Brahman,' she said"
+        },
+        {
+          "word": "ब्रह्मणः विजये",
+          "meaning": "in Brahman's victory"
+        },
+        {
+          "word": "महीयध्वम्",
+          "meaning": "you were glorifying yourselves"
+        },
+        {
+          "word": "विदाञ्चकार",
+          "meaning": "he came to know"
+        }
+      ],
+      "english_translation": "'It is Brahman,' she said. 'In Brahman's victory you were glorifying yourselves.' From that he came to know it was Brahman.",
+      "shankara_bhashya_sanskrit": "उमा अब्रवीत् — ब्रह्म इति। ब्रह्मणः विजये — ब्रह्मणा कृते विजये — यूयम् महीयध्वम् — अहंकारम् अकुर्वत। ततः इन्द्रः विदाञ्चकार — ब्रह्म इति अजानात्।",
+      "shankara_bhashya_english": "Shankara: Uma revealed: 'It is Brahman. In Brahman's victory you were glorifying yourselves.' Indra immediately understood — the victory belonged to Brahman, not to the gods. This is why Indra is considered the greatest among the gods — he received direct teaching from Uma."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 18,
+      "tags": [
+        "Indra",
+        "Agni",
+        "Vayu",
+        "closest to Brahman"
+      ],
+      "sanskrit": "तस्माद्वा एते देवा अतितरामिवान्यान्देवान् यदग्निर्वायुरिन्द्रस्ते ह्येनन्नेदिष्ठं पस्पर्शुस्ते ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ||३.१३||",
+      "transliteration": "tasmād vā ete devā atitarām ivānyān devān yad agnir vāyur indras te hy enan nediṣṭhaṃ pasparśus te hy enat prathamo vidāñcakāra brahmeti ||3.13||",
+      "word_meanings": [
+        {
+          "word": "अतितराम् इव",
+          "meaning": "exceedingly, more than"
+        },
+        {
+          "word": "नेदिष्ठम् पस्पर्शुः",
+          "meaning": "touched it most closely"
+        },
+        {
+          "word": "प्रथमः विदाञ्चकार",
+          "meaning": "first came to know"
+        }
+      ],
+      "english_translation": "Therefore these gods — Agni, Vayu, and Indra — excel the other gods, for they touched Brahman most closely. And Indra first came to know it as Brahman.",
+      "shankara_bhashya_sanskrit": "एते त्रयः देवाः — अग्निः वायुः इन्द्रः — अन्यान् देवान् अतिक्रामन्ति — यतः ते ब्रह्म नेदिष्ठम् पस्पर्शुः।",
+      "shankara_bhashya_english": "Shankara: Agni, Vayu, and Indra are superior to other gods because they came closest to Brahman — they directly encountered it. And Indra is the greatest because he was the first to truly know it as Brahman through Uma's teaching."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 19,
+      "tags": [
+        "lightning",
+        "Brahman",
+        "flash",
+        "recognition"
+      ],
+      "sanskrit": "तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा इतीन्न्यमीमिषदा इत्यधिदैवतम् ||४.४||",
+      "transliteration": "tasyaiṣa ādeśo yad etad vidyuto vyadyutad ā itīn nyamīmiṣad ā ity adhidaivatam ||4.4||",
+      "word_meanings": [
+        {
+          "word": "विद्युतः व्यद्युतत्",
+          "meaning": "it flashed as lightning"
+        },
+        {
+          "word": "आ इति",
+          "meaning": "'Ah!' — the exclamation"
+        },
+        {
+          "word": "न्यमीमिषत्",
+          "meaning": "the eye blinked"
+        },
+        {
+          "word": "अधिदैवतम्",
+          "meaning": "with reference to the gods"
+        }
+      ],
+      "english_translation": "This is the teaching about Brahman with reference to the gods: it is that which flashed as lightning — 'Ah!' — and the eye blinked. 'Ah!' — thus with reference to the gods.",
+      "shankara_bhashya_sanskrit": "विद्युतः व्यद्युतत् — विद्युत् इव क्षणमात्रम् प्रकाशते। आ इति — आश्चर्यम् — इत्यधिदैवतम् — देवताविषये।",
+      "shankara_bhashya_english": "Shankara: Brahman flashes like lightning — it is perceived in a flash of intuition, not through prolonged reasoning. The 'Ah!' is the exclamation of sudden recognition. This is the cosmic (adhidaivata) description of Brahman."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 20,
+      "tags": [
+        "mind",
+        "Brahman",
+        "adhyatma",
+        "flash"
+      ],
+      "sanskrit": "अथाध्यात्मं यदेतद्गच्छतीव च मनोऽनेन चैतदुपस्मरत्यभीक्ष्णं संकल्पः ||४.५||",
+      "transliteration": "athādhyātmaṃ yad etad gacchati iva ca mano'nena caitad upasmarary abhīkṣṇaṃ saṃkalpaḥ ||4.5||",
+      "word_meanings": [
+        {
+          "word": "अध्यात्मम्",
+          "meaning": "with reference to the Self"
+        },
+        {
+          "word": "मनः गच्छति इव",
+          "meaning": "the mind seems to go toward it"
+        },
+        {
+          "word": "संकल्पः",
+          "meaning": "intention, will"
+        }
+      ],
+      "english_translation": "Now with reference to the Self: it is that toward which the mind seems to go, and by which the mind repeatedly remembers — that is intention (sankalpa).",
+      "shankara_bhashya_sanskrit": "अध्यात्मम् — आत्मविषये — मनः गच्छति इव — मनः ब्रह्म प्रति गच्छतीव — वास्तवतः ब्रह्म मनसः अगोचरम्।",
+      "shankara_bhashya_english": "Shankara: With reference to the individual Self (adhyatma), Brahman is that toward which the mind seems to move — but cannot actually reach. It is the ground of all mental activity, including intention and memory."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 21,
+      "tags": [
+        "Brahman",
+        "tadvana",
+        "delight",
+        "meditation"
+      ],
+      "sanskrit": "तद्ध तद्वनं नाम तद्वनमित्युपासितव्यं स य एतदेवं वेदाभि हैनं सर्वाणि भूतानि संवाञ्छन्ति ||४.६||",
+      "transliteration": "tad dha tad vanaṃ nāma tad vanam ity upāsitavyaṃ sa ya etad evaṃ vedābhi hainaṃ sarvāṇi bhūtāni saṃvāñchanti ||4.6||",
+      "word_meanings": [
+        {
+          "word": "तद्वनम्",
+          "meaning": "the delight of all"
+        },
+        {
+          "word": "उपासितव्यम्",
+          "meaning": "should be meditated upon"
+        },
+        {
+          "word": "सर्वाणि भूतानि संवाञ्छन्ति",
+          "meaning": "all beings long for"
+        }
+      ],
+      "english_translation": "It is called Tadvana — the delight of all. It should be meditated upon as Tadvana. All beings long for one who knows this.",
+      "shankara_bhashya_sanskrit": "तद्वनम् — सर्वेषां वनम् — सर्वेषां प्रियम्। तद्वनम् इति उपासीत।",
+      "shankara_bhashya_english": "Shankara: 'Tadvana' means the delight of all. Brahman is the ultimate object of love for all beings. One who meditates on Brahman as the source of all delight becomes beloved by all."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 22,
+      "tags": [
+        "upanishad",
+        "teaching",
+        "austerity",
+        "celibacy"
+      ],
+      "sanskrit": "उपनिषदं भो ब्रूहीत्युक्ता त उपनिषद्ब्राह्मीं वाव त उपनिषदमब्रूमेति ||४.७||",
+      "transliteration": "upaniṣadaṃ bho brūhīty uktā ta upaniṣad brāhmīṃ vāva ta upaniṣadam abrūmeti ||4.7||",
+      "word_meanings": [
+        {
+          "word": "उपनिषदम् ब्रूहि",
+          "meaning": "tell us the Upanishad (the secret teaching)"
+        },
+        {
+          "word": "ब्राह्मीम् उपनिषदम्",
+          "meaning": "the Brahmic secret teaching"
+        },
+        {
+          "word": "अब्रूम",
+          "meaning": "we have told"
+        }
+      ],
+      "english_translation": "'Tell us the Upanishad.' 'The Upanishad has been told to you. We have told you the Brahmic Upanishad.'",
+      "shankara_bhashya_sanskrit": "उपनिषत् — ब्रह्मविद्या — उक्ता। ब्राह्मी उपनिषत् — ब्रह्मसम्बन्धिनी विद्या — उक्ता।",
+      "shankara_bhashya_english": "Shankara: The student asks for the secret teaching (upanishad). The teacher says it has already been given — the entire teaching about Brahman as the ground of all powers, known through Uma's grace, is the Brahmic Upanishad."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 23,
+      "tags": [
+        "tapas",
+        "dama",
+        "karma",
+        "foundation"
+      ],
+      "sanskrit": "तस्यै तपो दमः कर्मेति प्रतिष्ठा वेदाः सर्वाङ्गानि सत्यमायतनम् ||४.८||",
+      "transliteration": "tasyai tapo damaḥ karmeti pratiṣṭhā vedāḥ sarvāṅgāni satyam āyatanam ||4.8||",
+      "word_meanings": [
+        {
+          "word": "तपः",
+          "meaning": "austerity"
+        },
+        {
+          "word": "दमः",
+          "meaning": "self-control"
+        },
+        {
+          "word": "कर्म",
+          "meaning": "action/ritual"
+        },
+        {
+          "word": "प्रतिष्ठा",
+          "meaning": "foundation"
+        },
+        {
+          "word": "वेदाः सर्वाङ्गानि",
+          "meaning": "the Vedas with all their limbs"
+        },
+        {
+          "word": "सत्यम् आयतनम्",
+          "meaning": "truth is the abode"
+        }
+      ],
+      "english_translation": "Its foundation is austerity, self-control, and action. The Vedas with all their limbs are its body. Truth is its abode.",
+      "shankara_bhashya_sanskrit": "तस्यै ब्रह्मविद्यायाः — तपः दमः कर्म — प्रतिष्ठा — आधारः। सत्यम् — आयतनम् — निवासस्थानम्।",
+      "shankara_bhashya_english": "Shankara: The foundation of Brahmavidya is austerity (tapas), self-control (dama), and right action (karma). The Vedas are its body. Truth is its dwelling place. Without these, the knowledge of Brahman cannot be attained or sustained."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 24,
+      "tags": [
+        "Brahman",
+        "liberation",
+        "heaven",
+        "evil"
+      ],
+      "sanskrit": "यो वा एतामेवं वेदापहत्य पाप्मानमनन्ते स्वर्गे लोके ज्येये प्रतितिष्ठति प्रतितिष्ठति ||४.९||",
+      "transliteration": "yo vā etām evaṃ vedāpahatya pāpmānam anante svarge loke jyeye pratitiṣṭhati pratitiṣṭhati ||4.9||",
+      "word_meanings": [
+        {
+          "word": "एवम् वेद",
+          "meaning": "knows thus"
+        },
+        {
+          "word": "अपहत्य पाप्मानम्",
+          "meaning": "having struck off evil"
+        },
+        {
+          "word": "अनन्ते स्वर्गे लोके",
+          "meaning": "in the infinite heavenly world"
+        },
+        {
+          "word": "प्रतितिष्ठति",
+          "meaning": "is firmly established"
+        }
+      ],
+      "english_translation": "One who knows this thus, having struck off evil, is firmly established in the infinite, supreme heavenly world — is firmly established.",
+      "shankara_bhashya_sanskrit": "एवम् वेद — ब्रह्म एवम् जानाति — सः पाप्मानम् अपहत्य — पापम् नाशयित्वा — अनन्ते स्वर्गे लोके प्रतितिष्ठति।",
+      "shankara_bhashya_english": "Shankara: One who knows Brahman as taught in this Upanishad destroys all evil and is established in the infinite world of Brahman. The repetition 'is firmly established, is firmly established' emphasizes the certainty of this result."
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 25,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 25 — full text coming soon]",
+      "transliteration": "[Verse 25 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 25 of the Kena Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 26,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 26 — full text coming soon]",
+      "transliteration": "[Verse 26 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 26 of the Kena Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 27,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 27 — full text coming soon]",
+      "transliteration": "[Verse 27 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 27 of the Kena Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 28,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 28 — full text coming soon]",
+      "transliteration": "[Verse 28 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 28 of the Kena Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 29,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 29 — full text coming soon]",
+      "transliteration": "[Verse 29 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 29 of the Kena Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 30,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 30 — full text coming soon]",
+      "transliteration": "[Verse 30 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 30 of the Kena Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 31,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 31 — full text coming soon]",
+      "transliteration": "[Verse 31 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 31 of the Kena Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 32,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 32 — full text coming soon]",
+      "transliteration": "[Verse 32 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 32 of the Kena Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 33,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 33 — full text coming soon]",
+      "transliteration": "[Verse 33 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 33 of the Kena Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 34,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 34 — full text coming soon]",
+      "transliteration": "[Verse 34 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 34 of the Kena Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kena",
+      "verse_number": 35,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 35 — full text coming soon]",
+      "transliteration": "[Verse 35 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 35 of the Kena Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    }
+  ]
+}

@@ -1,1 +1,977 @@
-{"id":"mundaka","name":"Mundaka Upanishad","name_sanskrit":"मुण्डकोपनिषद्","tradition":"Atharvaveda","summary":"The Mundaka Upanishad distinguishes between the lower knowledge (apara vidya — sciences, rituals) and the higher knowledge (para vidya — knowledge of Brahman). It teaches that Brahman is the source of all, like sparks from fire, and can only be known through a qualified teacher.","total_verses":64,"verses":[{"upanishad":"mundaka","verse_number":1,"tags":["para vidya","apara vidya","two knowledges"],"sanskrit":"द्वे विद्ये वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदन्ति परा चैवापरा च ||१.१.४||","transliteration":"dve vidye veditavye iti ha sma yad brahmavido vadanti parā caivāparā ca ||1.1.4||","word_meanings":[{"word":"द्वे विद्ये","meaning":"two knowledges"},{"word":"वेदितव्ये","meaning":"to be known"},{"word":"ब्रह्मविदः","meaning":"knowers of Brahman"},{"word":"परा","meaning":"higher (knowledge of Brahman)"},{"word":"अपरा","meaning":"lower (all other sciences)"}],"english_translation":"Two kinds of knowledge are to be known — so say the knowers of Brahman — the higher and the lower.","shankara_bhashya_sanskrit":"परा — ब्रह्मज्ञानम्। अपरा — ऋग्वेदादिचतुर्वेदाः सशिक्षाव्याकरणादयश्च।","shankara_bhashya_english":"Shankara: The higher knowledge is the direct knowledge of Brahman. The lower knowledge comprises the four Vedas along with their six auxiliaries — phonetics, ritual, grammar, etymology, metre, and astronomy."},{"upanishad":"mundaka","verse_number":3,"tags":["Brahman","sparks","creation"],"sanskrit":"यथा सुदीप्तात् पावकाद्विस्फुलिङ्गाः सहस्रशः प्रभवन्ते सरूपाः |\nतथाक्षरात् विविधाः सोम्य भावाः प्रजायन्ते तत्र चैवापि यन्ति ||२.१.१||","transliteration":"yathā sudīptāt pāvakād visphuliṅgāḥ sahasraśaḥ prabhavante sarūpāḥ |\ntathākṣarāt vividhāḥ somya bhāvāḥ prajāyante tatra caivāpi yanti ||2.1.1||","word_meanings":[{"word":"सुदीप्तात् पावकात्","meaning":"from a blazing fire"},{"word":"विस्फुलिङ्गाः","meaning":"sparks"},{"word": "सहस्रशः","meaning":"by thousands"},{"word":"अक्षरात्","meaning":"from the Imperishable (Brahman)"},{"word":"विविधाः भावाः","meaning":"various beings"},{"word":"तत्र यन्ति","meaning":"return there"}],"english_translation":"As from a blazing fire thousands of sparks of the same nature leap forth, so from the Imperishable, O dear one, various beings arise and return there.","shankara_bhashya_sanskrit":"सुदीप्तात् पावकात् — प्रज्वलितात् अग्नेः — विस्फुलिङ्गाः — अग्निसरूपाः — प्रभवन्ते। तथा अक्षरात् ब्रह्मणः विविधाः भावाः — जीवाः — प्रजायन्ते।","shankara_bhashya_english":"Shankara: Just as sparks of the same nature as fire arise from a blazing fire, so from the Imperishable Brahman, various beings — individual souls — arise. And just as sparks return to the fire, all beings ultimately return to Brahman."},{"upanishad":"mundaka","verse_number":10,"tags":["two birds","Atman","Jivatman","Paramatman"],"sanskrit":"द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते |\nतयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति ||३.१.१||","transliteration":"dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte |\ntayor anyaḥ pippalaṃ svādv atty anaśnann anyo abhicākaśīti ||3.1.1||","word_meanings":[{"word":"द्वा सुपर्णा","meaning":"two birds with beautiful wings"},{"word":"सयुजा सखाया","meaning":"companions, always together"},{"word":"समानम् वृक्षम्","meaning":"the same tree (body)"},{"word":"अन्यः पिप्पलम् अत्ति","meaning":"one eats the fruit"},{"word":"अनश्नन् अन्यः","meaning":"the other, not eating, watches"}],"english_translation":"Two birds, companions always united, cling to the same tree. One of them eats the sweet fruit; the other, not eating, simply watches.","shankara_bhashya_sanskrit":"द्वा सुपर्णौ — जीवपरमात्मानौ। एकः जीवः — संसारवृक्षे कर्मफलानि भुङ्क्ते। अन्यः परमात्मा — साक्षी — न भुङ्क्ते।","shankara_bhashya_english":"Shankara: The two birds are the individual soul (jiva) and the supreme Self (Paramatman). The jiva eats the fruits of karma on the tree of samsara. The Paramatman is the witness — it does not eat, does not act, but simply illumines."}]}
+{
+  "id": "mundaka",
+  "name": "Mundaka Upanishad",
+  "name_sanskrit": "मुण्डकोपनिषद्",
+  "tradition": "Atharvaveda",
+  "summary": "The Mundaka Upanishad distinguishes between the lower knowledge (apara vidya — sciences, rituals) and the higher knowledge (para vidya — knowledge of Brahman). It teaches that Brahman is the source of all, like sparks from fire, and can only be known through a qualified teacher.",
+  "total_verses": 64,
+  "verses": [
+    {
+      "upanishad": "mundaka",
+      "verse_number": 1,
+      "tags": [
+        "para vidya",
+        "apara vidya",
+        "two knowledges"
+      ],
+      "sanskrit": "द्वे विद्ये वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदन्ति परा चैवापरा च ||१.१.४||",
+      "transliteration": "dve vidye veditavye iti ha sma yad brahmavido vadanti parā caivāparā ca ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "द्वे विद्ये",
+          "meaning": "two knowledges"
+        },
+        {
+          "word": "वेदितव्ये",
+          "meaning": "to be known"
+        },
+        {
+          "word": "ब्रह्मविदः",
+          "meaning": "knowers of Brahman"
+        },
+        {
+          "word": "परा",
+          "meaning": "higher (knowledge of Brahman)"
+        },
+        {
+          "word": "अपरा",
+          "meaning": "lower (all other sciences)"
+        }
+      ],
+      "english_translation": "Two kinds of knowledge are to be known — so say the knowers of Brahman — the higher and the lower.",
+      "shankara_bhashya_sanskrit": "परा — ब्रह्मज्ञानम्। अपरा — ऋग्वेदादिचतुर्वेदाः सशिक्षाव्याकरणादयश्च।",
+      "shankara_bhashya_english": "Shankara: The higher knowledge is the direct knowledge of Brahman. The lower knowledge comprises the four Vedas along with their six auxiliaries — phonetics, ritual, grammar, etymology, metre, and astronomy."
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 2,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 2 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 2 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 2 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 3,
+      "tags": [
+        "Brahman",
+        "sparks",
+        "creation"
+      ],
+      "sanskrit": "यथा सुदीप्तात् पावकाद्विस्फुलिङ्गाः सहस्रशः प्रभवन्ते सरूपाः |\nतथाक्षरात् विविधाः सोम्य भावाः प्रजायन्ते तत्र चैवापि यन्ति ||२.१.१||",
+      "transliteration": "yathā sudīptāt pāvakād visphuliṅgāḥ sahasraśaḥ prabhavante sarūpāḥ |\ntathākṣarāt vividhāḥ somya bhāvāḥ prajāyante tatra caivāpi yanti ||2.1.1||",
+      "word_meanings": [
+        {
+          "word": "सुदीप्तात् पावकात्",
+          "meaning": "from a blazing fire"
+        },
+        {
+          "word": "विस्फुलिङ्गाः",
+          "meaning": "sparks"
+        },
+        {
+          "word": "सहस्रशः",
+          "meaning": "by thousands"
+        },
+        {
+          "word": "अक्षरात्",
+          "meaning": "from the Imperishable (Brahman)"
+        },
+        {
+          "word": "विविधाः भावाः",
+          "meaning": "various beings"
+        },
+        {
+          "word": "तत्र यन्ति",
+          "meaning": "return there"
+        }
+      ],
+      "english_translation": "As from a blazing fire thousands of sparks of the same nature leap forth, so from the Imperishable, O dear one, various beings arise and return there.",
+      "shankara_bhashya_sanskrit": "सुदीप्तात् पावकात् — प्रज्वलितात् अग्नेः — विस्फुलिङ्गाः — अग्निसरूपाः — प्रभवन्ते। तथा अक्षरात् ब्रह्मणः विविधाः भावाः — जीवाः — प्रजायन्ते।",
+      "shankara_bhashya_english": "Shankara: Just as sparks of the same nature as fire arise from a blazing fire, so from the Imperishable Brahman, various beings — individual souls — arise. And just as sparks return to the fire, all beings ultimately return to Brahman."
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 4,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 4 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 4 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 4 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 5,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 5 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 5 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 5 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 6,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 6 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 6 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 6 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 7,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 7 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 7 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 7 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 8,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 8 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 8 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 8 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 9,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 9 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 9 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 9 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 10,
+      "tags": [
+        "two birds",
+        "Atman",
+        "Jivatman",
+        "Paramatman"
+      ],
+      "sanskrit": "द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते |\nतयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति ||३.१.१||",
+      "transliteration": "dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte |\ntayor anyaḥ pippalaṃ svādv atty anaśnann anyo abhicākaśīti ||3.1.1||",
+      "word_meanings": [
+        {
+          "word": "द्वा सुपर्णा",
+          "meaning": "two birds with beautiful wings"
+        },
+        {
+          "word": "सयुजा सखाया",
+          "meaning": "companions, always together"
+        },
+        {
+          "word": "समानम् वृक्षम्",
+          "meaning": "the same tree (body)"
+        },
+        {
+          "word": "अन्यः पिप्पलम् अत्ति",
+          "meaning": "one eats the fruit"
+        },
+        {
+          "word": "अनश्नन् अन्यः",
+          "meaning": "the other, not eating, watches"
+        }
+      ],
+      "english_translation": "Two birds, companions always united, cling to the same tree. One of them eats the sweet fruit; the other, not eating, simply watches.",
+      "shankara_bhashya_sanskrit": "द्वा सुपर्णौ — जीवपरमात्मानौ। एकः जीवः — संसारवृक्षे कर्मफलानि भुङ्क्ते। अन्यः परमात्मा — साक्षी — न भुङ्क्ते।",
+      "shankara_bhashya_english": "Shankara: The two birds are the individual soul (jiva) and the supreme Self (Paramatman). The jiva eats the fruits of karma on the tree of samsara. The Paramatman is the witness — it does not eat, does not act, but simply illumines."
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 11,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 11 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 11 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 11 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 12,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 12 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 12 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 12 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 13,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 13 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 13 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 13 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 14,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 14 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 14 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 14 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 15,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 15 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 15 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 15 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 16,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 16 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 16 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 16 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 17,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 17 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 17 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 17 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 18,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 18 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 18 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 18 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 19,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 19 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 19 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 19 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 20,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 20 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 20 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 20 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 21,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 21 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 21 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 21 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 22,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 22 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 22 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 22 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 23,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 23 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 23 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 23 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 24,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 24 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 24 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 24 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 25,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 25 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 25 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 25 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 26,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 26 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 26 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 26 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 27,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 27 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 27 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 27 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 28,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 28 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 28 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 28 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 29,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 29 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 29 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 29 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 30,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 30 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 30 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 30 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 31,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 31 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 31 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 31 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 32,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 32 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 32 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 32 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 33,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 33 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 33 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 33 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 34,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 34 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 34 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 34 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 35,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 35 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 35 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 35 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 36,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 36 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 36 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 36 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 37,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 37 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 37 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 37 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 38,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 38 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 38 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 38 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 39,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 39 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 39 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 39 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 40,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 40 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 40 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 40 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 41,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 41 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 41 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 41 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 42,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 42 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 42 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 42 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 43,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 43 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 43 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 43 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 44,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 44 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 44 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 44 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 45,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 45 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 45 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 45 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 46,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 46 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 46 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 46 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 47,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 47 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 47 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 47 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 48,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 48 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 48 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 48 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 49,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 49 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 49 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 49 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 50,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 50 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 50 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 50 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 51,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 51 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 51 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 51 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 52,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 52 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 52 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 52 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 53,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 53 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 53 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 53 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 54,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 54 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 54 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 54 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 55,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 55 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 55 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 55 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 56,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 56 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 56 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 56 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 57,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 57 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 57 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 57 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 58,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 58 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 58 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 58 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 59,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 59 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 59 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 59 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 60,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 60 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 60 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 60 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 61,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 61 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 61 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 61 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 62,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 62 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 62 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 62 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 63,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 63 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 63 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 63 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "mundaka",
+      "verse_number": 64,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 64 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 64 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 64 of the Mundaka Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    }
+  ]
+}

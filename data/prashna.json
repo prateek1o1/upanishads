@@ -1,1 +1,1119 @@
-{"id":"prashna","name":"Prashna Upanishad","name_sanskrit":"प्रश्नोपनिषद्","tradition":"Atharvaveda","summary":"Six students approach the sage Pippalada with six profound questions (prashnas) about the origin of creation, prana, sleep and waking, the syllable Om, the five pranas, and the sixteen-part Purusha. Pippalada answers each in turn.","total_verses":67,"verses":[{"upanishad":"prashna","verse_number":1,"tags":["prana","rayi","creation","Prajapati"],"sanskrit":"स होवाच — प्राणश्च रयिश्च प्रजापतिः सृष्टौ — तयोरन्यतरः प्राणः — आदित्यः ||१.४||","transliteration":"sa hovāca — prāṇaś ca rayiś ca prajāpatiḥ sṛṣṭau — tayor anyataraḥ prāṇaḥ — ādityaḥ ||1.4||","word_meanings":[{"word":"प्राणः","meaning":"prana (the active, solar principle)"},{"word":"रयिः","meaning":"rayi (the material, lunar principle)"},{"word":"प्रजापतिः","meaning":"Prajapati (the Lord of creation)"},{"word":"सृष्टौ","meaning":"created/projected"},{"word":"आदित्यः","meaning":"the Sun"}],"english_translation":"He said: Prajapati created prana and rayi (matter). Of these two, prana is the Sun.","shankara_bhashya_sanskrit":"प्राणः — चेतनः सूर्यः। रयिः — अचेतना चन्द्रमाः। एतौ द्वौ सर्वस्य जगतः कारणम्।","shankara_bhashya_english":"Shankara: Prana is the conscious solar principle; rayi is the inert lunar principle. These two are the cause of the entire world — the active and passive aspects of creation."},{"upanishad":"prashna","verse_number":2,"tags":["Om","Brahman","higher lower","meditation"],"sanskrit":"ओमित्येतदक्षरमभिध्यायीत — एष ह वाव साधु कर्म करोति यः एनमभिध्यायीत ||५.२||","transliteration":"om ity etad akṣaram abhidhyāyīta — eṣa ha vāva sādhu karma karoti yaḥ enam abhidhyāyīta ||5.2||","word_meanings":[{"word":"ओम् इति एतत् अक्षरम्","meaning":"this syllable Om"},{"word":"अभिध्यायीत","meaning":"should meditate upon"},{"word":"साधु कर्म करोति","meaning":"does good action"}],"english_translation":"One should meditate on this syllable Om. Whoever meditates on it does good action.","shankara_bhashya_sanskrit":"ओम् इति — प्रणवः परब्रह्मणः वाचकः। तम् अभिध्यायन् — उपासन् — साधु कर्म करोति — श्रेयः प्राप्नोति।","shankara_bhashya_english":"Shankara: Om is the indicator of the supreme Brahman. One who meditates on Om attains the good — both the lower good of higher worlds and the highest good of liberation, depending on the depth of meditation."},{"upanishad":"prashna","verse_number":3,"tags":["sixteen parts","Purusha","Self"],"sanskrit":"कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवतीति ||६.१||","transliteration":"kasmin nu bhagavo vijñāte sarvam idaṃ vijñātaṃ bhavatīti ||6.1||","word_meanings":[{"word":"कस्मिन् विज्ञाते","meaning":"by knowing what"},{"word":"सर्वम् इदम्","meaning":"all this"},{"word":"विज्ञातम् भवति","meaning":"becomes known"}],"english_translation":"By knowing what, O Blessed One, does all this become known?","shankara_bhashya_sanskrit":"कस्मिन् विज्ञाते — किं एकं ज्ञात्वा सर्वं ज्ञातं भवति — इति षष्ठः प्रश्नः।","shankara_bhashya_english":"Shankara: This is the sixth and final question: by knowing what one thing does everything become known? The answer points to the Self (Atman) as the ground of all knowledge."}]}
+{
+  "id": "prashna",
+  "name": "Prashna Upanishad",
+  "name_sanskrit": "प्रश्नोपनिषद्",
+  "tradition": "Atharvaveda",
+  "summary": "Six students approach the sage Pippalada with six profound questions (prashnas) about the origin of creation, prana, sleep and waking, the syllable Om, the five pranas, and the sixteen-part Purusha. Pippalada answers each in turn.",
+  "total_verses": 67,
+  "verses": [
+    {
+      "upanishad": "prashna",
+      "verse_number": 1,
+      "tags": [
+        "prana",
+        "rayi",
+        "creation",
+        "Prajapati"
+      ],
+      "sanskrit": "स होवाच — प्राणश्च रयिश्च प्रजापतिः सृष्टौ — तयोरन्यतरः प्राणः — आदित्यः ||१.४||",
+      "transliteration": "sa hovāca — prāṇaś ca rayiś ca prajāpatiḥ sṛṣṭau — tayor anyataraḥ prāṇaḥ — ādityaḥ ||1.4||",
+      "word_meanings": [
+        {
+          "word": "प्राणः",
+          "meaning": "prana (the active, solar principle)"
+        },
+        {
+          "word": "रयिः",
+          "meaning": "rayi (the material, lunar principle)"
+        },
+        {
+          "word": "प्रजापतिः",
+          "meaning": "Prajapati (the Lord of creation)"
+        },
+        {
+          "word": "सृष्टौ",
+          "meaning": "created/projected"
+        },
+        {
+          "word": "आदित्यः",
+          "meaning": "the Sun"
+        }
+      ],
+      "english_translation": "He said: Prajapati created prana and rayi (matter). Of these two, prana is the Sun.",
+      "shankara_bhashya_sanskrit": "प्राणः — चेतनः सूर्यः। रयिः — अचेतना चन्द्रमाः। एतौ द्वौ सर्वस्य जगतः कारणम्।",
+      "shankara_bhashya_english": "Shankara: Prana is the conscious solar principle; rayi is the inert lunar principle. These two are the cause of the entire world — the active and passive aspects of creation."
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 2,
+      "tags": [
+        "Om",
+        "Brahman",
+        "higher lower",
+        "meditation"
+      ],
+      "sanskrit": "ओमित्येतदक्षरमभिध्यायीत — एष ह वाव साधु कर्म करोति यः एनमभिध्यायीत ||५.२||",
+      "transliteration": "om ity etad akṣaram abhidhyāyīta — eṣa ha vāva sādhu karma karoti yaḥ enam abhidhyāyīta ||5.2||",
+      "word_meanings": [
+        {
+          "word": "ओम् इति एतत् अक्षरम्",
+          "meaning": "this syllable Om"
+        },
+        {
+          "word": "अभिध्यायीत",
+          "meaning": "should meditate upon"
+        },
+        {
+          "word": "साधु कर्म करोति",
+          "meaning": "does good action"
+        }
+      ],
+      "english_translation": "One should meditate on this syllable Om. Whoever meditates on it does good action.",
+      "shankara_bhashya_sanskrit": "ओम् इति — प्रणवः परब्रह्मणः वाचकः। तम् अभिध्यायन् — उपासन् — साधु कर्म करोति — श्रेयः प्राप्नोति।",
+      "shankara_bhashya_english": "Shankara: Om is the indicator of the supreme Brahman. One who meditates on Om attains the good — both the lower good of higher worlds and the highest good of liberation, depending on the depth of meditation."
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 3,
+      "tags": [
+        "sixteen parts",
+        "Purusha",
+        "Self"
+      ],
+      "sanskrit": "कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवतीति ||६.१||",
+      "transliteration": "kasmin nu bhagavo vijñāte sarvam idaṃ vijñātaṃ bhavatīti ||6.1||",
+      "word_meanings": [
+        {
+          "word": "कस्मिन् विज्ञाते",
+          "meaning": "by knowing what"
+        },
+        {
+          "word": "सर्वम् इदम्",
+          "meaning": "all this"
+        },
+        {
+          "word": "विज्ञातम् भवति",
+          "meaning": "becomes known"
+        }
+      ],
+      "english_translation": "By knowing what, O Blessed One, does all this become known?",
+      "shankara_bhashya_sanskrit": "कस्मिन् विज्ञाते — किं एकं ज्ञात्वा सर्वं ज्ञातं भवति — इति षष्ठः प्रश्नः।",
+      "shankara_bhashya_english": "Shankara: This is the sixth and final question: by knowing what one thing does everything become known? The answer points to the Self (Atman) as the ground of all knowledge."
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 4,
+      "tags": [
+        "prana",
+        "sun",
+        "moon",
+        "creation",
+        "Prajapati"
+      ],
+      "sanskrit": "आदित्यो ह वै प्राणः | रयिरेव चन्द्रमाः | यद्धैतत्सर्वं मूर्तं चामूर्तं च रयिरेव तत् ||१.५||",
+      "transliteration": "ādityo ha vai prāṇaḥ | rayir eva candramāḥ | yad dhaitad sarvaṃ mūrtaṃ cāmūrtaṃ ca rayir eva tat ||1.5||",
+      "word_meanings": [
+        {
+          "word": "आदित्यः प्राणः",
+          "meaning": "the Sun is prana"
+        },
+        {
+          "word": "रयिः चन्द्रमाः",
+          "meaning": "the Moon is rayi (matter)"
+        },
+        {
+          "word": "मूर्तम् च अमूर्तम्",
+          "meaning": "the formed and the formless"
+        },
+        {
+          "word": "रयिः एव तत्",
+          "meaning": "that is rayi alone"
+        }
+      ],
+      "english_translation": "The Sun is indeed prana; the Moon is indeed rayi. Whatever is formed and formless — all that is rayi alone.",
+      "shankara_bhashya_sanskrit": "आदित्यः — सूर्यः — प्राणः — चेतनः। चन्द्रमाः — रयिः — अचेतनः। मूर्तम् अमूर्तम् — स्थूलसूक्ष्मम् — सर्वम् रयिः।",
+      "shankara_bhashya_english": "Shankara: The Sun represents the conscious, active principle (prana); the Moon represents the material, passive principle (rayi). All formed and formless matter is rayi. This cosmic duality underlies all creation."
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 5,
+      "tags": [
+        "prana",
+        "five pranas",
+        "Kashyapa",
+        "question"
+      ],
+      "sanskrit": "कति ह वा अस्मिन् पुरुषे प्राणाः | कतर एते पुरुषं विधारयन्ति | कश्चैतेषां वरिष्ठ इति ||२.१||",
+      "transliteration": "kati ha vā asmin puruṣe prāṇāḥ | katara ete puruṣaṃ vidhārayanti | kaś caitesāṃ variṣṭha iti ||2.1||",
+      "word_meanings": [
+        {
+          "word": "कति प्राणाः",
+          "meaning": "how many pranas"
+        },
+        {
+          "word": "पुरुषम् विधारयन्ति",
+          "meaning": "support the person"
+        },
+        {
+          "word": "वरिष्ठः",
+          "meaning": "the greatest among them"
+        }
+      ],
+      "english_translation": "How many pranas are there in this person? Which of these support the person? And which among them is the greatest?",
+      "shankara_bhashya_sanskrit": "कति प्राणाः — कियन्तः प्राणाः अस्मिन् शरीरे। कतरे विधारयन्ति — के शरीरं धारयन्ति। कः वरिष्ठः — कः प्रधानः।",
+      "shankara_bhashya_english": "Shankara: The second question asks about the pranas — how many are there, which ones sustain the body, and which is the chief. Pippalada will answer that there are five pranas and that the chief prana (mukhya prana) is supreme."
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 6,
+      "tags": [
+        "five pranas",
+        "prana",
+        "apana",
+        "vyana",
+        "udana",
+        "samana"
+      ],
+      "sanskrit": "पञ्चैव प्राणाः | प्राणोऽपानो व्यान उदानः समानश्चेति ||२.३||",
+      "transliteration": "pañcaiva prāṇāḥ | prāṇo'pāno vyāna udānaḥ samānaś ceti ||2.3||",
+      "word_meanings": [
+        {
+          "word": "पञ्च प्राणाः",
+          "meaning": "five pranas"
+        },
+        {
+          "word": "प्राणः",
+          "meaning": "upward breath"
+        },
+        {
+          "word": "अपानः",
+          "meaning": "downward breath"
+        },
+        {
+          "word": "व्यानः",
+          "meaning": "pervading breath"
+        },
+        {
+          "word": "उदानः",
+          "meaning": "upward-moving breath"
+        },
+        {
+          "word": "समानः",
+          "meaning": "equalizing breath"
+        }
+      ],
+      "english_translation": "There are five pranas: prana, apana, vyana, udana, and samana.",
+      "shankara_bhashya_sanskrit": "पञ्च प्राणाः — प्राणः — नासिकाग्रे वर्तते। अपानः — पायौ। व्यानः — सर्वशरीरे। उदानः — कण्ठे। समानः — नाभौ।",
+      "shankara_bhashya_english": "Shankara: The five pranas have different locations and functions. Prana operates at the nostrils (inhalation). Apana operates at the lower body (elimination). Vyana pervades the whole body. Udana operates at the throat (speech, death). Samana operates at the navel (digestion)."
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 7,
+      "tags": [
+        "prana",
+        "chief",
+        "sun",
+        "fire",
+        "all senses"
+      ],
+      "sanskrit": "एष ह वाव वरिष्ठः यः प्राणः | एष एव सर्वाणि भूतानि धारयति ||२.१३||",
+      "transliteration": "eṣa ha vāva variṣṭhaḥ yaḥ prāṇaḥ | eṣa eva sarvāṇi bhūtāni dhārayati ||2.13||",
+      "word_meanings": [
+        {
+          "word": "एषः वरिष्ठः",
+          "meaning": "this one is the greatest"
+        },
+        {
+          "word": "यः प्राणः",
+          "meaning": "which is prana (the chief)"
+        },
+        {
+          "word": "सर्वाणि भूतानि धारयति",
+          "meaning": "supports all beings"
+        }
+      ],
+      "english_translation": "This one is indeed the greatest — the chief prana. This one alone supports all beings.",
+      "shankara_bhashya_sanskrit": "एषः प्राणः — मुख्यप्राणः — वरिष्ठः — सर्वेषाम् प्रधानः। एषः सर्वाणि भूतानि धारयति — सर्वेषाम् जीवनाधारः।",
+      "shankara_bhashya_english": "Shankara: The chief prana (mukhya prana) is the greatest — it is the life-force that sustains all beings. All the other pranas are its manifestations. Without the chief prana, no being can live."
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 8,
+      "tags": [
+        "Om",
+        "A U M",
+        "three matras",
+        "meditation",
+        "Brahman"
+      ],
+      "sanskrit": "अकार उ वै सर्वा वाक् | सैषा स्पर्शोष्मभिर्व्यज्यमाना बहुधा भवति ||५.५||",
+      "transliteration": "akāra u vai sarvā vāk | saiṣā sparśoṣmabhir vyajyamānā bahudhā bhavati ||5.5||",
+      "word_meanings": [
+        {
+          "word": "अकारः सर्वा वाक्",
+          "meaning": "the letter A is all speech"
+        },
+        {
+          "word": "स्पर्शोष्मभिः",
+          "meaning": "by consonants and sibilants"
+        },
+        {
+          "word": "व्यज्यमाना",
+          "meaning": "being manifested"
+        },
+        {
+          "word": "बहुधा भवति",
+          "meaning": "becomes manifold"
+        }
+      ],
+      "english_translation": "The letter A is indeed all speech. Being manifested by consonants and sibilants, it becomes manifold.",
+      "shankara_bhashya_sanskrit": "अकारः — सर्वासाम् वर्णानाम् आधारः। सर्वा वाक् — सर्वे शब्दाः — अकारात् एव।",
+      "shankara_bhashya_english": "Shankara: The letter A is the basis of all speech — all sounds are modifications of A. Similarly, Om (which begins with A) is the basis of all Vedic knowledge. This explains why Om is the most fundamental mantra."
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 9,
+      "tags": [
+        "sixteen parts",
+        "Purusha",
+        "Self",
+        "rivers"
+      ],
+      "sanskrit": "यथा नद्यः स्यन्दमानाः समुद्रेऽस्तं गच्छन्ति | नामरूपे विहाय | तथा विद्वान् नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् ||६.५||",
+      "transliteration": "yathā nadyaḥ syandamānāḥ samudre'staṃ gacchanti | nāmarūpe vihāya | tathā vidvān nāmarūpād vimuktaḥ parātparaṃ puruṣam upaiti divyam ||6.5||",
+      "word_meanings": [
+        {
+          "word": "नद्यः समुद्रे अस्तम् गच्छन्ति",
+          "meaning": "rivers merge into the ocean"
+        },
+        {
+          "word": "नामरूपे विहाय",
+          "meaning": "leaving behind name and form"
+        },
+        {
+          "word": "परात्परम् पुरुषम्",
+          "meaning": "the Person beyond the beyond"
+        },
+        {
+          "word": "दिव्यम् उपैति",
+          "meaning": "attains the divine"
+        }
+      ],
+      "english_translation": "As rivers flowing merge into the ocean, leaving behind name and form — so the wise one, freed from name and form, attains the divine Person who is beyond the beyond.",
+      "shankara_bhashya_sanskrit": "नद्यः — समुद्रे लीयन्ते — नामरूपे विहाय। तथा विद्वान् — ब्रह्मज्ञः — नामरूपात् विमुक्तः — परात्परम् पुरुषम् उपैति।",
+      "shankara_bhashya_english": "Shankara: Just as rivers lose their individual names and forms when they merge into the ocean, the wise one loses individual identity when merging into Brahman. This is liberation — the dissolution of the separate self into the infinite."
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 10,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 10 — full text coming soon]",
+      "transliteration": "[Verse 10 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 10 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 11,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 11 — full text coming soon]",
+      "transliteration": "[Verse 11 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 11 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 12,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 12 — full text coming soon]",
+      "transliteration": "[Verse 12 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 12 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 13,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 13 — full text coming soon]",
+      "transliteration": "[Verse 13 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 13 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 14,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 14 — full text coming soon]",
+      "transliteration": "[Verse 14 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 14 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 15,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 15 — full text coming soon]",
+      "transliteration": "[Verse 15 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 15 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 16,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 16 — full text coming soon]",
+      "transliteration": "[Verse 16 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 16 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 17,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 17 — full text coming soon]",
+      "transliteration": "[Verse 17 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 17 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 18,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 18 — full text coming soon]",
+      "transliteration": "[Verse 18 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 18 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 19,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 19 — full text coming soon]",
+      "transliteration": "[Verse 19 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 19 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 20,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 20 — full text coming soon]",
+      "transliteration": "[Verse 20 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 20 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 21,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 21 — full text coming soon]",
+      "transliteration": "[Verse 21 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 21 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 22,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 22 — full text coming soon]",
+      "transliteration": "[Verse 22 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 22 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 23,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 23 — full text coming soon]",
+      "transliteration": "[Verse 23 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 23 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 24,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 24 — full text coming soon]",
+      "transliteration": "[Verse 24 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 24 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 25,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 25 — full text coming soon]",
+      "transliteration": "[Verse 25 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 25 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 26,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 26 — full text coming soon]",
+      "transliteration": "[Verse 26 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 26 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 27,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 27 — full text coming soon]",
+      "transliteration": "[Verse 27 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 27 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 28,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 28 — full text coming soon]",
+      "transliteration": "[Verse 28 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 28 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 29,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 29 — full text coming soon]",
+      "transliteration": "[Verse 29 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 29 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 30,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 30 — full text coming soon]",
+      "transliteration": "[Verse 30 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 30 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 31,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 31 — full text coming soon]",
+      "transliteration": "[Verse 31 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 31 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 32,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 32 — full text coming soon]",
+      "transliteration": "[Verse 32 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 32 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 33,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 33 — full text coming soon]",
+      "transliteration": "[Verse 33 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 33 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 34,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 34 — full text coming soon]",
+      "transliteration": "[Verse 34 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 34 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 35,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 35 — full text coming soon]",
+      "transliteration": "[Verse 35 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 35 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 36,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 36 — full text coming soon]",
+      "transliteration": "[Verse 36 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 36 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 37,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 37 — full text coming soon]",
+      "transliteration": "[Verse 37 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 37 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 38,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 38 — full text coming soon]",
+      "transliteration": "[Verse 38 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 38 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 39,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 39 — full text coming soon]",
+      "transliteration": "[Verse 39 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 39 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 40,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 40 — full text coming soon]",
+      "transliteration": "[Verse 40 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 40 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 41,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 41 — full text coming soon]",
+      "transliteration": "[Verse 41 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 41 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 42,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 42 — full text coming soon]",
+      "transliteration": "[Verse 42 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 42 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 43,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 43 — full text coming soon]",
+      "transliteration": "[Verse 43 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 43 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 44,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 44 — full text coming soon]",
+      "transliteration": "[Verse 44 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 44 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 45,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 45 — full text coming soon]",
+      "transliteration": "[Verse 45 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 45 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 46,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 46 — full text coming soon]",
+      "transliteration": "[Verse 46 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 46 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 47,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 47 — full text coming soon]",
+      "transliteration": "[Verse 47 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 47 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 48,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 48 — full text coming soon]",
+      "transliteration": "[Verse 48 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 48 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 49,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 49 — full text coming soon]",
+      "transliteration": "[Verse 49 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 49 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 50,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 50 — full text coming soon]",
+      "transliteration": "[Verse 50 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 50 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 51,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 51 — full text coming soon]",
+      "transliteration": "[Verse 51 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 51 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 52,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 52 — full text coming soon]",
+      "transliteration": "[Verse 52 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 52 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 53,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 53 — full text coming soon]",
+      "transliteration": "[Verse 53 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 53 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 54,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 54 — full text coming soon]",
+      "transliteration": "[Verse 54 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 54 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 55,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 55 — full text coming soon]",
+      "transliteration": "[Verse 55 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 55 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 56,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 56 — full text coming soon]",
+      "transliteration": "[Verse 56 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 56 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 57,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 57 — full text coming soon]",
+      "transliteration": "[Verse 57 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 57 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 58,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 58 — full text coming soon]",
+      "transliteration": "[Verse 58 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 58 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 59,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 59 — full text coming soon]",
+      "transliteration": "[Verse 59 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 59 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 60,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 60 — full text coming soon]",
+      "transliteration": "[Verse 60 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 60 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 61,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 61 — full text coming soon]",
+      "transliteration": "[Verse 61 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 61 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 62,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 62 — full text coming soon]",
+      "transliteration": "[Verse 62 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 62 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 63,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 63 — full text coming soon]",
+      "transliteration": "[Verse 63 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 63 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 64,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 64 — full text coming soon]",
+      "transliteration": "[Verse 64 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 64 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 65,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 65 — full text coming soon]",
+      "transliteration": "[Verse 65 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 65 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 66,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 66 — full text coming soon]",
+      "transliteration": "[Verse 66 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 66 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "prashna",
+      "verse_number": 67,
+      "tags": [
+        "prana",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 67 — full text coming soon]",
+      "transliteration": "[Verse 67 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 67 of the Prashna Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    }
+  ]
+}

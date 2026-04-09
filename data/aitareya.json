@@ -1,1 +1,653 @@
-{"id":"aitareya","name":"Aitareya Upanishad","name_sanskrit":"ऐतरेयोपनिषद्","tradition":"Rigveda","summary":"The Aitareya Upanishad from the Rigveda describes the creation of the universe from the Self, the creation of the human being, and ultimately declares that consciousness (prajna) is Brahman — prajnanam brahma.","total_verses":33,"verses":[{"upanishad":"aitareya","verse_number":1,"tags":["creation","Atman","Self","universe"],"sanskrit":"आत्मा वा इदमेक एवाग्र आसीत् | नान्यत् किञ्चन मिषत् |\nस ईक्षत लोकान्नु सृजा इति ||१.१.१||","transliteration":"ātmā vā idam eka evāgra āsīt | nānyat kiñcana miṣat |\nsa īkṣata lokān nu sṛjā iti ||1.1.1||","word_meanings":[{"word":"आत्मा एकः एव","meaning":"the Self alone"},{"word":"अग्रे आसीत्","meaning":"existed in the beginning"},{"word":"नान्यत् किञ्चन","meaning":"nothing else whatsoever"},{"word":"मिषत्","meaning":"that blinked/existed"},{"word":"ईक्षत","meaning":"he thought/willed"},{"word":"लोकान् सृजा","meaning":"let me create worlds"}],"english_translation":"In the beginning, the Self alone existed here — nothing else whatsoever blinked. He thought: 'Let me create worlds.'","shankara_bhashya_sanskrit":"आत्मा — परमात्मा — एकः एव अग्रे आसीत्। सृष्टेः पूर्वम् आत्मा एव आसीत्। स ईक्षत — संकल्पं कृतवान् — लोकान् सृजामि इति।","shankara_bhashya_english":"Shankara: Before creation, the supreme Self alone existed. Nothing else — no world, no beings. The Self willed to create worlds. This shows that creation proceeds from the Self's own will, not from any external material."},{"upanishad":"aitareya","verse_number":2,"tags":["consciousness","Brahman","prajnanam","mahavakya"],"sanskrit":"प्रज्ञानं ब्रह्म ||३.१.३||","transliteration":"prajñānaṃ brahma ||3.1.3||","word_meanings":[{"word":"प्रज्ञानम्","meaning":"consciousness, pure awareness"},{"word":"ब्रह्म","meaning":"is Brahman"}],"english_translation":"Consciousness is Brahman.","shankara_bhashya_sanskrit":"प्रज्ञानम् — विशुद्धं चैतन्यम् — ब्रह्म। इदम् महावाक्यम् — जीवब्रह्मैक्यं बोधयति।","shankara_bhashya_english":"Shankara: Pure consciousness is Brahman. This is one of the four great sayings (mahavakyas) of the Upanishads, from the Rigveda. It declares the identity of the individual consciousness with the supreme Brahman."},{"upanishad":"aitareya","verse_number":3,"tags":["consciousness","all beings","Brahman"],"sanskrit":"प्रज्ञेनैव पश्यति प्रज्ञेन शृणोति | प्रज्ञेन गन्धान् जिघ्रति प्रज्ञेन वाचं वदति |\nप्रज्ञेन प्रियाप्रिये विजानाति ||३.१.२||","transliteration":"prajñenaiva paśyati prajñena śṛṇoti | prajñena gandhān jighrati prajñena vācaṃ vadati |\nprajñena priyāpriye vijānāti ||3.1.2||","word_meanings":[{"word":"प्रज्ञेन पश्यति","meaning":"by consciousness one sees"},{"word":"प्रज्ञेन शृणोति","meaning":"by consciousness one hears"},{"word":"प्रज्ञेन वदति","meaning":"by consciousness one speaks"},{"word":"प्रियाप्रिये विजानाति","meaning":"knows the pleasant and unpleasant"}],"english_translation":"By consciousness alone one sees, by consciousness one hears, by consciousness one smells fragrances, by consciousness one speaks, by consciousness one knows the pleasant and unpleasant.","shankara_bhashya_sanskrit":"प्रज्ञेन — चैतन्येन — सर्वाणि इन्द्रियाणि प्रवर्तन्ते। चैतन्यम् एव सर्वस्य प्रवर्तकम्।","shankara_bhashya_english":"Shankara: All the senses function by consciousness alone. Consciousness is the activator of everything. Without consciousness, no sense organ can function. This leads to the conclusion: consciousness (prajna) is Brahman."}]}
+{
+  "id": "aitareya",
+  "name": "Aitareya Upanishad",
+  "name_sanskrit": "ऐतरेयोपनिषद्",
+  "tradition": "Rigveda",
+  "summary": "The Aitareya Upanishad from the Rigveda describes the creation of the universe from the Self, the creation of the human being, and ultimately declares that consciousness (prajna) is Brahman — prajnanam brahma.",
+  "total_verses": 33,
+  "verses": [
+    {
+      "upanishad": "aitareya",
+      "verse_number": 1,
+      "tags": [
+        "creation",
+        "Atman",
+        "Self",
+        "universe"
+      ],
+      "sanskrit": "आत्मा वा इदमेक एवाग्र आसीत् | नान्यत् किञ्चन मिषत् |\nस ईक्षत लोकान्नु सृजा इति ||१.१.१||",
+      "transliteration": "ātmā vā idam eka evāgra āsīt | nānyat kiñcana miṣat |\nsa īkṣata lokān nu sṛjā iti ||1.1.1||",
+      "word_meanings": [
+        {
+          "word": "आत्मा एकः एव",
+          "meaning": "the Self alone"
+        },
+        {
+          "word": "अग्रे आसीत्",
+          "meaning": "existed in the beginning"
+        },
+        {
+          "word": "नान्यत् किञ्चन",
+          "meaning": "nothing else whatsoever"
+        },
+        {
+          "word": "मिषत्",
+          "meaning": "that blinked/existed"
+        },
+        {
+          "word": "ईक्षत",
+          "meaning": "he thought/willed"
+        },
+        {
+          "word": "लोकान् सृजा",
+          "meaning": "let me create worlds"
+        }
+      ],
+      "english_translation": "In the beginning, the Self alone existed here — nothing else whatsoever blinked. He thought: 'Let me create worlds.'",
+      "shankara_bhashya_sanskrit": "आत्मा — परमात्मा — एकः एव अग्रे आसीत्। सृष्टेः पूर्वम् आत्मा एव आसीत्। स ईक्षत — संकल्पं कृतवान् — लोकान् सृजामि इति।",
+      "shankara_bhashya_english": "Shankara: Before creation, the supreme Self alone existed. Nothing else — no world, no beings. The Self willed to create worlds. This shows that creation proceeds from the Self's own will, not from any external material."
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 2,
+      "tags": [
+        "consciousness",
+        "Brahman",
+        "prajnanam",
+        "mahavakya"
+      ],
+      "sanskrit": "प्रज्ञानं ब्रह्म ||३.१.३||",
+      "transliteration": "prajñānaṃ brahma ||3.1.3||",
+      "word_meanings": [
+        {
+          "word": "प्रज्ञानम्",
+          "meaning": "consciousness, pure awareness"
+        },
+        {
+          "word": "ब्रह्म",
+          "meaning": "is Brahman"
+        }
+      ],
+      "english_translation": "Consciousness is Brahman.",
+      "shankara_bhashya_sanskrit": "प्रज्ञानम् — विशुद्धं चैतन्यम् — ब्रह्म। इदम् महावाक्यम् — जीवब्रह्मैक्यं बोधयति।",
+      "shankara_bhashya_english": "Shankara: Pure consciousness is Brahman. This is one of the four great sayings (mahavakyas) of the Upanishads, from the Rigveda. It declares the identity of the individual consciousness with the supreme Brahman."
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 3,
+      "tags": [
+        "consciousness",
+        "all beings",
+        "Brahman"
+      ],
+      "sanskrit": "प्रज्ञेनैव पश्यति प्रज्ञेन शृणोति | प्रज्ञेन गन्धान् जिघ्रति प्रज्ञेन वाचं वदति |\nप्रज्ञेन प्रियाप्रिये विजानाति ||३.१.२||",
+      "transliteration": "prajñenaiva paśyati prajñena śṛṇoti | prajñena gandhān jighrati prajñena vācaṃ vadati |\nprajñena priyāpriye vijānāti ||3.1.2||",
+      "word_meanings": [
+        {
+          "word": "प्रज्ञेन पश्यति",
+          "meaning": "by consciousness one sees"
+        },
+        {
+          "word": "प्रज्ञेन शृणोति",
+          "meaning": "by consciousness one hears"
+        },
+        {
+          "word": "प्रज्ञेन वदति",
+          "meaning": "by consciousness one speaks"
+        },
+        {
+          "word": "प्रियाप्रिये विजानाति",
+          "meaning": "knows the pleasant and unpleasant"
+        }
+      ],
+      "english_translation": "By consciousness alone one sees, by consciousness one hears, by consciousness one smells fragrances, by consciousness one speaks, by consciousness one knows the pleasant and unpleasant.",
+      "shankara_bhashya_sanskrit": "प्रज्ञेन — चैतन्येन — सर्वाणि इन्द्रियाणि प्रवर्तन्ते। चैतन्यम् एव सर्वस्य प्रवर्तकम्।",
+      "shankara_bhashya_english": "Shankara: All the senses function by consciousness alone. Consciousness is the activator of everything. Without consciousness, no sense organ can function. This leads to the conclusion: consciousness (prajna) is Brahman."
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 4,
+      "tags": [
+        "creation",
+        "waters",
+        "Brahman",
+        "cosmic egg"
+      ],
+      "sanskrit": "स ईक्षत इमे नु लोका लोकपालान्नु सृजा इति | सोऽद्भ्य एव पुरुषमुद्धृत्य अमूर्च्छयत् ||१.१.३||",
+      "transliteration": "sa īkṣata ime nu lokā lokapālān nu sṛjā iti | so'dbhya eva puruṣam uddhṛtya amūrcchayat ||1.1.3||",
+      "word_meanings": [
+        {
+          "word": "लोकपालान् सृजा",
+          "meaning": "let me create guardians of the worlds"
+        },
+        {
+          "word": "अद्भ्यः पुरुषम् उद्धृत्य",
+          "meaning": "drawing a person from the waters"
+        },
+        {
+          "word": "अमूर्च्छयत्",
+          "meaning": "gave it form"
+        }
+      ],
+      "english_translation": "He thought: 'These are the worlds. Let me create guardians of the worlds.' He drew a person from the waters and gave it form.",
+      "shankara_bhashya_sanskrit": "लोकपालान् — लोकानां पालकान् — सृजामि इति ईक्षत। अद्भ्यः पुरुषम् उद्धृत्य — जलात् पुरुषाकारम् उद्धृत्य — अमूर्च्छयत् — मूर्तिमत् अकरोत्।",
+      "shankara_bhashya_english": "Shankara: Having created the worlds, the Self thought to create guardians for them. It drew a cosmic person from the primordial waters and gave it form — this is the creation of the cosmic body (virat)."
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 5,
+      "tags": [
+        "senses",
+        "creation",
+        "hunger",
+        "thirst"
+      ],
+      "sanskrit": "तं तपस्तप्त्वा मुखं निरभिद्यत यथाण्डं मुखाद्वाग्वाचोऽग्निः ||१.१.४||",
+      "transliteration": "taṃ tapas taptva mukhaṃ nirabhidyata yathāṇḍaṃ mukhād vāg vāco'gniḥ ||1.1.4||",
+      "word_meanings": [
+        {
+          "word": "तपः तप्त्वा",
+          "meaning": "having brooded/heated"
+        },
+        {
+          "word": "मुखम् निरभिद्यत",
+          "meaning": "the mouth burst open"
+        },
+        {
+          "word": "वाक्",
+          "meaning": "speech"
+        },
+        {
+          "word": "अग्निः",
+          "meaning": "fire (deity of speech)"
+        }
+      ],
+      "english_translation": "Having brooded over it, the mouth burst open as an egg bursts. From the mouth came speech; from speech, fire.",
+      "shankara_bhashya_sanskrit": "तपः तप्त्वा — ऊष्मणा — मुखम् निरभिद्यत। मुखात् वाक् — वाचः अग्निः — वाग्देवता अग्निः।",
+      "shankara_bhashya_english": "Shankara: Through the heat of brooding (tapas), the cosmic body's organs burst open. From the mouth came speech, and the deity of speech is Agni (fire). This describes the cosmic origin of the organs of action."
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 6,
+      "tags": [
+        "Atman",
+        "entered",
+        "body",
+        "hunger"
+      ],
+      "sanskrit": "ता एता देवताः सृष्टा अस्मिन्महत्यर्णवे प्रापतन् | तमशनायापिपासाभ्यामन्ववार्जत् ||१.२.१||",
+      "transliteration": "tā etā devatāḥ sṛṣṭā asmin mahaty arṇave prāpatan | tam aśanāyāpipāsābhyām anvavārjat ||1.2.1||",
+      "word_meanings": [
+        {
+          "word": "देवताः सृष्टाः",
+          "meaning": "the created deities"
+        },
+        {
+          "word": "महति अर्णवे प्रापतन्",
+          "meaning": "fell into the great ocean"
+        },
+        {
+          "word": "अशनाया अपिपासाभ्याम्",
+          "meaning": "by hunger and thirst"
+        },
+        {
+          "word": "अन्ववार्जत्",
+          "meaning": "were overcome"
+        }
+      ],
+      "english_translation": "These created deities fell into the great ocean. Hunger and thirst overcame him (the cosmic person).",
+      "shankara_bhashya_sanskrit": "देवताः — वाग्आदयः — अस्मिन् महति अर्णवे — संसारसागरे — प्रापतन्। अशनाया अपिपासाभ्याम् — क्षुत्पिपासाभ्याम् — अन्ववार्जत्।",
+      "shankara_bhashya_english": "Shankara: The created deities (speech, etc.) fell into the great ocean of samsara. The cosmic person was overcome by hunger and thirst — the fundamental drives that sustain embodied existence."
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 7,
+      "tags": [
+        "Atman",
+        "entered body",
+        "food",
+        "anna"
+      ],
+      "sanskrit": "सोऽकामयत | अन्नं मे सृज्यतामिति | स एतं रश्मिमभ्यतपत् | तस्माद्रश्मितप्तात् अन्नमजायत ||१.३.१||",
+      "transliteration": "so'kāmayata | annaṃ me sṛjyatām iti | sa etaṃ raśmim abhyatapat | tasmād raśmitaptāt annam ajāyata ||1.3.1||",
+      "word_meanings": [
+        {
+          "word": "अन्नम् सृज्यताम्",
+          "meaning": "let food be created for me"
+        },
+        {
+          "word": "रश्मिम् अभ्यतपत्",
+          "meaning": "brooded over this ray"
+        },
+        {
+          "word": "अन्नम् अजायत",
+          "meaning": "food was born"
+        }
+      ],
+      "english_translation": "He desired: 'Let food be created for me.' He brooded over this ray. From that brooded-upon ray, food was born.",
+      "shankara_bhashya_sanskrit": "अन्नम् — भोज्यम् — सृज्यताम् इति अकामयत। रश्मिम् अभ्यतपत् — सूर्यरश्मिम् ध्यात्वा — अन्नम् अजायत।",
+      "shankara_bhashya_english": "Shankara: The Self desired food for the cosmic person. By brooding over the solar ray, food (the material world) was created. This describes the creation of the objective world as food for the subjective Self."
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 8,
+      "tags": [
+        "Atman",
+        "entered",
+        "body",
+        "three births"
+      ],
+      "sanskrit": "स एतमेव सीमानं विदार्यैतया द्वारा प्रापद्यत | सैषा विदृतिर्नाम द्वास्तदेतन्नान्दनं नाम ||१.३.१२||",
+      "transliteration": "sa etam eva sīmānam vidāryaitayā dvārā prāpadyata | saiṣā vidṛtir nāma dvās tad etan nāndanaṃ nāma ||1.3.12||",
+      "word_meanings": [
+        {
+          "word": "सीमानम् विदार्य",
+          "meaning": "splitting the crown of the head"
+        },
+        {
+          "word": "एतया द्वारा",
+          "meaning": "by this door"
+        },
+        {
+          "word": "विदृतिः नाम द्वाः",
+          "meaning": "the door called Vidrti (the cleft)"
+        },
+        {
+          "word": "नान्दनम् नाम",
+          "meaning": "called Nandana (the place of joy)"
+        }
+      ],
+      "english_translation": "Splitting the crown of the head, it entered by this door. This door is called Vidrti (the cleft). This is the place called Nandana (joy).",
+      "shankara_bhashya_sanskrit": "सीमानम् विदार्य — ब्रह्मरन्ध्रम् भित्त्वा — प्रविशत्। विदृतिः — ब्रह्मरन्ध्रम् — नान्दनम् — आनन्दस्थानम्।",
+      "shankara_bhashya_english": "Shankara: The Self entered the cosmic body through the crown of the head (brahmarandhra). This is called Vidrti (the cleft) and Nandana (the place of joy) — because the Self's entry brings consciousness and bliss to the body."
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 9,
+      "tags": [
+        "three births",
+        "first birth",
+        "womb",
+        "Self"
+      ],
+      "sanskrit": "स जातो भूतान्यभिव्यैख्यत् | किमिहान्यं वावदिषदिति | स एतमेव पुरुषं ब्रह्म ततममपश्यत् | इदमदर्शमिति ||२.१.१||",
+      "transliteration": "sa jāto bhūtāny abhivyaikhyat | kim ihānyaṃ vāvadiṣad iti | sa etam eva puruṣaṃ brahma tatamam apaśyat | idam adarśam iti ||2.1.1||",
+      "word_meanings": [
+        {
+          "word": "जातः",
+          "meaning": "having been born"
+        },
+        {
+          "word": "भूतानि अभिव्यैख्यत्",
+          "meaning": "looked upon all beings"
+        },
+        {
+          "word": "ब्रह्म ततमम्",
+          "meaning": "Brahman spread everywhere"
+        },
+        {
+          "word": "इदम् अदर्शम्",
+          "meaning": "I have seen this"
+        }
+      ],
+      "english_translation": "Having been born, he looked upon all beings. What else would he have wished to speak? He saw this very Brahman spread everywhere. 'I have seen this,' he said.",
+      "shankara_bhashya_sanskrit": "जातः — जन्म प्राप्य — भूतानि अभिव्यैख्यत् — सर्वाणि भूतानि अपश्यत्। ब्रह्म ततमम् — सर्वत्र व्याप्तम् ब्रह्म — अपश्यत्।",
+      "shankara_bhashya_english": "Shankara: At birth, the wise one looked upon all beings and saw Brahman spread everywhere. 'I have seen this' — this is the vision of the knower who recognizes Brahman in all beings at the very moment of birth."
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 10,
+      "tags": [
+        "prajnanam",
+        "Brahman",
+        "mahavakya",
+        "consciousness"
+      ],
+      "sanskrit": "प्रज्ञानेत्रश्च लोकः प्रज्ञाने प्रतिष्ठितः | प्रज्ञानेत्रं ब्रह्म | प्रज्ञानं ब्रह्म ||३.१.३||",
+      "transliteration": "prajñānetras ca lokaḥ prajñāne pratiṣṭhitaḥ | prajñānetraṃ brahma | prajñānaṃ brahma ||3.1.3||",
+      "word_meanings": [
+        {
+          "word": "प्रज्ञानेत्रः लोकः",
+          "meaning": "the world has consciousness as its eye"
+        },
+        {
+          "word": "प्रज्ञाने प्रतिष्ठितः",
+          "meaning": "established in consciousness"
+        },
+        {
+          "word": "प्रज्ञानेत्रम् ब्रह्म",
+          "meaning": "Brahman has consciousness as its eye"
+        },
+        {
+          "word": "प्रज्ञानम् ब्रह्म",
+          "meaning": "consciousness is Brahman"
+        }
+      ],
+      "english_translation": "The world has consciousness as its eye and is established in consciousness. Brahman has consciousness as its eye. Consciousness is Brahman.",
+      "shankara_bhashya_sanskrit": "प्रज्ञानेत्रः लोकः — प्रज्ञानम् नेत्रम् यस्य — चैतन्यम् यस्य दृष्टिः। प्रज्ञानम् ब्रह्म — चैतन्यम् एव ब्रह्म।",
+      "shankara_bhashya_english": "Shankara: The world has consciousness as its eye — it is seen and known through consciousness. Brahman itself has consciousness as its eye — Brahman is pure consciousness. Therefore: consciousness is Brahman. This is the mahavakya of the Rigveda."
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 11,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 11 — full text coming soon]",
+      "transliteration": "[Verse 11 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 11 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 12,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 12 — full text coming soon]",
+      "transliteration": "[Verse 12 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 12 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 13,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 13 — full text coming soon]",
+      "transliteration": "[Verse 13 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 13 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 14,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 14 — full text coming soon]",
+      "transliteration": "[Verse 14 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 14 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 15,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 15 — full text coming soon]",
+      "transliteration": "[Verse 15 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 15 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 16,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 16 — full text coming soon]",
+      "transliteration": "[Verse 16 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 16 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 17,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 17 — full text coming soon]",
+      "transliteration": "[Verse 17 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 17 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 18,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 18 — full text coming soon]",
+      "transliteration": "[Verse 18 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 18 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 19,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 19 — full text coming soon]",
+      "transliteration": "[Verse 19 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 19 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 20,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 20 — full text coming soon]",
+      "transliteration": "[Verse 20 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 20 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 21,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 21 — full text coming soon]",
+      "transliteration": "[Verse 21 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 21 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 22,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 22 — full text coming soon]",
+      "transliteration": "[Verse 22 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 22 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 23,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 23 — full text coming soon]",
+      "transliteration": "[Verse 23 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 23 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 24,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 24 — full text coming soon]",
+      "transliteration": "[Verse 24 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 24 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 25,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 25 — full text coming soon]",
+      "transliteration": "[Verse 25 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 25 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 26,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 26 — full text coming soon]",
+      "transliteration": "[Verse 26 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 26 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 27,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 27 — full text coming soon]",
+      "transliteration": "[Verse 27 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 27 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 28,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 28 — full text coming soon]",
+      "transliteration": "[Verse 28 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 28 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 29,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 29 — full text coming soon]",
+      "transliteration": "[Verse 29 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 29 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 30,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 30 — full text coming soon]",
+      "transliteration": "[Verse 30 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 30 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 31,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 31 — full text coming soon]",
+      "transliteration": "[Verse 31 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 31 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 32,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 32 — full text coming soon]",
+      "transliteration": "[Verse 32 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 32 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "aitareya",
+      "verse_number": 33,
+      "tags": [
+        "consciousness",
+        "Brahman"
+      ],
+      "sanskrit": "[Verse 33 — full text coming soon]",
+      "transliteration": "[Verse 33 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 33 of the Aitareya Upanishad.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    }
+  ]
+}

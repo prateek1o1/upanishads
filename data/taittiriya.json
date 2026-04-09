@@ -1,1 +1,1217 @@
-{"id":"taittiriya","name":"Taittiriya Upanishad","name_sanskrit":"तैत्तिरीयोपनिषद्","tradition":"Krishna Yajurveda","summary":"The Taittiriya Upanishad has three sections: Shiksha Valli (on phonetics and ethics), Brahmananda Valli (on the five sheaths and Brahman as bliss), and Bhrigu Valli (Bhrigu's progressive discovery of Brahman). It famously declares: satyam jnanam anantam brahma — Brahman is truth, knowledge, infinity.","total_verses":81,"verses":[{"upanishad":"taittiriya","verse_number":1,"tags":["Brahman","truth","knowledge","infinity"],"sanskrit":"सत्यं ज्ञानमनन्तं ब्रह्म | यो वेद निहितं गुहायां परमे व्योमन् |\nसोऽश्नुते सर्वान् कामान् सह | ब्रह्मणा विपश्चितेति ||२.१.१||","transliteration":"satyaṃ jñānam anantaṃ brahma | yo veda nihitaṃ guhāyāṃ parame vyoman |\nso'śnute sarvān kāmān saha | brahmaṇā vipaściteti ||2.1.1||","word_meanings":[{"word":"सत्यम्","meaning":"truth, existence"},{"word":"ज्ञानम्","meaning":"knowledge, consciousness"},{"word":"अनन्तम्","meaning":"infinite, endless"},{"word":"ब्रह्म","meaning":"Brahman"},{"word":"गुहायाम् निहितम्","meaning":"hidden in the cave (of the heart)"},{"word":"सर्वान् कामान् अश्नुते","meaning":"attains all desires"}],"english_translation":"Brahman is truth, knowledge, infinity. One who knows it hidden in the cave of the heart, in the highest ether, attains all desires together with the all-knowing Brahman.","shankara_bhashya_sanskrit":"सत्यम् — परिणामरहितम्। ज्ञानम् — चैतन्यस्वरूपम्। अनन्तम् — देशकालवस्तुपरिच्छेदरहितम्। एतत् ब्रह्म।","shankara_bhashya_english":"Shankara: Satyam — that which does not undergo transformation. Jnanam — whose very nature is consciousness. Anantam — unlimited by space, time, or object. This is Brahman. One who knows this hidden in the heart attains all."},{"upanishad":"taittiriya","verse_number":2,"tags":["five sheaths","annamaya","pranamaya","manomaya"],"sanskrit":"अन्नमयो ह्येवायं पुरुषः | तस्येदमेव शिरः | अयं दक्षिणः पक्षः | अयमुत्तरः पक्षः | अयमात्मा | इदं पुच्छं प्रतिष्ठा ||२.१.२||","transliteration":"annamayo hy evāyaṃ puruṣaḥ | tasyedam eva śiraḥ | ayaṃ dakṣiṇaḥ pakṣaḥ | ayam uttaraḥ pakṣaḥ | ayam ātmā | idaṃ pucchaṃ pratiṣṭhā ||2.1.2||","word_meanings":[{"word":"अन्नमयः पुरुषः","meaning":"the person made of food"},{"word":"शिरः","meaning":"head"},{"word":"दक्षिणः पक्षः","meaning":"right wing/side"},{"word":"उत्तरः पक्षः","meaning":"left wing/side"},{"word":"आत्मा","meaning":"trunk/body"},{"word":"पुच्छम् प्रतिष्ठा","meaning":"tail, the foundation"}],"english_translation":"This person is indeed made of the essence of food. This is his head, this his right wing, this his left wing, this his trunk, this his tail — the foundation.","shankara_bhashya_sanskrit":"अन्नमयः — अन्नरसपरिणामः स्थूलशरीरम्। पञ्चकोशानां मध्ये बाह्यतमः कोशः।","shankara_bhashya_english":"Shankara: The annamaya kosha (food sheath) is the gross body, a transformation of the essence of food. It is the outermost of the five sheaths. The teaching progressively moves inward to discover the true Self beyond all sheaths."},{"upanishad":"taittiriya","verse_number":3,"tags":["ananda","bliss","Brahman","joy"],"sanskrit":"आनन्दो ब्रह्मेति व्यजानात् | आनन्दाद्ध्येव खल्विमानि भूतानि जायन्ते |\nआनन्देन जातानि जीवन्ति | आनन्दं प्रयन्त्यभिसंविशन्तीति ||३.६.१||","transliteration":"ānando brahmeti vyajānāt | ānandād dhy eva khalv imāni bhūtāni jāyante |\nānandena jātāni jīvanti | ānandaṃ prayanty abhisaṃviśantīti ||3.6.1||","word_meanings":[{"word":"आनन्दः ब्रह्म","meaning":"bliss is Brahman"},{"word":"आनन्दात् जायन्ते","meaning":"are born from bliss"},{"word":"आनन्देन जीवन्ति","meaning":"live by bliss"},{"word":"आनन्दम् प्रयन्ति","meaning":"return into bliss"}],"english_translation":"He knew: Bliss is Brahman. For from bliss alone are all these beings born; by bliss they live once born; into bliss they return at death.","shankara_bhashya_sanskrit":"आनन्दः — परमानन्दः — ब्रह्मैव। सर्वाणि भूतानि आनन्दात् जायन्ते — ब्रह्मण एव उत्पद्यन्ते।","shankara_bhashya_english":"Shankara: Bliss is Brahman itself. All beings are born from Brahman-bliss, sustained by it, and return to it. This is Bhrigu's final realization after progressive inquiry — the ultimate ground is pure bliss (ananda)."}]}
+{
+  "id": "taittiriya",
+  "name": "Taittiriya Upanishad",
+  "name_sanskrit": "तैत्तिरीयोपनिषद्",
+  "tradition": "Krishna Yajurveda",
+  "summary": "The Taittiriya Upanishad has three sections: Shiksha Valli (on phonetics and ethics), Brahmananda Valli (on the five sheaths and Brahman as bliss), and Bhrigu Valli (Bhrigu's progressive discovery of Brahman). It famously declares: satyam jnanam anantam brahma — Brahman is truth, knowledge, infinity.",
+  "total_verses": 81,
+  "verses": [
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 1,
+      "tags": [
+        "Brahman",
+        "truth",
+        "knowledge",
+        "infinity"
+      ],
+      "sanskrit": "सत्यं ज्ञानमनन्तं ब्रह्म | यो वेद निहितं गुहायां परमे व्योमन् |\nसोऽश्नुते सर्वान् कामान् सह | ब्रह्मणा विपश्चितेति ||२.१.१||",
+      "transliteration": "satyaṃ jñānam anantaṃ brahma | yo veda nihitaṃ guhāyāṃ parame vyoman |\nso'śnute sarvān kāmān saha | brahmaṇā vipaściteti ||2.1.1||",
+      "word_meanings": [
+        {
+          "word": "सत्यम्",
+          "meaning": "truth, existence"
+        },
+        {
+          "word": "ज्ञानम्",
+          "meaning": "knowledge, consciousness"
+        },
+        {
+          "word": "अनन्तम्",
+          "meaning": "infinite, endless"
+        },
+        {
+          "word": "ब्रह्म",
+          "meaning": "Brahman"
+        },
+        {
+          "word": "गुहायाम् निहितम्",
+          "meaning": "hidden in the cave (of the heart)"
+        },
+        {
+          "word": "सर्वान् कामान् अश्नुते",
+          "meaning": "attains all desires"
+        }
+      ],
+      "english_translation": "Brahman is truth, knowledge, infinity. One who knows it hidden in the cave of the heart, in the highest ether, attains all desires together with the all-knowing Brahman.",
+      "shankara_bhashya_sanskrit": "सत्यम् — परिणामरहितम्। ज्ञानम् — चैतन्यस्वरूपम्। अनन्तम् — देशकालवस्तुपरिच्छेदरहितम्। एतत् ब्रह्म।",
+      "shankara_bhashya_english": "Shankara: Satyam — that which does not undergo transformation. Jnanam — whose very nature is consciousness. Anantam — unlimited by space, time, or object. This is Brahman. One who knows this hidden in the heart attains all."
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 2,
+      "tags": [
+        "five sheaths",
+        "annamaya",
+        "pranamaya",
+        "manomaya"
+      ],
+      "sanskrit": "अन्नमयो ह्येवायं पुरुषः | तस्येदमेव शिरः | अयं दक्षिणः पक्षः | अयमुत्तरः पक्षः | अयमात्मा | इदं पुच्छं प्रतिष्ठा ||२.१.२||",
+      "transliteration": "annamayo hy evāyaṃ puruṣaḥ | tasyedam eva śiraḥ | ayaṃ dakṣiṇaḥ pakṣaḥ | ayam uttaraḥ pakṣaḥ | ayam ātmā | idaṃ pucchaṃ pratiṣṭhā ||2.1.2||",
+      "word_meanings": [
+        {
+          "word": "अन्नमयः पुरुषः",
+          "meaning": "the person made of food"
+        },
+        {
+          "word": "शिरः",
+          "meaning": "head"
+        },
+        {
+          "word": "दक्षिणः पक्षः",
+          "meaning": "right wing/side"
+        },
+        {
+          "word": "उत्तरः पक्षः",
+          "meaning": "left wing/side"
+        },
+        {
+          "word": "आत्मा",
+          "meaning": "trunk/body"
+        },
+        {
+          "word": "पुच्छम् प्रतिष्ठा",
+          "meaning": "tail, the foundation"
+        }
+      ],
+      "english_translation": "This person is indeed made of the essence of food. This is his head, this his right wing, this his left wing, this his trunk, this his tail — the foundation.",
+      "shankara_bhashya_sanskrit": "अन्नमयः — अन्नरसपरिणामः स्थूलशरीरम्। पञ्चकोशानां मध्ये बाह्यतमः कोशः।",
+      "shankara_bhashya_english": "Shankara: The annamaya kosha (food sheath) is the gross body, a transformation of the essence of food. It is the outermost of the five sheaths. The teaching progressively moves inward to discover the true Self beyond all sheaths."
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 3,
+      "tags": [
+        "ananda",
+        "bliss",
+        "Brahman",
+        "joy"
+      ],
+      "sanskrit": "आनन्दो ब्रह्मेति व्यजानात् | आनन्दाद्ध्येव खल्विमानि भूतानि जायन्ते |\nआनन्देन जातानि जीवन्ति | आनन्दं प्रयन्त्यभिसंविशन्तीति ||३.६.१||",
+      "transliteration": "ānando brahmeti vyajānāt | ānandād dhy eva khalv imāni bhūtāni jāyante |\nānandena jātāni jīvanti | ānandaṃ prayanty abhisaṃviśantīti ||3.6.1||",
+      "word_meanings": [
+        {
+          "word": "आनन्दः ब्रह्म",
+          "meaning": "bliss is Brahman"
+        },
+        {
+          "word": "आनन्दात् जायन्ते",
+          "meaning": "are born from bliss"
+        },
+        {
+          "word": "आनन्देन जीवन्ति",
+          "meaning": "live by bliss"
+        },
+        {
+          "word": "आनन्दम् प्रयन्ति",
+          "meaning": "return into bliss"
+        }
+      ],
+      "english_translation": "He knew: Bliss is Brahman. For from bliss alone are all these beings born; by bliss they live once born; into bliss they return at death.",
+      "shankara_bhashya_sanskrit": "आनन्दः — परमानन्दः — ब्रह्मैव। सर्वाणि भूतानि आनन्दात् जायन्ते — ब्रह्मण एव उत्पद्यन्ते।",
+      "shankara_bhashya_english": "Shankara: Bliss is Brahman itself. All beings are born from Brahman-bliss, sustained by it, and return to it. This is Bhrigu's final realization after progressive inquiry — the ultimate ground is pure bliss (ananda)."
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 4,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 4 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 4 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 4 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 5,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 5 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 5 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 5 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 6,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 6 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 6 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 6 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 7,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 7 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 7 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 7 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 8,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 8 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 8 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 8 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 9,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 9 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 9 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 9 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 10,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 10 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 10 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 10 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 11,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 11 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 11 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 11 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 12,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 12 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 12 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 12 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 13,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 13 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 13 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 13 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 14,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 14 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 14 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 14 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 15,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 15 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 15 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 15 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 16,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 16 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 16 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 16 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 17,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 17 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 17 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 17 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 18,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 18 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 18 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 18 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 19,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 19 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 19 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 19 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 20,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 20 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 20 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 20 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 21,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 21 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 21 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 21 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 22,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 22 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 22 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 22 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 23,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 23 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 23 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 23 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 24,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 24 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 24 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 24 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 25,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 25 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 25 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 25 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 26,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 26 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 26 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 26 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 27,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 27 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 27 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 27 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 28,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 28 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 28 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 28 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 29,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 29 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 29 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 29 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 30,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 30 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 30 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 30 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 31,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 31 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 31 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 31 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 32,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 32 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 32 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 32 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 33,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 33 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 33 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 33 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 34,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 34 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 34 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 34 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 35,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 35 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 35 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 35 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 36,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 36 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 36 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 36 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 37,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 37 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 37 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 37 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 38,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 38 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 38 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 38 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 39,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 39 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 39 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 39 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 40,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 40 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 40 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 40 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 41,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 41 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 41 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 41 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 42,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 42 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 42 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 42 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 43,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 43 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 43 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 43 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 44,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 44 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 44 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 44 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 45,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 45 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 45 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 45 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 46,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 46 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 46 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 46 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 47,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 47 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 47 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 47 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 48,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 48 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 48 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 48 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 49,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 49 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 49 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 49 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 50,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 50 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 50 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 50 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 51,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 51 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 51 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 51 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 52,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 52 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 52 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 52 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 53,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 53 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 53 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 53 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 54,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 54 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 54 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 54 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 55,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 55 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 55 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 55 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 56,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 56 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 56 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 56 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 57,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 57 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 57 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 57 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 58,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 58 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 58 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 58 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 59,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 59 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 59 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 59 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 60,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 60 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 60 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 60 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 61,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 61 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 61 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 61 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 62,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 62 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 62 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 62 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 63,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 63 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 63 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 63 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 64,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 64 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 64 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 64 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 65,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 65 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 65 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 65 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 66,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 66 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 66 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 66 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 67,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 67 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 67 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 67 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 68,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 68 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 68 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 68 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 69,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 69 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 69 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 69 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 70,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 70 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 70 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 70 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 71,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 71 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 71 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 71 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 72,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 72 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 72 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 72 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 73,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 73 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 73 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 73 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 74,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 74 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 74 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 74 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 75,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 75 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 75 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 75 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 76,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 76 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 76 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 76 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 77,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 77 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 77 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 77 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 78,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 78 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 78 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 78 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 79,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 79 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 79 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 79 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 80,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 80 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 80 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 80 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "taittiriya",
+      "verse_number": 81,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 81 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 81 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 81 of the Taittiriya Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    }
+  ]
+}

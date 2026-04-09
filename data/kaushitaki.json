@@ -1,1 +1,1407 @@
-{"id":"kaushitaki","name":"Kaushitaki Upanishad","name_sanskrit":"कौषीतकिोपनिषद्","tradition":"Rigveda","summary":"The Kaushitaki Upanishad describes the path of the soul after death, the nature of prana as Brahman, and the dialogue between Indra and Pratardana. It teaches that prana (life-force) is consciousness and is Brahman.","total_verses":96,"verses":[{"upanishad":"kaushitaki","verse_number":1,"tags":["prana","Brahman","consciousness","Indra"],"sanskrit":"प्राणो ब्रह्मेति ह स्माह कौषीतकिः ||२.१||","transliteration":"prāṇo brahmeti ha smāha kauṣītakiḥ ||2.1||","word_meanings":[{"word":"प्राणः ब्रह्म","meaning":"prana is Brahman"},{"word":"ह स्म आह","meaning":"thus indeed said"},{"word":"कौषीतकिः","meaning":"the sage Kaushitaki"}],"english_translation":"'Prana is Brahman' — thus indeed said Kaushitaki.","shankara_bhashya_sanskrit":"प्राणः — मुख्यप्राणः — ब्रह्म — चैतन्यस्वरूपः। प्राणस्य ब्रह्मत्वम् उपदिश्यते।","shankara_bhashya_english":"Shankara: Prana — the chief life-force — is Brahman, whose nature is consciousness. This Upanishad teaches the identity of prana with Brahman, the ultimate reality."},{"upanishad":"kaushitaki","verse_number":2,"tags":["path of gods","devayana","liberation","moon"],"sanskrit":"सर्वे ह वा अमुं लोकं प्रेत्याभिसंभवन्ति | तान् चन्द्रमाः प्राणेन अनुप्रश्नं पृच्छति ||१.२||","transliteration":"sarve ha vā amuṃ lokaṃ pretyābhisaṃbhavanti | tān candramāḥ prāṇena anupraśnaṃ pṛcchati ||1.2||","word_meanings":[{"word":"सर्वे प्रेत्य","meaning":"all after death"},{"word":"अमुम् लोकम्","meaning":"that world (the moon)"},{"word":"अभिसंभवन्ति","meaning":"go to"},{"word":"चन्द्रमाः पृच्छति","meaning":"the moon questions them"}],"english_translation":"All indeed, after death, go to that world (the moon). The moon questions them through prana.","shankara_bhashya_sanskrit":"मृत्योः परं सर्वे चन्द्रलोकं गच्छन्ति। चन्द्रमाः तान् प्रश्नं पृच्छति — कः असि इति।","shankara_bhashya_english":"Shankara: After death, all souls go to the lunar world. The moon questions them: 'Who are you?' Those who know the Self pass through; those who do not know return to rebirth. This describes the two paths — the path of the gods (devayana) and the path of the ancestors (pitriyana)."},{"upanishad":"kaushitaki","verse_number":3,"tags":["Self","consciousness","all actions","Brahman"],"sanskrit":"प्रज्ञया वाचं समारुह्य वाचा सर्वाणि नामान्याप्नोति ||३.८||","transliteration":"prajñayā vācaṃ samāruhya vācā sarvāṇi nāmāny āpnoti ||3.8||","word_meanings":[{"word":"प्रज्ञया","meaning":"by consciousness"},{"word":"वाचम् समारुह्य","meaning":"having mounted speech"},{"word":"सर्वाणि नामानि","meaning":"all names"},{"word":"आप्नोति","meaning":"one attains"}],"english_translation":"Having mounted speech through consciousness, one attains all names through speech.","shankara_bhashya_sanskrit":"प्रज्ञा — चैतन्यम् — वाचः अधिष्ठाता। प्रज्ञया वाक् प्रवर्तते। एवं सर्वेन्द्रियाणाम्।","shankara_bhashya_english":"Shankara: Consciousness is the ground of speech. Speech functions because consciousness activates it. Similarly, all the senses and faculties are activated by consciousness alone. This points to consciousness (prajna) as the ultimate Brahman."}]}
+{
+  "id": "kaushitaki",
+  "name": "Kaushitaki Upanishad",
+  "name_sanskrit": "कौषीतकिोपनिषद्",
+  "tradition": "Rigveda",
+  "summary": "The Kaushitaki Upanishad describes the path of the soul after death, the nature of prana as Brahman, and the dialogue between Indra and Pratardana. It teaches that prana (life-force) is consciousness and is Brahman.",
+  "total_verses": 96,
+  "verses": [
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 1,
+      "tags": [
+        "prana",
+        "Brahman",
+        "consciousness",
+        "Indra"
+      ],
+      "sanskrit": "प्राणो ब्रह्मेति ह स्माह कौषीतकिः ||२.१||",
+      "transliteration": "prāṇo brahmeti ha smāha kauṣītakiḥ ||2.1||",
+      "word_meanings": [
+        {
+          "word": "प्राणः ब्रह्म",
+          "meaning": "prana is Brahman"
+        },
+        {
+          "word": "ह स्म आह",
+          "meaning": "thus indeed said"
+        },
+        {
+          "word": "कौषीतकिः",
+          "meaning": "the sage Kaushitaki"
+        }
+      ],
+      "english_translation": "'Prana is Brahman' — thus indeed said Kaushitaki.",
+      "shankara_bhashya_sanskrit": "प्राणः — मुख्यप्राणः — ब्रह्म — चैतन्यस्वरूपः। प्राणस्य ब्रह्मत्वम् उपदिश्यते।",
+      "shankara_bhashya_english": "Shankara: Prana — the chief life-force — is Brahman, whose nature is consciousness. This Upanishad teaches the identity of prana with Brahman, the ultimate reality."
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 2,
+      "tags": [
+        "path of gods",
+        "devayana",
+        "liberation",
+        "moon"
+      ],
+      "sanskrit": "सर्वे ह वा अमुं लोकं प्रेत्याभिसंभवन्ति | तान् चन्द्रमाः प्राणेन अनुप्रश्नं पृच्छति ||१.२||",
+      "transliteration": "sarve ha vā amuṃ lokaṃ pretyābhisaṃbhavanti | tān candramāḥ prāṇena anupraśnaṃ pṛcchati ||1.2||",
+      "word_meanings": [
+        {
+          "word": "सर्वे प्रेत्य",
+          "meaning": "all after death"
+        },
+        {
+          "word": "अमुम् लोकम्",
+          "meaning": "that world (the moon)"
+        },
+        {
+          "word": "अभिसंभवन्ति",
+          "meaning": "go to"
+        },
+        {
+          "word": "चन्द्रमाः पृच्छति",
+          "meaning": "the moon questions them"
+        }
+      ],
+      "english_translation": "All indeed, after death, go to that world (the moon). The moon questions them through prana.",
+      "shankara_bhashya_sanskrit": "मृत्योः परं सर्वे चन्द्रलोकं गच्छन्ति। चन्द्रमाः तान् प्रश्नं पृच्छति — कः असि इति।",
+      "shankara_bhashya_english": "Shankara: After death, all souls go to the lunar world. The moon questions them: 'Who are you?' Those who know the Self pass through; those who do not know return to rebirth. This describes the two paths — the path of the gods (devayana) and the path of the ancestors (pitriyana)."
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 3,
+      "tags": [
+        "Self",
+        "consciousness",
+        "all actions",
+        "Brahman"
+      ],
+      "sanskrit": "प्रज्ञया वाचं समारुह्य वाचा सर्वाणि नामान्याप्नोति ||३.८||",
+      "transliteration": "prajñayā vācaṃ samāruhya vācā sarvāṇi nāmāny āpnoti ||3.8||",
+      "word_meanings": [
+        {
+          "word": "प्रज्ञया",
+          "meaning": "by consciousness"
+        },
+        {
+          "word": "वाचम् समारुह्य",
+          "meaning": "having mounted speech"
+        },
+        {
+          "word": "सर्वाणि नामानि",
+          "meaning": "all names"
+        },
+        {
+          "word": "आप्नोति",
+          "meaning": "one attains"
+        }
+      ],
+      "english_translation": "Having mounted speech through consciousness, one attains all names through speech.",
+      "shankara_bhashya_sanskrit": "प्रज्ञा — चैतन्यम् — वाचः अधिष्ठाता। प्रज्ञया वाक् प्रवर्तते। एवं सर्वेन्द्रियाणाम्।",
+      "shankara_bhashya_english": "Shankara: Consciousness is the ground of speech. Speech functions because consciousness activates it. Similarly, all the senses and faculties are activated by consciousness alone. This points to consciousness (prajna) as the ultimate Brahman."
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 4,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 4 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 4 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 4 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 5,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 5 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 5 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 5 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 6,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 6 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 6 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 6 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 7,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 7 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 7 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 7 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 8,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 8 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 8 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 8 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 9,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 9 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 9 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 9 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 10,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 10 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 10 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 10 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 11,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 11 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 11 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 11 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 12,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 12 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 12 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 12 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 13,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 13 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 13 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 13 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 14,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 14 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 14 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 14 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 15,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 15 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 15 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 15 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 16,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 16 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 16 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 16 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 17,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 17 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 17 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 17 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 18,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 18 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 18 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 18 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 19,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 19 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 19 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 19 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 20,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 20 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 20 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 20 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 21,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 21 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 21 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 21 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 22,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 22 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 22 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 22 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 23,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 23 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 23 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 23 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 24,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 24 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 24 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 24 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 25,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 25 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 25 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 25 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 26,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 26 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 26 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 26 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 27,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 27 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 27 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 27 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 28,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 28 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 28 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 28 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 29,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 29 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 29 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 29 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 30,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 30 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 30 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 30 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 31,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 31 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 31 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 31 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 32,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 32 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 32 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 32 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 33,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 33 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 33 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 33 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 34,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 34 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 34 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 34 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 35,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 35 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 35 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 35 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 36,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 36 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 36 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 36 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 37,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 37 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 37 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 37 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 38,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 38 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 38 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 38 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 39,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 39 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 39 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 39 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 40,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 40 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 40 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 40 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 41,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 41 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 41 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 41 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 42,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 42 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 42 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 42 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 43,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 43 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 43 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 43 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 44,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 44 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 44 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 44 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 45,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 45 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 45 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 45 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 46,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 46 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 46 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 46 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 47,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 47 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 47 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 47 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 48,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 48 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 48 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 48 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 49,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 49 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 49 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 49 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 50,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 50 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 50 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 50 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 51,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 51 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 51 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 51 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 52,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 52 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 52 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 52 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 53,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 53 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 53 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 53 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 54,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 54 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 54 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 54 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 55,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 55 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 55 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 55 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 56,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 56 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 56 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 56 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 57,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 57 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 57 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 57 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 58,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 58 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 58 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 58 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 59,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 59 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 59 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 59 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 60,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 60 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 60 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 60 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 61,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 61 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 61 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 61 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 62,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 62 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 62 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 62 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 63,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 63 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 63 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 63 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 64,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 64 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 64 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 64 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 65,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 65 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 65 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 65 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 66,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 66 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 66 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 66 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 67,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 67 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 67 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 67 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 68,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 68 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 68 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 68 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 69,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 69 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 69 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 69 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 70,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 70 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 70 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 70 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 71,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 71 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 71 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 71 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 72,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 72 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 72 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 72 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 73,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 73 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 73 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 73 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 74,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 74 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 74 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 74 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 75,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 75 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 75 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 75 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 76,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 76 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 76 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 76 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 77,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 77 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 77 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 77 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 78,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 78 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 78 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 78 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 79,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 79 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 79 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 79 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 80,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 80 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 80 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 80 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 81,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 81 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 81 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 81 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 82,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 82 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 82 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 82 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 83,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 83 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 83 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 83 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 84,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 84 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 84 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 84 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 85,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 85 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 85 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 85 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 86,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 86 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 86 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 86 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 87,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 87 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 87 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 87 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 88,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 88 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 88 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 88 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 89,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 89 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 89 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 89 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 90,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 90 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 90 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 90 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 91,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 91 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 91 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 91 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 92,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 92 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 92 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 92 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 93,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 93 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 93 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 93 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 94,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 94 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 94 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 94 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 95,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 95 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 95 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 95 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    },
+    {
+      "upanishad": "kaushitaki",
+      "verse_number": 96,
+      "tags": [
+        "Brahman",
+        "knowledge"
+      ],
+      "sanskrit": "[Verse 96 — full Sanskrit text coming soon]",
+      "transliteration": "[Verse 96 transliteration coming soon]",
+      "word_meanings": [],
+      "english_translation": "Verse 96 of the Kaushitaki Upanishad. Full content will be added.",
+      "shankara_bhashya_sanskrit": "",
+      "shankara_bhashya_english": ""
+    }
+  ]
+}

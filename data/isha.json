@@ -7,87 +7,607 @@
   "total_verses": 18,
   "verses": [
     {
-      "upanishad": "isha", "verse_number": 1,
-      "tags": ["renunciation", "non-attachment", "Brahman"],
+      "upanishad": "isha",
+      "verse_number": 1,
+      "tags": [
+        "renunciation",
+        "non-attachment",
+        "Brahman"
+      ],
       "sanskrit": "ईशावास्यमिदं सर्वं यत्किञ्च जगत्यां जगत् |\nतेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ||१||",
       "transliteration": "īśāvāsyam idaṃ sarvaṃ yat kiñca jagatyāṃ jagat |\ntena tyaktena bhuñjīthā mā gṛdhaḥ kasya svid dhanam ||1||",
       "word_meanings": [
-        {"word": "ईशावास्यम्", "meaning": "pervaded/clothed by the Lord"},
-        {"word": "इदम् सर्वम्", "meaning": "all this"},
-        {"word": "यत् किञ्च", "meaning": "whatever"},
-        {"word": "जगत्याम् जगत्", "meaning": "moves in this moving world"},
-        {"word": "तेन त्यक्तेन", "meaning": "by that renunciation"},
-        {"word": "भुञ्जीथाः", "meaning": "enjoy/protect"},
-        {"word": "मा गृधः", "meaning": "do not covet"},
-        {"word": "कस्य स्वित् धनम्", "meaning": "whose indeed is wealth?"}
+        {
+          "word": "ईशावास्यम्",
+          "meaning": "pervaded/clothed by the Lord"
+        },
+        {
+          "word": "इदम् सर्वम्",
+          "meaning": "all this"
+        },
+        {
+          "word": "यत् किञ्च",
+          "meaning": "whatever"
+        },
+        {
+          "word": "जगत्याम् जगत्",
+          "meaning": "moves in this moving world"
+        },
+        {
+          "word": "तेन त्यक्तेन",
+          "meaning": "by that renunciation"
+        },
+        {
+          "word": "भुञ्जीथाः",
+          "meaning": "enjoy/protect"
+        },
+        {
+          "word": "मा गृधः",
+          "meaning": "do not covet"
+        },
+        {
+          "word": "कस्य स्वित् धनम्",
+          "meaning": "whose indeed is wealth?"
+        }
       ],
       "english_translation": "All this — whatever moves in this moving world — is pervaded by the Lord. Protect yourself through that renunciation. Do not covet anyone's wealth.",
       "shankara_bhashya_sanskrit": "ईशा ईश्वरेण वास्यम् आच्छादनीयम् — सर्वं जगत् ईश्वरस्य आत्मत्वेन व्याप्तम् इत्यर्थः। तेन ईश्वरेण त्यक्तेन, भोगार्थं परित्यक्तेन, भुञ्जीथाः — आत्मानं पालय। मा गृधः — मा लोभं कुरु।",
       "shankara_bhashya_english": "Shankara explains: 'Isha-vasyam' means to be clothed or pervaded by the Lord — the entire world is permeated by the Lord as its very Self. 'Tena tyaktena' — by that which is renounced for the Lord's sake, protect yourself. 'Ma gridhah' — do not be greedy. No wealth truly belongs to anyone, for all belongs to the Lord."
     },
     {
-      "upanishad": "isha", "verse_number": 2,
-      "tags": ["karma", "action", "longevity"],
+      "upanishad": "isha",
+      "verse_number": 2,
+      "tags": [
+        "karma",
+        "action",
+        "longevity"
+      ],
       "sanskrit": "कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः |\nएवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ||२||",
       "transliteration": "kurvan neveha karmāṇi jijīviṣec chataṃ samāḥ |\nevaṃ tvayi nānyatheto'sti na karma lipyate nare ||2||",
       "word_meanings": [
-        {"word": "कुर्वन् एव", "meaning": "doing only, performing"},
-        {"word": "इह कर्माणि", "meaning": "actions here in this world"},
-        {"word": "जिजीविषेत्", "meaning": "one should desire to live"},
-        {"word": "शतम् समाः", "meaning": "a hundred years"},
-        {"word": "न कर्म लिप्यते", "meaning": "karma does not cling"},
-        {"word": "नरे", "meaning": "to the person"}
+        {
+          "word": "कुर्वन् एव",
+          "meaning": "doing only, performing"
+        },
+        {
+          "word": "इह कर्माणि",
+          "meaning": "actions here in this world"
+        },
+        {
+          "word": "जिजीविषेत्",
+          "meaning": "one should desire to live"
+        },
+        {
+          "word": "शतम् समाः",
+          "meaning": "a hundred years"
+        },
+        {
+          "word": "न कर्म लिप्यते",
+          "meaning": "karma does not cling"
+        },
+        {
+          "word": "नरे",
+          "meaning": "to the person"
+        }
       ],
       "english_translation": "Performing actions here, one should desire to live a hundred years. Thus for you — there is no other way — karma does not cling to a person.",
       "shankara_bhashya_sanskrit": "कर्माणि कुर्वन् एव — ज्ञानाभावे कर्मयोगेन जीवितुमिच्छेत्। एवं कर्म कुर्वतः त्वयि कर्म न लिप्यते — ईश्वरार्पणबुद्ध्या कृतं कर्म बन्धकं न भवति।",
       "shankara_bhashya_english": "Shankara comments: For one who lacks the qualification for pure knowledge, performing actions with dedication to the Lord is prescribed. When actions are performed as an offering to the Lord, they do not bind — karma does not cling to such a person."
     },
     {
-      "upanishad": "isha", "verse_number": 9,
-      "tags": ["avidya", "vidya", "knowledge", "ignorance"],
+      "upanishad": "isha",
+      "verse_number": 3,
+      "tags": [
+        "asura",
+        "ignorance",
+        "self-slayer"
+      ],
+      "sanskrit": "असुर्या नाम ते लोका अन्धेन तमसाऽऽवृताः |\nतांस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः ||३||",
+      "transliteration": "asuryā nāma te lokā andhena tamasāvṛtāḥ |\ntāṃs te pretyābhigacchanti ye ke cātmahano janāḥ ||3||",
+      "word_meanings": [
+        {
+          "word": "असुर्याः लोकाः",
+          "meaning": "worlds of the asuras"
+        },
+        {
+          "word": "अन्धेन तमसा आवृताः",
+          "meaning": "covered by blinding darkness"
+        },
+        {
+          "word": "आत्महनः जनाः",
+          "meaning": "those who slay the Self"
+        }
+      ],
+      "english_translation": "Those worlds covered by blinding darkness — to them go, after death, those people who slay the Self.",
+      "shankara_bhashya_sanskrit": "आत्महनः — आत्मज्ञानं न करोति — यः स आत्महा। ते असुर्यान् लोकान् गच्छन्ति।",
+      "shankara_bhashya_english": "Shankara: Those who 'slay the Self' are those who deny or ignore the Self — who live only for the body and senses without seeking self-knowledge. They go to dark worlds after death."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 4,
+      "tags": [
+        "Atman",
+        "unmoving",
+        "swifter than mind"
+      ],
+      "sanskrit": "अनेजदेकं मनसो जवीयो नैनद्देवा आप्नुवन्पूर्वमर्षत् |\nतद्धावतोऽन्यानत्येति तिष्ठत्तस्मिन्नपो मातरिश्वा दधाति ||४||",
+      "transliteration": "anejad ekaṃ manaso javīyo nainad devā āpnuvan pūrvam arṣat |\ntad dhāvato'nyān atyeti tiṣṭhat tasmin napo mātariśvā dadhāti ||4||",
+      "word_meanings": [
+        {
+          "word": "अनेजत्",
+          "meaning": "unmoving"
+        },
+        {
+          "word": "मनसः जवीयः",
+          "meaning": "swifter than the mind"
+        },
+        {
+          "word": "देवाः न आप्नुवन्",
+          "meaning": "the gods did not reach it"
+        },
+        {
+          "word": "मातरिश्वा",
+          "meaning": "the wind (Vayu)"
+        }
+      ],
+      "english_translation": "It is unmoving, one, swifter than the mind. The gods did not reach it — it moved ahead. Standing, it outstrips those who run. In it, the wind holds the waters.",
+      "shankara_bhashya_sanskrit": "अनेजत् — निश्चलम् — एकम् — अद्वितीयम् — मनसः जवीयः — मनोगतेरपि शीघ्रतरम्।",
+      "shankara_bhashya_english": "Shankara: The Self is unmoving yet swifter than the mind — because the mind moves toward it but can never reach it, as it is already the ground of the mind. The senses cannot grasp it."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 5,
+      "tags": [
+        "Brahman",
+        "paradox",
+        "near and far"
+      ],
+      "sanskrit": "तदेजति तन्नैजति तद्दूरे तद्वन्तिके |\nतदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः ||५||",
+      "transliteration": "tad ejati tan naijati tad dūre tad v antike |\ntad antar asya sarvasya tad u sarvasyāsya bāhyataḥ ||5||",
+      "word_meanings": [
+        {
+          "word": "तत् एजति",
+          "meaning": "it moves"
+        },
+        {
+          "word": "तत् न एजति",
+          "meaning": "it does not move"
+        },
+        {
+          "word": "तत् दूरे",
+          "meaning": "it is far"
+        },
+        {
+          "word": "तत् अन्तिके",
+          "meaning": "it is near"
+        },
+        {
+          "word": "तत् अन्तः",
+          "meaning": "it is within all"
+        },
+        {
+          "word": "तत् बाह्यतः",
+          "meaning": "it is outside all"
+        }
+      ],
+      "english_translation": "It moves; it does not move. It is far; it is near. It is within all this; it is outside all this.",
+      "shankara_bhashya_sanskrit": "तत् एजति — उपाधिधर्मेण चलतीव। तत् न एजति — स्वरूपेण निश्चलम्। दूरे — अज्ञानिनां दूरे। अन्तिके — ज्ञानिनाम् अन्तिके।",
+      "shankara_bhashya_english": "Shankara: These apparent contradictions describe Brahman's transcendence. It seems to move through its limiting adjuncts but is truly motionless. It is far from the ignorant and near to the wise."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 6,
+      "tags": [
+        "unity",
+        "all beings",
+        "Self"
+      ],
+      "sanskrit": "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति |\nसर्वभूतेषु चात्मानं ततो न विजुगुप्सते ||६||",
+      "transliteration": "yas tu sarvāṇi bhūtāny ātmany evānupaśyati |\nsarvabhūteṣu cātmānaṃ tato na vijugupsate ||6||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मनि",
+          "meaning": "all beings in the Self"
+        },
+        {
+          "word": "सर्वभूतेषु आत्मानम्",
+          "meaning": "the Self in all beings"
+        },
+        {
+          "word": "न विजुगुप्सते",
+          "meaning": "does not shrink away"
+        }
+      ],
+      "english_translation": "One who sees all beings in the Self alone, and the Self in all beings — from that one does not shrink away.",
+      "shankara_bhashya_sanskrit": "सर्वाणि भूतानि आत्मनि एव अनुपश्यति — सर्वेषु भूतेषु एकम् आत्मानम् पश्यति। ततः न विजुगुप्सते — सर्वम् आत्मैव।",
+      "shankara_bhashya_english": "Shankara: One who sees all beings as the Self and the Self in all beings has no cause for aversion — for everything is the Self. This is the vision of unity that removes all fear and hatred."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 7,
+      "tags": [
+        "unity",
+        "no delusion",
+        "no grief"
+      ],
+      "sanskrit": "यस्मिन्सर्वाणि भूतान्यात्मैवाभूद्विजानतः |\nतत्र को मोहः कः शोक एकत्वमनुपश्यतः ||७||",
+      "transliteration": "yasmin sarvāṇi bhūtāny ātmaivābhūd vijānataḥ |\ntatra ko mohaḥ kaḥ śoka ekatvam anupaśyataḥ ||7||",
+      "word_meanings": [
+        {
+          "word": "सर्वाणि भूतानि आत्मा एव अभूत्",
+          "meaning": "all beings have become the Self"
+        },
+        {
+          "word": "कः मोहः",
+          "meaning": "what delusion"
+        },
+        {
+          "word": "कः शोकः",
+          "meaning": "what grief"
+        },
+        {
+          "word": "एकत्वम् अनुपश्यतः",
+          "meaning": "for one who sees unity"
+        }
+      ],
+      "english_translation": "When, for the one who knows, all beings have become the Self — then what delusion, what grief can there be for one who sees unity?",
+      "shankara_bhashya_sanskrit": "विजानतः — आत्मज्ञानिनः — सर्वाणि भूतानि आत्मैव अभूत्। तत्र कः मोहः — मोहस्य कारणं नास्ति।",
+      "shankara_bhashya_english": "Shankara: For the knower of the Self, all beings are the Self. Where there is no 'other,' there is no delusion and no grief. Delusion arises from seeing multiplicity; grief arises from loss of the 'other.' In unity, both vanish."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 8,
+      "tags": [
+        "Brahman",
+        "pure",
+        "bodiless",
+        "omniscient"
+      ],
+      "sanskrit": "स पर्यगाच्छुक्रमकायमव्रणमस्नाविरं शुद्धमपापविद्धम् |\nकविर्मनीषी परिभूः स्वयम्भूर्याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः ||८||",
+      "transliteration": "sa paryagāc chukram akāyam avraṇam asnāviraṃ śuddham apāpaviddham |\nkavir manīṣī paribhūḥ svayambhūr yāthātathyato'rthān vyadadhāc chāśvatībhyaḥ samābhyaḥ ||8||",
+      "word_meanings": [
+        {
+          "word": "शुक्रम्",
+          "meaning": "pure, bright"
+        },
+        {
+          "word": "अकायम्",
+          "meaning": "bodiless"
+        },
+        {
+          "word": "अव्रणम्",
+          "meaning": "without wounds"
+        },
+        {
+          "word": "कविः",
+          "meaning": "the seer"
+        },
+        {
+          "word": "स्वयम्भूः",
+          "meaning": "self-existent"
+        }
+      ],
+      "english_translation": "He pervades all — pure, bodiless, without wounds, without sinews, pure, untouched by evil. The seer, the thinker, the all-pervading, the self-existent — he has duly assigned their duties to the eternal years.",
+      "shankara_bhashya_sanskrit": "स पर्यगात् — सर्वत्र व्याप्तः। शुक्रम् — शुद्धम्। अकायम् — स्थूलशरीररहितम्। कविः — सर्वज्ञः।",
+      "shankara_bhashya_english": "Shankara: The Self pervades all — pure, bodiless, without the limitations of a physical form. It is the omniscient seer, the self-existent one. It has ordained the duties of all beings across eternal time."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 9,
+      "tags": [
+        "avidya",
+        "vidya",
+        "knowledge",
+        "ignorance"
+      ],
       "sanskrit": "अन्धं तमः प्रविशन्ति येऽविद्यामुपासते |\nततो भूय इव ते तमो य उ विद्यायां रताः ||९||",
       "transliteration": "andhaṃ tamaḥ praviśanti ye'vidyām upāsate |\ntato bhūya iva te tamo ya u vidyāyāṃ ratāḥ ||9||",
       "word_meanings": [
-        {"word": "अन्धम् तमः", "meaning": "blinding darkness"},
-        {"word": "प्रविशन्ति", "meaning": "enter into"},
-        {"word": "अविद्याम् उपासते", "meaning": "worship ignorance"},
-        {"word": "ततो भूयः", "meaning": "into even greater"},
-        {"word": "विद्यायाम् रताः", "meaning": "those devoted to knowledge alone"}
+        {
+          "word": "अन्धम् तमः",
+          "meaning": "blinding darkness"
+        },
+        {
+          "word": "प्रविशन्ति",
+          "meaning": "enter into"
+        },
+        {
+          "word": "अविद्याम् उपासते",
+          "meaning": "worship ignorance"
+        },
+        {
+          "word": "ततो भूयः",
+          "meaning": "into even greater"
+        },
+        {
+          "word": "विद्यायाम् रताः",
+          "meaning": "those devoted to knowledge alone"
+        }
       ],
       "english_translation": "Into blinding darkness enter those who worship ignorance. Into even greater darkness enter those who are devoted to knowledge alone.",
       "shankara_bhashya_sanskrit": "अविद्यां कर्म इत्युच्यते — कर्ममात्रोपासकाः अन्धतमसं प्रविशन्ति। विद्यामात्रोपासकाः — हिरण्यगर्भादिदेवताज्ञानमात्रपराः — ततोऽपि गहनतरं तमः प्रविशन्ति।",
       "shankara_bhashya_english": "Shankara explains: 'Avidya' here refers to ritual action (karma). Those who pursue only ritual action enter blinding darkness. But those who pursue only intellectual knowledge of deities like Hiranyagarbha, without combining it with action, enter into even deeper darkness."
     },
     {
-      "upanishad": "isha", "verse_number": 15,
-      "tags": ["prayer", "Surya", "Pushan", "Self"],
+      "upanishad": "isha",
+      "verse_number": 10,
+      "tags": [
+        "vidya",
+        "avidya",
+        "different results"
+      ],
+      "sanskrit": "अन्यदेवाहुर्विद्ययाऽन्यदाहुरविद्यया |\nइति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ||१०||",
+      "transliteration": "anyad evāhur vidyayā'nyad āhur avidyayā |\niti śuśruma dhīrāṇāṃ ye nas tad vicacakṣire ||10||",
+      "word_meanings": [
+        {
+          "word": "अन्यत् विद्यया",
+          "meaning": "different result by knowledge"
+        },
+        {
+          "word": "अन्यत् अविद्यया",
+          "meaning": "different result by ignorance"
+        },
+        {
+          "word": "धीराणाम्",
+          "meaning": "of the wise"
+        }
+      ],
+      "english_translation": "Different, they say, is the result obtained by knowledge; different, they say, is the result obtained by ignorance. Thus have we heard from the wise who explained this to us.",
+      "shankara_bhashya_sanskrit": "विद्यया — देवताज्ञानेन — अन्यत् फलम्। अविद्यया — कर्मणा — अन्यत् फलम्।",
+      "shankara_bhashya_english": "Shankara: The wise teach that knowledge (upasana) and ignorance (karma) lead to different results. Neither alone is sufficient — both must be combined for the highest result."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 11,
+      "tags": [
+        "vidya",
+        "avidya",
+        "combined",
+        "immortality"
+      ],
+      "sanskrit": "विद्यां चाविद्यां च यस्तद्वेदोभयं सह |\nअविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते ||११||",
+      "transliteration": "vidyāṃ cāvidyāṃ ca yas tad vedobhayaṃ saha |\navidyayā mṛtyuṃ tīrtvā vidyayā'mṛtam aśnute ||11||",
+      "word_meanings": [
+        {
+          "word": "विद्याम् च अविद्याम् च",
+          "meaning": "both knowledge and ignorance"
+        },
+        {
+          "word": "अविद्यया मृत्युम् तीर्त्वा",
+          "meaning": "crossing death through karma"
+        },
+        {
+          "word": "विद्यया अमृतम् अश्नुते",
+          "meaning": "attains immortality through knowledge"
+        }
+      ],
+      "english_translation": "One who knows both knowledge and ignorance together — crossing death through ignorance (karma), attains immortality through knowledge.",
+      "shankara_bhashya_sanskrit": "अविद्यया — कर्मणा — मृत्युम् तीर्त्वा — विद्यया — उपासनेन — अमृतम् अश्नुते।",
+      "shankara_bhashya_english": "Shankara: By karma, one crosses the immediate danger of death and attains higher worlds. By upasana (meditation), one attains immortality — liberation from the cycle of birth and death."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 12,
+      "tags": [
+        "sambhuti",
+        "asambhuti",
+        "manifest",
+        "unmanifest"
+      ],
+      "sanskrit": "अन्धं तमः प्रविशन्ति येऽसम्भूतिमुपासते |\nततो भूय इव ते तमो य उ सम्भूत्यां रताः ||१२||",
+      "transliteration": "andhaṃ tamaḥ praviśanti ye'sambhūtim upāsate |\ntato bhūya iva te tamo ya u sambhūtyāṃ ratāḥ ||12||",
+      "word_meanings": [
+        {
+          "word": "असम्भूतिम् उपासते",
+          "meaning": "worship the unmanifest (Prakriti)"
+        },
+        {
+          "word": "सम्भूत्याम् रताः",
+          "meaning": "devoted to the manifest (Hiranyagarbha)"
+        }
+      ],
+      "english_translation": "Into blinding darkness enter those who worship the unmanifest. Into even greater darkness enter those devoted to the manifest alone.",
+      "shankara_bhashya_sanskrit": "असम्भूतिः — अव्याकृता प्रकृतिः। सम्भूतिः — हिरण्यगर्भः।",
+      "shankara_bhashya_english": "Shankara: Asambhuti is the unmanifest Prakriti; sambhuti is Hiranyagarbha. Those who worship either alone fall into darkness. Both must be combined."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 13,
+      "tags": [
+        "sambhuti",
+        "asambhuti",
+        "different results"
+      ],
+      "sanskrit": "अन्यदेवाहुः सम्भवादन्यदाहुरसम्भवात् |\nइति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ||१३||",
+      "transliteration": "anyad evāhuḥ sambhavād anyad āhur asambhavāt |\niti śuśruma dhīrāṇāṃ ye nas tad vicacakṣire ||13||",
+      "word_meanings": [
+        {
+          "word": "सम्भवात् अन्यत्",
+          "meaning": "different from the manifest"
+        },
+        {
+          "word": "असम्भवात् अन्यत्",
+          "meaning": "different from the unmanifest"
+        }
+      ],
+      "english_translation": "Different, they say, is the result from the manifest; different, they say, is the result from the unmanifest. Thus have we heard from the wise.",
+      "shankara_bhashya_sanskrit": "सम्भवात् — हिरण्यगर्भोपासनात् — अन्यत् फलम्। असम्भवात् — प्रकृत्युपासनात् — अन्यत् फलम्।",
+      "shankara_bhashya_english": "Shankara: Worship of the manifest and the unmanifest lead to different results. The next verse teaches how to combine them for the highest result."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 14,
+      "tags": [
+        "sambhuti",
+        "combined",
+        "immortality"
+      ],
+      "sanskrit": "सम्भूतिं च विनाशं च यस्तद्वेदोभयं सह |\nविनाशेन मृत्युं तीर्त्वा सम्भूत्याऽमृतमश्नुते ||१४||",
+      "transliteration": "sambhūtiṃ ca vināśaṃ ca yas tad vedobhayaṃ saha |\nvināśena mṛtyuṃ tīrtvā sambhūtyā'mṛtam aśnute ||14||",
+      "word_meanings": [
+        {
+          "word": "सम्भूतिम् च विनाशम् च",
+          "meaning": "both the manifest and dissolution"
+        },
+        {
+          "word": "विनाशेन मृत्युम् तीर्त्वा",
+          "meaning": "crossing death through dissolution"
+        },
+        {
+          "word": "सम्भूत्या अमृतम्",
+          "meaning": "immortality through the manifest"
+        }
+      ],
+      "english_translation": "One who knows both the manifest and dissolution together — crossing death through dissolution, attains immortality through the manifest.",
+      "shankara_bhashya_sanskrit": "विनाशेन — प्रकृत्युपासनेन — मृत्युम् तीर्त्वा — सम्भूत्या — हिरण्यगर्भोपासनेन — अमृतम् अश्नुते।",
+      "shankara_bhashya_english": "Shankara: By worship of the unmanifest Prakriti, one transcends death. By worship of Hiranyagarbha, one attains immortality. The combination leads to the highest result."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 15,
+      "tags": [
+        "prayer",
+        "Surya",
+        "Pushan",
+        "Self"
+      ],
       "sanskrit": "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् |\nतत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये ||१५||",
       "transliteration": "hiraṇmayena pātreṇa satyasyāpihitaṃ mukham |\ntat tvaṃ pūṣann apāvṛṇu satyadharmāya dṛṣṭaye ||15||",
       "word_meanings": [
-        {"word": "हिरण्मयेन पात्रेण", "meaning": "by a golden vessel/disc"},
-        {"word": "सत्यस्य मुखम्", "meaning": "the face of Truth"},
-        {"word": "अपिहितम्", "meaning": "is covered"},
-        {"word": "पूषन्", "meaning": "O Pushan (Sun, nourisher)"},
-        {"word": "अपावृणु", "meaning": "uncover, remove"},
-        {"word": "सत्यधर्माय दृष्टये", "meaning": "for the vision of one devoted to truth"}
+        {
+          "word": "हिरण्मयेन पात्रेण",
+          "meaning": "by a golden vessel/disc"
+        },
+        {
+          "word": "सत्यस्य मुखम्",
+          "meaning": "the face of Truth"
+        },
+        {
+          "word": "अपिहितम्",
+          "meaning": "is covered"
+        },
+        {
+          "word": "पूषन्",
+          "meaning": "O Pushan (Sun, nourisher)"
+        },
+        {
+          "word": "अपावृणु",
+          "meaning": "uncover, remove"
+        },
+        {
+          "word": "सत्यधर्माय दृष्टये",
+          "meaning": "for the vision of one devoted to truth"
+        }
       ],
       "english_translation": "The face of Truth is covered by a golden vessel. O Pushan, remove it, so that I who am devoted to truth may behold it.",
       "shankara_bhashya_sanskrit": "हिरण्मयेन — आदित्यमण्डलस्थं ब्रह्म हिरण्मयेन तेजोमयेन पात्रेण आवृतम्। हे पूषन् — सर्वपोषक आदित्य — तत् आवरणम् अपावृणु, सत्यधर्माय — सत्यनिष्ठाय मह्यम् — दर्शनाय।",
       "shankara_bhashya_english": "Shankara explains: The Brahman residing in the solar orb is covered by a golden, luminous vessel (the brilliant disc of the sun). O Pushan — the all-nourishing Sun — remove that covering for me who am devoted to truth, so that I may have the vision of the Self."
     },
     {
-      "upanishad": "isha", "verse_number": 18,
-      "tags": ["prayer", "Agni", "liberation", "final verse"],
+      "upanishad": "isha",
+      "verse_number": 16,
+      "tags": [
+        "prayer",
+        "Surya",
+        "face of truth"
+      ],
+      "sanskrit": "पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह |\nतेजो यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि ||१६||",
+      "transliteration": "pūṣann ekarṣe yama sūrya prājāpatya vyūha raśmīn samūha |\ntejo yat te rūpaṃ kalyāṇatamaṃ tat te paśyāmi yo'sāv asau puruṣaḥ so'ham asmi ||16||",
+      "word_meanings": [
+        {
+          "word": "पूषन् एकर्षे",
+          "meaning": "O Pushan, sole traveller"
+        },
+        {
+          "word": "व्यूह रश्मीन्",
+          "meaning": "spread your rays"
+        },
+        {
+          "word": "कल्याणतमम् रूपम्",
+          "meaning": "most auspicious form"
+        },
+        {
+          "word": "सोऽहमस्मि",
+          "meaning": "that I am"
+        }
+      ],
+      "english_translation": "O Pushan, sole traveller, controller, Sun, son of Prajapati — spread your rays, gather your light. I see your most auspicious form. That Purusha who is there — I am He.",
+      "shankara_bhashya_sanskrit": "व्यूह रश्मीन् — किरणान् विस्तारय। यः असौ पुरुषः — आदित्यमण्डलस्थः — सः अहम् अस्मि।",
+      "shankara_bhashya_english": "Shankara: The dying person prays to the Sun to spread its rays so the path to Brahman is revealed. 'That Purusha in the solar orb — I am He' — the individual Self and the cosmic Self are one."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 17,
+      "tags": [
+        "death",
+        "prayer",
+        "Vayu",
+        "remembrance"
+      ],
+      "sanskrit": "वायुरनिलममृतमथेदं भस्मान्तं शरीरम् |\nओं क्रतो स्मर कृतं स्मर क्रतो स्मर कृतं स्मर ||१७||",
+      "transliteration": "vāyur anilam amṛtam athedaṃ bhasmāntaṃ śarīram |\noṃ krato smara kṛtaṃ smara krato smara kṛtaṃ smara ||17||",
+      "word_meanings": [
+        {
+          "word": "वायुः अनिलम् अमृतम्",
+          "meaning": "the breath merges into immortal air"
+        },
+        {
+          "word": "भस्मान्तम् शरीरम्",
+          "meaning": "the body ends in ashes"
+        },
+        {
+          "word": "क्रतो स्मर",
+          "meaning": "O will/mind, remember"
+        },
+        {
+          "word": "कृतम् स्मर",
+          "meaning": "remember what was done"
+        }
+      ],
+      "english_translation": "The breath merges into the immortal air; this body ends in ashes. Om. O will, remember! Remember what was done! O will, remember! Remember what was done!",
+      "shankara_bhashya_sanskrit": "वायुः अनिलम् — प्राणः वायौ लीयते। शरीरम् भस्मान्तम् — दाहेन भस्म भवति। क्रतो — मनः — स्मर — कृतम् — उपासनादिकम्।",
+      "shankara_bhashya_english": "Shankara: At death, the prana merges into the cosmic air and the body becomes ashes. The dying person urges the mind to remember all the good deeds and meditations performed — so that the mind, focused on the highest, may attain liberation."
+    },
+    {
+      "upanishad": "isha",
+      "verse_number": 18,
+      "tags": [
+        "prayer",
+        "Agni",
+        "liberation",
+        "final verse"
+      ],
       "sanskrit": "अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् |\nयुयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम ||१८||",
       "transliteration": "agne naya supathā rāye asmān viśvāni deva vayunāni vidvān |\nyuyodhyasmaj juhurāṇam eno bhūyiṣṭhāṃ te nama-uktiṃ vidhema ||18||",
       "word_meanings": [
-        {"word": "अग्ने", "meaning": "O Agni (fire, divine guide)"},
-        {"word": "नय सुपथा", "meaning": "lead by the good path"},
-        {"word": "राये", "meaning": "to prosperity/liberation"},
-        {"word": "विश्वानि वयुनानि विद्वान्", "meaning": "knowing all our deeds"},
-        {"word": "युयोधि", "meaning": "remove, ward off"},
-        {"word": "जुहुराणम् एनः", "meaning": "the crooked sin"},
-        {"word": "नम उक्तिम् विधेम", "meaning": "we offer salutations"}
+        {
+          "word": "अग्ने",
+          "meaning": "O Agni (fire, divine guide)"
+        },
+        {
+          "word": "नय सुपथा",
+          "meaning": "lead by the good path"
+        },
+        {
+          "word": "राये",
+          "meaning": "to prosperity/liberation"
+        },
+        {
+          "word": "विश्वानि वयुनानि विद्वान्",
+          "meaning": "knowing all our deeds"
+        },
+        {
+          "word": "युयोधि",
+          "meaning": "remove, ward off"
+        },
+        {
+          "word": "जुहुराणम् एनः",
+          "meaning": "the crooked sin"
+        },
+        {
+          "word": "नम उक्तिम् विधेम",
+          "meaning": "we offer salutations"
+        }
       ],
       "english_translation": "O Agni, lead us by the good path to prosperity. O God, you know all our deeds. Remove from us the crooked sin. We offer you the most abundant salutation.",
       "shankara_bhashya_sanskrit": "हे अग्ने — अन्तर्यामिन् — अस्मान् सुपथा नय — श्रेयोमार्गेण प्रापय। विश्वानि वयुनानि विद्वान् — सर्वाणि कर्माणि जानन् — जुहुराणम् एनः — कुटिलं पापम् — अस्मत् युयोधि — दूरीकुरु।",

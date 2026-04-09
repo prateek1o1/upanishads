@@ -7,66 +7,442 @@
   "total_verses": 12,
   "verses": [
     {
-      "upanishad": "mandukya", "verse_number": 1,
-      "tags": ["AUM", "Brahman", "Atman", "consciousness"],
+      "upanishad": "mandukya",
+      "verse_number": 1,
+      "tags": [
+        "AUM",
+        "Brahman",
+        "Atman",
+        "consciousness"
+      ],
       "sanskrit": "ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानम् |\nभूतं भवद्भविष्यदिति सर्वमोंकार एव |\nयच्चान्यत् त्रिकालातीतं तदप्योंकार एव ||१||",
       "transliteration": "om ity etad akṣaram idaṃ sarvaṃ tasyopavyākhyānam |\nbhūtaṃ bhavad bhaviṣyad iti sarvam oṃkāra eva |\nyac cānyat trikālātītaṃ tad apy oṃkāra eva ||1||",
       "word_meanings": [
-        {"word": "ओम् इति एतत् अक्षरम्", "meaning": "this syllable Om"},
-        {"word": "इदम् सर्वम्", "meaning": "all this (universe)"},
-        {"word": "तस्य उपव्याख्यानम्", "meaning": "its explanation/elaboration"},
-        {"word": "भूतम् भवत् भविष्यत्", "meaning": "past, present, future"},
-        {"word": "त्रिकालातीतम्", "meaning": "beyond the three times"},
-        {"word": "ओंकार एव", "meaning": "is Om alone"}
+        {
+          "word": "ओम् इति एतत् अक्षरम्",
+          "meaning": "this syllable Om"
+        },
+        {
+          "word": "इदम् सर्वम्",
+          "meaning": "all this (universe)"
+        },
+        {
+          "word": "तस्य उपव्याख्यानम्",
+          "meaning": "its explanation/elaboration"
+        },
+        {
+          "word": "भूतम् भवत् भविष्यत्",
+          "meaning": "past, present, future"
+        },
+        {
+          "word": "त्रिकालातीतम्",
+          "meaning": "beyond the three times"
+        },
+        {
+          "word": "ओंकार एव",
+          "meaning": "is Om alone"
+        }
       ],
       "english_translation": "Om — this syllable is all this. Its further explanation: all that is past, present, and future — all of it is indeed Om. And whatever is beyond the three times — that too is Om alone.",
       "shankara_bhashya_sanskrit": "ओमित्येतत् — प्रणवः सर्वस्य वाचकः। भूतं भवत् भविष्यत् — त्रिकालविषयं सर्वं नामरूपात्मकं जगत् ओंकार एव। त्रिकालातीतं तुरीयम् अपि ओंकार एव — प्रणवस्य सर्वात्मकत्वात्।",
       "shankara_bhashya_english": "Shankara explains: Om is the indicator of all. All that exists in the three times — past, present, future — all the world of name and form is Om alone. Even the Turiya (fourth state) beyond the three times is Om alone, because Om is the Self of all."
     },
     {
-      "upanishad": "mandukya", "verse_number": 2,
-      "tags": ["Atman", "Brahman", "identity"],
+      "upanishad": "mandukya",
+      "verse_number": 2,
+      "tags": [
+        "Atman",
+        "Brahman",
+        "identity"
+      ],
       "sanskrit": "सर्वं ह्येतद् ब्रह्मायमात्मा ब्रह्म सोऽयमात्मा चतुष्पात् ||२||",
       "transliteration": "sarvaṃ hy etad brahmāyam ātmā brahma so'yam ātmā catuṣpāt ||2||",
       "word_meanings": [
-        {"word": "सर्वम् एतत् ब्रह्म", "meaning": "all this is Brahman"},
-        {"word": "अयम् आत्मा ब्रह्म", "meaning": "this Self is Brahman"},
-        {"word": "चतुष्पात्", "meaning": "having four quarters/feet"}
+        {
+          "word": "सर्वम् एतत् ब्रह्म",
+          "meaning": "all this is Brahman"
+        },
+        {
+          "word": "अयम् आत्मा ब्रह्म",
+          "meaning": "this Self is Brahman"
+        },
+        {
+          "word": "चतुष्पात्",
+          "meaning": "having four quarters/feet"
+        }
       ],
       "english_translation": "All this is indeed Brahman. This Self is Brahman. This same Self has four quarters.",
       "shankara_bhashya_sanskrit": "सर्वम् एतत् ब्रह्म — जगत् ब्रह्मैव। अयम् आत्मा ब्रह्म — प्रत्यगात्मा परब्रह्मैव। चतुष्पात् — जाग्रत्स्वप्नसुषुप्तितुरीयाख्याश्चत्वारः पादाः।",
       "shankara_bhashya_english": "Shankara: All this universe is Brahman alone. This inner Self is the supreme Brahman. The four quarters are the four states: waking (jagrat), dreaming (svapna), deep sleep (sushupti), and the fourth (turiya)."
     },
     {
-      "upanishad": "mandukya", "verse_number": 7,
-      "tags": ["turiya", "fourth state", "pure consciousness"],
+      "upanishad": "mandukya",
+      "verse_number": 3,
+      "tags": [
+        "jagrat",
+        "waking",
+        "vaishvanara",
+        "consciousness"
+      ],
+      "sanskrit": "जागरितस्थानो बहिष्प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः ||३||",
+      "transliteration": "jāgaritasthāno bahiṣprajñaḥ saptāṅga ekonaviṃśatimukhaḥ sthūlabhug vaiśvānaraḥ prathamaḥ pādaḥ ||3||",
+      "word_meanings": [
+        {
+          "word": "जागरितस्थानः",
+          "meaning": "whose sphere is the waking state"
+        },
+        {
+          "word": "बहिष्प्रज्ञः",
+          "meaning": "outward-knowing"
+        },
+        {
+          "word": "सप्ताङ्गः",
+          "meaning": "having seven limbs"
+        },
+        {
+          "word": "एकोनविंशतिमुखः",
+          "meaning": "having nineteen mouths"
+        },
+        {
+          "word": "स्थूलभुक्",
+          "meaning": "enjoyer of gross objects"
+        },
+        {
+          "word": "वैश्वानरः",
+          "meaning": "Vaishvanara (universal person)"
+        }
+      ],
+      "english_translation": "The first quarter is Vaishvanara, whose sphere of activity is the waking state, who is outward-knowing, who has seven limbs and nineteen mouths, and who enjoys gross objects.",
+      "shankara_bhashya_sanskrit": "जागरितस्थानः — जाग्रदवस्थायां वर्तते। बहिष्प्रज्ञः — बाह्यविषयान् जानाति। सप्ताङ्गः — सप्त अङ्गानि यस्य। एकोनविंशतिमुखः — पञ्चज्ञानेन्द्रियाणि पञ्चकर्मेन्द्रियाणि पञ्चप्राणाः मनः बुद्धिः अहंकारः चित्तम् — एते एकोनविंशतिः।",
+      "shankara_bhashya_english": "Shankara: Vaishvanara is the universal waking consciousness. The seven limbs are the cosmic aspects (sky as head, sun as eye, etc.). The nineteen mouths are the five sense organs, five action organs, five pranas, mind, intellect, ego, and memory — the instruments of experience in the waking state."
+    },
+    {
+      "upanishad": "mandukya",
+      "verse_number": 4,
+      "tags": [
+        "svapna",
+        "dreaming",
+        "taijasa",
+        "consciousness"
+      ],
+      "sanskrit": "स्वप्नस्थानोऽन्तःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः ||४||",
+      "transliteration": "svapnasthāno'ntaḥprajñaḥ saptāṅga ekonaviṃśatimukhaḥ praviviktabhuk taijaso dvitīyaḥ pādaḥ ||4||",
+      "word_meanings": [
+        {
+          "word": "स्वप्नस्थानः",
+          "meaning": "whose sphere is the dreaming state"
+        },
+        {
+          "word": "अन्तःप्रज्ञः",
+          "meaning": "inward-knowing"
+        },
+        {
+          "word": "प्रविविक्तभुक्",
+          "meaning": "enjoyer of subtle objects"
+        },
+        {
+          "word": "तैजसः",
+          "meaning": "Taijasa (the luminous one)"
+        }
+      ],
+      "english_translation": "The second quarter is Taijasa, whose sphere is the dreaming state, who is inward-knowing, who has seven limbs and nineteen mouths, and who enjoys subtle objects.",
+      "shankara_bhashya_sanskrit": "स्वप्नस्थानः — स्वप्नावस्थायां वर्तते। अन्तःप्रज्ञः — अन्तर्विषयान् जानाति। प्रविविक्तभुक् — सूक्ष्मविषयान् भुङ्क्ते।",
+      "shankara_bhashya_english": "Shankara: Taijasa is the dreaming consciousness. In the dream state, the mind creates its own objects from impressions (vasanas) of the waking state. The dreamer enjoys subtle objects — not gross external things but internally projected images."
+    },
+    {
+      "upanishad": "mandukya",
+      "verse_number": 5,
+      "tags": [
+        "sushupti",
+        "deep sleep",
+        "prajna",
+        "consciousness"
+      ],
+      "sanskrit": "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत्सुषुप्तम् | सुषुप्तस्थान एकीभूतः प्रज्ञानघन एवानन्दमयो ह्यानन्दभुक् चेतोमुखः प्राज्ञस्तृतीयः पादः ||५||",
+      "transliteration": "yatra supto na kañcana kāmaṃ kāmayate na kañcana svapnaṃ paśyati tat suṣuptam | suṣuptasthāna ekībhūtaḥ prajñānaghana evānandamayo hy ānandabhuk cetomukhaḥ prājñas tṛtīyaḥ pādaḥ ||5||",
+      "word_meanings": [
+        {
+          "word": "सुषुप्तस्थानः",
+          "meaning": "whose sphere is deep sleep"
+        },
+        {
+          "word": "एकीभूतः",
+          "meaning": "become unified/undifferentiated"
+        },
+        {
+          "word": "प्रज्ञानघनः",
+          "meaning": "a mass of consciousness"
+        },
+        {
+          "word": "आनन्दमयः",
+          "meaning": "full of bliss"
+        },
+        {
+          "word": "आनन्दभुक्",
+          "meaning": "enjoyer of bliss"
+        },
+        {
+          "word": "प्राज्ञः",
+          "meaning": "Prajna (the knowing one)"
+        }
+      ],
+      "english_translation": "Where the sleeper desires no desire and sees no dream — that is deep sleep. The third quarter is Prajna, whose sphere is deep sleep, who has become unified, who is a mass of consciousness, who is full of bliss, who enjoys bliss, whose door is consciousness.",
+      "shankara_bhashya_sanskrit": "सुषुप्तस्थानः — सुषुप्त्यवस्थायां वर्तते। एकीभूतः — विषयभेदरहितः। प्रज्ञानघनः — अविभक्तचैतन्यः। आनन्दभुक् — अज्ञानावृतानन्दं भुङ्क्ते।",
+      "shankara_bhashya_english": "Shankara: In deep sleep, all distinctions dissolve. Prajna is a mass of undifferentiated consciousness. The bliss enjoyed in deep sleep is the bliss of Brahman, but veiled by ignorance. The sleeper does not know 'I am blissful' — that knowing comes only in the fourth state, Turiya."
+    },
+    {
+      "upanishad": "mandukya",
+      "verse_number": 6,
+      "tags": [
+        "prajna",
+        "deep sleep",
+        "lord",
+        "womb"
+      ],
+      "sanskrit": "एष सर्वेश्वर एष सर्वज्ञ एषोऽन्तर्याम्येष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानाम् ||६||",
+      "transliteration": "eṣa sarveśvara eṣa sarvajña eṣo'ntaryāmy eṣa yoniḥ sarvasya prabhavāpyayau hi bhūtānām ||6||",
+      "word_meanings": [
+        {
+          "word": "सर्वेश्वरः",
+          "meaning": "lord of all"
+        },
+        {
+          "word": "सर्वज्ञः",
+          "meaning": "omniscient"
+        },
+        {
+          "word": "अन्तर्यामी",
+          "meaning": "inner controller"
+        },
+        {
+          "word": "योनिः सर्वस्य",
+          "meaning": "womb/source of all"
+        },
+        {
+          "word": "प्रभवाप्ययौ",
+          "meaning": "origin and dissolution"
+        }
+      ],
+      "english_translation": "This (Prajna) is the lord of all, the omniscient, the inner controller, the source of all — for it is the origin and dissolution of all beings.",
+      "shankara_bhashya_sanskrit": "एष प्राज्ञः — सर्वेश्वरः — सर्वस्य ईश्वरः। सर्वज्ञः — सर्वं जानाति। अन्तर्यामी — सर्वेषाम् अन्तः नियन्ता।",
+      "shankara_bhashya_english": "Shankara: Prajna in deep sleep is identified with the Lord of all — omniscient, the inner controller of all beings. All beings arise from this state and dissolve back into it. This points to the deep sleep state as closest to Brahman, though still not Turiya."
+    },
+    {
+      "upanishad": "mandukya",
+      "verse_number": 7,
+      "tags": [
+        "turiya",
+        "fourth state",
+        "pure consciousness"
+      ],
       "sanskrit": "नान्तःप्रज्ञं न बहिष्प्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम् |\nअदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते स आत्मा स विज्ञेयः ||७||",
       "transliteration": "nāntaḥprajñaṃ na bahiṣprajñaṃ nobhayataḥprajñaṃ na prajñānaghanaṃ na prajñaṃ nāprajñam | adṛṣṭam avyavahāryam agrāhyam alakṣaṇam acintyam avyapadeśyam ekātmapratyayasāraṃ prapañcopaśamaṃ śāntaṃ śivam advaitaṃ caturthaṃ manyante sa ātmā sa vijñeyaḥ ||7||",
       "word_meanings": [
-        {"word": "नान्तःप्रज्ञम्", "meaning": "not inward-knowing (not dreaming)"},
-        {"word": "न बहिष्प्रज्ञम्", "meaning": "not outward-knowing (not waking)"},
-        {"word": "अदृष्टम्", "meaning": "unseen"},
-        {"word": "अचिन्त्यम्", "meaning": "unthinkable"},
-        {"word": "अद्वैतम्", "meaning": "non-dual"},
-        {"word": "चतुर्थम्", "meaning": "the fourth"},
-        {"word": "स आत्मा", "meaning": "that is the Self"}
+        {
+          "word": "नान्तःप्रज्ञम्",
+          "meaning": "not inward-knowing (not dreaming)"
+        },
+        {
+          "word": "न बहिष्प्रज्ञम्",
+          "meaning": "not outward-knowing (not waking)"
+        },
+        {
+          "word": "अदृष्टम्",
+          "meaning": "unseen"
+        },
+        {
+          "word": "अचिन्त्यम्",
+          "meaning": "unthinkable"
+        },
+        {
+          "word": "अद्वैतम्",
+          "meaning": "non-dual"
+        },
+        {
+          "word": "चतुर्थम्",
+          "meaning": "the fourth"
+        },
+        {
+          "word": "स आत्मा",
+          "meaning": "that is the Self"
+        }
       ],
       "english_translation": "The fourth is not inward-knowing, not outward-knowing, not both-ways-knowing, not a mass of knowing, not knowing, not non-knowing. It is unseen, beyond transaction, beyond grasp, without marks, unthinkable, unnameable, the essence of the one-Self-conviction, the cessation of the world-appearance, peaceful, auspicious, non-dual. That is the Self. That is to be known.",
       "shankara_bhashya_sanskrit": "तुरीयम् — जाग्रत्स्वप्नसुषुप्तिव्यतिरिक्तम् — न अन्तःप्रज्ञम् न बहिःप्रज्ञम् — सर्वविशेषरहितम् शुद्धचैतन्यमात्रम्। अद्वैतम् — द्वितीयरहितम्। स आत्मा — स एव परमात्मा।",
       "shankara_bhashya_english": "Shankara: The Turiya (fourth) is distinct from waking, dreaming, and deep sleep. It is not inward-knowing (dreaming), not outward-knowing (waking) — it is pure consciousness devoid of all distinctions. Non-dual — without a second. That is the Self, the supreme Atman, to be known through direct experience."
     },
     {
-      "upanishad": "mandukya", "verse_number": 12,
-      "tags": ["AUM", "four quarters", "Brahman", "liberation"],
+      "upanishad": "mandukya",
+      "verse_number": 8,
+      "tags": [
+        "AUM",
+        "A",
+        "waking",
+        "Vaishvanara"
+      ],
+      "sanskrit": "जागरितस्थानो वैश्वानरोऽकारः प्रथमा मात्राऽऽप्तेरादिमत्त्वाद्वाऽऽप्नोति ह वै सर्वान् कामानादिश्च भवति य एवं वेद ||८||",
+      "transliteration": "jāgaritasthāno vaiśvānaro'kāraḥ prathamā mātrā'pterādimattvād vā'pnoti ha vai sarvān kāmān ādiś ca bhavati ya evaṃ veda ||8||",
+      "word_meanings": [
+        {
+          "word": "अकारः प्रथमा मात्रा",
+          "meaning": "A is the first matra"
+        },
+        {
+          "word": "आप्तेः",
+          "meaning": "from pervasiveness"
+        },
+        {
+          "word": "आदिमत्त्वात्",
+          "meaning": "from being the first"
+        },
+        {
+          "word": "सर्वान् कामान् आप्नोति",
+          "meaning": "attains all desires"
+        }
+      ],
+      "english_translation": "Vaishvanara of the waking state is A, the first matra — from pervasiveness or being first. One who knows this attains all desires and becomes the first.",
+      "shankara_bhashya_sanskrit": "अकारः — ओंकारस्य प्रथमा मात्रा — वैश्वानरेण सह अभिन्ना। आप्तेः — सर्वव्यापकत्वात्।",
+      "shankara_bhashya_english": "Shankara: The letter A, the first matra of Om, corresponds to Vaishvanara (waking consciousness) because A pervades all sounds just as waking consciousness pervades all experience. One who meditates on this identity attains all desires."
+    },
+    {
+      "upanishad": "mandukya",
+      "verse_number": 9,
+      "tags": [
+        "AUM",
+        "U",
+        "dreaming",
+        "Taijasa"
+      ],
+      "sanskrit": "स्वप्नस्थानस्तैजस उकारो द्वितीया मात्रोत्कर्षाद्उभयत्वाद्वोत्कर्षति ह वै ज्ञानसन्ततिं समानश्च भवति नास्याब्रह्मवित्कुले भवति य एवं वेद ||९||",
+      "transliteration": "svapnasthānas taijasa ukāro dvitīyā mātrā utkarṣād ubhayatvād votkarṣati ha vai jñānasantatiṃ samānaś ca bhavati nāsyābrahmavitkule bhavati ya evaṃ veda ||9||",
+      "word_meanings": [
+        {
+          "word": "उकारः द्वितीया मात्रा",
+          "meaning": "U is the second matra"
+        },
+        {
+          "word": "उत्कर्षात्",
+          "meaning": "from excellence/superiority"
+        },
+        {
+          "word": "उभयत्वात्",
+          "meaning": "from being intermediate between both"
+        },
+        {
+          "word": "ज्ञानसन्ततिम्",
+          "meaning": "continuity of knowledge"
+        }
+      ],
+      "english_translation": "Taijasa of the dreaming state is U, the second matra — from excellence or being intermediate. One who knows this elevates the continuity of knowledge and becomes equal. In his family no one is born who does not know Brahman.",
+      "shankara_bhashya_sanskrit": "उकारः — ओंकारस्य द्वितीया मात्रा — तैजसेन सह अभिन्ना। उत्कर्षात् — अकारात् उत्कृष्टत्वात्।",
+      "shankara_bhashya_english": "Shankara: U, the second matra of Om, corresponds to Taijasa (dreaming consciousness). U is intermediate between A and M, just as dreaming is between waking and deep sleep. The meditator on this identity gains excellence of knowledge."
+    },
+    {
+      "upanishad": "mandukya",
+      "verse_number": 10,
+      "tags": [
+        "AUM",
+        "M",
+        "deep sleep",
+        "Prajna"
+      ],
+      "sanskrit": "सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा मितेरपीतेर्वा मिनोति ह वा इदं सर्वमपीतिश्च भवति य एवं वेद ||१०||",
+      "transliteration": "suṣuptasthānaḥ prājño makāras tṛtīyā mātrā miter apīter vā minoti ha vā idaṃ sarvam apītiś ca bhavati ya evaṃ veda ||10||",
+      "word_meanings": [
+        {
+          "word": "मकारः तृतीया मात्रा",
+          "meaning": "M is the third matra"
+        },
+        {
+          "word": "मितेः",
+          "meaning": "from measure/measuring"
+        },
+        {
+          "word": "अपीतेः",
+          "meaning": "from absorption/dissolution"
+        },
+        {
+          "word": "सर्वम् मिनोति",
+          "meaning": "measures all"
+        }
+      ],
+      "english_translation": "Prajna of deep sleep is M, the third matra — from measure or absorption. One who knows this measures all this and becomes the absorber.",
+      "shankara_bhashya_sanskrit": "मकारः — ओंकारस्य तृतीया मात्रा — प्राज्ञेन सह अभिन्ना। मितेः — सर्वस्य मानात्। अपीतेः — सर्वस्य अस्मिन् लयात्।",
+      "shankara_bhashya_english": "Shankara: M, the third matra of Om, corresponds to Prajna (deep sleep consciousness). Just as M concludes the utterance of Om and all sounds merge into silence, all experience merges into deep sleep. The meditator on this becomes the measure and absorber of all."
+    },
+    {
+      "upanishad": "mandukya",
+      "verse_number": 11,
+      "tags": [
+        "turiya",
+        "AUM",
+        "silence",
+        "fourth"
+      ],
+      "sanskrit": "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत एवमोंकारः आत्मैव संविशत्यात्मनाऽऽत्मानम् य एवं वेद ||११||",
+      "transliteration": "amātraś caturtho'vyavahāryaḥ prapañcopaśamaḥ śivo'dvaita evam oṃkāraḥ ātmaiva saṃviśaty ātmanātmānaṃ ya evaṃ veda ||11||",
+      "word_meanings": [
+        {
+          "word": "अमात्रः",
+          "meaning": "without matra/measure"
+        },
+        {
+          "word": "चतुर्थः",
+          "meaning": "the fourth"
+        },
+        {
+          "word": "अव्यवहार्यः",
+          "meaning": "beyond transaction"
+        },
+        {
+          "word": "प्रपञ्चोपशमः",
+          "meaning": "cessation of phenomena"
+        },
+        {
+          "word": "शिवः अद्वैतः",
+          "meaning": "auspicious, non-dual"
+        }
+      ],
+      "english_translation": "The fourth is without matra, beyond transaction, the cessation of the phenomenal world, auspicious, non-dual. Thus Om is the Self. One who knows this enters the Self by the Self.",
+      "shankara_bhashya_sanskrit": "अमात्रः — मात्रारहितः तुरीयः — ओंकारस्य चतुर्थः पादः। एवम् ओंकारः आत्मैव।",
+      "shankara_bhashya_english": "Shankara: The fourth quarter of Om is the silence after the utterance — the Turiya. It is without measure, beyond all transaction and phenomenal appearance. This is the non-dual Self. Knowing this, one realizes the identity of Om and Atman."
+    },
+    {
+      "upanishad": "mandukya",
+      "verse_number": 12,
+      "tags": [
+        "AUM",
+        "four quarters",
+        "Brahman",
+        "liberation"
+      ],
       "sanskrit": "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत एवमोंकारः आत्मैव संविशत्यात्मनाऽऽत्मानम् य एवं वेद ||१२||",
       "transliteration": "amātraś caturtho'vyavahāryaḥ prapañcopaśamaḥ śivo'dvaita evam oṃkāraḥ ātmaiva saṃviśaty ātmanā'tmānaṃ ya evaṃ veda ||12||",
       "word_meanings": [
-        {"word": "अमात्रः", "meaning": "without measure/syllable"},
-        {"word": "चतुर्थः", "meaning": "the fourth"},
-        {"word": "प्रपञ्चोपशमः", "meaning": "cessation of phenomenal world"},
-        {"word": "शिवः अद्वैतः", "meaning": "auspicious, non-dual"},
-        {"word": "आत्मैव संविशति", "meaning": "the Self enters the Self"},
-        {"word": "य एवं वेद", "meaning": "one who knows thus"}
+        {
+          "word": "अमात्रः",
+          "meaning": "without measure/syllable"
+        },
+        {
+          "word": "चतुर्थः",
+          "meaning": "the fourth"
+        },
+        {
+          "word": "प्रपञ्चोपशमः",
+          "meaning": "cessation of phenomenal world"
+        },
+        {
+          "word": "शिवः अद्वैतः",
+          "meaning": "auspicious, non-dual"
+        },
+        {
+          "word": "आत्मैव संविशति",
+          "meaning": "the Self enters the Self"
+        },
+        {
+          "word": "य एवं वेद",
+          "meaning": "one who knows thus"
+        }
       ],
       "english_translation": "The fourth is without measure, beyond transaction, the cessation of the phenomenal world, auspicious, non-dual. Thus Om is the Self. One who knows thus enters the Self by the Self.",
       "shankara_bhashya_sanskrit": "अमात्रः — मात्रारहितः तुरीयः। एवम् ओंकारः आत्मैव — प्रणवः परमात्मैव। य एवं वेद — यः एवं साक्षात्करोति — स आत्मना आत्मानं संविशति — ब्रह्मैव भवति।",
